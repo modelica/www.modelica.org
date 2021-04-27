@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//AT Content Types//AT Event//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210427T130341Z
+CREATED:20170709T211157Z
+UID:ATEvent-269c35da37144390fb3701f86db88a46
+LAST-MODIFIED:20170709T211210Z
+SUMMARY:Mini-Symposium on Object-Oriented Modelling at Mathmod 2018
+DTSTART:20180221T090000Z
+DTEND:20180223T160000Z
+DESCRIPTION:A mini-Symposium on Object-Orientd Modelling is being orga
+ nized within the 9th Vienna International Conference on Mathematical M
+ odelling MATHMOD 2018
+LOCATION:Vienna\,  Austria
+CATEGORIES:Conference
+CONTACT:Francesco Casella\, Gianni Ferretti\, francesco.casella@polimi.it
+URL:http://www.mathmod.at
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

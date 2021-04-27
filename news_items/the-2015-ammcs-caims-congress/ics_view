@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:-//AT Content Types//AT Event//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210427T130549Z
+CREATED:20150203T095544Z
+UID:ATEvent-1cda954673da4a9dcc7468c287ca0924
+LAST-MODIFIED:20150203T095613Z
+SUMMARY:The 2015 AMMCS-CAIMS Congress
+DTSTART:20150607T090000Z
+DTEND:20150612T170000Z
+DESCRIPTION:Special session on Equation-Based Modeling\: Structural An
+ alysis And Hybrid Systems
+LOCATION:Waterloo\, Ontario\, Canada
+CATEGORIES:Conference
+CONTACT:Ned Nedialkov\, nedialk@mcmaster.ca
+URL:http://www.ammcs-caims2015.wlu.ca/special-sessions/ebmsahs/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

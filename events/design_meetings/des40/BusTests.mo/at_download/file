@@ -1,0 +1,279 @@
+package BusTests 
+  package Interfaces 
+    connector Bus "Basic bus connector" 
+      annotation(bus, Icon(Ellipse(extent=[-100,100; 100,-100], style(
+              color=0,
+              rgbcolor={0,0,0},
+              fillColor=30,
+              rgbfillColor={215,215,215})), Text(
+            extent=[-100,30; 100,-30],
+            style(
+              color=0,
+              rgbcolor={0,0,0},
+              fillColor=30,
+              rgbfillColor={215,215,215},
+              fillPattern=1),
+            string="%name")));
+    end Bus;
+    
+    partial model Controller "Interface for a controller" 
+      connector MasterBus = Bus;
+      inner MasterBus engine_control_bus 
+                                   annotation (extent=[-10,-110; 10,-90]);
+      annotation (Icon, Diagram);
+      replaceable SparkFeature spark_control annotation (extent=[-80,40; -40,80],
+          choicesAllMatching =                                                                  true);
+      replaceable ThrottleFeature throttle_control annotation (extent=[40,40; 80,80],
+          choicesAllMatching =                                                                   true);
+    equation 
+      connect(spark_control.engine_control_bus, engine_control_bus) annotation (points=[-60,40; -60,-20; 0,-20;
+            0,-100], style(color=3, rgbcolor={0,0,255}));
+      connect(throttle_control.engine_control_bus, engine_control_bus) 
+        annotation (points=[60,40; 60,-20; 0,-20; 0,-100], style(color=3,
+            rgbcolor={0,0,255}));
+    end Controller;
+    
+    partial model System "System architecture" 
+      replaceable Engine engine annotation (extent=[-20,-60; 20,-20],
+          choicesAllMatching =                                                                 true);
+      replaceable Controller controller annotation (extent=[-20,40; 20,80],
+          choicesAllMatching =                                                                 true);
+      annotation (Diagram);
+    equation 
+      connect(controller.engine_control_bus, engine.engine_control_bus) 
+        annotation (points=[0,40; 0,-20], style(color=3, rgbcolor={0,0,255}));
+    end System;
+    
+    partial model Feature "Individual control feature" 
+    public 
+        replaceable connector BusType = Bus annotation(choicesAllMatching=true);
+        BusType engine_control_bus annotation (extent=[-10,-110; 10,-90]);
+      annotation (Diagram, Icon(
+          Rectangle(extent=[-100,100; 100,-100], style(
+              color=0,
+              rgbcolor={0,0,0},
+              fillColor=30,
+              rgbfillColor={215,215,215},
+              fillPattern=1)),
+          Text(
+            extent=[-100,100; 100,-52],
+            string="F",
+            style(
+              color=61,
+              rgbcolor={0,255,128},
+              fillColor=30,
+              rgbfillColor={215,215,215},
+              fillPattern=1)),
+          Text(
+            extent=[-100,-30; 100,-100],
+            string="%name",
+            style(
+              color=0,
+              rgbcolor={0,0,0},
+              fillColor=30,
+              rgbfillColor={215,215,215},
+              fillPattern=1))));
+    equation 
+      
+    end Feature;
+    
+    partial model SparkFeature "Control feature for spark timing" 
+    protected 
+        connector SparkBus 
+          extends Bus;
+          Real spark;
+        end SparkBus;
+    public 
+      extends Feature(redeclare connector BusType=SparkBus);
+    end SparkFeature;
+    
+    partial model ThrottleFeature "Control feature for throttle angle" 
+    protected 
+        connector ThrottleBus 
+          extends Bus;
+          Real throttle_angle;
+        end ThrottleBus;
+    public 
+      extends Feature(redeclare connector BusType=ThrottleBus);
+    end ThrottleFeature;
+    
+    partial model Engine "Interface for engine subsystem" 
+      inner Bus engine_control_bus 
+                             annotation (extent=[-10,90; 10,110]);
+    end Engine;
+    
+    partial model OuterFeature 
+      "A feature that talks to the bus through an inner/outer relationship" 
+    public 
+        replaceable connector BusType = Bus annotation(choicesAllMatching=true);
+        outer BusType engine_control_bus annotation (extent=[-10,-110; 10,-90]);
+      annotation (Diagram, Icon(
+          Rectangle(extent=[-100,100; 100,-100], style(
+              color=0,
+              rgbcolor={0,0,0},
+              fillColor=30,
+              rgbfillColor={215,215,215},
+              fillPattern=1)),
+          Text(
+            extent=[-100,100; 100,-52],
+            string="F",
+            style(
+              color=61,
+              rgbcolor={0,255,128},
+              fillColor=30,
+              rgbfillColor={215,215,215},
+              fillPattern=1)),
+          Text(
+            extent=[-100,-30; 100,-100],
+            string="%name",
+            style(
+              color=0,
+              rgbcolor={0,0,0},
+              fillColor=30,
+              rgbfillColor={215,215,215},
+              fillPattern=1))));
+    equation 
+      
+    end OuterFeature;
+  end Interfaces;
+  
+  package Implementations 
+    
+    model Controller_A 
+      "A controller that controls only spark and throttle angle" 
+      extends Interfaces.Controller(redeclare 
+          BusTests.Implementations.ConstantSpark spark_control, redeclare 
+          BusTests.Implementations.ConstantThrottle throttle_control);
+      annotation (Diagram);
+    end Controller_A;
+    
+    model ConstantSpark "Fixed spark timing" 
+      parameter Real spark;
+      extends Interfaces.SparkFeature;
+    equation 
+      engine_control_bus.spark = spark;
+    end ConstantSpark;
+    
+    model ConstantThrottle "Fixed throttle angle" 
+      parameter Real throttle_angle;
+      extends Interfaces.ThrottleFeature;
+    equation 
+      engine_control_bus.throttle_angle = throttle_angle;
+    end ConstantThrottle;
+    
+    model Engine_A "Engine that reads spark timing off the bus" 
+      extends Interfaces.Engine;
+      Components.SparkSensor sensor annotation (extent=[20,20; 40,40]);
+      annotation (Diagram);
+    equation 
+      connect(engine_control_bus,sensor.engine_control_bus) annotation(points=[0,
+            100; 0,30; 10,30; 20,29.9]);
+    end Engine_A;
+    
+    model Controller_B 
+      "A controller that controls spark and throttle angle as well as cam phasing (using an outer connector)" 
+      extends Interfaces.Controller(redeclare 
+          BusTests.Implementations.ConstantSpark spark_control, redeclare 
+          BusTests.Implementations.ConstantThrottle throttle_control);
+      ConstantCamPhasing ConstantCamPhasing1 annotation (extent=[-20,40; 20,80]);
+      annotation (Diagram(Text(
+            extent=[-54,18; 34,-4],
+            string="no connection required, connector is outer",
+            style(color=0, rgbcolor={0,0,0})), Line(points=[-10,14; -2,34], style(
+              color=0,
+              rgbcolor={0,0,0},
+              arrow=1))));
+    end Controller_B;
+    
+    model ConstantCamPhasing "Fixed cam phasing" 
+      parameter Real cam_phasing;
+      extends Interfaces.OuterFeature;
+    equation 
+      engine_control_bus.cam_phasing = cam_phasing;
+    end ConstantCamPhasing;
+
+    model Engine_B "Engine with spark and cam actuators" 
+      extends Engine_A;
+      Components.CamActuator CamActuator1 annotation (extent=[20,-20; 40,0]);
+      annotation (Diagram(Text(
+            extent=[-38,-32; 50,-54],
+            string="no connection required, connector is outer",
+            style(color=0, rgbcolor={0,0,0})), Line(points=[6,-36; 14,-16], style(
+              color=0,
+              rgbcolor={0,0,0},
+              arrow=1))));
+    end Engine_B;
+  end Implementations;
+  
+  package Systems 
+    model System_A "System with simple (hiearchy-only) controller" 
+      extends Interfaces.System(redeclare BusTests.Implementations.Engine_A 
+          engine, redeclare BusTests.Implementations.Controller_A controller);
+    end System_A;
+    
+    model System_B 
+      "System that with both hierarchical and inner/outer bus connectors" 
+      extends Interfaces.System(
+          redeclare BusTests.Implementations.Controller_B controller, 
+          redeclare BusTests.Implementations.Engine_B engine);
+    end System_B;
+  end Systems;
+  
+  package Components 
+    model SparkSensor "Read commanded spark value" 
+    protected 
+      connector MyBus 
+        extends Interfaces.Bus;
+        Real spark;
+      end MyBus;
+    public 
+      Modelica.Blocks.Interfaces.OutPort spark_value 
+        annotation (extent=[100,-10; 120,10]);
+      MyBus engine_control_bus annotation (extent=[-110,-12; -90,10]);
+    equation 
+      spark_value.signal[1] = engine_control_bus.spark 
+      annotation (Diagram);
+      annotation (Diagram, Icon(Rectangle(extent=[-100,100; 100,-100], style(
+              color=3,
+              rgbcolor={0,0,255},
+              fillColor=51,
+              rgbfillColor={255,255,170})), Text(
+            extent=[-100,40; 100,-32],
+            style(
+              color=3,
+              rgbcolor={0,0,255},
+              fillColor=51,
+              rgbfillColor={255,255,170},
+              fillPattern=1),
+            string="%name")));
+    end SparkSensor;
+
+    model CamActuator "Read commanded spark value" 
+    protected 
+      connector MyBus 
+        extends Interfaces.Bus;
+        Real cam_phasing;
+      end MyBus;
+      Real force;
+    public 
+      outer MyBus engine_control_bus 
+                               annotation (extent=[-110,-12; -90,10]);
+    equation 
+      force = engine_control_bus.cam_phasing^2 "Do something with cam_phasing";
+      annotation (Diagram, Icon(Rectangle(extent=[-100,100; 100,-100], style(
+              color=3,
+              rgbcolor={0,0,255},
+              fillColor=51,
+              rgbfillColor={255,255,170})), Text(
+            extent=[-100,40; 100,-32],
+            style(
+              color=3,
+              rgbcolor={0,0,255},
+              fillColor=51,
+              rgbfillColor={255,255,170},
+              fillPattern=1),
+            string="%name")));
+    end CamActuator;
+  end Components;
+  annotation (uses(Modelica(version="1.6")));
+end BusTests;

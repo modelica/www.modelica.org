@@ -1,0 +1,97 @@
+%sample file for Modelica 2005 Conference paper
+
+\documentclass[11pt,a4paper,twocolumn]{article}
+\usepackage{graphicx}
+% do not change this lines
+\usepackage[latin1]{inputenc}    %% european הצüו characters can be used
+\usepackage{times, mathptm}      %% recommended for readable pdf
+\pagestyle{empty}                %% no page numbers!
+\usepackage{geometry}            %% please don't change geometry settings!
+\geometry{left=20mm, right=20mm, top=25mm, bottom=25mm, noheadfoot}
+\parindent0pt
+
+% begin the document
+\begin{document}
+\thispagestyle{empty}
+
+\title{\textbf{Implementation of a Modelica Library\\
+  for Simulation of Refrigeration Systems}}
+\author{Torge Pfafferott \quad Gerhard Schmitz\\
+Technical University Hamburg-Harburg, Department of Technical Thermodynamics\\
+Denickestr. 17, 21075 Hamburg}
+\date{} % <--- leave date empty
+\maketitle\thispagestyle{empty} %% <-- you need this for the first page
+
+\abstract{
+The physical modelling and transient simulation of
+refrigeration systems can be useful within the specification,
+development, integration and optimisation.
+Therefore, a model library for vapour compression cycles has been implemented.
+The library is based on the free Modelica library ThermoFluid and contains basic correlations for
+heat and mass transfer and pressure drop, partial components for control volumes and
+flow resistances and advanced ready-to-use models for all relevant
+components of refrigeration systems like pipes, heat exchangers,
+compressor, expansion devices and accumulator.
+}
+
+\emph{Keywords: refrigeration; compression cycle; simulation; thermofluid; CO2; R134a}
+
+\section{Introduction}
+
+The modeling and simulation of refrigeration systems is of interest 
+for several problems:
+
+\section{Library for refrigeration systems}
+
+The aim of the modelling is to implement a library with physical based
+models of components of refrigeration systems. At the moment the
+library enables investigations with two refrigerants (CO$_2$, R134a). But
+the realised structure allows the extension of the library by other
+refrigerants.
+
+\subsection{ThermoFluid library}
+
+The implemented refrigeration library is based on the free Modelica library ThermoFluid
+\cite{eborn}, \cite{tum}, \cite{thermofluid}. The
+ThermoFluid library, especially its base classes and partial
+components, offers a good base for the modelling of refrigeration systems with
+respect to the implementation of the three balance equations and the
+method of discretisation. 
+
+\section{Transient simulation of a CO$_2$-system}
+
+In the following, results of the transient simulation of the above mentioned CO$_2$-system are presented.
+The results are compared with data of a start up of the
+system and following step changes in compressor speed as shown in
+Figure \ref{fig5}.
+
+\begin{figure}[h]
+%uncomment next line to include a graphic file
+%\centerline{\includegraphics[width=6cm, angle=-90]{fig5.eps}}
+%and comment out next line
+\centerline{\framebox[6cm]{\rule{0cm}{3.5cm} figure example}}
+\caption{Step changes in compressor speed and run of air inlet
+temperature at the evaporator in the experiment; set as boundary
+condition of simulation run}
+\label{fig5}
+\end{figure}
+
+\begin{thebibliography}{00}
+\addcontentsline{toc}{chapter}{References}
+
+\bibitem{eborn} Eborn J. On Model Libraries for Thermo-hydraulic
+Applications. Lund, Sweden: PhD thesis, Department of Automatic
+control, Lund Institute of Technology, 2001.
+
+\bibitem{tum}Tummescheit H. Design and Implementation of Object-Oriented Model Libraries
+using Modelica. Lund, Sweden: PhD thesis, Department of Automatic
+control, Lund Institute of Technology, 2002.
+
+\bibitem{thermofluid} Tummescheit H, Eborn J. Chemical Reaction
+Modeling with ThermoFluid/MF and MultiFlash. In: Proceedings of the 2th
+Modelica Conference 2002, Oberpfaffenhofen, Germany, Modelica
+Association, 18-19 March 2002.
+\end{thebibliography}
+
+
+\end{document}

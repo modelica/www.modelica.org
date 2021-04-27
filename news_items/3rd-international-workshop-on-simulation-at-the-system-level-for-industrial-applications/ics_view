@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//AT Content Types//AT Event//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210427T130548Z
+CREATED:20150521T114124Z
+UID:ATEvent-c71b88f270f51c4c1061f4c24d11e8c3
+LAST-MODIFIED:20150526T081045Z
+SUMMARY:3rd International workshop on Simulation at the System  Level for Industrial Applications
+DTSTART:20151014T080000Z
+DTEND:20151016T180000Z
+CATEGORIES:Workshop
+CONTACT:Joris Costes\, joris.costes@eurobios.com
+URL:http://www.cmla.ens-cachan.fr/version-francaise/manifestations/sim-sl-simulation-niveau-systeme-et-applications-industrielles-287912.kjsp?RH=1216280035204
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

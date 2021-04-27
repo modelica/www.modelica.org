@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:-//AT Content Types//AT Event//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210427T130110Z
+CREATED:20101023T003917Z
+UID:ATEvent-f0cd2624e5d7015369066170b07fa95a
+LAST-MODIFIED:20171128T102433Z
+SUMMARY:Japanese Modelica Conference 2016
+DTSTART:20160523T130000Z
+DTEND:20160524T210000Z
+DESCRIPTION:Following 11 International Modelica Conferences over the l
+ ast 15 years\, the first Japanese Modelica Conference will be held in 
+ Tokyo.
+LOCATION:Tokyo Japan
+CATEGORIES:Conference
+CONTACT:The first Japanese Modelica Conference\, modelica2016japan@modelica.org
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

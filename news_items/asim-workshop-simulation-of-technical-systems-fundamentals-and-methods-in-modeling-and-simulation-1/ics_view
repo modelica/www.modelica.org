@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:-//AT Content Types//AT Event//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210427T130341Z
+CREATED:20170221T090323Z
+UID:ATEvent-49f1b629408e5c2a30ade8347d8b231d
+LAST-MODIFIED:20170221T090440Z
+SUMMARY:ASIM Workshop\: Simulation of Technical Systems / Fundamentals and Methods in Modeling and Simulation
+DTSTART:20170309T100000Z
+DTEND:20170310T153000Z
+DESCRIPTION:WorkshopASIM/GI-Fachgruppen Simulation technischer Systeme
+  /\nGrundlagen und Methoden in Modellbildung und Simulation
+LOCATION:Ulm\, Germany
+CATEGORIES:Workshop
+CONTACT:Leo Gall
+URL:https://studium.hs-ulm.de/de/inst/m/asim
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

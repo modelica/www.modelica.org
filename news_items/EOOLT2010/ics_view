@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//AT Content Types//AT Event//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210427T130551Z
+CREATED:20101023T032030Z
+UID:ATEvent-061dcf03452fe8bfb21c41e38a510f32
+LAST-MODIFIED:20101023T032030Z
+SUMMARY:3rd International Workshop on Equation-Based Object-Oriented Languages and Tools
+DTSTART:20101003T070000Z
+DTEND:20101005T170000Z
+DESCRIPTION:The EOOLT Workshop addresses the current state of the art 
+ of equation-based object-oriented modeling languages as well as open i
+ ssues that currently still limit the expression power\, correctness\, 
+ and usefulness of such languages through a set of full-length presenta
+ tions and forum discussions.\n\nSubmission Deadline\: June 10
+LOCATION:Oslo\, Norway
+CATEGORIES:Work
+CONTACT:Organizing Committee\, 2010@eoolt.org
+URL:http://www.eoolt.org/2010/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
