@@ -17,6 +17,7 @@ for root, dir, files in os.walk("."):
             ('    <li id="siteaction-accessibility"><a\n',3),
             ('    <li id="siteaction-imprint"><a\n',3),
             ('<div id="cse-search-form" style="width: 100%;">Loading</div>\n',1),
+            # ('<div id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e650a6e657773"\n',63),
             ('<div id="portal-colophon">\n',16)
           ]:
           if needle in lines:
