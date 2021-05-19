@@ -4,7 +4,7 @@ import glob
 import os
 import pathlib
 
-year = 2017
+year = 2015
 
 for root, dir, files in os.walk("../ModelicaConference%d/proceedings/html" % year):
   for f in files:
@@ -13,22 +13,17 @@ for root, dir, files in os.walk("../ModelicaConference%d/proceedings/html" % yea
     if path2.endswith(".md"):
       path2 = path2.replace(".md", ".html")
     path3 = path2.replace("events/modelica%d/" % year,"")
+    url = "https://%d.international.conference.modelica.org/%s" % (year,path3)
     if path2.endswith(".html"):
       pathlib.Path(os.path.dirname(path2)).mkdir(parents=True, exist_ok=True)
-      with open(path2, "w") as fout:
-        fout.write("""<!DOCTYPE html>
-  <meta charset="utf-8">
-  <title>Redirecting to https://%d.international.conference.modelica.org/%s</title>
-  <meta http-equiv="refresh" content="0; URL=https://%d.international.conference.modelica.org/%s">
-  <link rel="canonical" href="https://%d.international.conference.modelica.org/%s">
-  """ % (year,path3,year,path3,year,path3))
+      path4 = path2
     if path2.endswith(".pdf"):
       pathlib.Path(path2).mkdir(parents=True, exist_ok=True)
-      with open(path2 + "/index.html", "w") as fout:
-        fout.write("""<!DOCTYPE html>
+      path4 = path2 + "/index.html"    
+    with open(path4, "w") as fout:
+      fout.write("""<!DOCTYPE html>
   <meta charset="utf-8">
-  <title>Redirecting to https://%d.international.conference.modelica.org/%s</title>
-  <meta http-equiv="refresh" content="0; URL=https://%d.international.conference.modelica.org/%s">
-  <link rel="canonical" href="https://%d.international.conference.modelica.org/%s">
-  """ % (year,path3,year,path3,year,path3))
-    
+  <title>Redirecting to %s</title>
+  <meta http-equiv="refresh" content="0; URL=%s">
+  <link rel="canonical" href="%s">
+  """ % (url,url,url))
