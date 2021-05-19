@@ -5,6 +5,7 @@ import os
 import pathlib
 
 year = 2015
+domain = "international"
 
 for root, dir, files in os.walk("../ModelicaConference%d/proceedings/html" % year):
   for f in files:
@@ -13,7 +14,7 @@ for root, dir, files in os.walk("../ModelicaConference%d/proceedings/html" % yea
     if path2.endswith(".md"):
       path2 = path2.replace(".md", ".html")
     path3 = path2.replace("events/modelica%d/" % year,"")
-    url = "https://%d.international.conference.modelica.org/%s" % (year,path3)
+    url = "https://%d.%s.conference.modelica.org/%s" % (year,domain,path3)
     if path2.endswith(".html"):
       pathlib.Path(os.path.dirname(path2)).mkdir(parents=True, exist_ok=True)
       path4 = path2
