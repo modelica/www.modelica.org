@@ -1,0 +1,12 @@
+.btn, th {
+  white-space: nowrap;
+}
+
+.heading {
+    border-bottom: 1px solid red;
+    font-size: 120%;
+}
+
+td > a.btn {
+    width: 95%;
+}
