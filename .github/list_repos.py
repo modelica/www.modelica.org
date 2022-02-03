@@ -26,7 +26,7 @@ CLIENT_SECRET_dep = os.environ["CLIENT_SECRET_dep"]
 fout = open("impact-libraries.html", "w")
 
 # The libraries to load from the modelica repo; limited because the repo contains non-libraries
-MA_libs_whitelist = ["ModelicaStandardLibrary", "Modelica_Synchronous", "VehicleInterfaces", "ExternalMedia", "Modelica-Compliance", "Modelica_LinearSystems2"]
+MA_libs_whitelist = ["ModelicaStandardLibrary", "Modelica_Synchronous", "VehicleInterfaces", "Modelica-Compliance", "Modelica_LinearSystems2"]
 
 HEAD = """<!doctype html>
 <html>
