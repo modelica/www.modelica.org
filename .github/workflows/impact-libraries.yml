@@ -42,7 +42,7 @@ jobs:
         run: |
           git config --local user.name "Modelica.Association"
           git add ./impact-libraries.html
-          git commit -m "Updating the list of libraries"
+          git diff --cached --exit-code >/dev/null || git commit -m "Updating the list of libraries"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
