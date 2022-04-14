@@ -965,6 +965,7 @@ The Modelica Association provides, maintains and promotes the following standard
 <li id="ModelicaLanguage">
 The <a href="modelicalanguage.html">Modelica Language</a> standard defines an object-oriented equation-based language to describe cyber-physical systems on a high level using physical or signal connectors. Modelica models from different parties and/or different tools can be composed together and the resulting system can be simulated or analyzed by other means. Modelica tools support export and import of models in Modelica or FMI format.
 </li>
+
 <li id="FMI">
 The <a href="https://fmi-standard.org/">Functional Mock-Up Interface (FMI)</a> standard defines a zip-file container for the description, exchange and storage of simulation artefacts, using a combination of xml-files, static and dynamic linked binaries and/or C-code. FMI specifies a semantic and an application programming interface (API) to execute (or include such artefacts) in simulation applications. Both, model exchange (access to a system of hybrid Ordinary Differential Equations) and co-simulation (a solver is part of the artefact) of cyber-physical system models are supported. For example, the FMI for Co-Simulation defines C-functions to initialize a system, set parameters and input variables, perform one simulation step, and inquire output values.
 </li>
@@ -975,6 +976,10 @@ The <a href="https://ssp-standard.org/">System Structure and Parameterization (S
 
 <li id="DCP">
 The <a href="https://dcp-standard.org/">Distributed Co-Simulation Protocol (DCP)</a> standard is an application level communication protocol. It is designed to integrate models or real-time systems into simulation environments. It enables exchange of simulation related configuration information and data by use of an underlying communication system (such as UDP, TCP, or CAN). At the same time the DCP supports the integration of tools and real-time systems from different vendors. The DCP is intended to make simulation based workflows more efficient, and to reduce the integration effort. The DCP is compatible to the FMI by design.
+</li>
+
+<li id="eFMI">
+The <a href="https://efmi-standard.org/">Functional Mock-up Interface for embedded systems (eFMI)</a> standard is an open standard for step-wise development of advanced control functions suited for safety-critical and real time targets. It enables the application of (physics) models in embedded software by providing a standardized container architecture for the step-wise refinement of a first high-level algorithmic solution to an actual embedded implementation on a dedicated target environment like electronic control unit (ECU) or micro controller. To that end, the standard defines various model representations along the refinement process from (physics) model to embedded software: (1) Behavior / reference results for testing (Behavioral Model containers), (2) Target-independent bounded algorithmic solution (Algorithm Code container) based on the GALEC programming language, (3) C implementations, tailored and optimized for the requirements of specific target environments (Production Code containers) and (4) Binary distributions and their „build-recipes“, ready for embedded system integration (Binary Code containers).
 </li>
 </ul>
             
