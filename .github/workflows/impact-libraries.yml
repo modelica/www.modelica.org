@@ -40,7 +40,8 @@ jobs:
 
       - name: Commit libraries list
         run: |
-          git config --local user.name "Modelica.Association"
+          git config --local user.email "webmaster@modelica.org"
+          git config --local user.name "Modelica Association Webmaster"
           git add ./impact-libraries.html
           git diff --cached --exit-code >/dev/null || git commit -m "Updating the list of libraries"
 
