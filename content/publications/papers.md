@@ -6,6 +6,27 @@ title: Conference Papers
 
 (Conference papers from Modelica conferences are not listed here.) Many of conference papers can be downloaded in pdf format.
 
+### 2022
+
+Asian Modelica Conference 2022  
+[**Proceedings of the Asian Modelica Conference 2022**](https://ecp.ep.liu.se/modelica/issue/view/70), Tokyo, Japan, November 24-25, 2022.
+
+American Modelica Conference 2022  
+[**Proceedings of the American Modelica Conference 2022**](https://2022.american.conference.modelica.org/documents/A_227601_Modelica_2022Proceedings_v4.pdf), Dallas, Texas, USA, October 26-28, 2022.
+
+### 2021
+
+14th International Modelica Conference 2021  
+[**Proceedings of the 14th International Modelica Conference 2021**](https://ecp.ep.liu.se/index.php/modelica/issue/view/37), Linköping, Sweden, September 20-24, 2021.
+
+### 2020
+
+American Modelica Conference 2020  
+[**Proceedings of the American Modelica Conference 2020**](https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=169), Boulder, Colorado, USA, March 23-25, 2020.
+
+Asian Modelica Conference 2020  
+[**Proceedings of the Asian Modelica Conference 2020**](https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=174), Tokyo, Japan, October 8-9, 2020.
+
 ### 2013
 
 EOOLT'2013 workshop  
