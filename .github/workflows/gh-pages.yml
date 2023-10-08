@@ -10,6 +10,18 @@ permissions:
   id-token: write
 
 jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v3  
+        with:
+          submodules: recursive
+      - uses: actions/configure-pages@v1
+      - uses: jakejarvis/hugo-build-action@v0.101.0
+      - uses: actions/upload-pages-artifact@v1
+        with:
+          path: public
+
   deploy:
     if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
     runs-on: ubuntu-20.04
