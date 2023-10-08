@@ -1,0 +1,141 @@
+baseURL: https://modelica.org
+title: Modelica
+theme: ma-hugo-theme
+params:
+  logo: /images/m_ball.svg
+  favicon: /images/m-ball-favicon.svg
+  email: board@modelica.org
+  uacode: UA-145375737-1  
+menu:
+  main:
+    - pageRef: "language"
+      identifier: "language"
+      name: "Language"
+      url: "/language/"
+      weight: 1
+
+    - pageRef: "association"
+      identifier: "association"
+      name: "Association"
+      url: "/association/"
+      weight: 1
+
+    - pageRef: "community"
+      identifier: "community"
+      name: "Community"
+      url: "/community/"
+      weight: 2
+
+    - pageRef: "consulting"
+      identifier: "consulting"
+      name: "Consulting"
+      url: "/community/consulting/"
+      parent: "community"
+      weight: 1
+
+    - pageRef: "development"
+      identifier: "development"
+      name: "Development"
+      url: "/community/development/"
+      parent: "community"
+      weight: 2
+
+    - pageRef: "education"
+      identifier: "education"
+      name: "Education"
+      url: "/community/education/"
+      parent: "community"
+      weight: 3
+
+    - pageRef: "jobs"
+      identifier: "jobs"
+      name: "Jobs"
+      url: "/community/jobs/"
+      parent: "community"
+      weight: 4
+
+    - pageRef: "projects"
+      identifier: "projects"
+      name: "Projects"
+      url: "/community/projects/"
+      parent: "community"
+      weight: 5
+
+    - pageRef: "training"
+      identifier: "training"
+      name: "Training"
+      url: "/community/training/"
+      parent: "community"
+      weight: 6
+
+    - pageRef: "usergroups"
+      identifier: "usergroups"
+      name: "Usergroups"
+      url: "/community/usergroups/"
+      parent: "community"
+      weight: 7
+
+    - pageRef: "events"
+      identifier: "events"
+      name: "Events"
+      url: "/events/"
+      weight: 4
+
+    - pageRef: "news"
+      identifier: "news"
+      name: "News"
+      url: "/news/"
+      weight: 4
+
+    - pageRef: "publications"
+      identifier: "publications"
+      name: "Publications"
+      url: "/publications/"
+      weight: 3
+
+    - pageRef: "articles"
+      identifier: "articles"
+      name: "Articles"
+      url: "/publications/articles/"
+      parent: "publications"
+      weight: 1
+
+    - pageRef: "books"
+      identifier: "books"
+      name: "Books"
+      url: "/publications/books/"
+      parent: "publications"
+      weight: 1
+
+    - pageRef: "papers"
+      identifier: "papers"
+      name: "Papers"
+      url: "/publications/papers/"
+      parent: "publications"
+      weight: 1
+
+    - pageRef: "theses"
+      identifier: "theses"
+      name: "Theses"
+      url: "/publications/theses/"
+      parent: "publications"
+      weight: 1
+
+    - pageRef: "tutorials"
+      identifier: "tutorials"
+      name: "Tutorials"
+      url: "/publications/tutorials/"
+      parent: "publications"
+      weight: 1
+
+    - pageRef: "libraries"
+      identifier: "libraries"
+      name: "Libraries"
+      url: "/libraries/"
+      weight: 1
+
+    - pageRef: "tools"
+      identifier: "tools"
+      name: "Tools"
+      url: "/tools/"
+      weight: 1
