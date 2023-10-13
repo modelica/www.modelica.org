@@ -32,7 +32,7 @@ People interested to participate should contact the organizer for details.
 | **Board Members** |     |     |     |
 | _Chairperson_ | [Martin Otter](https://rmc.dlr.de/sr/en/staff/martin.otter/) | [DLR-SR, Germany](https://www.dlr.de/sr/en/desktopdefault.aspx/tabid-11579) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
 | _Vice-Chairperson_ | Martin Sjölund | Linköping University, Sweden | [martin.sjolund@liu.se](mailto:martin.sjolund@liu.se) |
-| _Secretary_ | Michael Tiller | [Realis Simulation, USA](https://realis-simulation.com) | [michael.tiller@gmail.com](mailto:michael.tiller@gmail.com) |
+| _Secretary_ | Michael Tiller | [JuliaHub, USA](https://juliahub.com) | [michael.tiller@gmail.com](mailto:michael.tiller@gmail.com) |
 | _Treasurer_ | Jonas Eborn | [Modelon, Sweden](http://www.modelon.com) | [jonas.eborn@modelon.com](mailto:jonas.eborn@modelon.com) |
 | **Board Members with specific duties** |     |     |     |
 | _Marketing_ | Hubertus Tummescheit | [Modelon, Sweden](http://www.modelon.com) | [hubertus.tummescheit@modelon.com](mailto:hubertus.tummescheit@modelon.com) |
