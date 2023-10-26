@@ -16,12 +16,21 @@ import re
 import requests
 import semver
 
-CLIENT_ID_mo = os.environ["CLIENT_ID_mo"]
-CLIENT_SECRET_mo = os.environ["CLIENT_SECRET_mo"]
-CLIENT_ID_3rd = os.environ["CLIENT_ID_3rd"]
-CLIENT_SECRET_3rd = os.environ["CLIENT_SECRET_3rd"]
-CLIENT_ID_dep = os.environ["CLIENT_ID_dep"]
-CLIENT_SECRET_dep = os.environ["CLIENT_SECRET_dep"]
+GHAUTH = os.environ.get("GITHUB_AUTH")
+if GHAUTH:
+    CLIENT_ID_mo = ""
+    CLIENT_SECRET_mo = ""
+    CLIENT_ID_3rd = ""
+    CLIENT_SECRET_3rd = ""
+    CLIENT_ID_dep = ""
+    CLIENT_SECRET_dep = ""
+else:
+    CLIENT_ID_mo = os.environ["CLIENT_ID_mo"]
+    CLIENT_SECRET_mo = os.environ["CLIENT_SECRET_mo"]
+    CLIENT_ID_3rd = os.environ["CLIENT_ID_3rd"]
+    CLIENT_SECRET_3rd = os.environ["CLIENT_SECRET_3rd"]
+    CLIENT_ID_dep = os.environ["CLIENT_ID_dep"]
+    CLIENT_SECRET_dep = os.environ["CLIENT_SECRET_dep"]
 
 fout = open("impact-libraries.html", "w")
 
@@ -241,7 +250,11 @@ def _get_commit_date(commit_url, clientId, clientSecret):
 
 def _get(url, clientId, clientSecret, pager=""):
     sys.stderr.write("retrieving %s%s\n" % (url, pager))
-    req = requests.get("%s%s" % (url, pager), auth=(clientId, clientSecret))
+    if GHAUTH:
+        headers = {'Authorization': 'token ' + GHAUTH}
+        req = requests.get("%s%s" % (url, pager), headers=headers)
+    else:
+        req = requests.get("%s%s" % (url, pager), auth=(clientId, clientSecret))
     if not req.status_code == 200:
         raise HTTPException("failed to retrieve %s" % url)
     return req
