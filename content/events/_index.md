@@ -41,7 +41,7 @@ Conference proceedings of the Modelica conference series (since year 2009, the c
 
 [1st American Modelica Conference 2018](https://2018.american.conference.modelica.org/), Cambridge MA, USA, Oct. 9-10, 2018.
 
-[2nd Japanese Modelica Conference 2018](https://modelica.org/events/modelica2018japan), Tokyo, Japan, May 17-18, 2018.
+[2nd Japanese Modelica Conference 2018](/events/modelica2018japan), Tokyo, Japan, May 17-18, 2018.
 
 [12th International Modelica Conference 2017](https://2017.international.conference.modelica.org/), Prague, Czech Republic, May 15-17, 2017.
 
