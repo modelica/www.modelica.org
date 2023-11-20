@@ -4,7 +4,7 @@ title: Conference Papers
 
 # Conference Papers
 
-[Conference papers from Modelica conferences are listed separately.](/events/#conference-proceedings)
+[**Conference papers from Modelica conferences are listed separately.**](/events/#conference-proceedings)
 Many of conference papers can be downloaded in pdf format.
 
 ### 2022
@@ -59,7 +59,7 @@ EOOLT'2010 workshop (part of Models 2010)
 ### 2008
 
 EOOLT'2008 workshop (part of ECOOP2008)  
-**Proceedings of the 2nd International Workshop on Equation-Based Object-Oriented Languages and Tools**Paphos, Cyprus, July 8
+[**Proceedings of the 2nd International Workshop on Equation-Based Object-Oriented Languages and Tools**](https://2008.eoolt.org/) Paphos, Cyprus, July 8
 
 Ericsson, Magnusson, Fritzson, Pop:  
 [**3D Animation and Programmable 2D Graphics for Visualization of Simulations in OpenModelica**](https://www.researchgate.net/publication/266869438_3D_Animation_and_Programmable_2D_Graphics_for_Visualization_of_Simulations_in_OpenModelica/link/546b41220cf2397f7831b8af/download). In Proceedings of the 49th Scandinavian Conference on Simulation and Modeling (SIMS'2008), available at www.scansims.org and http://www.ep.liu.se. Oslo, Norway. October 7-8, 2008.
