@@ -4,7 +4,8 @@ title: Conference Papers
 
 # Conference Papers
 
-(Conference papers from Modelica conferences are not listed here.) Many of conference papers can be downloaded in pdf format.
+[Conference papers from Modelica conferences are listed separately.](/events/#conference-proceedings)
+Many of conference papers can be downloaded in pdf format.
 
 ### 2022
 
