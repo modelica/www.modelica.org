@@ -55,8 +55,7 @@ People interested to participate should contact the organizer for details.
 |     |     |     |
 | --- | --- | --- |
 | _Newsletter Editor_ | Filip Ježek | Prague, Czech Republic |
-| _Auditors_ |     |     |
-| Karl Wernersson | Dassault Systemes, Lund, Sweden |
+| _Auditor_ | Karl Wernersson | Dassault Systemes, Lund, Sweden |
 | _Deputy Auditor_ | Bernhard Bachmann | Fachhochschule Bielefeld, Bielefeld, Germany |
 
 ## Modelica Association Backoffice
