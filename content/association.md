@@ -16,57 +16,63 @@ The Modelica Association owns and administrates incorporeal rights related to Mo
 {{<rawhtml>}}
 <div class="container my-5">
     <div class="row  justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mb-2">
             <img src="/images/Modelica_Language.svg" height="70" style="margin: 0"/>
         </div>
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mt-1 mb-4">
             <p>A project to develop, standardize, and promote Modelica, a language to model
 and simulate multi-domain cyber physical systems in a convenient way.</p>
+            <p><a href="/language/" class="mt-5">Modelica Language<i class="fa-solid fa-arrow-right ms-2"></i></a></p>
         </div>
     </div>
 
     <div class="row justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mb-2">
             <img src="/images/Modelica_Libraries.svg" height="70" style="margin: 0"/>
         </div>
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mt-1 mb-4">
             <p>A project to develop, maintain, and promote the open source Modelica libraries and model components in many domains based on standardized interface definitions.</p>
+            <p><a href="/libraries/" class="mt-5">Modelica Libraries<i class="fa-solid fa-arrow-right ms-2"></i></a></p>
         </div>
     </div>
 
     <div class="row justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mb-2">
             <img src="/images/FMI.svg" height="60" style="margin: 0"/>
         </div>
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mt-1 mb-4">
             <p>A free standard that defines a container and interface to exchange dynamic simulation models using a combination of XML files, binaries, and C code.</p>
+            <p><a href="https://fmi-standard.org" class="mt-5">fmi-standard.org<i class="fa-solid fa-arrow-right ms-2"></i></a></p>
         </div>
     </div>
 
     <div class="row  justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mb-2">
             <img src="/images/SSP.svg" height="50" style="margin: 0"/>
         </div>
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mt-1 mb-4">
         <p>A tool independent standard to define complete systems of one or more FMUs including its parameterization that can be transferred between simulation tools.</p>
+        <p><a href="https://ssp-standard.org" class="mt-5">ssp-standard.org<i class="fa-solid fa-arrow-right ms-2"></i></a></p>
         </div>
     </div>
 
     <div class="row  justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mb-2">
             <img src="/images/DCP.svg" height="60" style="margin: 0"/>
         </div>
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mt-1 mb-4">
         <p>A platform and communication medium independent standard to integrate models and real-time systems into simulation environments.</p>
+        <p><a href="https://dcp-standard.org" class="mt-5">dcp-standard.org<i class="fa-solid fa-arrow-right ms-2"></i></a></p>
         </div>
     </div>
 
     <div class="row  justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mb-2">
             <img src="/images/eFMI.svg" height="65" style="margin: 0"/>
         </div>
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mt-1 mb-4">
         <p>A standard to seamlessly integrate physics design models of systems with their electronic controls development.</p>
+        <p><a href="https://efmi-standard.org" class="mt-5">efmi-standard.org<i class="fa-solid fa-arrow-right ms-2"></i></a></p>
         </div>
     </div>
 </div>
