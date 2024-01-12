@@ -58,7 +58,7 @@ The Modelica conference will bring together people using Modelica and/or other M
 
 ## Call for papers, user presentations and tutorials
 
-Please see the [Call for Papers](/events/american2024/call2024.md) for details about paper submissions, and the calls for [industrial user presentations](/events/american2024/call2024.md), tutorials, and vendor presentations. The submission deadlines are as follows:  
+Please see the [Call for Papers](call2024) for details about paper submissions, and the calls for [industrial user presentations](call2024), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
 
 
 - May 1, 2024 Submission of full papers
