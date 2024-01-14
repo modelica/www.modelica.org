@@ -4,7 +4,8 @@ title: Conference Papers
 
 # Conference Papers
 
-(Conference papers from Modelica conferences are not listed here.) Many of conference papers can be downloaded in pdf format.
+[**Conference papers from Modelica conferences are listed separately.**](/events/#conference-proceedings)
+Many of conference papers can be downloaded in pdf format.
 
 ### 2022
 
@@ -58,7 +59,7 @@ EOOLT'2010 workshop (part of Models 2010)
 ### 2008
 
 EOOLT'2008 workshop (part of ECOOP2008)  
-**Proceedings of the 2nd International Workshop on Equation-Based Object-Oriented Languages and Tools**Paphos, Cyprus, July 8
+[**Proceedings of the 2nd International Workshop on Equation-Based Object-Oriented Languages and Tools**](https://2008.eoolt.org/) Paphos, Cyprus, July 8
 
 Ericsson, Magnusson, Fritzson, Pop:  
 [**3D Animation and Programmable 2D Graphics for Visualization of Simulations in OpenModelica**](https://www.researchgate.net/publication/266869438_3D_Animation_and_Programmable_2D_Graphics_for_Visualization_of_Simulations_in_OpenModelica/link/546b41220cf2397f7831b8af/download). In Proceedings of the 49th Scandinavian Conference on Simulation and Modeling (SIMS'2008), available at www.scansims.org and http://www.ep.liu.se. Oslo, Norway. October 7-8, 2008.
@@ -125,7 +126,7 @@ Martin Fransson, Peter Fritzson, Malin Lindqvist, and Curt Peterson:
 [**A Preliminary Study of Modeling and Simulation in Individualized Drug Dosage - Azathioprine on Inflammatory Bowel Disease**](/papers/2006-09-Fransson-Fritzson-Lindqvist-Peterson-SIMS06-drugdosage.pdf). In Proceedings of the 47th Conference on Simulation and Modelling of the Scandinavian Simulation Society (SIMS2006), Helsingfors, Finland, Sept. 28-29, 2006.
 
 Anders Sandholm, Peter Fritzson, Gunilla Nilsson, and Göran Petersson:  
-[**Towards a Flexible General Training Simulator Platform Based on Modelica**](/papers/2006-09-30-Sandholm-Fritzson-etal-SIMS06-training-sim.pdf). n Proceedings of the 47th Conference on Simulation and Modelling of the Scandinavian Simulation Society (SIMS2006), Helsingfors, Finland, Sept. 28-29, 2006.
+[**Towards a Flexible General Training Simulator Platform Based on Modelica**](/papers/2006-09-30-Sandholm-Fritzson-etal-SIMS06-training-sim.pdf). In Proceedings of the 47th Conference on Simulation and Modelling of the Scandinavian Simulation Society (SIMS2006), Helsingfors, Finland, Sept. 28-29, 2006.
 
 Christoph Kessler and Peter Fritzson:  
 [**NestStepModelica - Mathematical Modeling and Bulk-Synchronous Parallel Simulation**](http://dx.doi.org/10.1007/978-3-540-75755-9_118). In Proc. of PARA'06, Umeå, June 19-20, 2006., Springer Verlag.
@@ -165,7 +166,7 @@ Levon Saldamli and Peter Fritzson:
 **Field Type and Field Constructor in Modelica**. In Proceedings of the 45th Conference on Simulation and Modelling of the Scandinavian Simulation Society (SIMS2004), 23-24 September 2004, Copenhagen, Denmark.
 
 Peter Aronsson and Peter Fritzson:  
-**Automatic Parallelization in OpenModelica**. n Proceedings of 5th EUROSIM Congress on Modeling and Simulation, Paris, France. ISBN (CD-ROM) 3-901608-28-1, Sept 2004.
+**Automatic Parallelization in OpenModelica**. In Proceedings of 5th EUROSIM Congress on Modeling and Simulation, Paris, France. ISBN (CD-ROM) 3-901608-28-1, Sept 2004.
 
 Andreas Idebrant and Peter Fritzson:  
 [**Aircraft - A Modelica Library for Aircraft Dynamics Simulation**](/papers/2004-09-Idebrant-Fritzson-AircraftLib-Eurosim.pdf). In Proceedings of 5th EUROSIM Congress on Modeling and Simulation, Paris, France. ISBN (CD-ROM) 3-901608-28-1, Sept 2004.
@@ -185,7 +186,7 @@ Lengquist-Sandelin, Eva-Lena, Susanna Monemar, Peter Fritzson, and Peter Bunus:
 [**DrModelica - An Interactive Environment for Learning Modelica and Modeling using MathModelica**](/papers/2003-11-29-Sandelin-Monemar-Fritzson-Bunus-ICSCItaly-DrModelica.pdf). In Proceedings of ISCS'2003, Cefalu, Sicily, Italy, Nov 28-29, 2003.
 
 Peter Bunus and Peter Fritzson:  
-[**Semi-Automatic Fault Localization and Behaviour Verification for Physical System Simulation Models**](http://dx.doi.org/10.1109/ASE.2003.1240315). n Proceedings of the 8th IEEE International Conference on Automated Software Engineering, Montreal, Canada, October 6-10, 2003.
+[**Semi-Automatic Fault Localization and Behaviour Verification for Physical System Simulation Models**](http://dx.doi.org/10.1109/ASE.2003.1240315). In Proceedings of the 8th IEEE International Conference on Automated Software Engineering, Montreal, Canada, October 6-10, 2003.
 
 Håkan Lundvall and Peter Fritzson:  
 [**Modeling Concurrent Activities and Resource Sharing in Modelica**](https://www.scansims.org/media-files/sims2003/proceedings/SIMS2003_14.pdf). In Proceedings of the 44th Scandinavian Conference on Simulation and Modeling (SIMS2003), available at www.scansims.org. Västerås, Sweden. September 18-19, 2003.
@@ -203,8 +204,7 @@ Surewaard, E., Tiller, M. and Linzen, D.:
 "A Comparison of Different Methods for Battery and Supercapacitor Modeling", SAE paper 2003-01-2290, 2003 (also reprinted in the SAE Transactions of 2003)
 
 Peter Aronsson, Peter Fritzson:  
-[**Task Merging and Replication Using Graph Rewriting**](#
-http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-62118). Tenth International Workshop on Compilers for Parallel Computers, Jan 8-10, 2003, Amsterdam, the Netherlands. (Invited)
+[**Task Merging and Replication Using Graph Rewriting**](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-62118). Tenth International Workshop on Compilers for Parallel Computers, Jan 8-10, 2003, Amsterdam, the Netherlands. (Invited)
 
 ### 2002
 
@@ -223,7 +223,7 @@ Levon Saldamli, Peter Fritzson:
 **Domains and Partial Differential Equations in Modelica**. In Proceedings of 42nd Conference on Simulation and Modeling (SIMS2001), Telemark University, Porsgrunn, Norway, Oct 8-9, 2001.
 
 Levon Saldamli, Peter Fritzson:  
-**A Modelica-Based Language for Object-Oriented Modeling with Partial Differential Equations**. RIn Proceedings of the 4th International EuroSim Congress, Delft, the Netherlands, June 26-29, 2001.
+**A Modelica-Based Language for Object-Oriented Modeling with Partial Differential Equations**. In Proceedings of the 4th International EuroSim Congress, Delft, the Netherlands, June 26-29, 2001.
 
 Bowles, P., Tiller, M., Elmqvist H., Brück D., Mattsson S.E., Möller A., Olsson A., Otter M.:  
 **[Feasibility of Detailed Vehicle Modeling](http://www.sae.org/technical/papers/2001-01-0334)**[a>. SAE World Congresss, paper 01P-321, Detroit, March 5-8, 2001.](http://www.sae.org/technical/papers/2001-01-0334)
@@ -255,8 +255,8 @@ Otter, M., Elmqvist, H., Mattsson, S.E.:
 Jirstrand Mats, Johan Gunnarsson, and Peter Fritzson:  
 [**A New Modeling and Simulation Environment for Modelica**](/papers/1999-08-jirstrand-gunnarsson-fritzson-IMS99-MathModelica.pdf). A New Modeling and Simulation Environment for Modelica. In Proceedings of the Third International Mathematica Symposium, IMS’99, Linz, Austria, Aug 1999.
 
-Wrangsjö, Andreas, Fritzson, Fritzson, and Sheshadri, K.:  
-**Transforming Systems of PDEs for Efficient Numerical Solution**. In Proceedings of the International Mathematica Symposium, IMS'99, Linz, Austria. 1999.
+Wrangsjö, Andreas, Fritzson, P., and Sheshadri, K.:  
+[**Transforming Systems of PDEs for Efficient Numerical Solution**](https://www.semanticscholar.org/paper/Transforming-Systems-of-PDEs-for-Efficient-Solution-Wrangsj%C3%B6-Fritzson/a2b7ba7468cd7137cb597c9c870ccee47e86dc56). In Proceedings of the International Mathematica Symposium, IMS'99, Linz, Austria. 1999.
 
 Broenink, J.F.:  
 [**Object-oriented modeling with bond graphs and Modelica**](/papers/icbgm99bnkw.pdf). ICBGM '99, International Conference on Bond Graph Modeling and Simulation (part of WMC '99, the Western MultiConference, San Francisco, CA, January 17-20 1999)
