@@ -2,6 +2,8 @@
 
 The **American Modelica Conference 2024** will be an in-person conference event, with an option to wath presentations streamed online at reduced prices. The conference will take place at the University of Connecticut in Storrs at the [Innovation Partnership Building](https://techpark.uconn.edu/) **October 14–16, 2024**. It is organized by [NAMUG](https://namug.org/), the North American Modelica Users Group in cooperation with the [Modelica Association](https://modelica.org/association). Join us in person in Storrs or from the comfort of your own home. The ability to watch streamed talks from the conference virtually will be provided for a reduced virtual conference admission fee.
 
+![](UConn-Innovation-Partnership-1920x800.jpg)
+
 
 ## About the Conference
 
