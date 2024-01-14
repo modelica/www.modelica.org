@@ -1,81 +1,16 @@
 ---
 ---
 
-{{<rawhtml>}}
-<div class="col-lg-8 mx-auto text-center mb-5">
-    <img src="/images/Modelica_Association.svg" width="300" alt="Modelica Association" class="d-block mx-auto mb-4" style="max-width: 80%;">
-</div>
-{{</rawhtml>}}
+# Modelica Association
 
 The Modelica Association is a non-profit, non-governmental organization with the aim of developing and promoting the Modelica modeling language for modelling, simulation and programming of physical and technical systems and processes.
 
 The Modelica Association owns and administrates incorporeal rights related to Modelica, including but not limited to trademarks, the Modelica Language Specification, Modelica Standard Libraries, etc., which should be generally available for the promotion of industrial development and research.
 
-## Modelica Association Projects
-
-{{<rawhtml>}}
-<div class="container my-5">
-    <div class="row  justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
-            <img src="/images/Modelica_Language.svg" height="70" style="margin: 0"/>
-        </div>
-        <div class="col-lg-4 col-md-6 mb-4">
-            <p>A project to develop, standardize, and promote Modelica, a language to model
-and simulate multi-domain cyber physical systems in a convenient way.</p>
-        </div>
-    </div>
-
-    <div class="row justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
-            <img src="/images/Modelica_Libraries.svg" height="70" style="margin: 0"/>
-        </div>
-        <div class="col-lg-4 col-md-6 mb-4">
-            <p>A project to develop, maintain, and promote the open source Modelica libraries and model components in many domains based on standardized interface definitions.</p>
-        </div>
-    </div>
-
-    <div class="row justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
-            <img src="/images/FMI.svg" height="60" style="margin: 0"/>
-        </div>
-        <div class="col-lg-4 col-md-6 mb-4">
-            <p>A free standard that defines a container and interface to exchange dynamic simulation models using a combination of XML files, binaries, and C code.</p>
-        </div>
-    </div>
-
-    <div class="row  justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
-            <img src="/images/SSP.svg" height="50" style="margin: 0"/>
-        </div>
-        <div class="col-lg-4 col-md-6 mb-4">
-        <p>A tool independent standard to define complete systems of one or more FMUs including its parameterization that can be transferred between simulation tools.</p>
-        </div>
-    </div>
-
-    <div class="row  justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
-            <img src="/images/DCP.svg" height="60" style="margin: 0"/>
-        </div>
-        <div class="col-lg-4 col-md-6 mb-4">
-        <p>A platform and communication medium independent standard to integrate models and real-time systems into simulation environments.</p>
-        </div>
-    </div>
-
-    <div class="row  justify-content-center my-2">
-        <div class="col-lg-4 col-md-6 mb-4">
-            <img src="/images/eFMI.svg" height="65" style="margin: 0"/>
-        </div>
-        <div class="col-lg-4 col-md-6 mb-4">
-        <p>A standard to seamlessly integrate physics design models of systems with their electronic controls development.</p>
-        </div>
-    </div>
-</div>
-{{</rawhtml>}}
-
-## Modelica Association Bylaws
+See also:
 
 * [Modelica Association Bylaws](https://github.com/modelica/MA-Bylaws/releases)
-* [Minutes of the establishing meeting](/association/Modelica-stat-meeting-2000-0205.pdf)
+* [The minutes of the establishing meeting](/association/Modelica-stat-meeting-2000-0205.pdf)
 
 Individuals interested in joining the Modelica Association must have contributed to an MA project or to other parts of the Modelica Association.
 A contribution is typically demonstrated by participation in **at least two projects or Assembly meetings** during the previous twelve-month period (§3 of the [bylaws](https://github.com/modelica/MA-Bylaws/releases)).
@@ -85,8 +20,6 @@ Currently, the fee for individuals is 20 Euro/year and for organizations since 2
 
 Information on upcoming design meetings and more are published on the Modelica Association calendar.
 People interested to participate should contact the organizer for details.
-
-## Modelica Association Meetings
 
 {{< rawhtml >}}
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src=bW9kZWxpY2Eub3JnXzJvb2JuNzRkMjk4ZXBxN2pucWwzdjZxaTZvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=b2JlNzJkaGQzYXBqbWlwY3BtcjJhc2VoanNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F6BF26&amp;color=%23795548" style="border:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
