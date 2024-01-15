@@ -12,7 +12,7 @@ There is a [Word template](https://github.com/modelica-association/conference-te
 The Word template contains some wording specific to LaTeX packages; when drafting a document in Word, please make the contents look similar to what the LaTeX templates produce.
 For draft paper submissions, you may also use other templates (but include an extra page at the end stating you will use the correct template for the final submission).
 
-Please make sure that your submission has been created according to the [Modelica Formatting Guidelines](formatting).
+Please make sure that your submission has been created according to the [Modelica Formatting Guidelines](https://modelica.org/events/american2024/formatting/).
 
 For the final submission, there will also be the possibility to submit Modelica example model files that correspond to your publication. These files will then be attached to your paper in the Modelica Association copy of the proceedings (but not the LiU e-press copy that the DOI points to).
 
