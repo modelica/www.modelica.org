@@ -7,9 +7,9 @@ The **International Modelica Conference series** explores the frontier of scienc
 
 The Modelica Conference is organized by the Modelica Association and a local organizer. The local organizer is selected by the members of the Modelica Association. The Modelica Association has 50% ownership for the financial responsibilities. A steering committee from the Modelica Association (see below) supervises the conference organization and guarantees the high scientific level of the conference.
 
-<!-- ## Upcoming Conferences
+-- ## Upcoming Conferences
 
-[American Modelica Conference 2024](/events/american2024/) -->
+[American Modelica Conference 2024](/events/american2024/)
 
 ## Major rules for a Modelica Conference
 
