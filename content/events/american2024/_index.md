@@ -1,6 +1,6 @@
 # American Modelica Conference 2024
 
-The **American Modelica Conference 2024** will be an in-person conference event, with an option to watch presentations streamed online for a reduced conference admission fee. The conference will take place at the **University of Connecticut in Storrs** at the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**. It is organized by [NAMUG](https://namug.org/), the North American Modelica Users Group, in cooperation with the [Modelica Association](https://modelica.org/association). Join us in person in Storrs or from the comfort of your own home.
+The **American Modelica Conference 2024** will be an in-person conference event, with an option to watch presentations streamed online for a reduced conference admission fee. The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**. It is organized by [NAMUG](https://namug.org/), the North American Modelica Users Group, in cooperation with the [Modelica Association](https://modelica.org/association). Join us in person in Storrs or from the comfort of your own home.
 
 ![](UConn-Innovation-Partnership-1920x800.jpg)
 
@@ -11,13 +11,13 @@ The Modelica Conference is the main event for users, library developers, tool ve
 The program will cover processes and tools for the modeling of complex physical and cyber-physical systems as applied to a wide range of research and industrial applications.
 
 In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.
-The previous American Modelica conference in [2022](https://2022.american.conference.modelica.org/) was also streamed, giving many Modelicans in Europe the opportunity to watch presentations on the latest updates on Modelica-related research and innovation.  In this version of the conference, we want to combine the ease of attendance by remote participants from other continents with the stimulating environment of an in person event with lively discussions in the breaks and an in-person conference dinner! Please note that full paper presentations are required to be in person, while industrial user presentations can be given remotely.
+The previous American Modelica conference in [2022](https://2022.american.conference.modelica.org/) was also streamed, giving many Modelicans in Europe the opportunity to watch presentations on the latest updates on Modelica-related research and innovation.  In this version of the conference, we want to combine the ease of attendance by remote participants from other continents with the stimulating environment of an in person event with lively discussions in the breaks and an in-person conference dinner! Please note that **full paper presentations are required to be in person**, while industrial user presentations can be given remotely.
 
 <!-- We are looking forward to seeing you in Dallas. As a first for a Modelica conference, we are planning to organize a **Modelica-oriented job fair** at the in-person event in Dallas that gives a unique opportunity for employers, students about to graduate, and Modelica practitioners to get to know each other. More details will be forthcoming at this site as the conference date comes closer.   -->
 
 ## Our Sponsors
 
-The **American Modelica Conference 2024** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sposnoring the conference, please let us know as soon as possible! 
+The **American Modelica Conference 2024** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference, please let contact us as soon as possible at **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)** 
 
 <!-- Please visit our [Sponsor page](https://2022.american.conference.modelica.org/Sponsors.html), and also take the time to check out the sponsor exhibition at the conference. -->
 
