@@ -9,7 +9,7 @@ The Modelica Conference is organized by the Modelica Association and a local org
 
 ## Upcoming Conferences
 
- * [American Modelica Conference 2024](/events/american2024/) The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**.
+ * The [American Modelica Conference 2024](/events/american2024/) The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**.
  * The Asian Modelica Conference 2024 will be held November 21-22 2024 in Seoul, South Korea, and is organized by the Institute of Vehicle Engineering, iVH and the Modelica Association.
 
 ## Major rules for a Modelica Conference
