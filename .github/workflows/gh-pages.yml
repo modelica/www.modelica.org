@@ -1,8 +1,8 @@
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master]
+    branches: [main]
 
 permissions:
   contents: read
@@ -23,7 +23,7 @@ jobs:
           path: public
 
   deploy:
-    if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
+    if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
     runs-on: ubuntu-20.04
     needs: build
     environment:
