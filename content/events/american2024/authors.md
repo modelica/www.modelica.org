@@ -22,9 +22,8 @@ There are no specific templates for industrial user presentations. The presentat
 
 ## Technical equipment for presentations
 
-Papers must be presented during the conference in person. Papers that are not presented will be retracted. All presentations are 20 minutes long with an additional 5 minutes for questions.
+Papers must be presented during the conference in person. Papers that are not presented will be retracted. Presentations will probably be 20 minutes long with an additional 5 minutes for questions.
 
-## Poster Session
+## Industrial User Presentations instead of Poster Session
 
-Some papers are invited to present their paper with a poster instead of a presentation. These papers still need to submit a full paper. Additionally, a poster is presented at the conference. The poster is going to be placed at the beginning of the conference and will be present throughout the full conference duration. Furthermore, dedicated times are defined during which the authors should be next to their posters to allow for questions and answers and encourage discussion
-Please prepare and bring a DIN A0 Poster. There is no poster template. Please design the poster in a way that best suits the content of your paper.
+Papers that are not accepted for a full paper presentation may still qualify for an industrial user presentation, it it is industrially relevant content by end-users, but **not vendors**, if the content is interesting, but not qualifies for a rigorously reviewed paper. We will let authors know of that possibility at the time of the paper acceptance.   
