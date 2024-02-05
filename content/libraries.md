@@ -19,12 +19,6 @@ Note that the usage of a Modelica library requires a Modelica simulation environ
 
 The libraries from the Modelica Association and most free libraries can be used in commercial products according to The Modelica License.
 
-### Searchable library index
-
-|     |     |
-| --- | --- |
-| [![null](https://impact.github.io/img/logo_glossy.svg)](https://impact.github.io) | The [impact project](https://github.com/impact/impact) provides a searchable index of all known freely available libraries.<br><br>Visit **[https://impact.github.io](https://impact.github.io)**  in order to search for a specific library.<br><br>(If you are a library developer and like to get your library listed, contact the [impact team](https://github.com/impact/impact#development).) |
-
 ## Library documentation
 
 Below you find some links to the library documentation provided by different tools
