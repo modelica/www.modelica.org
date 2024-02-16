@@ -146,13 +146,13 @@ Contributor License Agreements and other documents can be sent to:
 ## Organizational Members of the Modelica Association (listed alphabetically)
 
 {{< rawhtml >}}
-<iframe src="https://docs.google.com/spreadsheets/d/1rooVex94xygk_Y0gy4FESsMrTpnJxPwPlI5-apTgtjk/pubhtml?gid=21&amp;chrome=false&amp;range=A2:B29" frameborder="0" height="560" width="100%"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1rooVex94xygk_Y0gy4FESsMrTpnJxPwPlI5-apTgtjk/pubhtml?gid=21&amp;chrome=false&amp;range=A2:B30" frameborder="0" height="580" width="100%"></iframe>
 {{< /rawhtml >}}
 
 ## Individual Members of the Modelica Association (listed alphabetically)
 
 {{< rawhtml >}}
-<iframe src="https://docs.google.com/spreadsheets/d/1rooVex94xygk_Y0gy4FESsMrTpnJxPwPlI5-apTgtjk/pubhtml?gid=1807480701&amp;chrome=false&amp;range=A1:E94" frameborder="0" height="1640" width="100%"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1rooVex94xygk_Y0gy4FESsMrTpnJxPwPlI5-apTgtjk/pubhtml?gid=1807480701&amp;chrome=false&amp;range=A1:E94" frameborder="0" height="1660" width="100%"></iframe>
 {{< /rawhtml >}}
 
 ## Map of Modelica Association members
