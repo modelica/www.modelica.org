@@ -69,7 +69,7 @@ Please see the [call for papers](call2024) for details about paper submissions, 
 
 ## Sponsorship opportunities
 
-The American Modelica conference will be your opportunity to meet your customers again in a personal setting, at a great location. Please stay tuned for details about our sponsorship opportunities, we will post them here in the near future.
+The American Modelica conference will be your opportunity to meet your customers again in a personal setting, at a great location. Please stay tuned for details about our sponsorship opportunities, we will post them here in the near future. Note that all sponsors will have the opportunity to exhibit at the conference, and that we don't offer a separate way to exhibit at the conference.  
 
 ## Organization and Contact
 
