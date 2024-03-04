@@ -16,19 +16,21 @@ The following commercial and free modeling and simulation environments for Model
 
 * By [**Altair**](http://www.altair.com/):
 
-* [**_solidThinking Activate_**](http://www.solidthinking.com/activate_land.html) is a multi-disciplinary system modeling and simulation solution. Its intuitive block diagram environment combined with a modern user interface allows to rapidly build diagrams. Activate comes with a comprehensive library of blocks along with a powerful hybrid simulator that can not only handle continuous and discrete-time models but also allows to mix both signal-based as well as physical components (Modelica) in the same model. It's also compliant with Functional Mock-up Interface (FMI) for both import and export – in model exchange as well as co-simulation modes. The Modelica support in solidThinking Activate is powered by [Maplesoft™](http://www.maplesoft.com/) and includes the Maplesoft™ Modelica engine and Modelica Standard Library for the modeling of physical components.
+   * [**_solidThinking Activate_**](http://www.solidthinking.com/activate_land.html) is a multi-disciplinary system modeling and simulation solution. Its intuitive block diagram environment combined with a modern user interface allows to rapidly build diagrams. Activate comes with a comprehensive library of blocks along with a powerful hybrid simulator that can not only handle continuous and discrete-time models but also allows to mix both signal-based as well as physical components (Modelica) in the same model. It's also compliant with Functional Mock-up Interface (FMI) for both import and export – in model exchange as well as co-simulation modes. The Modelica support in solidThinking Activate is powered by [Maplesoft™](http://www.maplesoft.com/) and includes the Maplesoft™ Modelica engine and Modelica Standard Library for the modeling of physical components.
 
 * By [**ANSYS**](http://www.ansys.com/):
 
-* [**_Simplorer_**](http://www.ansys.com/products/systems/ansys-simplorer) is a powerful platform for simulating and analyzing physics-based models of complex systems. With flexible modeling capabilities and tight integrations with ANSYS solutions for 3-D physics simulation and embedded software design, Simplorer provides broad support for assembling system-level physical models and robust simulation for verifying and optimizing system performance. Simplorer supports multiple standard modeling languages and exchange formats, including Modelica, VHDL-AMS, and the Functional Mock-up Interface, and is compatible with Modelica libraries offered by [Modelon](http://www.modelon.com/).
+   * [**_Simplorer_**](http://www.ansys.com/products/systems/ansys-simplorer) is a powerful platform for simulating and analyzing physics-based models of complex systems. With flexible modeling capabilities and tight integrations with ANSYS solutions for 3-D physics simulation and embedded software design, Simplorer provides broad support for assembling system-level physical models and robust simulation for verifying and optimizing system performance. Simplorer supports multiple standard modeling languages and exchange formats, including Modelica, VHDL-AMS, and the Functional Mock-up Interface, and is compatible with Modelica libraries offered by [Modelon](http://www.modelon.com/).
 
 * By [**Dassault Systèmes**](http://www.3ds.com):
     * **[_Dymola_](http://www.dymola.com)** has a Modelica translator which is able to perform all necessary symbolic transformations for large systems (> 100 000 equations) as well as for real time applications. A graphical editor for model editing and browsing, as well as a simulation environment are included. Convenient interfaces to [MATLAB](http://www.MathWorks.com) and the popular block diagram simulator [Simulink](http://www.mathworks.com/products/simulink/) exist. For example, a Modelica model can be transformed into a SIMULINK S-function C mex-file which can be simulated in SIMULINK as an input/output block. [A demo version of Dymola can be downloaded here.](https://discover.3ds.com/free-trial-version-of-dymola-for-windows)
         
 * By [**ESI ITI GmbH**](http://www.itisim.com/):
     * **_[SimulationX](http://www.simulationx.com)_** is a graphically-interactive tool for the holistic modeling, simulation and analysis of multi-domain systems from 1D to 3D. Multi-level customizing options and SimulationX’s capability to adjust the model’s complexity by mouse-click allow modeling in every step of the design process. Ready-to-use model libraries, e.g., for mechanics, multi-body systems, power transmission, hydraulics, pneumatics, thermodynamics, and electric drives are written in Modelica language. Libraries are extendable by Modelica-based modeling using the SimulationX TypeDesigner. A comprehensive API supports the integration into any CAE, CFD, CAD or database tool environment. Versatile interfaces offer plenty of opportunities for exporting models in terms of Simulink S-function and C-Code for HiL, RCP and other real-time applications. Different features (tracing, performance analyzer, switchable model complexity) support users in achieving real-time-capabilities. [SimulationX is available for test online](http://www.itisim.com/simulationx/download/download-simulationx/). [www.simulationx.com](http://www.simulationx.com)
+
 * By [**Maplesoft**](http://www.maplesoft.com/):
     * _**[MapleSim™](http://www.maplesoft.com/products/maplesim/index.aspx)**_ is a high-performance multi-domain modeling and simulation tool. Systems are described in a compact and intuitive component diagram using next-generation physical modeling techniques, making them easier to build and understand. Model equations are automatically generated and simplified, yielding concise models and high-speed simulations of sophisticated systems. Many components in MapleSim are from the Modelica Standard Library, and all MapleSim models and components can be exported to Modelica. In the near future, MapleSim will be able to access third-party Modelica libraries. Users will be able to directly import any Modelica components or libraries and seamlessly incorporate them into MapleSim models. For more information, please visit the [Maplesoft web site](http://www.maplesoft.com).
+
 * By [**Modelon**](http://www.modelon.com/):
     * _**[Modelon Impact](https://www.modelon.com/modelon-impact/)**_ is a next generation system modeling and simulation platform, leveraging the benefits of web and open standard technologies. With openness at its core, [Modelon Impact](https://www.modelon.com/modelon-impact/) supports standards such as Modelica, FMI, Python and REST. The user-friendly browser interface provides modeling experts the tools they need to create, simulate, and experiment. Steady-state or dynamic solutions can be executed from the same model, reducing effort to get an answer. Finally, the [Modelon Impact](https://www.modelon.com/modelon-impact/) API enables user-specific workflows through Python-based custom functions, and deployment of models to non-experts via targeted web applications or Jupyter Notebooks.
     * _**[OPTIMICA Compiler Toolkit](http://www.modelon.com/products/modelon-creator-suite/optimica-compiler-toolkit/)**_ offers users a powerful solution for the automation, simulation and optimization of system behaviors throughout the model-based design cycle. OPTIMICA’s state-of-the-art solvers empower evaluation of complex physical systems - supporting transient simulations as well as steady-state computations and dynamic optimization. The sophisticated mathematical engine can manipulate and simplify models to improve performance and robustness, serving industries and applications ranging from automotive and active safety to energy systems and power plant optimization. Trusted as the key compiler to Modelon’s modelica-based libraries, OPTIMICA enables users to build multi-domain physical systems by choosing from thousands of available model components.
@@ -41,7 +43,7 @@ The following commercial and free modeling and simulation environments for Model
 
 ## Free Modelica Simulation Environments
 
-* **OpenModelica**: OpenModelica is an open source Modelica environment developed and supported by [Linköping University](http://www.liu.se/en/) and the [Open Source Modelica Consortium](https://www.openmodelica.org/home/consortium) (OSMC) - a growing group of companies, universities, institutes and individuals. The goal of the project is to create a complete Modelica modeling, compilation and simulation environment based on free software distributed in source code and executable form intended for research, teaching, and industrial usage. OpenModelica is freely available for use. It can be combined with open source software according to the OSMC-GPL license. Moreover, it can also be integrated with proprietary software according to the OSMC-EPL. The current OpenModelica release supports most of the Modelica language, including equations, algorithms, event-handling, functions, and packages. Also included are a Modelica Eclipse plugin for advanced developers, and an electronic notebook interface for teaching. Improving the compiler, a general solver interface, enhanced graphics, and Modelica-UML integration in Eclipse are examples of ongoing development activities. We invite all interested developers, researchers, and students to participate in the project. Please visit [OpenModelica](http://www.openmodelica.org) page.
+* [**OpenModelica**](https://openmodelica.org/): OpenModelica is an open source Modelica environment developed and supported by [Linköping University](http://www.liu.se/en/) and the [Open Source Modelica Consortium](https://www.openmodelica.org/home/consortium) (OSMC) - a growing group of companies, universities, institutes and individuals. The goal of the project is to create a complete Modelica modeling, compilation and simulation environment based on free software distributed in source code and executable form intended for research, teaching, and industrial usage. OpenModelica is freely available for use. It can be combined with open source software according to the OSMC-GPL license. Moreover, it can also be integrated with proprietary software according to the OSMC-EPL. The current OpenModelica release supports most of the Modelica language, including equations, algorithms, event-handling, functions, and packages. Also included are a Modelica Eclipse plugin for advanced developers, and an electronic notebook interface for teaching. Improving the compiler, a general solver interface, enhanced graphics, and Modelica-UML integration in Eclipse are examples of ongoing development activities. We invite all interested developers, researchers, and students to participate in the project. Please visit [OpenModelica](http://www.openmodelica.org) page.
 
 ## Teaching material
 
@@ -85,49 +87,30 @@ Here comes a list of **free** tools that are useful in combination with some of 
 
 ## Modelica tools for developers
 
-Modelica Compliance Suite
+* **Modelica Compliance Suite**: A semantics compliance suite for the Modelica language
+   * Project home: [https://github.com/modelica/Modelica-Compliance](https://github.com/modelica/Modelica-Compliance) (can also be used as Subversion or Git checkout address).
+   * [Download the latest version as a zip file](https://github.com/modelica/Modelica-Compliance/archive/master.zip)
 
-A semantics compliance suite for the Modelica language
+* **CSV Result Compare tool**: The CSV Result Compare can be used to compare curves from one CSV file with curves from other CSV files using a special algorithm.
+   * Project home: [https://github.com/modelica-tools/csv-compare](https://github.com/modelica-tools/csv-compare) (can also be used as Subversion or Git checkout address).
+   * [Download the latest version as a zip file](https://github.com/modelica-tools/csv-compare/archive/master.zip)
 
-* Project home: [https://github.com/modelica/Modelica-Compliance](https://github.com/modelica/Modelica-Compliance) (can also be used as Subversion or Git checkout address).
-* [Download latest version as zip file](https://github.com/modelica/Modelica-Compliance/archive/master.zip)
+* **MapleSim Standalone Modelica Parser**: May be freely used for library syntax validation, and for non-commercial educational purposes.
+   * Online Version:[http://www.maplesoft.com/products/maplesim/modelicachecker](http://www.maplesoft.com/products/maplesim/modelicachecker)
+   * Git address: [https://github.com/modelica-tools/ModelicaSyntaxChecker](https://github.com/modelica-tools/ModelicaSyntaxChecker)
 
-CSV Result Compare tool
+* **Modelica Testsuite**: Modelica models to test various aspects of the Modelica language can be found in the development repository:
+   * Git address: [https://github.com/modelica/ModelicaStandardLibrary](https://github.com/modelica/ModelicaStandardLibrary) 
+   * Browse the code: [https://github.com/modelica/ModelicaStandardLibrary/tree/master/ModelicaTest](https://github.com/modelica/ModelicaStandardLibrary/tree/master/ModelicaTest)
+   * For historical reasons we also provide the older version 1.4 from December 2000 here: [testsuite.zip](/tools/testsuite.zip)
 
-The CSV Result Compare can be used to compare curves from one csv files with curves from other csv files using a special algorithm.
+* **Trimming of trailing white spaces (and other code clean-up)**: This script will recursively remove all trailing white spaces in all text files in a given directory. Binary files and files residing in version control specific directories are skipped. As an addition, one can also let it clean out obsolete or empty/superfluous Modelica annotations from Modelica files and more.
+   * Project home on GitHub: [https://github.com/simulatino/trimtrailingwhitespaces](https://github.com/simulatino/trimtrailingwhitespaces)
+   * [Downloadable releases](https://github.com/simulatino/trimtrailingwhitespaces/releases)
 
-* Project home: [https://github.com/modelica-tools/csv-compare](https://github.com/modelica-tools/csv-compare) (can also be used as Subversion or Git checkout address).
-* [Download latest version as zip file](https://github.com/modelica-tools/csv-compare/archive/master.zip)
-
-MapleSim Standalone Modelica Parser
-
-May be freely used for library syntax validation, and for non-commercial educational purposes.
-
-* Online Version:[http://www.maplesoft.com/products/maplesim/modelicachecker](http://www.maplesoft.com/products/maplesim/modelicachecker)
-* Git address: [https://github.com/modelica-tools/ModelicaSyntaxChecker](https://github.com/modelica-tools/ModelicaSyntaxChecker)
-
-Modelica Testsuite
-
-Modelica models to test various aspects of the Modelica language can be found in the development repository:
-
-* Git address: [https://github.com/modelica/ModelicaStandardLibrary](https://github.com/modelica/ModelicaStandardLibrary) 
-* Browse the code: [https://github.com/modelica/ModelicaStandardLibrary/tree/master/ModelicaTest](https://github.com/modelica/ModelicaStandardLibrary/tree/master/ModelicaTest)
-
-For historical reasons we also provide the older version 1.4 from December 2000 here: [testsuite.zip](/tools/testsuite.zip)
-
-Trimming of trailing white spaces (and other code clean up)
-
-This script will recursively remove all trailing white spaces in all text files in a given directory. Binary files and files residing in version control specific directories are skipped. As an addition one can also let it clean out obsolete or empty/superfluous Modelica annotations from Modelica files.
-
-* Project home on GitHub: [https://github.com/dietmarw/trimtrailingwhitespaces](https://github.com/dietmarw/trimtrailingwhitespaces)
-* [Downloadable releases](https://github.com/dietmarw/trimtrailingwhitespaces/releases)
-
-PMD
-
-An extensible multilanguage static code analyzer with support for Modelica language.
-
-* Project home on GitHub: [https://github.com/pmd/pmd](https://github.com/pmd/pmd)
-* [Downloadable releases](https://github.com/pmd/pmd/releases)
+* **PMD**: An extensible multilanguage static code analyzer with support for Modelica language.
+   * Project home on GitHub: [https://github.com/pmd/pmd](https://github.com/pmd/pmd)
+   * [Downloadable releases](https://github.com/pmd/pmd/releases)
 
 ## Other commercial tools
 
