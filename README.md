@@ -2,6 +2,8 @@
 
 This repository contains the sources of the [www.modelica.org](https://www.modelica.org/) website and is the central location for feature requests, suggestions, and bug reports.
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/modelica/www.modelica.org)
+
 ## Serve the website locally
 
 1. [Install Hugo extended version](https://gohugo.io/getting-started/installing/)
