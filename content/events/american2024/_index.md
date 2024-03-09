@@ -17,7 +17,7 @@ In building on the successes of the previous American Modelica conference, we ar
 
 ## Our Sponsors
 
-The **American Modelica Conference 2024** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference, please let contact us as soon as possible at **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)** 
+The **American Modelica Conference 2024** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](https://modelica.org/events/american2024/callforsponsors) and contact us as soon as possible at **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)** 
 
 <!-- Please visit our [Sponsor page](https://2022.american.conference.modelica.org/Sponsors.html), and also take the time to check out the sponsor exhibition at the conference. -->
 
