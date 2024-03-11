@@ -7,6 +7,11 @@ The **International Modelica Conference series** explores the frontier of scienc
 
 The Modelica Conference is organized by the Modelica Association and a local organizer. The local organizer is selected by the members of the Modelica Association. The Modelica Association has 50% ownership for the financial responsibilities. A steering committee from the Modelica Association (see below) supervises the conference organization and guarantees the high scientific level of the conference.
 
+## Upcoming Conferences
+
+ * The [American Modelica Conference 2024](/events/american2024/) The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**.
+ * The Asian Modelica Conference 2024 will be held November 21-22 2024 in Seoul, South Korea, and is organized by the Institute of Vehicle Engineering, iVH and the Modelica Association.
+
 ## Major rules for a Modelica Conference
 
 * Only full papers can be submitted: Required are 4-10 pages with double columns according to provided templates. In exceptional cases, the Editorial Board can extend the maximum page limit to 15 pages, in case the authors provide a justification.
@@ -25,7 +30,7 @@ The Editorial Board supervises the publication of the Modelica Conference Procee
 * [Prof. Martin Otter](http://www.robotic.dlr.de/sr/de/staff/martin.otter/), Deutsches Zentrum für Luft- und Raumfahrt, Germany.
 * [Prof. Francesco Casella](http://home.deib.polimi.it/casella/), Politecnico di Milano, Italy.
 * Dr. Hilding Elmqvist, Mogram AB, Sweden.
-* Dr. Michael Tiller, Realis Simulation, U.S.A.
+* Dr. Michael Tiller, Juliahub, U.S.A.
 
 In case of general inquiries for Modelica Conferences, send an email to the Modelica Assocation board ([board \[ AT \] modelica \[ DOT \] org](Mailto:board%20[%20AT%20]%20modelica%20[%20DOT%20]%20org)).
 
@@ -39,13 +44,13 @@ Conference proceedings of the Modelica conference series (since year 2009, the c
 
 [13th International Modelica Conference 2019](https://2019.international.conference.modelica.org/), Regensburg, Germany, March 4-6, 2019.
 
-[1st American Modelica Conference 2018](https://2018.american.conference.modelica.org/), Cambridge MA, USA, Oct. 9-10, 2018.
+[American Modelica Conference 2018](https://2018.american.conference.modelica.org/), Cambridge MA, USA, Oct. 9-10, 2018.
 
 [2nd Japanese Modelica Conference 2018](/events/modelica2018japan), Tokyo, Japan, May 17-18, 2018.
 
 [12th International Modelica Conference 2017](https://2017.international.conference.modelica.org/), Prague, Czech Republic, May 15-17, 2017.
 
-[1st Japanese Modelica Conference 2016](http://dx.doi.org/10.3384/ecp16124), in Tokyo, Japan, May 23-24, 2016.
+[Japanese Modelica Conference 2016](http://dx.doi.org/10.3384/ecp16124), in Tokyo, Japan, May 23-24, 2016.
 
 [11th International Modelica Conference 2015](https://2015.international.conference.modelica.org/), Versailles, France, Sept. 21-23, 2015.
 

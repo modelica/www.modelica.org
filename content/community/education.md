@@ -24,6 +24,8 @@ The following table contains a partial list of Universities at which device orie
 | University of South Australia | Dr. Yee Wei Law | 4th-year undergraduates and Master of Engineering students | An introduction to Modelica is given within the course [EEET 4071 Advanced Control](http://programs.unisa.edu.au/public/pcms/course.aspx?pageid=151847) | English |
 | **Austria** |     |     |     |     |
 | University of Applied Sciences Technikum, Vienna | Dr. Christian Kral and Prof. Anton Haumer | Master Students in Renewable Urban Energy Systems | [Systems Engineering and Simulation](http://www.technikum-wien.at/en/study_programs/master_s/renewable_urban_energy_systems/) | German, partly in English |
+| **Denmark** |     |     |     |     |
+| Aalborg University, Copenhagen | Prof. Alessandro Maccarini | PhD and Master students in energy system engineering |  [Modelica-PhD-course](https://amaccarini.github.io/Modelica-PhD-course/) | English |
 | **Germany** |     |     |     |     |
 | Fachhochschule Dortmund | Prof. Dr.-Ing. Nick Raabe | Master students of electrical engineering | Analytische Modellierung elektrischer Antriebssysteme (Analytical modeling of electric drive systems) | German |
 | RWTH Aachen University | Prof. Dr.-Ing. Dirk Müller | Master students of mechanical and environmental engineering | [Simulation of Building's Technical Systems](http://www.ebc.eonerc.rwth-aachen.de/cms/E-ON-ERC-EBC/Studium/Lehrveranstaltungen/WiSe/~faeg/Anlagensimulation/?lidx=1) | German |
