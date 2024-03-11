@@ -1,23 +1,25 @@
-# American Modelica Conference 2024
+# Asian Modelica Conference 2024
 
-The **American Modelica Conference 2024** will be an in-person conference event, with an option to watch presentations streamed online for a reduced conference admission fee. The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**. It is organized by [NAMUG](https://namug.org/), the North American Modelica Users Group, in cooperation with the [Modelica Association](/association/). Join us in person in Storrs or from the comfort of your own home.
+The **Asian Modelica Conference 2024** will be an in-person conference event. The conference will take place at the **Ramada Hotel in Jeju - Island** in South Korea from **December 5–6, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/). Join us in person in Jeju - Island.
 
-![](UConn-Innovation-Partnership-1920x800.jpg)
+![](Ramada.jpg)
 
 ## About the Conference
 
 The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), [eFMI](http://efmi-standard.org/) and [DCP](https://dcp-standard.org/).
 The program will cover processes and tools for the modeling of complex physical and cyber-physical systems as applied to a wide range of research and industrial applications.
 
-In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.  The previous [American Modelica conference in 2022](https://2022.american.conference.modelica.org/) was also streamed, giving many Modelicans in Europe the opportunity to watch presentations on the latest updates on Modelica-related research and innovation.  In this version of the conference, we want to combine the ease of attendance by remote participants from other continents with the stimulating environment of an in person event with lively discussions in the breaks and an in-person conference dinner! Please note that **full paper presentations are required to be in person**, while industrial user presentations can be given remotely.
+In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.  
 
-In building on the successes of the previous American Modelica conference, we are also happy to announce a Student Best Paper competition.  Additional details are available in the [call for papers](call2024).
+By streaming the presentation, we will be able to share what we are researching in Asian with Modelicans on other continents. Additionally, technology sharing and networking among Modelicans will be possible through breaks, discussions, and dinner. Please note that full paper presentations are **required to be in person.**
+We hope many of you will attend.
+
 
 <!-- We are looking forward to seeing you in Dallas. As a first for a Modelica conference, we are planning to organize a **Modelica-oriented job fair** at the in-person event in Dallas that gives a unique opportunity for employers, students about to graduate, and Modelica practitioners to get to know each other. More details will be forthcoming at this site as the conference date comes closer.   -->
 
 ## Our Sponsors
 
-The **American Modelica Conference 2024** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](https://modelica.org/events/american2024/callforsponsors) and contact us as soon as possible at **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)** 
+The **Asian Modelica Conference 2024** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference please contact us as soon as possible at **[ivh@ivh.co.kr](mailto:ivh@ivh.co.kr)** 
 
 <!-- Please visit our [Sponsor page](https://2022.american.conference.modelica.org/Sponsors.html), and also take the time to check out the sponsor exhibition at the conference. -->
 
@@ -61,28 +63,30 @@ The Modelica conference will bring together people using Modelica and/or other M
 
 Please see the [call for papers](call2024) for details about paper submissions, and the calls for [industrial user presentations](call2024), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
 
-- May 1, 2024 Submission of full papers
-- June 1, 2024 Submission of extended abstracts for presentation-only contributions, [workshops and tutorials](https://docs.google.com/forms/d/e/1FAIpQLScsRLAe-YwK7yAQoW6B5KQQ87M_SU4dgj6eKnvpjG3h53HMGw/viewform)
-- August 1, 2022 Notification of acceptance for papers and presentations
-- August 30th, 2022 Submission of final papers and one-page abstracts
-- October 7th, 2022 Submission of final presentations
+- August 1, 2024 Submission of full papers
+-	September 1, 2024 Submission of extended abstracts for presentation-only contributions, workshops and tutorials
+-	October 1, 2024 Notification of acceptance for papers and presentations
+-	October 30th, 2024 Submission of final papers and one-page abstracts
+-	November 25th, 2024 Submission of final presentations
+
 
 ## Sponsorship opportunities
 
-The American Modelica conference will be your opportunity to meet your customers again in a personal setting, at a great location. Please stay tuned for details about our sponsorship opportunities, we will post them here in the near future. Note that all sponsors will have the opportunity to exhibit at the conference, and that we don't offer a separate way to exhibit at the conference.  
+The Asian Modelica conference will be your opportunity to meet your customers again in a personal setting, at a great location. Please stay tuned for details about our sponsorship opportunities, we will post them here in the near future. Note that all sponsors will have the opportunity to exhibit at the conference, and that we don't offer a separate way to exhibit at the conference.  
 
 ## Organization and Contact
 
-The conference is organized by NAMUG in cooperation with the [Modelica Association](/).
+The conference is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/).
 
-**For general questions, please send an email to:** **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)**
+**For general questions, please send an email to:** **[ivh@ivh.co.kr](mailto:ivh@ivh.co.kr)** 
 
 ### Conference Board
 
-  -  **Conference Co-Chair** Dr. Michael Tiller, Juliahub
-  -  **Conference Co-Chair** Dr. Hubertus Tummescheit, Modelon
-  -  **Local Co-Chair** Prof. George Bollas, University of Connecticut
-  -  **Program Chair** Prof. Luigi Vanfretti, Rensselaer Polytechnic Insitute
-  -  **Program Chair** Dr. Michael Wetter,Lawrence Berkeley National Laboratory
-  -  **Conference Excecutive Coordinator** Dr. Christopher Laughman, Mitsubishi Electric Research Laboratories
-  -  Behnam Afsharpoya, Dassault Systemes
+Research Fellow YongHa Han, HMC, Korea
+Dr. Daeoh Kang, iVH, Korea
+Dr. Rui Gao, Modelon K.K., Japan
+Dr. Beomsub Kim, HyunDai AutoEver
+Professor Hwang Sung-Ho, SungkyunGwan University, Korea
+Professor Woongchul Choi, Kookmin University, Korea
+
+
