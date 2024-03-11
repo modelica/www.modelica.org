@@ -18,4 +18,4 @@ The agenda of the workshop is available [here](/events/automotive_workshop_2002/
 * [Larry Michaels](mailto:larry.michaels@gm.com), General Motors Powertrain: **Plant Modeling for Powertrain Control Design** ([PDF, 211 K](/events/automotive_workshop_2002/automotive_workshop_2002_files/LarryMichaels.pdf) | [PPT, 97 K](/events/automotive_workshop_2002/automotive_workshop_2002_files/LarryMichaels.ppt))
 * Michael Tiller, Ford Motor Company: **Model Management Tools and Technologies** ([PDF, 855 K](/events/automotive_workshop_2002/automotive_workshop_2002_files/ModelManagement.pdf) | [PPT, 716 K](/events/automotive_workshop_2002/automotive_workshop_2002_files/ModelManagement.ppt)). _This presentation was actually delivered during the design meeting, but it would probably be of interest to people outside the design group._
 
-For additional information, please contact [Michael Tiller](mailto:mtiller@ford.com).
+For additional information, please contact [Michael Tiller](mailto:mtiller@juliahub.com).
