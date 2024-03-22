@@ -17,9 +17,13 @@ In building on the successes of the previous American Modelica conference, we ar
 
 ## Our Sponsors
 
-The **American Modelica Conference 2024** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](https://modelica.org/events/american2024/callforsponsors) and contact us as soon as possible at **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)** 
+The **American Modelica Conference 2024** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](https://modelica.org/events/american2024/callforsponsors) and contact us as soon as possible at **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)**. You can directly buy a **sponsorship ticket** at [Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2024-tickets-794519207337?aff=oddtdtcreator). 
 
 <!-- Please visit our [Sponsor page](https://2022.american.conference.modelica.org/Sponsors.html), and also take the time to check out the sponsor exhibition at the conference. -->
+
+## Registration and Accomodation
+
+Registration is now open at [Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2024-tickets-794519207337?aff=oddtdtcreator). Please register soon to make planning easy for us. Early Bird tickets will be available until August 10th. If you need a hotel for the conference, we recommend the Graduate Hotel on the UCONN campus in waking distance to the conferene venue. You can reserve a room for a discounted room rate through [this link](https://be.synxis.com/?Hotel=8679&Chain=21643&promo=VISITOR). Other hotels are available in the vicinity, but are in 10-15 minutes of driving distance from the conference. 
 
 ## Scope of the Conference
 
