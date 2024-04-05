@@ -21,6 +21,6 @@ Silver sponsorship includes the following benefits:
 
 Examples of both the vendor abstracts and ads can be found in the program for the 2022 American Modelica Conference, which can be viewed [here](https://2022.american.conference.modelica.org/Schedule.html).  These vendor abstracts are intended to complement the vendor presentations by including a logo and approximately 400 words of text.  In addition, the different sponsorship levels are accompanied by the ability to place an ad in the program.  
 
-The cost of these sponsorship levels is commensurate with the accompanying benefits: the price for the Gold sponsorship is $1500, while the cost of the Silver sponsorship is $1000.  These sponsorships can be purchased via a ticket on the conference website at Eventbrite, which will be opened soon.  
+The cost of these sponsorship levels is commensurate with the accompanying benefits: the price for the Gold sponsorship is $1500, while the cost of the Silver sponsorship is $1000.  These sponsorships can be purchased via a ticket on the conference website at [Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2024-tickets-794519207337?aff=oddtdtcreator).  
 
 We thank you for your continued support of the Modelica conferences and community in North America, and look forward to seeing you in Storrs, CT.
