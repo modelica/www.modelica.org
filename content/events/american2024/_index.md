@@ -11,6 +11,8 @@ The program will cover processes and tools for the modeling of complex physical 
 
 In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.  The previous [American Modelica conference in 2022](https://2022.american.conference.modelica.org/) was also streamed, giving many Modelicans in Europe the opportunity to watch presentations on the latest updates on Modelica-related research and innovation.  In this version of the conference, we want to combine the ease of attendance by remote participants from other continents with the stimulating environment of an in person event with lively discussions in the breaks and an in-person conference dinner! Please note that **full paper presentations are required to be in person**, while industrial user presentations can be given remotely.
 
+Workshops and Tutorials will be given on the afternoon of October 14th 2024, the keynotes, paper presentations and other parts of the program will be on October 15th and 16th. 
+
 In building on the successes of the previous American Modelica conference, we are also happy to announce a Student Best Paper competition.  Additional details are available in the [call for papers](call2024).
 
 <!-- We are looking forward to seeing you in Dallas. As a first for a Modelica conference, we are planning to organize a **Modelica-oriented job fair** at the in-person event in Dallas that gives a unique opportunity for employers, students about to graduate, and Modelica practitioners to get to know each other. More details will be forthcoming at this site as the conference date comes closer.   -->
