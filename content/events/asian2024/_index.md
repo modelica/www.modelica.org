@@ -1,6 +1,6 @@
 # Asian Modelica Conference 2024
 
-The **Asian Modelica Conference 2024** will be an in-person conference event. The conference will take place at the **Ramada Hotel in Jeju - Island** in South Korea from **December 5–6, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/). Join us in person in Jeju - Island.
+The **Asian Modelica Conference 2024** will be an in-person conference event. The conference will take place at the **Ramada Hotel in Jeju - Island** in South Korea from **December 12–13, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/). Join us in person in Jeju - Island.
 
 ![](Ramada.jpg)
 
