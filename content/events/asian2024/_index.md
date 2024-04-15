@@ -83,8 +83,13 @@ The conference is organized by [iVH](http://www.ivh.co.kr/) in cooperation with 
 ### Conference Board
 
 Research Fellow YongHa Han, HMC, Korea
+
 Dr. Daeoh Kang, iVH, Korea
+
 Dr. Rui Gao, Modelon K.K., Japan
+
 Dr. Beomsub Kim, HyunDai AutoEver
+
 Professor Hwang Sung-Ho, SungkyunGwan University, Korea
+
 Professor Woongchul Choi, Kookmin University, Korea
