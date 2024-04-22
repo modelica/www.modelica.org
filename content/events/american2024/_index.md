@@ -69,9 +69,9 @@ Please see the [call for papers](call2024) for details about paper submissions, 
 
 - May 1, 2024 Submission of full papers
 - June 1, 2024 Submission of extended abstracts for presentation-only contributions, [workshops and tutorials](https://docs.google.com/forms/d/e/1FAIpQLScsRLAe-YwK7yAQoW6B5KQQ87M_SU4dgj6eKnvpjG3h53HMGw/viewform)
-- August 1, 2022 Notification of acceptance for papers and presentations
-- August 30th, 2022 Submission of final papers and one-page abstracts
-- October 7th, 2022 Submission of final presentations
+- August 1, 2024 Notification of acceptance for papers and presentations
+- August 30th, 2024 Submission of final papers and one-page abstracts
+- October 7th, 2024 Submission of final presentations
 
 ## Sponsorship opportunities
 
