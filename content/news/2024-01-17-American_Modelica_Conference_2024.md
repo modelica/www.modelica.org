@@ -1,6 +1,6 @@
 ---
-title: Join us at the American Modelica Conference in Storrs, Connecticut, Oct 14-16, 2024
-date: 2024-01-17
+title: Paper Submission deadline for American Modelica Conference moved to Mai 23!
+date: 2024-04-26
 redirect_url: /events/american2024/
 ---
 
