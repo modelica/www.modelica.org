@@ -28,13 +28,13 @@ Tuesday, October 15th:
 
 |     |     |
 | --- | --- |
-| ![](Swami_small.jpg) |**Modeling, Simulation,  and Autonomous Vehicles:  the challenges and opportunities** <br \>**Swaminathan Gopalswamy**, Director, Connected Autonomous Safe Technologies (CAST) Lab at Texas A&M University |
+| ![](Swami_small.jpg) |**Modeling, Simulation,  and Autonomous Vehicles:  the challenges and opportunities** <br />**Swaminathan Gopalswamy**, Director, Connected Autonomous Safe Technologies (CAST) Lab at Texas A&M University |
 
 
 Wednesday, October 16th:
 |     |     |
 | --- | --- |
-| ![](ClasJacobson_small.jpg) | **Energy Urgency, Computation and Role of "Systems" Methods & Tools** <br \>**Clas A. Jacobson**, Senior Fellow, Systems Engineering at Carrier |
+| ![](ClasJacobson_small.jpg) | **Energy Urgency, Computation and Role of "Systems" Methods & Tools** <br />**Clas A. Jacobson**, Senior Fellow, Systems Engineering at Carrier |
 
 ## Registration and Accomodation
 
