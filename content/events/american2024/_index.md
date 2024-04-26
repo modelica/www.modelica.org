@@ -21,7 +21,20 @@ In building on the successes of the previous American Modelica conference, we ar
 
 The **American Modelica Conference 2024** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](https://modelica.org/events/american2024/callforsponsors) and contact us as soon as possible at **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)**. You can directly buy a **sponsorship ticket** at [Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2024-tickets-794519207337?aff=oddtdtcreator). 
 
-<!-- Please visit our [Sponsor page](https://2022.american.conference.modelica.org/Sponsors.html), and also take the time to check out the sponsor exhibition at the conference. -->
+## Keynote Speakers and Presentation Titles
+We are proud to announce our keynote speakers and the titles of their presentations: 
+
+Tuesday, October 15th: 
+
+|     |     |
+| --- | --- |
+| <img src="Swami.jpeg" alt="Swami Gopalswami" width="100"/> |**Modeling, Simulation,  and Autonomous Vehicles:  the challenges and opportunities**  <br>   <br> **Swaminathan Gopalswamy**, Director, Connected Autonomous Safe Technologies (CAST) Lab at Texas A&M University |
+
+
+Wednesday, October 16th:
+|     |     |
+| --- | --- |
+| <img src="ClasJacobson.jpeg" alt="Clas Jacobson" width="100"/> | **Energy Urgency, Computation and Role of "Systems" Methods & Tools**  <br>   <br> **Clas A. Jacobson**, Senior Fellow, Systems Engineering at Carrier |
 
 ## Registration and Accomodation
 
