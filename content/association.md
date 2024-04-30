@@ -112,8 +112,8 @@ People interested to participate should contact the organizer for details.
 | _Quality and Processes_ | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
 | _Technology_ | Torsten Blochwitz | [ESI, Germany](https://www.simulationx.com/) | [torsten.blochwitz@esi-group.com](mailto:Torsten.Blochwitz@esi-group.com) |
 | _MA Project leader  <br>"Modelica Language"_ | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
-| _MA Project leader  <br>"Modelica Libraries"_ | [Martin Otter](https://rmc.dlr.de/sr/en/staff/martin.otter/)  <br>(temporarily) | [DLR-SR, Germany](https://www.dlr.de/sr/en/desktopdefault.aspx/tabid-11579) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
-| _MA Deputy Project leader  <br>"Modelica Libraries"_ |     |     |     |
+| _MA Project leader  <br>"Modelica Libraries"_ | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
+| _MA Deputy Project leader  <br>"Modelica Libraries"_ | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haa-haumer) |   OTH Regensburg, Germany  | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de)   |
 | _MA Project leader  <br>"FMI"_ | Christian Bertsch | [Bosch, Germany](https://www.bosch.com) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
 | _MA Deputy Project leader  <br>"FMI"_ | Torsten Sommer | [Dassault Systèmes, Germany](https://www.3ds.com/) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
 | _MA Project leader  <br>"SSP"_ | Jochen Köhler | [ZF Friedrichshafen, Germany](http://www.zf.com) | [jochen.koehler@zf.com](mailto:Jochen.Koehler@zf.com) |
