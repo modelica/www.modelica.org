@@ -92,6 +92,15 @@ Currently, the fee for individuals is 20 Euro/year and for organizations since 2
 Information on upcoming design meetings and more are published on the Modelica Association calendar.
 People interested to participate should contact the organizer for details.
 
+## Licenses
+
+The following licenses are used by the Modelica Association for material provided to the public.
+
+* [3-clause BSD License for the Modelica Association](/licenses/modelica-3-clause-bsd)
+* Modelica License Version 2 (Nov 19, 2008) [[HTML](/licenses/ModelicaLicense2.html)] [[Modelica](/licenses/ModelicaLicense2.mo)] [[PDF](/licenses/ModelicaLicense2.pdf)] [[Open Document Format](/licenses/ModelicaLicense2.odt)]
+* Modelica License Version 1.1 (June 30, 2000) [[HTML](/licenses/ModelicaLicense1.1.html)] [[Modelica](/licenses/ModelicaLicense1.1.mo)] [[TXT](/licenses/ModelicaLicense1.1.txt)]
+* [Modelica Association Contributor License Agreement 1.1.1](https://github.com/modelica/ModelicaAssociationCLA/releases)
+
 ## Modelica Association Meetings
 
 {{< rawhtml >}}
