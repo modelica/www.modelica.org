@@ -111,34 +111,38 @@ The following licenses are used by the Modelica Association for material provide
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| **Board Members** |     |     |     |
-| _Chairperson_ | [Martin Otter](https://rmc.dlr.de/sr/en/staff/martin.otter/) | [DLR-SR, Germany](https://www.dlr.de/sr/en/desktopdefault.aspx/tabid-11579) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
-| _Vice-Chairperson_ | Martin Sjölund | Linköping University, Sweden | [martin.sjolund@liu.se](mailto:martin.sjolund@liu.se) |
-| _Secretary_ | Michael Tiller | [JuliaHub, USA](https://juliahub.com) | [michael.tiller@gmail.com](mailto:michael.tiller@gmail.com) |
-| _Treasurer_ | Jonas Eborn | [Modelon, Sweden](http://www.modelon.com) | [jonas.eborn@modelon.com](mailto:jonas.eborn@modelon.com) |
-| **Board Members with specific duties** |     |     |     |
-| _Marketing_ | Hubertus Tummescheit | [Modelon, Sweden](http://www.modelon.com) | [hubertus.tummescheit@modelon.com](mailto:hubertus.tummescheit@modelon.com) |
-| _Quality and Processes_ | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
-| _Technology_ | Torsten Blochwitz | [ESI, Germany](https://www.simulationx.com/) | [torsten.blochwitz@esi-group.com](mailto:Torsten.Blochwitz@esi-group.com) |
-| _MA Project leader  <br>"Modelica Language"_ | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
-| _MA Project leader  <br>"Modelica Libraries"_ | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
-| _MA Deputy Project leader  <br>"Modelica Libraries"_ | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haa-haumer) |   OTH Regensburg, Germany  | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de)   |
-| _MA Project leader  <br>"FMI"_ | Christian Bertsch | [Bosch, Germany](https://www.bosch.com) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
-| _MA Deputy Project leader  <br>"FMI"_ | Torsten Sommer | [Dassault Systèmes, Germany](https://www.3ds.com/) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
-| _MA Project leader  <br>"SSP"_ | Jochen Köhler | [ZF Friedrichshafen, Germany](http://www.zf.com) | [jochen.koehler@zf.com](mailto:Jochen.Koehler@zf.com) |
-| _MA Deputy Project leader  <br>"SSP"_ | Pierre Mai | [PMSF, Germany](https://pmsf.eu/) | [pmai@pmsfit.de](mailto:pmai@pmsfit.de) |
-| _MA Project leader  <br>"DCP"_ |     |     |     |
-| _MA Deputy Project leader  <br>"DCP"_ | Klaus Schuch | [AVL, Austria](https://www.avl.com/) | [klaus.schuch@avl.com](mailto:klaus.schuch@avl.com) |
-| _MA Project leader  <br>"eFMI"_ | Christoff Bürger | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [christoff.buerger@3ds.com](mailto:christoff.buerger@3ds.com) |
-| _MA Deputy Project leader  <br>"eFMI"_ | Hubertus Tummescheit | [Modelon, Sweden](http://www.modelon.com) | [hubertus.tummescheit@modelon.com](mailto:hubertus.tummescheit@modelon.com) |
+| Chairperson | [Dirk Zimmer](https://rmc.dlr.de/sr/en/staff/dirk.zimmer/) | [DLR-SR, Germany](https://www.dlr.de/) | [dirk.zimmer@dlr.de](mailto:dirk.zimmer@dlr.de) |
+| Vice-Chairperson | Martin Sjölund | Linköping University, Sweden | [martin.sjolund@liu.se](mailto:martin.sjolund@liu.se) |
+| Secretary | Michael Tiller | [JuliaHub, USA](https://juliahub.com) | [michael.tiller@gmail.com](mailto:michael.tiller@gmail.com) |
+| Treasurer | Jonas Eborn | [Modelon, Sweden](http://www.modelon.com) | [jonas.eborn@modelon.com](mailto:jonas.eborn@modelon.com) |
+
+## Board Members with specific duties
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Marketing | Hubertus Tummescheit | [Modelon, Sweden](http://www.modelon.com) | [hubertus.tummescheit@modelon.com](mailto:hubertus.tummescheit@modelon.com) |
+| Quality and Processes | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
+| Technology | [Martin Otter](https://rmc.dlr.de/sr/en/staff/martin.otter/) | [DLR-SR, Germany](https://www.dlr.de/sr/en/desktopdefault.aspx/tabid-11579) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
+| Project leader "Modelica Language"  | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
+| Project leader "Modelica Libraries" | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
+| Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haa-haumer) |   OTH Regensburg, Germany  | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de)   |
+| Project leader "FMI" | Christian Bertsch | [Bosch, Germany](https://www.bosch.com) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
+| Deputy Project leader "FMI" | Torsten Sommer | [Dassault Systèmes, Germany](https://www.3ds.com/) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
+| Project leader "SSP" | Jochen Köhler | [ZF Friedrichshafen, Germany](http://www.zf.com) | [jochen.koehler@zf.com](mailto:Jochen.Koehler@zf.com) |
+| Deputy Project leader "SSP" | Pierre Mai | [PMSF, Germany](https://pmsf.eu/) | [pmai@pmsfit.de](mailto:pmai@pmsfit.de) |
+| Project leader "DCP" | vacant |     |     |
+| Deputy Project leader "DCP" | Klaus Schuch | [AVL, Austria](https://www.avl.com/) | [klaus.schuch@avl.com](mailto:klaus.schuch@avl.com) |
+| Project leader "eFMI" | Christoff Bürger | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [christoff.buerger@3ds.com](mailto:christoff.buerger@3ds.com) |
+| Deputy Project leader "eFMI" | Hubertus Tummescheit | [Modelon, Sweden](http://www.modelon.com) | [hubertus.tummescheit@modelon.com](mailto:hubertus.tummescheit@modelon.com) |
 
 ## Members of the Modelica Association with Specific Duties
 
 |     |     |     |
 | --- | --- | --- |
 | _Newsletter Editor_ | Filip Ježek | Prague, Czech Republic |
-| _Auditor_ | Karl Wernersson | Dassault Systemes, Lund, Sweden |
-| _Deputy Auditor_ | Bernhard Bachmann | Fachhochschule Bielefeld, Bielefeld, Germany |
+| _Auditor 1_ | Karl Wernersson | Dassault Systemes, Lund, Sweden |
+| _Auditor 2_ | Ben Landgren | Performansea |
+| _Deputy Auditor_ | Bernhard Bachmann | University of Applied Science, Bielefeld, Germany |
 
 ## Modelica Association Backoffice
 
