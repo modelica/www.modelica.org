@@ -69,12 +69,12 @@ Contact information
 Modelica Association
 
 {{<rawhtml>}}
-<style>
-      img {
-        text-align: left;
-      }
+<style  type="text/css">
+.leftbottom{text-align:left;vertical-align:bottom}  
 </style>
+<div class="leftbottom">
  <img src="/images/Modelica-Association.png" width="300" alt="Modelica Association">
+</div>  
 {{</rawhtml>}}
 
 Website: [https://modelica.org/](https://modelica.org/)
