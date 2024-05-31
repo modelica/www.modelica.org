@@ -33,7 +33,7 @@ Contact information
 
 Modelica Association
 
-![](images/Modelica-Association.png)  
+![](/images/Modelica-Association.png)  
 Website: https://modelica.org/
 
 Email: board@modelica.org
