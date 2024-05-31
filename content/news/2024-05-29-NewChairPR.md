@@ -67,10 +67,8 @@ The Modelica Association (MA) is a non-profit organization incorporated in Swede
 Contact information
 
 Modelica Association
+
 {{<rawhtml>}}
-<style type="text/css"
-.tg-0lax{text-align:left;vertical-align:bottom}
-</style>
 <div>
  <img src="/images/Modelica-Association.png" width="300" alt="Modelica Association">
 </div> 
