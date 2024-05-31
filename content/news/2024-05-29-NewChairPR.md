@@ -66,7 +66,7 @@ Contact information
 
 Modelica Association
 {{<rawhtml>}}
- <img src="/images/Modelica-Association.svg" width="400" alt="Modelica Association" class="d-block mx-auto mb-4" style="max-width: 80%;">
+ <img src="/images/Modelica-Association.png" width="400" alt="Modelica Association" class="d-block mx-auto mb-4" style="max-width: 80%;">
  {{</rawhtml>}}
 Website: https://modelica.org/
 
