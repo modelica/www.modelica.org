@@ -69,8 +69,8 @@ Modelica Association
 <style type="text/css"
 .tg-0lax{text-align:left;vertical-align:bottom}
 </style>
-<div class="tg-0lax">
- <img src="/images/Modelica-Association.png" width="300" alt="Modelica Association" style="max-width: 80%;">
+<div>
+ <img src="/images/Modelica-Association.png" width="300" alt="Modelica Association">
 </div> 
 {{</rawhtml>}}
 
