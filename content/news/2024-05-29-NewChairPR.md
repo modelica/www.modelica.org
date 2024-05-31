@@ -25,7 +25,7 @@ date: 2024-05-31
   </tr></thead>
     <tr>
     <td class="tg-0lax">
-      Dr-Ing. Martin Otter
+      Prof. Dr.-Ing. Martin Otter
     </td>
     <td class="tg-0lax">
     </td>
