@@ -73,7 +73,7 @@ Modelica Association
 .leftbottom{text-align:left;vertical-align:bottom}  
 </style>
 <div class="leftbottom">
- <img src="/images/Modelica-Association.png" width="300" alt="Modelica Association">
+ <img src="/images/Modelica-Association.png" width="250" alt="Modelica Association">
 </div>  
 {{</rawhtml>}}
 
