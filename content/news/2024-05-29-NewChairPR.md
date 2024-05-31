@@ -76,6 +76,6 @@ Modelica Association
 
 Website: [https://modelica.org/](https://modelica.org/)
 
-Email: [board@modelica.org](https://modelica.org/)
+Email: [board@modelica.org](mailto:board@modelica.org)
 
 Chair: Dirk Zimmer, DLR
