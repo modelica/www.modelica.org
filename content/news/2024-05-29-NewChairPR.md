@@ -9,14 +9,14 @@ date: 2024-05-31
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:center;vertical-align:bottom}
 </style>
 <table class="tg"><thead>
   <tr>
     <td class="tg-0lax">
             <img src="/images/MartinOtter.jpeg" height="300" style="margin: 20"/>
     </td>
-    <td class="tg-0lax">
+    <td class="tg-0lax"> 
     <img src="/images/Modelica-Association.png" width="300" alt="Modelica Association"">
    </td>
     <td class="tg-0lax">
@@ -66,8 +66,14 @@ Contact information
 
 Modelica Association
 {{<rawhtml>}}
+<style type="text/css"
+.tg-0lax{text-align:left;vertical-align:bottom}
+</style>
+<div class="tg-0lax">
  <img src="/images/Modelica-Association.png" width="300" alt="Modelica Association" style="max-width: 80%;">
- {{</rawhtml>}}
+</div> 
+{{</rawhtml>}}
+
 Website: https://modelica.org/
 
 Email: board@modelica.org
