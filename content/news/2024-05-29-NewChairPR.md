@@ -15,18 +15,28 @@ date: 2024-05-31
   <tr>
     <td class="tg-0lax">
         <div class="col-lg-4 col-md-6 mb-2">
-            <img src="/images/MartinOtter.jpeg" width="200" style="margin: 0"/>
+            <img src="/images/MartinOtter.jpeg" height="500" style="margin: 0"/>
         </div>
     </td>
     <td></td> <div class="col-lg-8 mx-auto text-center mb-5"
-    <img src="/images/Modelica_Association.svg" width="300" alt="Modelica Association" class="d-block mx-auto mb-4" style="max-width: 80%;">
+    <img src="/images/Modelica-Association.svg" width="400" alt="Modelica Association" class="d-block mx-auto mb-4" style="max-width: 80%;">
  </div></td>
     <td class="tg-0lax">
          <div class="col-lg-4 col-md-6 mb-2">
-            <img src="/images/DirkZimmer.jpeg" width="200" style="margin: 0"/>
+            <img src="/images/DirkZimmer.jpeg" height="500" style="margin: 0"/>
         </div>     
     </td>
   </tr></thead>
+    <tr>
+    <td class="tg-0lax">
+      Dr-Ing. Martin Otter
+    </td>
+    <td class="tg-0lax">
+    </td>
+   <td class="tg-0lax">
+      Dr-Ing. Dirk Zimmer
+    </td>
+    </tr>
 </table>
 {{</rawhtml>}}
 
