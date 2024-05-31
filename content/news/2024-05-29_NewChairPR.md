@@ -1,4 +1,4 @@
-![Otter_Martin](images/MartinOtter.jpeg)![Dirk_Zimmer](DirkZimmer.jpeg)![logo](images/Modelica-Association.png)**w**
+![Otter_Martin](/images/MartinOtter.jpeg)![Dirk_Zimmer](/images/DirkZimmer.jpeg)![logo](/images/Modelica-Association.png)
 
 **New Modelica Association Chair elected -   
 Dr. Dirk Zimmer succeeds Prof. Dr.-Ing. Martin Otter**
