@@ -5,16 +5,16 @@ date: 2024-05-31
 {{<rawhtml>}}
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:white;border-style:none;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg td{border-color:white;border-style:none;border-width:20px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:20px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  font-weight:normal;overflow:hidden;padding:20px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:center;vertical-align:bottom}
 </style>
 <table class="tg"><thead>
   <tr>
     <td class="tg-0lax">
-            <img src="/images/MartinOtter.jpeg" height="300" style="margin: 20"/>
+            <img src="/images/MartinOtter.jpeg" height="200" style="margin: 50"/>
     </td>
     <td class="tg-0lax"> 
     &nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp  
@@ -22,7 +22,7 @@ date: 2024-05-31
     &nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp 
    </td>
     <td class="tg-0lax">
-            <img src="/images/DirkZimmer.jpeg" height="300" style="margin: 20"/>   
+            <img src="/images/DirkZimmer.jpeg" height="200" style="margin: 50"/>   
     </td>
   </tr></thead>
     <tr>
