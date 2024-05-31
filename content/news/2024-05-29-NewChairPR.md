@@ -2,7 +2,34 @@
 title: New Chairman elected at the Annual Assembly Meeting 2024
 date: 2024-05-31
 ---
-![Otter_Martin](/images/MartinOtter.jpeg)![Dirk_Zimmer](/images/DirkZimmer.jpeg)![logo](/images/Modelica-Association.png)
+{{<rawhtml>}}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <td class="tg-0lax">
+        <div class="col-lg-4 col-md-6 mb-2">
+            <img src="/images/MartinOtter.jpeg" width="200" style="margin: 0"/>
+        </div>
+    </td>
+    <td></td> <div class="col-lg-8 mx-auto text-center mb-5"
+    <img src="/images/Modelica_Association.svg" width="300" alt="Modelica Association" class="d-block mx-auto mb-4" style="max-width: 80%;">
+ </div></td>
+    <td class="tg-0lax">
+         <div class="col-lg-4 col-md-6 mb-2">
+            <img src="/images/DirkZimmer.jpeg" width="200" style="margin: 0"/>
+        </div>     
+    </td>
+  </tr></thead>
+</table>
+{{</rawhtml>}}
+
 
 **New Modelica Association Chair elected -   
 Dr. Dirk Zimmer succeeds Prof. Dr.-Ing. Martin Otter**
