@@ -16,9 +16,9 @@ date: 2024-05-31
     <td class="tg-0lax">
             <img src="/images/MartinOtter.jpeg" height="300" style="margin: 20"/>
     </td>
-    <td></td> <div class="col-lg-8 mx-auto text-center mb-5"
-    <img src="/images/Modelica-Association.png" width="400" alt="Modelica Association" class="d-block mx-auto mb-4" style="max-width: 80%;">
- </div></td>
+    <td></td>
+    <img src="/images/Modelica-Association.png" width="400" alt="Modelica Association"">
+   </td>
     <td class="tg-0lax">
             <img src="/images/DirkZimmer.jpeg" height="300" style="margin: 20"/>   
     </td>
