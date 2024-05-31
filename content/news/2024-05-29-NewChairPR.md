@@ -1,3 +1,7 @@
+---
+title: New Chairman elected at the Annual Assembly Meeting 2024
+date: 2024-05-31
+---
 ![Otter_Martin](/images/MartinOtter.jpeg)![Dirk_Zimmer](/images/DirkZimmer.jpeg)![logo](/images/Modelica-Association.png)
 
 **New Modelica Association Chair elected -   
