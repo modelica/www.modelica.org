@@ -2,6 +2,9 @@
 title: New Chairman elected at the Annual Assembly Meeting 2024
 date: 2024-05-31
 ---
+
+[download press release as PDF](/documents/2024-05-28-Dirk-Zimmer-Modelica-Association-Chairperson.pdf)
+
 {{<rawhtml>}}
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
