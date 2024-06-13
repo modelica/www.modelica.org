@@ -3,7 +3,8 @@ title: ThermoSim 2024 - Munich, Sep. 9-10 - Call for Presentations ends June 30
 date: 2024-06-13
 ---
 
-<b>ThermoSim 2024: Munich, Sep 9-10 - call for presentations ends June 30.</b><br>
+ThermoSim 2024: Munich, Sep 9-10 - call for presentations ends June 30.
+
 *User meeting on the simulation of thermal systems with Modelica and FMI.*
 
 - The event is not organized by Modelica Association (MA), but by MA members from LTX Simulation, TLK-Thermo and XRG Simulation.
