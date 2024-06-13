@@ -1,5 +1,5 @@
 ---
-title: ThermoSim 2024: Munich, Sep 9-10 - call for presentations ends June 30.
+title: ThermoSim 2024 - Munich, Sep. 9-10 - Call for Presentations ends June 30
 date: 2024-06-13
 ---
 
