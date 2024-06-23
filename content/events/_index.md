@@ -10,7 +10,8 @@ The Modelica Conference is organized by the Modelica Association and a local org
 ## Upcoming Conferences
 
  * The [American Modelica Conference 2024](/events/american2024/) The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**.
- * The [Asian Modelica Conference 2024](/events/asian2024/) will take place at the **Ramada Hotel in Jeju - Island** in South Korea from **December 12-13, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/). 
+ * The [Asian Modelica Conference 2024](/events/asian2024/) will take place at the **Ramada Hotel in Jeju - Island** in South Korea from **December 12-13, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/).
+ * The **16th International Modelica Conference** will be held in **Lucerne, Switzerland**, **Sep 8-10, 2025**. The event is organized by the [Lucerne University of Applied Sciences and Arts (HSLU)](https://dock.hslu.ch/rundgang/index.html?startscene=i) in cooperation with the [Modelica Association](https://modelica.org/association/). It is an in-person event held in English that is open for sponsorship positions.
 
 ## Major rules for a Modelica Conference
 
