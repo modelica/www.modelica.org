@@ -5,7 +5,9 @@ params:
   logo: /images/m_ball.svg
   favicon: /images/m-ball-favicon.svg
   email: board@modelica.org
-  uacode: UA-145375737-1  
+  uacode: UA-145375737-1
+  linkedin: modelica-association
+  youtube: modelicaassociation
 menu:
   main:
     - pageRef: "language"
