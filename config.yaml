@@ -8,6 +8,7 @@ params:
   uacode: UA-145375737-1
   linkedin: modelica-association
   youtube: modelicaassociation
+  x: modelica
 menu:
   main:
     - pageRef: "language"
