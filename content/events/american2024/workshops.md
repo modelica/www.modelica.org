@@ -46,6 +46,8 @@ Course take-aways and learnings:
 #### Recommended pre-reading: 
 Tutorials at https://help.modelon.com/latest/ 
 
+Duration: 3.5 hours
+
 ### Suggested Experience and Software Requirements
 
 Please bring a laptop with a recent version of Chrome, Edge or Opera installed, with at least 8 GB of memory. No installation needs, registered participants will have a login to Modelon Imapct on the cloud. 
@@ -60,6 +62,8 @@ Instructor: Behnam Afsharpoya, PhD
 
 Python is a very well-known coding language with valuable libraries that provide toolboxes for Artificial intelligence and Machine learning methods.  Integration of Python with modelica and FMI standard can provide useful toolboxes for physical and numerical analyzes.    
 
+Duration: 4 hours
+
 ### Suggested Experience and Software Requirements
 
 Basic level for  Modelica, Python and FMI 
@@ -73,6 +77,8 @@ Instructor: Chris Rakaukas, Juliahub and MIT
 ### Abstract
 
 Modelica and Remodel are designed to work as declarative acausal modeling systems. ModelingToolkit hits an interesting middle ground in the design space of modeling systems by having declarative semantics which are interacted with imperatively. In this workshop we will explore this idea by demonstrating some of the ergonomic advantages gained by such an approach. Computer generation of model variations for more easily comparing between models, data-driven generation of models via symbolic regression and evolutionary approaches, and non-standard model transformations (moment closure approximations) will be used to showcase how the interactivity of the ModelingToolkit compiler can be used to improve modeling workflows. The disadvantages will also be discussed, in particular the difficulties of certain analyses and GUI integration. Altogether, participants will get a better view of the engineering trade-offs being explored in the modeling and simulation space and leave with a better perspective of alternative modeling workflows.
+
+Duration: 4 hours
 
 ### Suggested Experience and Software Requirements
 
