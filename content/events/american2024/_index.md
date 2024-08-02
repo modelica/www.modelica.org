@@ -4,6 +4,12 @@ The **American Modelica Conference 2024** will be an in-person conference event,
 
 ![](UConn-Innovation-Partnership-1920x800.jpg)
 
+## Latest News and updates
+
+The titles and abstracts for all workshops are now available here: [Workshops](workshops)
+
+The notification for paper acceptance has been moved to August 10th. 
+
 ## About the Conference
 
 The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), [eFMI](http://efmi-standard.org/) and [DCP](https://dcp-standard.org/).
