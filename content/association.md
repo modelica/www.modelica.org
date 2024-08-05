@@ -7,11 +7,19 @@
 </div>
 {{</rawhtml>}}
 
-The Modelica Association is a non-profit, non-governmental organization with the aim of developing and promoting the Modelica modeling language for modelling, simulation and programming of physical and technical systems and processes.
+## Our Mission
 
-Furthermore, the Modelica Association fosters the development and distribution of collaborative industrial standards for Modeling and Simulation such as FMI, eFMI, SSP, and DCP.
+The Modelica Association is a non-profit, non-governmental organization with the aim 
+of **developing and promoting open and coordinated standards for system modelling and simulation.**
 
-The Modelica Association owns and administrates incorporeal rights related to Modelica, including but not limited to trademarks, the Modelica Language Specification, Modelica Standard Libraries, etc., which should be generally available for the promotion of industrial development and research.
+In concrete terms, our current work can be summarized by two main branches:
+
+- Development and specification of the open Modelica language as well as the development and refinement of corresponding modeling Libraries, most essentially the Modelica Standard Library.
+- The development and distribution of collaborative industrial standards for Modeling and Simulation such as FMI, eFMI, SSP, and DCP.
+
+A more detailed account of our work is provided by the list of Modelica Association Projects below.
+
+Furthermore, the Modelica Association owns and administrates incorporeal rights related to Modelica, including but not limited to trademarks, the Modelica Language Specification, Modelica Standard Libraries, etc., which should be generally available for the promotion of industrial development and research.
 
 ## Modelica Association Projects
 
