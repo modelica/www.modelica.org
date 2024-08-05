@@ -21,6 +21,19 @@ A more detailed account of our work is provided by the list of Modelica Associat
 
 Furthermore, the Modelica Association owns and administrates incorporeal rights related to Modelica, including but not limited to trademarks, the Modelica Language Specification, Modelica Standard Libraries, etc., which should be generally available for the promotion of industrial development and research.
 
+
+## Join the Modelica Association
+
+If you share our goals and would like to contribute, you can become a member of the Modelica Association in two ways:
+
+- You can become an individual member
+- You can become an organizational member, representing your company.
+
+Membership gives you voting rights and enables you to participate in the discussions and technical work of the Association. It is encouraged to take join at least one of the MA projects as a guest before becoming a member.  
+
+If you are interested, simply contact the Modelica board and explain your motivation. The [application form for individual members](https://github.com/user-attachments/files/16361099/Application.for.individual.membership.at.Modelica.Association.pdf) provides useful guidance. 
+
+
 ## Modelica Association Projects
 
 {{<rawhtml>}}
