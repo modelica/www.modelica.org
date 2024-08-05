@@ -29,9 +29,9 @@ If you share our goals and would like to contribute, you can become a member of 
 - You can become an individual member
 - You can become an organizational member, representing your company.
 
-Membership gives you voting rights and enables you to participate in the discussions and technical work of the Association. It is encouraged to take join at least one of the MA projects as a guest before becoming a member.  
+Membership gives you voting rights and enables you to participate in the discussions and technical work of the Association. It is encouraged to join at least one of the MA projects as a guest before becoming a member.  
 
-If you are interested, simply contact the Modelica board and explain your motivation. The [application form for individual members](https://github.com/user-attachments/files/16361099/Application.for.individual.membership.at.Modelica.Association.pdf) provides useful guidance. 
+If you are interested, simply contact the [Modelica board](mailto:board@modelica.org) and explain your motivation. The [application form for individual members](https://github.com/user-attachments/files/16361099/Application.for.individual.membership.at.Modelica.Association.pdf) provides useful guidance. 
 
 
 ## Modelica Association Projects
