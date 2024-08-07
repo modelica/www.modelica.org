@@ -43,40 +43,26 @@ menu:
       parent: "community"
       weight: 2
 
-#    - pageRef: "education"
-#      identifier: "education"
-#      name: "Education"
-#      url: "/community/education/"
-#      parent: "community"
-#      weight: 3
-
-#    - pageRef: "jobs"
-#      identifier: "jobs"
-#      name: "Jobs"
-#      url: "/community/jobs/"
-#      parent: "community"
-#      weight: 4
-
     - pageRef: "projects"
       identifier: "projects"
       name: "Projects"
       url: "/community/projects/"
       parent: "community"
-      weight: 5
+      weight: 3
 
     - pageRef: "training"
       identifier: "training"
       name: "Training"
       url: "/community/training/"
       parent: "community"
-      weight: 6
+      weight: 4
 
     - pageRef: "usergroups"
       identifier: "usergroups"
       name: "Usergroups"
       url: "/community/usergroups/"
       parent: "community"
-      weight: 7
+      weight: 5
 
     - pageRef: "events"
       identifier: "events"
@@ -96,13 +82,6 @@ menu:
       url: "/publications/"
       weight: 3
 
-#    - pageRef: "articles"
-#      identifier: "articles"
-#      name: "Articles"
-#      url: "/publications/articles/"
-#      parent: "publications"
-#      weight: 1
-
     - pageRef: "books"
       identifier: "books"
       name: "Books"
@@ -110,26 +89,12 @@ menu:
       parent: "publications"
       weight: 1
 
-#    - pageRef: "papers"
-#      identifier: "papers"
-#      name: "Papers"
-#      url: "/publications/papers/"
-#      parent: "publications"
-#      weight: 1
-
-#    - pageRef: "theses"
-#      identifier: "theses"
-#      name: "Theses"
-#      url: "/publications/theses/"
-#      parent: "publications"
-#      weight: 1
-
-#    - pageRef: "tutorials"
-#      identifier: "tutorials"
-#      name: "Tutorials"
-#      url: "/publications/tutorials/"
-#      parent: "publications"
-#      weight: 1
+    - pageRef: "proceedings"
+      identifier: "proceedings"
+      name: "Proceedings"
+      url: "/publications/proceedings/"
+      parent: "publications"
+      weight: 2
 
     - pageRef: "libraries"
       identifier: "libraries"
