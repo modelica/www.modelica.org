@@ -6,7 +6,8 @@ This page describes the benefits of these sponsorship levels, which include repr
 
 Gold sponsorship includes the following benefits: 
 
-1.	A ½ page vendor abstract in the program, 
+1.  A 20 minute vendor presentation (15 minute presentation, 5 min Q&A)
+2.	A ½ page vendor abstract in the program, 
 1.	A ¼ page advertisement in the program,
 1.	A conference booth in the exhibition space,
 1.	2 free registrations to the conference (including the conference dinner), and 
