@@ -8,26 +8,23 @@ It provides object-oriented constructs that facilitate reuse of models, and can 
 
 ## Learning the Modelica Language
 
-<!--
-Quick introductory overviews are provided by:
-- [Eradity](https://www.eradity.com/blog/29-modelica-series-introduction-to-modelica)
--->
 The Modelica language has been designed to be readable and understandable by engineers or in general students with a mathematical background. 
 
 The classic free online language guides are:
-- [The Modelica 1.4 Tutorial](/documents/ModelicaTutorial14.pdf) from the Modelica Association
-- [Modelica by Example](https://mbe.modelica.university/) from Michael Tiller
+
+- [The Modelica 1.4 Tutorial](/documents/ModelicaTutorial14.pdf) by the Modelica Association
+- [Modelica by Example](https://mbe.modelica.university/) by Michael Tiller
 
 In addition to these language guides, a [collection of books](/publications/books/) provides further background material and exercises. 
 
 A quick overview of the syntax elements are provided by the
+
 - [Modelica Web Reference](https://webref.modelica.university/) from Michael Tiller.
 - [Modelica Quick Reference](https://reference.wolfram.com/system-modeler/ModelicaQuickReference.html) from Wolfram.
 
 When coding it is good to follow certain conventions. You may have a look at the [coding conventions](https://doc.modelica.org/Modelica%204.0.0/Resources/helpDymola/Modelica_UsersGuide_Conventions.html) from the Modelica Standard Library.
 
 When modelling, a lot can be learned from existing models. Hence, it is a good idea to study the Modelica Standard Library. 
-
 
 ## Using the Modelica Language
 
