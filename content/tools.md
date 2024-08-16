@@ -58,30 +58,12 @@ Modelica models are usually graphically constructed with one of the schematic ed
 
 ## Modelica tools for developers
 
-* **Modelica Compliance Suite**: A semantics compliance suite for the Modelica language
-   * Project home: [https://github.com/modelica/Modelica-Compliance](https://github.com/modelica/Modelica-Compliance) (can also be used as Subversion or Git checkout address).
-   * [Download the latest version as a zip file](https://github.com/modelica/Modelica-Compliance/archive/master.zip)
-
-* **CSV Result Compare tool**: The CSV Result Compare can be used to compare curves from one CSV file with curves from other CSV files using a special algorithm.
-   * Project home: [https://github.com/modelica-tools/csv-compare](https://github.com/modelica-tools/csv-compare) (can also be used as Subversion or Git checkout address).
-   * [Download the latest version as a zip file](https://github.com/modelica-tools/csv-compare/archive/master.zip)
-
-* **MapleSim Standalone Modelica Parser**: May be freely used for library syntax validation, and for non-commercial educational purposes.
+* **[Modelica Compliance Suite](https://github.com/modelica/Modelica-Compliance)**: A semantics compliance suite for the Modelica language
+* **[CSV Result Compare tool](https://github.com/modelica-tools/csv-compare)**: The CSV Result Compare can be used to compare curves from one CSV file with curves from other CSV files using a special algorithm.
+* **[MapleSim Standalone Modelica Parser](https://github.com/modelica-tools/ModelicaSyntaxChecker)**: May be freely used for library syntax validation, and for non-commercial educational purposes.
    * Online Version:[http://www.maplesoft.com/products/maplesim/modelicachecker](http://www.maplesoft.com/products/maplesim/modelicachecker)
-   * Git address: [https://github.com/modelica-tools/ModelicaSyntaxChecker](https://github.com/modelica-tools/ModelicaSyntaxChecker)
-
-* **Modelica Testsuite**: Modelica models to test various aspects of the Modelica language can be found in the development repository:
-   * Git address: [https://github.com/modelica/ModelicaStandardLibrary](https://github.com/modelica/ModelicaStandardLibrary) 
-   * Browse the code: [https://github.com/modelica/ModelicaStandardLibrary/tree/master/ModelicaTest](https://github.com/modelica/ModelicaStandardLibrary/tree/master/ModelicaTest)
-   * For historical reasons we also provide the older version 1.4 from December 2000 here: [testsuite.zip](/tools/testsuite.zip)
-
-* **Trimming of trailing white spaces (and other code clean-up)**: This script will recursively remove all trailing white spaces in all text files in a given directory. Binary files and files residing in version control specific directories are skipped. As an addition, one can also let it clean out obsolete or empty/superfluous Modelica annotations from Modelica files and more.
-   * Project home on GitHub: [https://github.com/simulatino/trimtrailingwhitespaces](https://github.com/simulatino/trimtrailingwhitespaces)
-   * [Downloadable releases](https://github.com/simulatino/trimtrailingwhitespaces/releases)
-
-* **PMD**: An extensible multilanguage static code analyzer with support for Modelica language.
-   * Project home on GitHub: [https://github.com/pmd/pmd](https://github.com/pmd/pmd)
-   * [Downloadable releases](https://github.com/pmd/pmd/releases)
+* **[Trimming of trailing white spaces (and other code clean-up)](https://github.com/simulatino/trimtrailingwhitespaces)**: This script will recursively remove all trailing white spaces in all text files in a given directory. Binary files and files residing in version control specific directories are skipped. As an addition, one can also let it clean out obsolete or empty/superfluous Modelica annotations from Modelica files and more.
+* **[PMD](https://github.com/pmd/pmd)**: An extensible multilanguage static code analyzer with support for Modelica language.
 
 ## Other free tools
 
