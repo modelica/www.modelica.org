@@ -7,9 +7,31 @@
 </div>
 {{</rawhtml>}}
 
-The Modelica Association is a non-profit, non-governmental organization with the aim of developing and promoting the Modelica modeling language for modelling, simulation and programming of physical and technical systems and processes.
+## Our Mission
 
-The Modelica Association owns and administrates incorporeal rights related to Modelica, including but not limited to trademarks, the Modelica Language Specification, Modelica Standard Libraries, etc., which should be generally available for the promotion of industrial development and research.
+The Modelica Association is a non-profit, non-governmental organization with the aim  of **developing and promoting open and coordinated standards for system modelling and simulation.**
+
+In concrete terms, our current work can be summarized by two main branches:
+
+- Development and specification of the open Modelica language as well as the development and refinement of corresponding modeling Libraries, most essentially the Modelica Standard Library.
+- The development and distribution of collaborative industrial standards for modeling and simulation such as FMI, eFMI, SSP, and DCP.
+
+A more detailed account of our work is provided by the list of Modelica Association Projects below.
+
+Furthermore, the Modelica Association owns and administrates incorporeal rights related to Modelica, including but not limited to trademarks, the Modelica Language Specification, Modelica Standard Libraries, etc., which should be generally available for the promotion of industrial development and research.
+
+## Join the Modelica Association
+
+If you share our goals and would like to contribute, you can become a member of the Modelica Association in two ways. You can become
+
+- an individual member or
+- an organizational member, representing your company.
+
+Membership gives you voting rights and enables you to participate in the discussions and technical work of the Association.
+It is encouraged to join at least one of the MA projects as a guest before becoming a member.  
+
+If you are interested, simply contact the [Modelica board](mailto:board@modelica.org) and explain your motivation.
+The [application form for individual members](https://github.com/user-attachments/files/16361099/Application.for.individual.membership.at.Modelica.Association.pdf) provides useful guidance. 
 
 ## Modelica Association Projects
 
@@ -20,8 +42,7 @@ The Modelica Association owns and administrates incorporeal rights related to Mo
             <img src="/images/Modelica_Language.svg" height="70" style="margin: 0"/>
         </div>
         <div class="col-lg-4 col-md-6 mt-1 mb-4">
-            <p>A project to develop, standardize, and promote Modelica, a language to model
-and simulate multi-domain cyber physical systems in a convenient way.</p>
+            <p>A project to develop, standardize, and promote Modelica, a language to model and simulate multi-domain cyber physical systems in a convenient way.</p>
             <p><a href="/language/" class="mt-5">Modelica Language<i class="fa-solid fa-arrow-right ms-2"></i></a></p>
         </div>
     </div>
