@@ -1,6 +1,6 @@
 # Asian Modelica Conference 2024
 
-The **Asian Modelica Conference 2024** will be an in-person conference event. The conference will take place at the **Ramada Hotel in Jeju - Island** in South Korea from **December 12–13, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/). Join us in person in Jeju - Island.
+The **Asian Modelica Conference 2024** will be an in-person conference event. The conference will take place at the **Ramada Hotel in Jeju - Island** in South Korea from **December 12–13, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/). Join us in person in Jeju - Island at [ICC](http://www.iccjeju.co.kr/)).
 
 ![](Ramada.jpg)
 
@@ -13,6 +13,8 @@ In addition to paper presentations, the conference features several Modelica tut
 
 By streaming the presentation, we will be able to share what we are researching in Asian with Modelicans on other continents. Additionally, technology sharing and networking among Modelicans will be possible through breaks, discussions, and dinner. Please note that full paper presentations are **required to be in person.**
 We hope many of you will attend.
+
+**Registration is now open** on [Eventbrite](https://www.eventbrite.com/o/modelica-association-ivh-89743647663)
 
 
 <!-- We are looking forward to seeing you in Dallas. As a first for a Modelica conference, we are planning to organize a **Modelica-oriented job fair** at the in-person event in Dallas that gives a unique opportunity for employers, students about to graduate, and Modelica practitioners to get to know each other. More details will be forthcoming at this site as the conference date comes closer.   -->
@@ -64,9 +66,11 @@ The Modelica conference will bring together people using Modelica and/or other M
 Please see the [call for papers](call2024) for details about paper submissions, and the calls for [industrial user presentations](call2024), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
 
 - August 1, 2024 Submission of full papers
+- October 5th, 2024 extended Submission deadline for full papers
 -	September 1, 2024 Submission of extended abstracts for presentation-only contributions, workshops and tutorials
 -	October 1, 2024 Notification of acceptance for papers and presentations
--	October 30th, 2024 Submission of final papers and one-page abstracts
+-	October 30th, 2024 Notification of acceptance for papers and presentations
+-	November 15th, 2024 Submission of final papers.
 -	November 25th, 2024 Submission of final presentations
 
 
@@ -84,7 +88,7 @@ The conference is organized by [iVH](http://www.ivh.co.kr/) in cooperation with 
 
 - Research Fellow YongHa Han, HMC, Korea
 - Dr. Daeoh Kang, iVH, Korea
-- Dr. Rui Gao, Modelon K.K., Japan
+- Dr. Rui Gao, RIGO TECH Co., Ltd, Japan
 - Dr. Beomsub Kim, HyunDai AutoEver
 - Professor Hwang Sung-Ho, SungkyunGwan University, Korea
 - Professor Woongchul Choi, Kookmin University, Korea
