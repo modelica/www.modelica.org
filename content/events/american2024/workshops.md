@@ -1,5 +1,9 @@
 # Free Workshops
 
+## Registration 
+
+Registration for the Conference workshops is now open through the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeF_5Y_wWLciCuZ5ANYf6iwPf5yXGqMxJI3uuirX8YczVcKDg/viewform). Please register latest by **October 1st** since we need to be ablse to chose properly sized rooms for all tutorials, and provide credentials for cloud-based tutorials. 
+
 ## 1. Introduction to Modelica and Thermo-fluid Modeling with Applications from the Buildings Library
 
 Instructor: David Blum, Lawrence Berkeley National Laboratory
