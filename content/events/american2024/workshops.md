@@ -8,6 +8,8 @@ Registration for the Conference workshops is now open through the [Registration 
 
 Instructor: David Blum, Lawrence Berkeley National Laboratory
 
+**Time:** October 14th, 10:00 am to 1:00 pm
+
 ### Abstract: 
 
 This workshop will give an introduction to the modeling of thermo-fluid systems and their control using Modelon Impact and the Modelica Buildings Library. We will be using applications from the Modelica Buildings Library, but the course will be structured to also appeal to modelers from other application domains that are concerned with thermo-fluid systems. After an introductory presentation that discusses the scope of the Modelica Buildings Library, we discuss best practices in setting up thermo-fluid flow models and how to avoid potential problems. In hands-on exercises, participants will build models of simple heating and air conditioning systems, link them to a thermal load, and add feedback control. The models will be built using components from the Modelica Buildings Library. Simulations will be run on Modelon Impact.
@@ -25,6 +27,8 @@ Laptop with recent version of either Google Chrome or Opera installed. A minimum
 
 Instructor: Lena Buffoni, Linköping University
 
+**Time:** October 14th, 10:00 am to 1:00 pm
+
 ### Abstract: 
 This tutorial gives an introduction to the Modelica language, the OpenModelica environment, and an overview of modeling and simulation in a number of application areas. Some advanced features of OpenModelica will be presented. A number of hands-on exercises will be done during the tutorial, both graphical modeling using the Modelica standard library and textual modeling. Bring your laptop for exercises.
 
@@ -40,6 +44,8 @@ Please bring a laptop with Windows, Linux or Mac installed. It is best to have O
 
 Instructors: Hubertus Tummescheit and Lixiang Li, Modelon
 
+**Time:** October 14th, 2:00 pm to 5:00 pm
+
 ### Abstract 
 In this session you will learn more about a deployment approach that allows custom interfaces to be created for parameterization and post-processing. The course will make use of the Modelon Impact REST-API, documented on https://modelon-impact-client.readthedocs.io/en/latest/ , Jupyter notebooks as the app-development environment, and a few utility-routines that will speed up building a web-app. The notebook can be deployed as a web-app through the Voilà framework (https://github.com/voila-dashboards/voila). Participants who know the concepts of Modelica tools should be able to run a simple, self-developed web app on top of Modelon Impact, and understand the possibilities to automate workflows and deploy them as app in Modelon Impact. 
 
@@ -50,7 +56,7 @@ Course take-aways and learnings:
 #### Recommended pre-reading: 
 Tutorials at https://help.modelon.com/latest/ 
 
-Duration: 3.5 hours
+Duration: 3.0 hours
 
 ### Suggested Experience and Software Requirements
 
@@ -61,6 +67,8 @@ Familiarity with any Modelica tool required, familiarity with Modelon Impact ben
 ## 4. Using Python as Interface for the Modelica and FMI Standards
 
 Instructor: Behnam Afsharpoya, PhD
+
+**Time:** October 14th, 10:00 am to 1:00 pm
 
 ### Abstract
 
@@ -77,6 +85,8 @@ Python, Modelica and FMI tools will be provided.  Compiler needs to be installed
 ## 5. Integrating Declarative and Imperative Acausal Modeling with ModelingToolkit
 
 Instructor: Chris Rakaukas, Juliahub and MIT
+
+**Time:** October 14th, 10:00 am to 1:00 pm
 
 ### Abstract
 
