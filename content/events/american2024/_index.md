@@ -6,7 +6,7 @@ The **American Modelica Conference 2024** will be an in-person conference event,
 
 ## Latest News and updates
 
-The titles and abstracts for all workshops are now available here: [Workshops](workshops)
+The schedule, titles and abstracts for all workshops are now available: [Workshops](workshops), and [Workshop Registration](workshops) is open as well.
 
 The notification for paper acceptance has been moved to August 10th. 
 
