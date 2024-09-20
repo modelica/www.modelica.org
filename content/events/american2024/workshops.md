@@ -8,7 +8,7 @@ Registration for the Conference workshops is now open through the [Registration 
 
 Instructor: David Blum, Lawrence Berkeley National Laboratory
 
-**Time:** October 14th, 10:00 am to 1:00 pm
+**Time:** October 14th, 2:00 pm to 5:00 pm
 
 ### Abstract: 
 
