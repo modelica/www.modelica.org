@@ -113,3 +113,7 @@ The conference is organized by NAMUG in cooperation with the [Modelica Associati
   -  **Program Chair** Dr. Michael Wetter,Lawrence Berkeley National Laboratory
   -  **Conference Excecutive Coordinator** Dr. Christopher Laughman, Mitsubishi Electric Research Laboratories
   -  Behnam Afsharpoya, Dassault Systemes
+
+
+    [Agenda](Agenda)
+[call for papers](call2024)
