@@ -8,7 +8,7 @@ The **American Modelica Conference 2024** will be an in-person conference event,
 
 The schedule, titles and abstracts for all workshops are now available: [Workshops](workshops), and [Workshop Registration](workshops) is open as well.
 
-The notification for paper acceptance has been moved to August 10th. 
+The preliminary [Agenda](Agenda) is now online! 
 
 ## About the Conference
 
@@ -114,6 +114,3 @@ The conference is organized by NAMUG in cooperation with the [Modelica Associati
   -  **Conference Excecutive Coordinator** Dr. Christopher Laughman, Mitsubishi Electric Research Laboratories
   -  Behnam Afsharpoya, Dassault Systemes
 
-
-    [Agenda](Agenda)
-[call for papers](call2024)
