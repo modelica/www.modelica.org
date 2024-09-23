@@ -1,4 +1,4 @@
-# Conference Agenda:
+# Conference Agenda
 
 ### October 15th, 2024
 
