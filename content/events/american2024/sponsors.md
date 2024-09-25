@@ -1,5 +1,5 @@
 ## Our Sponsor
-
+| | |
 |:-:|:-:|
 
-|Platinum | ![](Modelon.PNG) |
+|Platinum |  <img src="Modelon.PNG" width=400> |
