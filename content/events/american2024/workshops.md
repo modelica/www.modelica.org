@@ -6,7 +6,7 @@ Registration for the Conference workshops is now open through the [Registration 
 
 ## 1. Introduction to Modelica and Thermo-fluid Modeling with Applications from the Buildings Library
 
-Instructor: David Blum, Lawrence Berkeley National Laboratory
+Instructors: David Blum, Michael Wetter, and Hongxiang (Casper) Fu, Lawrence Berkeley National Laboratory
 
 **Time:** October 14th, 2:00 pm to 5:00 pm
 
