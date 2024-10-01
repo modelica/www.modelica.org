@@ -1,4 +1,5 @@
 ## Our Sponsors
+
 <table border="1">
     <tr>
         <td>Platinum</td>
