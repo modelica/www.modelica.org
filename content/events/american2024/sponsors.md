@@ -2,7 +2,7 @@
 <table border="1">
     <tr>
         <td>Platinum</td>
-        <td><img src="modelon.jpg" width=400></td>
+        <td colspan="4"><img src="modelon.jpg" width=400></td>
     </tr>
     <tr>
         <td>Gold</td>
@@ -13,7 +13,7 @@
     </tr>
     <tr>
         <td>Silver</td>
-        <td></td>
+        <td><img src="maplesoft.jpg" width=250></td>
         <td></td>
         <td></td>
         <td></td>
