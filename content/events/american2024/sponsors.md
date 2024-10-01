@@ -6,4 +6,4 @@
 
 | | | | |
 |:-|:-:|:-:|:-:|
-|Gold |<img src="3ds2.jpeg" width=250> |<img src="claytex.jpg" width=300>|<img src="esi.jpg" width=300>|
+|Gold |<img src="3ds2.jpeg" width=250> |<img src="claytex.jpg" width=300>|<img src="2020_11_04_MKTG_ESI_Logo_ColorTagline_rgb.png" width=300>|
