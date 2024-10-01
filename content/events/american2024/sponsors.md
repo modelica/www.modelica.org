@@ -3,7 +3,7 @@
 <table border="1">
     <tr>
         <td>Platinum</td>
-        <td colspan="4"><img src="modelon.jpg" width=400></td>
+        <td colspan="4" align="center"><img src="modelon.jpg" width=400></td>
     </tr>
     <tr>
         <td>Gold</td>
