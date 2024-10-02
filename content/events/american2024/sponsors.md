@@ -1,5 +1,5 @@
+## Our Sponsors
 
-<h2>Our Sponsors</h2>
 <div class="ma-masthead">
 <div class="container-xxl">
 <table>
