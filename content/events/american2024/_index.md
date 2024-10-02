@@ -25,6 +25,33 @@ In building on the successes of the previous American Modelica conference, we ar
 
 ## Our Sponsors
 
+{{<rawhtml>}}
+<div class="ma-masthead">
+<div class="container-xxl">
+<table>
+    <tr>
+        <td>Platinum</td>
+        <td colspan="2" align="center"><img src="modelon.jpg" width="400" alt="Modelon"></td>
+    </tr>
+    <tr>
+        <td>Gold</td>
+        <td><img src="claytex.jpg" width="250" alt="Claytex"></td>
+        <td><img src="3ds2.jpeg" width="250"></td>
+    </tr>
+    <tr>     
+        <td>Gold</td>
+        <td><img src="2020_11_04_MKTG_ESI_Logo_ColorTagline_rgb.png" width="250" alt="ESI"></td>
+        <td><img src="juliacomputing.jpg" width="250" alt="Julia Computing"></td>
+    </tr>
+    <tr>
+        <td>Silver</td>
+        <td  colspan="2" align="center"><img src="maplesoft.jpg" width="250" alt="Maplesoft"></td>
+    </tr>
+</table>
+</div>
+</div>
+{{</rawhtml>}}
+
 The **American Modelica Conference 2024** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](https://modelica.org/events/american2024/callforsponsors) and contact us as soon as possible at **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)**. You can directly buy a **sponsorship ticket** at [Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2024-tickets-794519207337?aff=oddtdtcreator). 
 
 ## Keynote Speakers and Presentation Titles
