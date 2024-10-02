@@ -1,5 +1,6 @@
 ## Our Sponsors
 
+<div class="container-xxl">
 <table>
     <tr>
         <td>Platinum</td>
@@ -20,3 +21,4 @@
         <td></td>
     </tr>
 </table>
+</div>
