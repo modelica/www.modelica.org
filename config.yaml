@@ -107,3 +107,6 @@ menu:
       name: "Tools"
       url: "/tools/"
       weight: 1
+
+    [markup.goldmark.renderer]
+    unsafe= true
