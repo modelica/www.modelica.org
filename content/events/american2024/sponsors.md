@@ -1,5 +1,9 @@
 ## Our Sponsors
+---
+contactFooter: true
+---
 
+<div class="ma-masthead">
 <div class="container-xxl">
 <table>
     <tr>
@@ -21,4 +25,5 @@
         <td></td>
     </tr>
 </table>
+</div>
 </div>
