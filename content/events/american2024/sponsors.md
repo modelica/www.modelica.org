@@ -1,6 +1,6 @@
 ## Our Sponsors
 
-<table border="1">
+<table>
     <tr>
         <td>Platinum</td>
         <td colspan="4" align="center"><img src="modelon.jpg" width="400"></td>
