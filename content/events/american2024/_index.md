@@ -37,7 +37,7 @@ In building on the successes of the previous American Modelica conference, we ar
         <td><img src="3ds2.jpeg" width="250"></td>
     </tr>
     <tr>     
-        <td<b>Gold</b></td>
+        <td></td><b>Gold</b></td>
         <td><img src="2020_11_04_MKTG_ESI_Logo_ColorTagline_rgb.png" width="250" alt="ESI"></td>
         <td><img src="juliacomputing.jpg" width="250" alt="Julia Computing"></td>
     </tr>
