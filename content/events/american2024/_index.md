@@ -27,7 +27,7 @@ In building on the successes of the previous American Modelica conference, we ar
 
 {{<rawhtml>}}
 <div class="ma-masthead">
-<div class="container-xxl">
+<div class="container">
 <table>
     <tr>
         <td>Platinum</td>
