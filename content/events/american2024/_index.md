@@ -26,8 +26,6 @@ In building on the successes of the previous American Modelica conference, we ar
 ## Our Sponsors
 
 {{<rawhtml>}}
-<div class="ma-masthead">
-<div class="container">
 <table>
     <tr>
         <td>Platinum</td>
@@ -48,8 +46,6 @@ In building on the successes of the previous American Modelica conference, we ar
         <td  colspan="2" align="center"><img src="maplesoft.jpg" width="250" alt="Maplesoft"></td>
     </tr>
 </table>
-</div>
-</div>
 {{</rawhtml>}}
 
 The **American Modelica Conference 2024** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](https://modelica.org/events/american2024/callforsponsors) and contact us as soon as possible at **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)**. You can directly buy a **sponsorship ticket** at [Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2024-tickets-794519207337?aff=oddtdtcreator). 
