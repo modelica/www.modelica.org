@@ -9,7 +9,7 @@
         <td>Gold</td>
         <td><img src="claytex.jpg" width=250></td>
         <td><img src="3ds2.jpeg" width=250></td>
-        <td><img src="2020_11_04_MKTG_ESI_Logo_ColorTagline_rgb.png" width=250</td>
+        <td><img src="2020_11_04_MKTG_ESI_Logo_ColorTagline_rgb.png" width=250></td>
         <td><img src="juliacomputing.jpg" width=250></td>
     </tr>
     <tr>
