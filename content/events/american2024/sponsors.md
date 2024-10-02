@@ -1,5 +1,6 @@
 ## Our Sponsors
 
+{{<rawhtml>}}
 <div class="ma-masthead">
 <div class="container-xxl">
 <table>
@@ -24,3 +25,4 @@
 </table>
 </div>
 </div>
+{{</rawhtml>}}
