@@ -8,7 +8,7 @@ The **American Modelica Conference 2024** will be an in-person conference event,
 
 The schedule, titles and abstracts for all workshops are now available: [Workshops](workshops), and [Workshop Registration](workshops) is open as well.
 
-The preliminary [Agenda](agenda) is now online! 
+The preliminary [Agenda](agenda) and the [printed conference program](271463_Modelica_Storrs_v7.pdf) are now online! 
 
 ## About the Conference
 
