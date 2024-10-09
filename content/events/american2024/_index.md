@@ -34,12 +34,12 @@ In building on the successes of the previous American Modelica conference, we ar
     <tr>
         <td><b>Gold</b></td>
         <td><img src="claytex.jpg" width="250" alt="Claytex"></td>
-        <td><img src="3ds2.jpeg" width="250"></td>
+        <td><img src="3DS_Corp_Logotype_Blue_RGB.png" width="250"></td>
     </tr>
     <tr>     
         <td><b>Gold</b></td>
-        <td><img src="2020_11_04_MKTG_ESI_Logo_ColorTagline_rgb.png" width="250" alt="ESI"></td>
-        <td><img src="juliacomputing.jpg" width="250" alt="Julia Computing"></td>
+        <td><img src="XPI Logo.jpg" width="250" alt="ESI"></td>
+        <td><img src="juliahub.png" width="250" alt="Julia Hub"></td>
     </tr>
     <tr>
         <td><b>Silver</b></td>
