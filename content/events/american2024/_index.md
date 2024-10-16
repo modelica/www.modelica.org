@@ -11,7 +11,7 @@ The schedule, titles and abstracts for all workshops are now available: [Worksho
 The preliminary [Agenda](agenda) and the [printed conference program](271463_Modelica_Storrs_Program_SinglePages.pdf) are now online!
 
 ## Survey
-If you have been a participant, please fill out the survey, through this link: [AMC 2024 Survey] (https://bit.ly/amc2024_survey) or going there wiht this QR-code:
+If you have been a participant, please fill out the survey, through this link: [AMC 2024 Survey] (https://bit.ly/amc2024_survey) or going there with this QR-code:
 
 ![](amcsurevy.png)
 
