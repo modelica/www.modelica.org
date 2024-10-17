@@ -12,7 +12,7 @@ The preliminary [Agenda](agenda) and the [printed conference program](271463_Mod
 
 ## Survey
 If you have been a participant, please fill out the survey, through this link: 
-[AMC 2024 Survey](https://forms.gle/gwBx7V8o9i8FXmdD8https://bit.ly/amc2024_survey) or if you type it or going there with this QR-code:
+[AMC 2024 Survey](https://forms.gle/gwBx7V8o9i8FXmdD8) or if you type it or going there with this QR-code:
 
 ![](amcsurvey.png)
 
