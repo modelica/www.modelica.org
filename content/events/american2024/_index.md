@@ -10,12 +10,13 @@ The schedule, titles and abstracts for all workshops are now available: [Worksho
 
 The preliminary [Agenda](agenda) and the [printed conference program](271463_Modelica_Storrs_Program_SinglePages.pdf) are now online!
 
+<!--- 
 ## Survey
 If you have been a participant, please fill out the survey, through this link: 
 [AMC 2024 Survey](https://forms.gle/gwBx7V8o9i8FXmdD8) or if you type it or going there with this QR-code:
 
 <img src="amcsurvey.png" width=50%>
-
+--->
 ## Proceedings
 
 A printable version of the conference proceedings [(pdf, large at 20.6 MB!)](271463_Modelica_Storrs_Proceedings_v3_SinglePages.pdf) is now online for download. You will have access to all papers in the conference as a single file. Single paper links will be added after the conference.  
