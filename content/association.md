@@ -154,7 +154,7 @@ The following licenses are used by the Modelica Association for material provide
 | Project leader "DCP" | vacant |     |     |
 | Deputy Project leader "DCP" | Klaus Schuch | [AVL, Austria](https://www.avl.com/) | [klaus.schuch@avl.com](mailto:klaus.schuch@avl.com) |
 | Project leader "eFMI" | Christoff Bürger | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [christoff.buerger@3ds.com](mailto:christoff.buerger@3ds.com) |
-| Deputy Project leader "eFMI" | Hubertus Tummescheit | [Modelon, Sweden](http://www.modelon.com) | [hubertus.tummescheit@modelon.com](mailto:hubertus.tummescheit@modelon.com) |
+| Deputy Project leader "eFMI" | Hubertus Tummescheit | | [hubertus.tummescheit@gmail.com](mailto:hubertus.tummescheit@gmail.com) |
 
 ## Members of the Modelica Association with Specific Duties
 
