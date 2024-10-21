@@ -141,7 +141,7 @@ The following licenses are used by the Modelica Association for material provide
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| Marketing | Hubertus Tummescheit | [Modelon, Sweden](http://www.modelon.com) | [hubertus.tummescheit@modelon.com](mailto:hubertus.tummescheit@modelon.com) |
+| Marketing | Hubertus Tummescheit | | [hubertus.tummescheit@gmail.com](mailto:hubertus.tummescheit@gmail.com) |
 | Quality and Processes | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
 | Technology | [Martin Otter](https://rmc.dlr.de/sr/en/staff/martin.otter/) | [DLR-SR, Germany](https://www.dlr.de/sr/en/desktopdefault.aspx/tabid-11579) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
 | Project leader "Modelica Language"  | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
