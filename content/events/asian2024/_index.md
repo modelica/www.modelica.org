@@ -14,7 +14,7 @@ In addition to paper presentations, the conference features several Modelica tut
 By streaming the presentation, we will be able to share what we are researching in Asian with Modelicans on other continents. Additionally, technology sharing and networking among Modelicans will be possible through breaks, discussions, and dinner. Please note that full paper presentations are **required to be in person.**
 We hope many of you will attend.
 
-**Registration is now open** on [Eventbrite](https://www.eventbrite.com/o/modelica-association-ivh-89743647663)
+**Registration is now open** on [EVENTUS](https://event-us.kr/ivh/event/93615)
 
 
 <!-- We are looking forward to seeing you in Dallas. As a first for a Modelica conference, we are planning to organize a **Modelica-oriented job fair** at the in-person event in Dallas that gives a unique opportunity for employers, students about to graduate, and Modelica practitioners to get to know each other. More details will be forthcoming at this site as the conference date comes closer.   -->
