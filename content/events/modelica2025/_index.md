@@ -1,7 +1,7 @@
 <!-- As discussed with Dirk the event page of the 16th Int. Modelica Confrence 2025 will be built up similar to the american in 2024 -->
-# International Modelica Conference 2025
+# 16th International Modelica Conference
 
-We are glad to announce the **International Modelica Conference 2025**. It will take place at the marvelous city of Lucerne in Switzerland.  It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne  in cooperation with the [Modelica Association](/association/). This is the first visit of this conference series in Switzerland. 
+We are glad to announce the **16th International Modelica Conference** in 2025. It will take place at the marvelous city of Lucerne in Switzerland.  It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne  in cooperation with the [Modelica Association](/association/). This is the first visit of this conference series in Switzerland. 
 
 
 ![Luzern old part of town. Picture by Simon Koopmann](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Luzern_old_part_of_town.JPG/1280px-Luzern_old_part_of_town.JPG)
@@ -11,7 +11,6 @@ We are glad to announce the **International Modelica Conference 2025**. It will 
 Date of the conference:
 - September 8-10, 2025.
 
-
 ## About the Conference
 
 The International Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), [eFMI](http://efmi-standard.org/) and [DCP](https://dcp-standard.org/).
@@ -19,10 +18,51 @@ The program will cover processes and tools for the modeling of complex physical 
 
 In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition. 
 
-
 ## Our Sponsors
 
-The **International Modelica Conference** relies heavily on sponsors to maintain the affordability of the ticket prices. As a sponsor you are also given the opportunity to exhibit at the conference site. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors]. 
+The **International Modelica Conference** relies heavily on sponsors to maintain the affordability of the ticket prices. As a sponsor you are also given the opportunity to exhibit at the conference site. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](callforsponsors25). 
+
+
+<!-- {{<rawhtml>}}
+<table>
+    <tr>
+        <td><b>Platinum</b></td>
+        <td colspan="2" align="center"><img src="pics24/modelon.jpg" width="400" alt="Modelon"></td>
+    </tr>
+    <tr>
+        <td><b>Gold</b></td>
+        <td><img src="pics24/claytex.jpg" width="250" alt="Claytex"></td>
+        <td><img src="pics24/3DS_Corp_Logotype_Blue_RGB.png" width="250"></td>
+    </tr>
+    <tr>     
+        <td><b>Gold</b></td>
+        <td><img src="pics24/XPI Logo.jpg" width="250" alt="ESI"></td>
+        <td><img src="pics24/juliahub.png" width="250" alt="Julia Hub"></td>
+    </tr>
+    <tr>
+        <td><b>Silver</b></td>
+        <td  colspan="2" align="center"><img src="pics24/maplesoft.jpg" width="250" alt="Maplesoft"></td>
+    </tr>
+</table>
+{{</rawhtml>}} -->
+
+
+<!-- ## Keynote Speakers and Presentation Titles
+We are proud to announce our keynote speakers and the titles of their presentations: 
+
+Tuesday, October 15th: 
+
+|     |     |
+| :-: | :----- |
+| ![](pics24/Swami_small.jpg) |**Swaminathan Gopalswamy**, Director, Connected Autonomous Safe Technologies (CAST) Lab|
+| | **Modeling, Simulation,  and Autonomous Vehicles:  the challenges and opportunities**| 
+
+
+ Wednesday, October 16th:
+|     |     |
+| :-: | :----- |
+| ![](pics24/ClasJacobson_small.jpg) | **Clas A. Jacobson** Senior Fellow, Systems Engineering at Carrier |
+| | **Energy Urgency, Computation and Role of "Systems" Methods & Tools** | -->
 
 ## Scope of the Conference
 
@@ -62,25 +102,50 @@ The Modelica conference will bring together people using Modelica and/or other M
 
 ## Call for papers, user presentations and tutorials
 
-<!-- Please see the [call for papers](call2024) for details about paper submissions, and the calls for [industrial user presentations](call2024), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:   -->
-<!-- - June 1, 2024 Submission of extended abstracts for presentation-only contributions, [workshops and tutorials](https://docs.google.com/forms/d/e/1FAIpQLScsRLAe-YwK7yAQoW6B5KQQ87M_SU4dgj6eKnvpjG3h53HMGw/viewform) -->
+Please see the [call for papers](call2025) for details about paper submissions, and the calls for [industrial user presentations](call2025), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
 
+- June 15, 2024 Submission of full papers
+- June 1, 2024 Submission of extended abstracts for presentation-only contributions, [workshops and tutorials]
+<!-- (https://docs.google.com/forms/d/e/1FAIpQLScsRLAe-YwK7yAQoW6B5KQQ87M_SU4dgj6eKnvpjG3h53HMGw/viewform) -->
+- August 10, 2024 Notification of acceptance for papers and presentations
+- August 30th, 2024 Submission of final papers and one-page abstracts
+- October 7th, 2024 Submission of final presentations
 - May 1th, 2025 Submission of full papers
 - ?, 2025 Submission of extended abstracts for presentation-only contributions
 - June 16th, 2025 Notification of acceptance for papers and presentations
 - August 15th, 2025 Submission of final papers and one-page abstracts
 - ?, 2025 Submission of final presentations 
 
+
+
+## Sponsorship opportunities
+
+The American Modelica conference will be your opportunity to meet your customers again in a personal setting, at a great location. Please stay tuned for details about our sponsorship opportunities, we will post them here in the near future. Note that all sponsors will have the opportunity to exhibit at the conference, and that we don't offer a separate way to exhibit at the conference.  
+
 ## Organization and Contact
 
 The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne in cooperation with the [Modelica Association](/association/)
 
-**For general questions, please send an email to:** **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)**
+<!-- **For general questions, please send an email to:** **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)** -->
+**For general questions, please send an email to:** **to be determined**
+
 
 ### Conference Board
 
-  -  **Conference Co-Chair** Prof. Ulf Christian Müller (HSLU)
-  -  **Conference Co-Chair** NOTE: Frage an Dirk: Gibts eine Liste?
+  -  **Conference Co-Chair** Prof. Dr. Ulf Christian Müller, University of Applied Sciences and Arts Lucerne
+  -  **Conference Co-Chair** Dr. Dirk Zimmer, German Aerospace Center
+  -  **Conference Co-Chair** Dr. Hubertus Tummescheit, Modelon ?
+  -  **Conference Co-Chair** Dr. Rui Gao, RIGO TECH
+  -  **Conference Co-Chair** Dr. Francesco Casella, Politecnico di Milano ?
+  -  **Conference Co-Chair** Prof. Dr. Lars Mikelsons, Augsburg University ?
+  -  **Conference Co-Chair** Dr. Martin Schüler,  ?
+
+  <!-- -  **Conference Co-Chair** Dr. Michael Tiller, Juliahub
+  -  **Local Co-Chair** Prof. George Bollas, University of Connecticut
+  -  **Program Chair** Prof. Luigi Vanfretti, Rensselaer Polytechnic Insitute
+  -  **Program Chair** Dr. Michael Wetter,Lawrence Berkeley National Laboratory
+  -  **Conference Excecutive Coordinator** Dr. Christopher Laughman, Mitsubishi Electric Research Laboratories
+  -  Behnam Afsharpoya, Dassault Systemes -->
 
 
 
