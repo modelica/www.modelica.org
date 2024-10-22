@@ -43,17 +43,18 @@ The **International Modelica Conference** relies heavily on sponsors to maintain
 {{</rawhtml>}} -->
 
 
-<!-- ## Keynote Speakers and Presentation Titles
+## Keynote Speakers and Presentation Titles
 We are proud to announce our keynote speakers and the titles of their presentations: 
 
-Tuesday, October 15th: 
+
+Tuesday, September 9th: 
 
 |     |     |
 | :-: | :----- |
-| ![](pics24/Swami_small.jpg) |**Swaminathan Gopalswamy**, Director, Connected Autonomous Safe Technologies (CAST) Lab|
-| | **Modeling, Simulation,  and Autonomous Vehicles:  the challenges and opportunities**| 
+| {{<rawhtml>}} <img src="pics25/ben-moseley-768x768.webp" alt="BenMoseley" width="200" /> {{</rawhtml>}}  |**Ben Moseley**, Head of Scalable Scientific Machine Learning Lab Imperial College London, previous lecturer at ETH Zürich AI Center|
+| | **Physics-informed machine learning**| 
 
-
+<!--
  Wednesday, October 16th:
 |     |     |
 | :-: | :----- |
@@ -68,7 +69,7 @@ Tuesday, October 15th:
 <!-- Registration and accommodation recommendations are not yet available.  -->
 The conference registration will be offered at the following conditions. Details regarding registration and accommodation recommendations will be provided in due course.
 
-| Registration | Valid | incl. Dinner | Early | Late |
+| Registration | Valid | incl. Dinner | Early-Price | Late-Price |
 |--------------|--------------|--------------|--------------|--------------|
 | Standard | Mon-Wed | yes | 750 CHF | 900 CHF|
 | PhD | Mon-Wed | no | 400 CHF | 500 CHF|
@@ -107,6 +108,8 @@ The Modelica conference will bring together people using Modelica and/or other M
 - Simulation and code generation for embedded control systems
 - Simulation acceleration by use of many CPU cores or GPU cores
 - Applications of Modelica for optimization and optimal control
+- **Applications of Modelica for in scientific machine learning**
+  - **such as Physics-informed neural networks**
 - Modelica modeling, simulation and design tools
 - Symbolic algorithms and numerical methods for model transformation and simulation
 - Discrete modeling techniques − FEM, CFD, DEM (Discrete Element Method), ...
