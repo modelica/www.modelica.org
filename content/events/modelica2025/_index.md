@@ -50,7 +50,22 @@ The **International Modelica Conference** relies heavily on sponsors to maintain
 {{</rawhtml>}} -->
 
 
-## Keynote Speakers and Presentation Titles
+## Important Dates
+
+| Date | |
+| --- | --- |
+|January 6, 2025 |Call for papers |
+|April 17, 2025 |Deadline for submissions|
+|June 1, 2025 | Workshops and Tutorials, and Vendor Presentations|
+|June 16, 2025|Notification of acceptance for papers and presentations|
+|June 30, 2025|Deadline for early registration|
+|June 30 , 2025 |Deadline for Industrial User Presentation submissions|
+|August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
+|September 8-10, 2025| 16th International Modelica Conference|
+
+
+
+<!-- ## Keynote Speakers and Presentation Titles
 We are proud to announce our keynote speakers and the titles of their presentations: 
 
 
@@ -66,7 +81,7 @@ Tuesday, September 9th:
 |     |     |
 | :-: | :----- |
 | {{<rawhtml>}} <img src="pics25/JohanAkesson.jpeg" alt="BenMoseley" width="200" /> {{</rawhtml>}}  | **Johan R Åkesson** Associate Director for Computational Engineering at Carrier, EX. CTO Modelon AB  |
-| | **TBD** |
+| | **TBD** | -->
 
 
 ## Registration and Accommodation
@@ -76,12 +91,12 @@ Tuesday, September 9th:
 <!-- Registration and accommodation recommendations are not yet available.  -->
 The conference registration will be offered at the following conditions. Details regarding registration and accommodation recommendations will be provided in due course.
 
-| Registration | Valid | incl. Dinner | Early-Price | Late-Price |
+| Registration | Valid | incl. Dinner | Early-Price | Price |
 |--------------|--------------|--------------|--------------|--------------|
 | Standard | Mon-Wed | yes | 750 CHF | 900 CHF|
 | PhD | Mon-Wed | no | 400 CHF | 500 CHF|
 | Student | Mon-Wed | no | 200 CHF | 250 CHF|
-| Industrial User Presentation ?  | only Tuesday | yes | ? CHF | ? CHF|
+| Industrial User Presentation | only Tuesday | no | 200 CHF | 250 CHF|
 | Dinner | Dinner | yes | 150 CHF | 150 CHF|
 
 
@@ -115,8 +130,6 @@ The Modelica conference will bring together people using Modelica and/or other M
 - Simulation and code generation for embedded control systems
 - Simulation acceleration by use of many CPU cores or GPU cores
 - Applications of Modelica for optimization and optimal control
-- **Applications of Modelica for in scientific machine learning**
-  - **such as Physics-informed neural networks**
 - Modelica modeling, simulation and design tools
 - Symbolic algorithms and numerical methods for model transformation and simulation
 - Discrete modeling techniques − FEM, CFD, DEM (Discrete Element Method), ...
@@ -129,19 +142,6 @@ The Modelica conference will bring together people using Modelica and/or other M
 ## Call for papers, user presentations and tutorials
 
 The call for papers and further information will go out in January 2025. 
-
-## Important Dates
-
-| Date | |
-| --- | --- |
-|January 6, 2025 |Call for papers |
-|April 17, 2025 |Deadline for submissions|
-|TBD, 2025 |Deadline for Industrial User Presentation submissions|
-|TBD, 2025 | Workshops and Tutorials, and Vendor Presentations|
-|June 16, 2025|Notification of acceptance for papers and presentations|
-|June 16, 2025|Deadline for early registration|
-|August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
-|September 8-10, 2025| 16th International Modelica Conference|
 
 <!-- Please see the [call for papers](call2025) for details about paper submissions, and the calls for [industrial user presentations](call2025), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
 
@@ -168,13 +168,12 @@ The American Modelica conference will be your opportunity to meet your customers
 The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne in cooperation with the [Modelica Association](/association/)
 
 <!-- **For general questions, please send an email to:** **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)** -->
-**For general questions, please send an email to:** **TBD**
-
 
 ### Conference Board
 
   -  **Conference Co-Chair** Prof. Dr. Ulf Christian Müller, University of Applied Sciences and Arts Lucerne
   -  **Conference Co-Chair** Dr. Dirk Zimmer, German Aerospace Center   
+
   Further candidates for the Conference Board have already been requested and the process is ongoing.
   <!-- -  **Conference Co-Chair** Dr. Hubertus Tummescheit, Modelon ?
   -  **Conference Co-Chair** Dr. Rui Gao, RIGO TECH
