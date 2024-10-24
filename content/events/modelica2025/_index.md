@@ -1,5 +1,12 @@
 <!-- As discussed with Dirk the event page of the 16th Int. Modelica Confrence 2025 will be built up similar to the american in 2024 -->
-# 16th International Modelica Conference
+<!-- # The 16th International Modelica Conference color: #6d7985;-->
+{{<rawhtml>}}
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+    <h1 style="margin: 0;">The 16th International Modelica Conference</h1>
+    <img src="pics25/ConferenceLogo.svg" alt="ConferenceLogo" width="300" />
+</div>
+{{</rawhtml>}}
+
 
 We are glad to announce the **16th International Modelica Conference**. It will take place at the marvelous city of **Lucerne in Switzerland from September 8-10, 2025**. It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne, in cooperation with the [Modelica Association](/association/). This is the first visit of this conference series in Switzerland. 
 
@@ -54,12 +61,12 @@ Tuesday, September 9th:
 | {{<rawhtml>}} <img src="pics25/ben-moseley-768x768.webp" alt="BenMoseley" width="200" /> {{</rawhtml>}}  |**Ben Moseley**, Head of Scalable Scientific Machine Learning Lab Imperial College London, previous lecturer at ETH Zürich AI Center|
 | | **Physics-informed machine learning**| 
 
-<!--
- Wednesday, October 16th:
+
+ Wednesday, September 10th: 
 |     |     |
 | :-: | :----- |
-| ![](pics24/ClasJacobson_small.jpg) | **Clas A. Jacobson** Senior Fellow, Systems Engineering at Carrier |
-| | **Energy Urgency, Computation and Role of "Systems" Methods & Tools** | -->
+| {{<rawhtml>}} <img src="pics25/JohanAkesson.jpeg" alt="BenMoseley" width="200" /> {{</rawhtml>}}  | **Johan R Åkesson** Associate Director for Computational Engineering at Carrier, EX. CTO Modelon AB  |
+| | **TBD** |
 
 
 ## Registration and Accommodation
@@ -121,7 +128,20 @@ The Modelica conference will bring together people using Modelica and/or other M
 
 ## Call for papers, user presentations and tutorials
 
-The call for papers and further information will go out in January 2025
+The call for papers and further information will go out in January 2025. 
+
+## Important Dates
+
+| Date | |
+| --- | --- |
+|January 6, 2025 |Call for papers |
+|April 17, 2025 |Deadline for submissions|
+|TBD, 2025 |Deadline for Industrial User Presentation submissions|
+|TBD, 2025 | Workshops and Tutorials, and Vendor Presentations|
+|June 16, 2025|Notification of acceptance for papers and presentations|
+|June 16, 2025|Deadline for early registration|
+|August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
+|September 8-10, 2025| 16th International Modelica Conference|
 
 <!-- Please see the [call for papers](call2025) for details about paper submissions, and the calls for [industrial user presentations](call2025), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
 
@@ -148,18 +168,19 @@ The American Modelica conference will be your opportunity to meet your customers
 The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne in cooperation with the [Modelica Association](/association/)
 
 <!-- **For general questions, please send an email to:** **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)** -->
-**For general questions, please send an email to:** **to be determined ulfchristian**
+**For general questions, please send an email to:** **TBD**
 
 
 ### Conference Board
 
   -  **Conference Co-Chair** Prof. Dr. Ulf Christian Müller, University of Applied Sciences and Arts Lucerne
-  -  **Conference Co-Chair** Dr. Dirk Zimmer, German Aerospace Center
-  -  **Conference Co-Chair** Dr. Hubertus Tummescheit, Modelon ?
+  -  **Conference Co-Chair** Dr. Dirk Zimmer, German Aerospace Center   
+  Further candidates for the Conference Board have already been requested and the process is ongoing.
+  <!-- -  **Conference Co-Chair** Dr. Hubertus Tummescheit, Modelon ?
   -  **Conference Co-Chair** Dr. Rui Gao, RIGO TECH
   -  **Conference Co-Chair** Dr. Francesco Casella, Politecnico di Milano ?
   -  **Conference Co-Chair** Prof. Dr. Lars Mikelsons, Augsburg University ?
-  -  **Conference Co-Chair** Dr. Martin Schüler,  ?
+  -  **Conference Co-Chair** Dr. Martin Schüler,  ? -->
 
   <!-- -  **Conference Co-Chair** Dr. Michael Tiller, Juliahub
   -  **Local Co-Chair** Prof. George Bollas, University of Connecticut

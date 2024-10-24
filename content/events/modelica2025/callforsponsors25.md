@@ -24,7 +24,9 @@ We offer exhibition and sponsoring in 4 different options (prices without 8.1%-V
 - Silver:	5.000,00 CHF (includes 1 free registrations)
 - Bronze:	3.000,00 CHF  -->
 
-The number of spaces available for each option is limited. The exhibition spaces range from 12 to 20 m². Higher-level sponsors may choose their exhibition space first in order to secure a larger stand area. Depending on the option, the logos of the sponsoring partners will be positioned more prominently on the conference website and in the conference program. The [virtual 3D tour](https://dock.hslu.ch/rundgang/index.html?startscene=i) will give you a comprehensive impression of the venue. The exhibition area is located in a transit and recreation zone to ensure high visibility. Sponsorship of the conference is also possible without an exhibition area.   
+The number of spaces available for each option is limited. The exhibition spaces range from 12 to 20 m². Higher-level sponsors may choose their exhibition space first in order to secure a larger stand area. Depending on the option, the logos of the sponsoring partners will be positioned more prominently on the conference website and in the conference program. The [virtual 3D tour](https://dock.hslu.ch/rundgang/index.html?startscene=i) will give you a comprehensive impression of the venue. 
+
+<!-- The exhibition area is located in a transit and recreation zone to ensure high visibility. Sponsorship of the conference is also possible without an exhibition area.    -->
 
 We hope to have sparked your interest and are looking forward to a personal conversation to discuss the best sponsorship option for your organization. It would be our pleasure to welcome you as a partner at the 16th International Modelica Conference.
 
@@ -32,7 +34,7 @@ We hope to have sparked your interest and are looking forward to a personal conv
 
 ## Contact
 
-Sponsoring contracts are signed directly with the local organization of the conference, headed by Prof. Ulf Christian Müller. 
+Sponsoring contracts are signed directly with the local organization of the conference, headed by Prof. Dr. Ulf Christian Müller. 
 <!-- He will be happy to answer your questions. If you are interested please contact: -->
 
 [Head of Research Group System Modeling, Digital Twins at HSLU T&A, IME](https://www.hslu.ch/en/lucerne-school-of-engineering-architecture/about-us/organization/competence-centres-and-research-groups/engineering-and-technology/fluidmechanik-hydromaschinen/dynamische-stroemungs-und-prozesssimulationen/digital-twins/)   
