@@ -1,12 +1,5 @@
 <!-- As discussed with Dirk the event page of the 16th Int. Modelica Confrence 2025 will be built up similar to the american in 2024 -->
-<!-- # The 16th International Modelica Conference color: #6d7985;-->
-{{<rawhtml>}}
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-    <h1 style="margin: 0;">The 16th International Modelica Conference</h1>
-    <img src="pics25/ConferenceLogo.svg" alt="ConferenceLogo" width="300" />
-</div>
-{{</rawhtml>}}
-
+#  The 16th International Modelica Conference
 
 We are glad to announce the **16th International Modelica Conference**. It will take place at the marvelous city of **Lucerne in Switzerland from September 8-10, 2025**. It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne, in cooperation with the [Modelica Association](/association/). This is the first visit of this conference series in Switzerland. 
 
