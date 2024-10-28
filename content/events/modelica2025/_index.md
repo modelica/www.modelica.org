@@ -56,10 +56,10 @@ The **International Modelica Conference** relies heavily on sponsors to maintain
 | --- | --- |
 |January 6, 2025 |Call for papers |
 |April 17, 2025 |Deadline for submissions|
-|June 1, 2025 | Workshops and Tutorials, and Vendor Presentations|
+|June 1, 2025 | Deadline for Workshops and Tutorials, and Vendor Presentations|
+|June 1, 2025 | Deadline for Industrial User Presentation submissions|
 |June 16, 2025|Notification of acceptance for papers and presentations|
 |June 30, 2025|Deadline for early registration|
-|June 30 , 2025 |Deadline for Industrial User Presentation submissions|
 |August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
 |September 8-10, 2025| 16th International Modelica Conference|
 
