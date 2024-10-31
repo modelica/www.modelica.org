@@ -1,22 +1,19 @@
-<!-- As discussed with Dirk the event page of the 16th Int. Modelica Confrence 2025 will be built up similar to the american in 2024 -->
-#  The 16th International Modelica Conference
+# The 16th International Modelica & FMI Conference
 
-We are glad to announce the **16th International Modelica Conference**. It will take place at the marvelous city of **Lucerne in Switzerland from September 8-10, 2025**. It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne, in cooperation with the [Modelica Association](/association/). This is the first visit of this conference series in Switzerland. 
-
+We are glad to announce the **16th International Modelica & FMI Conference**. It will take place at the marvelous city of **Lucerne in Switzerland from September 8-10, 2025**. It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne, in cooperation with the [Modelica Association](/association/). This is the first visit of this conference series in Switzerland. 
 
 ![Luzern old part of town. Picture by Simon Koopmann](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Luzern_old_part_of_town.JPG/1280px-Luzern_old_part_of_town.JPG)
 
-
 ## About the Conference
 
-The International Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), [eFMI](http://efmi-standard.org/) and [DCP](https://dcp-standard.org/).
+The International Modelica & FMI Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), [eFMI](http://efmi-standard.org/) and [DCP](https://dcp-standard.org/).
 The program will cover processes and tools for the modeling of complex physical and cyber-physical systems as applied to a wide range of research and industrial applications. 
 
 In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition. 
 
 ## Call for Sponsors
 
-The **International Modelica Conference** relies heavily on sponsors to maintain the affordability of the ticket prices. As a sponsor you are also given the opportunity to exhibit at the conference site. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](callforsponsors25). 
+The **International Modelica & FMI Conference** relies heavily on sponsors to maintain the affordability of the ticket prices. As a sponsor you are also given the opportunity to exhibit at the conference site. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](callforsponsors25). 
 
 
 <!-- {{<rawhtml>}}
@@ -54,7 +51,7 @@ The **International Modelica Conference** relies heavily on sponsors to maintain
 |June 16, 2025|Notification of acceptance for papers and presentations|
 |June 30, 2025|Deadline for early registration|
 |August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
-|September 8-10, 2025| 16th International Modelica Conference|
+|September 8-10, 2025| 16th International Modelica & FMI Conference|
 
 
 
@@ -111,7 +108,7 @@ Development in the Modelica Association is organized in [Modelica Association Pr
 
 These projects collaborate to design and maintain a set of coordinated standards for modeling and simulation of complex physical systems.
 
-The Modelica conference will bring together people using Modelica and/or other Modelica Association standards for modeling, simulation, and control applications, such as Modelica language designers, tool vendors and library developers. The Modelica Conference provides Modelica users with the opportunity to stay informed about the latest language, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference will cover topics such as the following:
+The Modelica & FMI conference will bring together people using Modelica and/or other Modelica Association standards for modeling, simulation, and control applications, such as Modelica language designers, tool vendors and library developers. The Modelica Conference provides Modelica users with the opportunity to stay informed about the latest language, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference will cover topics such as the following:
 - Multi-engineering modeling and simulation with free and commercial Modelica libraries (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, ...)
 - Automotive applications
 - Thermodynamic and energy systems applications
@@ -164,10 +161,12 @@ The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://w
 
 ### Conference Board
 
-  -  **Conference Co-Chair** Prof. Dr. Ulf Christian Müller, University of Applied Sciences and Arts Lucerne
-  -  **Conference Co-Chair** Dr. Dirk Zimmer, German Aerospace Center   
+  - **Conference Co-Chair:** Prof. Dr. Ulf Christian Müller, University of Applied Sciences and Arts Lucerne
+  - **Conference Co-Chair:** Dr. Dirk Zimmer, German Aerospace Center
+  - **Board Member:** Dr. Christian Bertsch, Robert Bosch GmbH
+  - **Board Member:** Dr. Hubertus Tummescheit
+  - **Board Member:** Dr. Rui Gao, RIGO TECH Co. Ltd.
 
-  Further candidates for the Conference Board have already been requested and the process is ongoing.
   <!-- -  **Conference Co-Chair** Dr. Hubertus Tummescheit, Modelon ?
   -  **Conference Co-Chair** Dr. Rui Gao, RIGO TECH
   -  **Conference Co-Chair** Dr. Francesco Casella, Politecnico di Milano ?
