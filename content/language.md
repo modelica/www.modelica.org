@@ -1,7 +1,11 @@
 ---
 ---
 
-![Modelica Language](/images/Modelica_Language.svg)
+{{<rawhtml>}}
+<div class="col-lg-8 mx-auto text-center mb-5">
+    <div class="ma-logo modelica-language-logo" style="height: 150px; width: 300px; margin: auto"></div>
+</div>
+{{</rawhtml>}}
 
 Modelica is a language for modeling of cyber-physical systems, supporting acausal connection of components governed by mathematical equations to facilitate modeling from first principles.
 It provides object-oriented constructs that facilitate reuse of models, and can be used conveniently for modeling complex systems containing, e.g., mechanical, electrical, electronic, magnetic, hydraulic, thermal, control, electric power or process-oriented subcomponents.

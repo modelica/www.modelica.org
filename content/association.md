@@ -3,7 +3,7 @@
 
 {{<rawhtml>}}
 <div class="col-lg-8 mx-auto text-center mb-5">
-    <img src="/images/Modelica_Association.svg" width="300" alt="Modelica Association" class="d-block mx-auto mb-4" style="max-width: 80%;">
+    <div class="ma-logo modelica-association-logo" style="height: 150px; width: 300px; margin: auto"></div>
 </div>
 {{</rawhtml>}}
 
@@ -39,7 +39,7 @@ The [application form for individual members](https://github.com/user-attachment
 <div class="container my-5">
     <div class="row  justify-content-center my-2">
         <div class="col-lg-4 col-md-6 mb-2">
-            <img src="/images/Modelica_Language.svg" height="70" style="margin: 0"/>
+            <div class="ma-logo modelica-language-logo" style="height: 70px"></div>
         </div>
         <div class="col-lg-4 col-md-6 mt-1 mb-4">
             <p>A project to develop, standardize, and promote Modelica, a language to model and simulate multi-domain cyber physical systems in a convenient way.</p>
@@ -49,7 +49,7 @@ The [application form for individual members](https://github.com/user-attachment
 
     <div class="row justify-content-center my-2">
         <div class="col-lg-4 col-md-6 mb-2">
-            <img src="/images/Modelica_Libraries.svg" height="70" style="margin: 0"/>
+            <div class="ma-logo modelica-libraries-logo" style="height: 70px"></div>
         </div>
         <div class="col-lg-4 col-md-6 mt-1 mb-4">
             <p>A project to develop, maintain, and promote the open source Modelica libraries and model components in many domains based on standardized interface definitions.</p>
@@ -59,7 +59,7 @@ The [application form for individual members](https://github.com/user-attachment
 
     <div class="row justify-content-center my-2">
         <div class="col-lg-4 col-md-6 mb-2">
-            <img src="/images/FMI.svg" height="60" style="margin: 0"/>
+            <div class="ma-logo fmi-logo" style="height: 60px"></div>
         </div>
         <div class="col-lg-4 col-md-6 mt-1 mb-4">
             <p>A free standard that defines a container and interface to exchange dynamic simulation models using a combination of XML files, binaries, and C code.</p>
@@ -69,7 +69,7 @@ The [application form for individual members](https://github.com/user-attachment
 
     <div class="row  justify-content-center my-2">
         <div class="col-lg-4 col-md-6 mb-2">
-            <img src="/images/SSP.svg" height="50" style="margin: 0"/>
+            <div class="ma-logo ssp-logo" style="height: 50px"></div>
         </div>
         <div class="col-lg-4 col-md-6 mt-1 mb-4">
         <p>A tool independent standard to define complete systems of one or more FMUs including its parameterization that can be transferred between simulation tools.</p>
@@ -79,7 +79,7 @@ The [application form for individual members](https://github.com/user-attachment
 
     <div class="row  justify-content-center my-2">
         <div class="col-lg-4 col-md-6 mb-2">
-            <img src="/images/DCP.svg" height="60" style="margin: 0"/>
+            <div class="ma-logo dcp-logo" style="height: 60px"></div>
         </div>
         <div class="col-lg-4 col-md-6 mt-1 mb-4">
         <p>A platform and communication medium independent standard to integrate models and real-time systems into simulation environments.</p>
@@ -89,7 +89,7 @@ The [application form for individual members](https://github.com/user-attachment
 
     <div class="row  justify-content-center my-2">
         <div class="col-lg-4 col-md-6 mb-2">
-            <img src="/images/eFMI.svg" height="65" style="margin: 0"/>
+            <div class="ma-logo efmi-logo" style="height: 65px"></div>
         </div>
         <div class="col-lg-4 col-md-6 mt-1 mb-4">
         <p>A standard to seamlessly integrate physics design models of systems with their electronic controls development.</p>

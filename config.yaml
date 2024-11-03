@@ -2,8 +2,9 @@ baseURL: https://modelica.org
 title: Modelica
 theme: ma-hugo-theme
 params:
-  logo: /images/m_ball.svg
+  logo: /images/ma-logos/dark/m-ball.svg
   favicon: /images/m-ball-favicon.svg
+  darkMode: true
   email: board@modelica.org
   uacode: UA-145375737-1
   linkedin: modelica-association
