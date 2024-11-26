@@ -241,18 +241,6 @@ Contact: [enquiries@claytex.com](mailto:info@claytex.co.uk)
 
 We specialise in the development and application of multi-domain CAE models for automotive powertrain applications. We provide integrated solutions tailored to your needs, including modelling, simulation, analysis, and process development.
 
----
-
-### [Deltares](http://www.deltares.nl/), Delft, The Netherlands
-
-Contact: [jorn.baayen@deltares.nl](mailto:jorn.baayen@deltares.nl) 
-
-Deltares is an institute for applied research in the field of water and subsurface resources. Deltares offers various services including
-
-* Modelling, optimization, and control of reservoir systems
-* Modelling, optimization, and control of pipeline systems.
-
-Typical applications include decision support systems for hydro power operators, and optimization-based control of district heating networks.
 
 ---
 
@@ -309,11 +297,11 @@ Besides this we apply ADAMS, Simpack, Simulink, CATIA, Pro/E, CFD and many other
 
 ---
 
-### Model Based Innovation LLC](https://www.modelbased.cloud), Hartford, Connecticut, USA. 
+### [Model Based Innovation LLC](https://www.modelbased.cloud), Hartford, Connecticut, USA. 
 
 Contact:  <br>[info@modelbased.cloud](mailto:info@modelbased.cloud) 
 
-Model Based Innovation LLC provides engineering services for advanced model-based engineering design. MBI is specialized in:
+Model Based Innovation LLC provides engineering services for advanced model-based engineering design. MBI LLC is specialized in:
 
 * Helping companies to get started with model based design and using simulations for product development
 * Custom model- and library development
