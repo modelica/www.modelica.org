@@ -1,0 +1,16 @@
+<div class="row mb-5 book">
+    <div class="col-md-4">
+        <img src="{{ .Get "image" }}">
+    </div>
+    <div class="col-md-8">
+        <div class="title">
+            <a href="{{ .Get "link" }}">{{ .Get "name" }}</a>
+        </div>
+        <div class="author text-body-secondary">
+            by {{ .Get "author" }} | {{ .Get "year" }}
+        </div>
+        <div class="description">
+            {{ .Get "description" }}
+        </div>
+    </div>
+</div>
