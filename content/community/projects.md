@@ -19,6 +19,8 @@ The development of Modelica or FMI is supported by a number of externally funded
 | Leader | Dr. Oliver Lenord  (Robert Bosch GmbH) |
 | Purpose | The European Climate Law sets the target of reducing net greenhouse gas emissions by at least 55% for 2030 in Europe and to become climate-neutral by 2050. To meet these ambitious goals, open standards and established modelling and simulation tools need be enhanced to better support large-scale systems and distributed controllers optimized to minimize energy consumption and greenhouse gas emissions. Several industrial demonstrators will showcase how the OpenSCALING innovations are applied in the energy, building, aviation, and automotive domains through green hydrogen production, more efficient heat pumps, fuel cell propulsion and electrified vehicles. |
 
+Finalized research projects
+---------------------------
 
 |     |     |
 | --- | --- |
@@ -30,9 +32,6 @@ The development of Modelica or FMI is supported by a number of externally funded
 | Project partners | 9 German partners from industrial and research organizations, with a share of 1/3 of the funding assigned to SME. |
 | Leader | Oliver Lenord (Robert Bosch GmbH) |
 | Purpose | The vehicle of the future is expected to be smart. This implies a high degree of self-awareness, in other words the ability to determine and predict the state of itself and the surrounding. Creating models describing the dynamic behavior quickly and with little effort is a key competence. Classical physical models derived from first principles and data-driven models using Artificial Intelligence shall be combined to find a "Proper Model" in the sense of the best fit in terms of the trade-off between computational effort and accuracy. A framework shall be provided that allows to partially automate the hybrid method selection and model generation process based on a given set of requirements, existing physical models and data to accelerate the development of smarter vehicles and products. |
-
-Finalized research projects
----------------------------
 
 |     |     |
 | --- | --- |
