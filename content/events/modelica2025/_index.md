@@ -79,7 +79,7 @@ Tuesday, September 9th:
 <!-- Registration is now open at [Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2024-tickets-794519207337?aff=oddtdtcreator). Please register soon to make planning easy for us. Early Bird tickets will be available until August 10th. If you need a hotel for the conference, we recommend the Graduate Hotel on the UCONN campus in waking distance to the conferene venue. You can reserve a room for a discounted room rate through [**this link**](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=BDLGSGU&corporateCode=3439604). Other hotels are available in the vicinity, but are in 10-15 minutes of driving distance from the conference.  -->
 
 <!-- Registration and accommodation recommendations are not yet available.  -->
-The conference registration will be offered at the following conditions. Details regarding registration and accommodation recommendations will be provided in due course.
+The conference registration will be offered at the following conditions. Details regarding registration will be provided in due course.
 
 | Registration | Valid | incl. Dinner | Early-Price | Price |
 |--------------|--------------|--------------|--------------|--------------|
@@ -89,8 +89,9 @@ The conference registration will be offered at the following conditions. Details
 | Industrial User Presentation | only Tuesday | no | 200 CHF | 250 CHF|
 | Dinner | Dinner | yes | 150 CHF | 150 CHF|
 
+The conference will take place at the Rotkreuz campus of Lucerne University of Applied Sciences and Arts, which can be reached in as little as 13 minutes by train from Lucerne railroad station. We recommend taking the train to the campus, as the campus is located directly at Rotkreuz station. The university cannot provide parking spaces in Rotkreuz. There are parking spaces in the vicinity of the campus whose availability and prices are not subject to the university. 
 
-
+Under the following [link](https://regis.buchertravel.ch/event/International_Modelica_Conference2025), conference participants will find a limited contingent of hotels in Lucerne and Rotkreuz at discounted rates. Please use the search window to view all available hotels and prices. We would like to point out that Lucerne offers significantly more tourist attractions than Rotkreuz. However, Lucerne is in high season during the conference, so accommodation costs may be higher. Cheaper alternatives can be found, for example, in youth hostels in the city of Lucerne, Airbnbs, or hotels in the vicinity of Lucerne and Rotkreuz with good rail connections.
 
 
 ## Scope of the Conference
