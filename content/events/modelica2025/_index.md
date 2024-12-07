@@ -115,16 +115,17 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 - Thermodynamic and energy systems applications
 - Mechatronics and robotics applications
 - Medicine and biology applications
+- Martime and offshore applications
 - Other industrial applications, such as electric drives, power systems, aerospace, etc.
 - Large-scale system modeling
 - Real-time and hardware-in-the-loop simulation
 - Simulation and code generation for embedded control systems
 - Simulation acceleration by use of many CPU cores or GPU cores
-- Applications of Modelica for optimization and optimal control
+- Applications of Modelica and FMI for optimization and optimal control
 - Modelica modeling, simulation and design tools
 - Symbolic algorithms and numerical methods for model transformation and simulation
 - Discrete modeling techniques − FEM, CFD, DEM (Discrete Element Method), ...
-- New features of the Modelica language and of FMI
+- New features of the Modelica language, FMI, eFMI, DCP and SSP
 - Experimental language designs and implementations related to Modelica
 - Modelica in other application areas (mathematical programming, databases etc.)
 - Modelica for teaching and education
