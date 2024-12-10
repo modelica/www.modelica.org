@@ -33,12 +33,12 @@ The **Asian Modelica Conference 2024** relies heavily on sponsors to maintain th
 
 Development in the Modelica Association is organized in [Modelica Association Projects](/association/#modelica-association-projects):
 
-- LANG - Modelica Language
-- LIB - Modelica Libraries
-- FMI - Functional Mock-up Interface
-- eFMI - Functional Mock-up Interface for embedded systems
-- SSP - System Structure and Parameterization of Components for Virtual System Design
-- DCP - Distributed Co-Simulation Protocol
+- [LANG](/language/) - Modelica Language
+- [LIB](/libraries/) - Modelica Libraries
+- [FMI](https://fmi-standard.org/) - Functional Mock-up Interface
+- [eFMI](https://efmi-standard.org/) - Functional Mock-up Interface for embedded systems
+- [SSP](https://ssp-standard.org/) - System Structure and Parameterization of Components for Virtual System Design
+- [DCP](https://dcp-standard.org/) - Distributed Co-Simulation Protocol
 
 These projects collaborate to design and maintain a set of coordinated standards for modeling and simulation of complex physical systems.
 
@@ -88,13 +88,12 @@ The conference is organized by [iVH](http://www.ivh.co.kr/) in cooperation with 
 
 ### Conference Board
 
-- Research Fellow YongHa Han, HMC, Korea
-- Dr. Daeoh Kang, iVH, Korea
-- Dr. Rui Gao, RIGO TECH Co., Ltd, Japan
-- Dr. Beomsub Kim, HyunDai AutoEver
-- Professor Hwang Sung-Ho, SungkyunGwan University, Korea
-- Professor Woongchul Choi, Kookmin University, Korea
-- Dr. Martin Otter, DLR, Germany
-- Prof. Dr. Martin Sjölund, Linköping University, Sweden
-- Dr. Hubertus Tummescheit, Modelon Inc, West Hartford, USA
-
+- **Research Fellow YongHa Han**, HMC, Korea
+- **Dr. Daeoh Kang**, iVH, Korea
+- **Dr. Rui Gao**, RIGO TECH Co., Ltd, Japan
+- **Dr. Beomsub Kim**, HyunDai AutoEver
+- **Professor Hwang Sung-Ho**, SungkyunGwan University, Korea
+- **Professor Woongchul Choi**, Kookmin University, Korea
+- **Dr. Martin Otter**, DLR, Germany
+- **Prof. Dr. Martin Sjölund**, Linköping University, Sweden
+- **Dr. Hubertus Tummescheit**, Modelon Inc, West Hartford, USA
