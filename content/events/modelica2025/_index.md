@@ -133,10 +133,10 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 
 ## Call for papers, user presentations and tutorials
 
-The call for papers and further information will go out in January 2025. 
+<!-- The call for papers and further information will go out in January 2025.  -->
 
-<!-- Please see the [call for papers](call2025) for details about paper submissions, and the calls for [industrial user presentations](call2025), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
-
+ Please see the [call for papers](call2025) for details about paper submissions, and the calls for [industrial user presentations](call2025), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. <!--The submission deadlines are as follows:   -->
+<!-- 
 - June 15, 2024 Submission of full papers
 - June 1, 2024 Submission of extended abstracts for presentation-only contributions, [workshops and tutorials]
 (https://docs.google.com/forms/d/e/1FAIpQLScsRLAe-YwK7yAQoW6B5KQQ87M_SU4dgj6eKnvpjG3h53HMGw/viewform) 
@@ -166,7 +166,7 @@ The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://w
   - **Conference Co-Chair:** Prof. Dr. Ulf Christian Müller, University of Applied Sciences and Arts Lucerne
   - **Conference Co-Chair:** Dr. Dirk Zimmer, German Aerospace Center
   - **Board Member:** Prof. Francesco Casella, Politecnico di Milano
-  - **Board Member:** Prof. Lars Mikelsons, Augsburg University
+  - **Board Member:** Prof. Lars Mikelsons, University of Augsburg
   - **Board Member:** Dipl.-Math. Christian Bertsch, Robert Bosch GmbH
   - **Board Member:** Dr. Hubertus Tummescheit
   - **Board Member:** Dr. Rui Gao, RIGO TECH Co. Ltd.
