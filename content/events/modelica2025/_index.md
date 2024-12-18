@@ -166,7 +166,7 @@ The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://w
   - **Conference Co-Chair:** Prof. Dr. Ulf Christian Müller, University of Applied Sciences and Arts Lucerne
   - **Conference Co-Chair:** Dr. Dirk Zimmer, German Aerospace Center
   - **Board Member:** Prof. Francesco Casella, Politecnico di Milano
-  - **Board Member:** Prof. Lars Mikelsons, Augsburg University
+  - **Board Member:** Prof. Lars Mikelsons, University of Augsburg
   - **Board Member:** Dipl.-Math. Christian Bertsch, Robert Bosch GmbH
   - **Board Member:** Dr. Hubertus Tummescheit
   - **Board Member:** Dr. Rui Gao, RIGO TECH Co. Ltd.
