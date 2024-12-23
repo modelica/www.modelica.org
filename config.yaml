@@ -70,6 +70,13 @@ menu:
       name: "Events"
       url: "/events/"
       weight: 4
+      
+    - pageRef: "modelica2025"
+      identifier: "modelica2025"
+      name: "Modelica 2025"
+      url: "/events/modelica2025"
+      parent: "events"        
+      weight: 1      
 
     - pageRef: "news"
       identifier: "news"
