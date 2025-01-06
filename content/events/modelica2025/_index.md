@@ -62,23 +62,24 @@ The **International Modelica & FMI Conference** relies heavily on sponsors to ma
 
 
 
-## Keynote Speakers and Presentation Titles
-We are proud to announce our keynote speakers and the titles of their presentations: 
+## Keynote Speakers 
+<!-- and Presentation Titles, and the titles of their presentations:  -->
+We are proud to announce our keynote speakers: 
 
 
 Tuesday, September 9th: 
 
 |     |     |
 | :-: | :----- |
-| {{<rawhtml>}} <img src="ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra_Siddhartha" width="200" /> {{</rawhtml>}}  |**Mishra Siddhartha**,Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich|
-| | **Coupling of AI / Physics-Informed Neural Networks (PINNs) with System Models**| 
+| {{<rawhtml>}} <img src="ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra_Siddhartha" width="200" /> {{</rawhtml>}}  |**Mishra Siddhartha,** Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich|
+<!-- | | **Coupling of AI / Physics-Informed Neural Networks (PINNs) with System Models**|  -->
 
 
  Wednesday, September 10th: 
 |     |     |
 | :-: | :----- |
-| {{<rawhtml>}} <img src="JohanAkesson.jpeg" alt="JohanAkesson" width="200" /> {{</rawhtml>}}  | **Johan R Åkesson** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB  |
-| | **The Future of Modeling and Simulation – An Industrial Perspective** |
+| {{<rawhtml>}} <img src="JohanAkesson.jpeg" alt="JohanAkesson" width="200" /> {{</rawhtml>}}  | **Johan R Åkesson,** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB  |
+<!-- | | **The Future of Modeling and Simulation – An Industrial Perspective** | -->
 
 
 ## Registration and Accommodation
