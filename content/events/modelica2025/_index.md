@@ -55,7 +55,7 @@ The **International Modelica & FMI Conference** relies heavily on sponsors to ma
 
 
 
-<!-- ## Keynote Speakers and Presentation Titles
+## Keynote Speakers and Presentation Titles
 We are proud to announce our keynote speakers and the titles of their presentations: 
 
 
@@ -63,15 +63,15 @@ Tuesday, September 9th:
 
 |     |     |
 | :-: | :----- |
-| {{<rawhtml>}} <img src="pics25/ben-moseley-768x768.webp" alt="BenMoseley" width="200" /> {{</rawhtml>}}  |**Ben Moseley**, Head of Scalable Scientific Machine Learning Lab Imperial College London, previous lecturer at ETH Zürich AI Center|
-| | **Physics-informed machine learning**| 
+| {{<rawhtml>}} <img src="ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra_Siddhartha" width="200" /> {{</rawhtml>}}  |**Mishra Siddhartha**,Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich|
+| | **Coupling of AI / Physics-Informed Neural Networks (PINNs) with System Models**| 
 
 
  Wednesday, September 10th: 
 |     |     |
 | :-: | :----- |
-| {{<rawhtml>}} <img src="pics25/JohanAkesson.jpeg" alt="BenMoseley" width="200" /> {{</rawhtml>}}  | **Johan R Åkesson** Associate Director for Computational Engineering at Carrier, EX. CTO Modelon AB  |
-| | **TBD** | -->
+| {{<rawhtml>}} <img src="JohanAkesson.jpeg" alt="JohanAkesson" width="200" /> {{</rawhtml>}}  | **Johan R Åkesson** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB  |
+| | **The Future of Modeling and Simulation – An Industrial Perspective** |
 
 
 ## Registration and Accommodation
