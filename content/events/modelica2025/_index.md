@@ -1,4 +1,11 @@
-# The 16th International Modelica & FMI Conference
+<!-- # The 16th International Modelica & FMI Conference -->
+
+{{< rawhtml >}}
+<div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0; padding: 0px; border-bottom: 1px solid #ccc;">
+  <h1 style="margin: 0;">The 16th International <br> Modelica & FMI Conference</h1>
+  <img src="Modelica_and_FMI_Confernce_Logo.png" alt="Modelica and FMI Conference Logo" style="max-width: 15vw; height: auto;">
+</div>
+{{< /rawhtml >}}
 
 We are glad to announce the **16th International Modelica & FMI Conference**. It will take place at the marvelous city of **Lucerne in Switzerland from September 8-10, 2025**. It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne, in cooperation with the [Modelica Association](/association/). This is the first visit of this conference series in Switzerland. 
 
@@ -20,21 +27,21 @@ The **International Modelica & FMI Conference** relies heavily on sponsors to ma
 <table>
     <tr>
         <td><b>Platinum</b></td>
-        <td colspan="2" align="center"><img src="pics24/modelon.jpg" width="400" alt="Modelon"></td>
+        <td colspan="2" align="center"><img src="modelon.jpg" width="400" alt="Modelon"></td>
     </tr>
     <tr>
         <td><b>Gold</b></td>
-        <td><img src="pics24/claytex.jpg" width="250" alt="Claytex"></td>
-        <td><img src="pics24/3DS_Corp_Logotype_Blue_RGB.png" width="250"></td>
+        <td><img src="claytex.jpg" width="250" alt="Claytex"></td>
+        <td><img src="3DS_Corp_Logotype_Blue_RGB.png" width="250"></td>
     </tr>
     <tr>     
         <td><b>Gold</b></td>
-        <td><img src="pics24/XPI Logo.jpg" width="250" alt="ESI"></td>
-        <td><img src="pics24/juliahub.png" width="250" alt="Julia Hub"></td>
+        <td><img src="XPI Logo.jpg" width="250" alt="ESI"></td>
+        <td><img src="juliahub.png" width="250" alt="Julia Hub"></td>
     </tr>
     <tr>
         <td><b>Silver</b></td>
-        <td  colspan="2" align="center"><img src="pics24/maplesoft.jpg" width="250" alt="Maplesoft"></td>
+        <td  colspan="2" align="center"><img src="maplesoft.jpg" width="250" alt="Maplesoft"></td>
     </tr>
 </table>
 {{</rawhtml>}} -->
