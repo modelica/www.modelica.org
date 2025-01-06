@@ -159,7 +159,7 @@ The American Modelica conference will be your opportunity to meet your customers
 
 The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne in cooperation with the [Modelica Association](/association/)
 
-<!-- **For general questions, please send an email to:** **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)** -->
+**For general questions, please send an email to:** **[modelica25@modelica.org ](mailto:modelica25@modelica.org )**
 
 ### Conference Board
 
