@@ -117,26 +117,29 @@ Development in the Modelica Association is organized in [Modelica Association Pr
 These projects collaborate to design and maintain a set of coordinated standards for modeling and simulation of complex physical systems.
 
 The Modelica & FMI conference will bring together people using Modelica and/or other Modelica Association standards for modeling, simulation, and control applications, such as Modelica language designers, tool vendors and library developers. The Modelica Conference provides Modelica users with the opportunity to stay informed about the latest language, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference will cover topics such as the following:
-- Multi-engineering modeling and simulation with free and commercial Modelica libraries (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, ...)
-- Automotive applications
-- Thermodynamic and energy systems applications
-- Mechatronics and robotics applications
-- Medicine and biology applications
-- Martime and offshore applications
-- Other industrial applications, such as electric drives, power systems, aerospace, etc.
-- Large-scale system modeling
-- Real-time and hardware-in-the-loop simulation
-- Simulation and code generation for embedded control systems
-- Simulation acceleration by use of many CPU cores or GPU cores
-- Applications of Modelica and FMI for optimization and optimal control
-- Modelica modeling, simulation and design tools
-- Symbolic algorithms and numerical methods for model transformation and simulation
-- Discrete modeling techniques − FEM, CFD, DEM (Discrete Element Method), ...
-- New features of the Modelica language, FMI, eFMI, DCP and SSP
-- Experimental language designs and implementations related to Modelica
-- Modelica in other application areas (mathematical programming, databases etc.)
-- Modelica for teaching and education
-- FMI in Modelica and non-Modelica applications and tools
+
+ -	Multi-engineering modeling and simulation with free or commercial Modelica libraries 
+ -	Library Award for new Open-Source Modelica Libraries. 
+ -	Applications and new tool developments for the Functional Mock-up Interface (FMI) and Layered Standards (LS)
+ -	Applications and new tool developments for the System Structure and Parameterization (SSP) standard
+ -	Applications and new tool developments for the FMI for embedded Systems (eFMI) standard 
+ -	System Simulation as an integrative part of Model-based Systems Engineering (MBSE) 
+ -	Machine Learning and AI in system simulation 
+ -	Automotive applications
+ -	Applications in thermodynamic, energy systems  and building physics
+ -	Mechatronics and robotics applications
+ -	Medicine and biology applications
+ -	Maritime and offshore applications
+ -	Other industrial applications, such as electric drives, power systems, aerospace, etc.
+ -	Large-scale system modeling and simulation code generation for parallel computing architectures
+ -	Real-time and hardware-in-the-loop applications; Code generation for embedded control systems 
+ -	Use of Artificial Intelligence (AI) methods in simulation; SimToReal for AI training purposes
+ -	Applications of Modelica and FMI for optimization and control design
+ -	Modelica modeling, simulation and design tools
+ -	Symbolic algorithms and numerical methods for model transformation and simulation
+ -	Experimental language designs and implementations related to Modelica standards
+ -	Modelica in other application areas (mathematical programming, databases etc.)
+ -	Modelica for teaching and education
 
 ## Call for papers, user presentations and tutorials
 
