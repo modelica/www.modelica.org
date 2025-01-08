@@ -145,7 +145,9 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 
 <!-- The call for papers and further information will go out in January 2025.  -->
 
- Please see the [call for papers](call2025) for details about paper submissions, and the calls for [industrial user presentations](call2025), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. <!--The submission deadlines are as follows:   -->
+ Please see the [call for papers](call2025) for details about paper submissions, and the calls for [industrial user presentations](call2025), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. 
+ You can also [download the Call for papers](Callforpapers-2025-01-06.pdf) and post it in your organization. 
+ <!--The submission deadlines are as follows:   -->
 <!-- 
 - June 15, 2024 Submission of full papers
 - June 1, 2024 Submission of extended abstracts for presentation-only contributions, [workshops and tutorials]
