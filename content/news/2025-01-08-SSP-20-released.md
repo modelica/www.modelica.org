@@ -7,6 +7,8 @@ date: 2025-01-08
  
 
 The [Modelica Association](https://modelica.org/) and the [SSP Project](https://ssp-standard.org/) are proud to announce the release of version 2.0 of the System Structure and Parameterization Standard: https://ssp-standard.org/news/2024-12-20-ssp-2-0-release/ and would like you to share this information via your channels.
+
+![](/images/SSP2.0.jpg)
  
  **SSP 2.0 – taking the next step in the standardized exchange of composite system models and simulation architectures**
 
