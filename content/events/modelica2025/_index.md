@@ -1,10 +1,4 @@
-<!-- # The 16th International Modelica & FMI Conference -->
-
-
-|     |     |     |
-| :-- | :------: | --: |
-| {{<rawhtml>}} <h1>The 16th International <br> Modelica & FMI Conference</h1> {{</rawhtml>}}  |    &nbsp;&nbsp;&nbsp;      |  {{<rawhtml>}} <img src="./pics25/Modelica_and_FMI_Confernce_Logo.png" alt="Modelica and FMI Conference Logo" width="330" /> {{</rawhtml>}}|
-
+# The 16th International Modelica & FMI Conference
 
 We are glad to announce the **16th International Modelica & FMI Conference**. It will take place at the marvelous city of **Lucerne in Switzerland from September 8-10, 2025**. It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne, in cooperation with the [Modelica Association](/association/). This is the first visit of this conference series in Switzerland. 
 
@@ -26,21 +20,21 @@ The **International Modelica & FMI Conference** relies heavily on sponsors to ma
 <table>
     <tr>
         <td><b>Platinum</b></td>
-        <td colspan="2" align="center"><img src="modelon.jpg" width="400" alt="Modelon"></td>
+        <td colspan="2" align="center"><img src="pics24/modelon.jpg" width="400" alt="Modelon"></td>
     </tr>
     <tr>
         <td><b>Gold</b></td>
-        <td><img src="claytex.jpg" width="250" alt="Claytex"></td>
-        <td><img src="3DS_Corp_Logotype_Blue_RGB.png" width="250"></td>
+        <td><img src="pics24/claytex.jpg" width="250" alt="Claytex"></td>
+        <td><img src="pics24/3DS_Corp_Logotype_Blue_RGB.png" width="250"></td>
     </tr>
     <tr>     
         <td><b>Gold</b></td>
-        <td><img src="XPI Logo.jpg" width="250" alt="ESI"></td>
-        <td><img src="juliahub.png" width="250" alt="Julia Hub"></td>
+        <td><img src="pics24/XPI Logo.jpg" width="250" alt="ESI"></td>
+        <td><img src="pics24/juliahub.png" width="250" alt="Julia Hub"></td>
     </tr>
     <tr>
         <td><b>Silver</b></td>
-        <td  colspan="2" align="center"><img src="maplesoft.jpg" width="250" alt="Maplesoft"></td>
+        <td  colspan="2" align="center"><img src="pics24/maplesoft.jpg" width="250" alt="Maplesoft"></td>
     </tr>
 </table>
 {{</rawhtml>}} -->
@@ -61,24 +55,23 @@ The **International Modelica & FMI Conference** relies heavily on sponsors to ma
 
 
 
-## Keynote Speakers 
-<!-- and Presentation Titles, and the titles of their presentations:  -->
-We are proud to announce our keynote speakers: 
+<!-- ## Keynote Speakers and Presentation Titles
+We are proud to announce our keynote speakers and the titles of their presentations: 
 
 
 Tuesday, September 9th: 
 
 |     |     |
 | :-: | :----- |
-| {{<rawhtml>}} <img src="./pics25/ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra_Siddhartha" width="200" /> {{</rawhtml>}}  |**Mishra Siddhartha,** Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich|
-<!-- | | **Coupling of AI / Physics-Informed Neural Networks (PINNs) with System Models**|  -->
+| {{<rawhtml>}} <img src="pics25/ben-moseley-768x768.webp" alt="BenMoseley" width="200" /> {{</rawhtml>}}  |**Ben Moseley**, Head of Scalable Scientific Machine Learning Lab Imperial College London, previous lecturer at ETH Zürich AI Center|
+| | **Physics-informed machine learning**| 
 
 
  Wednesday, September 10th: 
 |     |     |
 | :-: | :----- |
-| {{<rawhtml>}} <img src="./pics25/JohanAkesson.jpeg" alt="JohanAkesson" width="200" /> {{</rawhtml>}}  | **Johan R Åkesson,** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB  |
-<!-- | | **The Future of Modeling and Simulation – An Industrial Perspective** | -->
+| {{<rawhtml>}} <img src="pics25/JohanAkesson.jpeg" alt="BenMoseley" width="200" /> {{</rawhtml>}}  | **Johan R Åkesson** Associate Director for Computational Engineering at Carrier, EX. CTO Modelon AB  |
+| | **TBD** | -->
 
 
 ## Registration and Accommodation
@@ -171,7 +164,7 @@ The American Modelica conference will be your opportunity to meet your customers
 
 The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne in cooperation with the [Modelica Association](/association/)
 
-**For general questions, please send an email to:** **[modelica25@modelica.org ](mailto:modelica25@modelica.org )**
+<!-- **For general questions, please send an email to:** **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)** -->
 
 ### Conference Board
 
