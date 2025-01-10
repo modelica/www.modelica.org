@@ -9,7 +9,7 @@
    inkscape:export-filename="Modelica_and_FMI_Confernce_Logo.png"
    inkscape:export-xdpi="1000"
    inkscape:export-ydpi="1000"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,12 +24,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.5429291"
-     inkscape:cx="239.47957"
-     inkscape:cy="-27.545011"
-     inkscape:window-width="3840"
-     inkscape:window-height="2036"
-     inkscape:window-x="-12"
-     inkscape:window-y="-12"
+     inkscape:cx="521.41087"
+     inkscape:cy="180.17678"
+     inkscape:window-width="2560"
+     inkscape:window-height="1378"
+     inkscape:window-x="2553"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg55" />
   <defs
@@ -136,6 +136,16 @@
       </g>
     </clipPath>
   </defs>
+  <rect
+     style="fill:#f9f9f9;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+     id="rect1"
+     width="853.57764"
+     height="363.60046"
+     x="-0.65127242"
+     y="-0.0031543379"
+     inkscape:export-filename="Modelica_and_FMI_Confernce_Logo.png"
+     inkscape:export-xdpi="1000"
+     inkscape:export-ydpi="1000" />
   <g
      id="g17"
      clip-path="url(#clipPath9)"

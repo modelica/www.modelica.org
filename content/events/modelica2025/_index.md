@@ -1,8 +1,28 @@
-# The 16th International Modelica & FMI Conference
-<!-- 
-|     |     |     |
-| :-- | :------: | --: |
-| {{<rawhtml>}} <h1>The 16th International <br> Modelica & FMI Conference</h1> {{</rawhtml>}}  |    &nbsp;&nbsp;&nbsp;      |  {{<rawhtml>}} <img src="./pics25/Modelica_and_FMI_Confernce_Logo.png" alt="Modelica and FMI Conference Logo" width="330" /> {{</rawhtml>}}|  -->
+---
+title: Modelica and FMI Conference
+---
+
+{{<rawhtml>}}
+
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left"></th>
+          <th style="text-align: center"></th>
+          <th style="text-align: right"></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"> <h1>The 16th International <br> Modelica & FMI Conference</h1> 
+</td>
+          <td style="text-align: center">   </td>
+          <td style="text-align: right"> <img src="/images/Modelica_and_FMI_Confernce_Logo.png" alt="Modelica and FMI Conference Logo" width="330" /> 
+</td>
+      </tr>
+  </tbody>
+</table>
+{{</rawhtml>}}  
 
 
 We are glad to announce the **16th International Modelica & FMI Conference**. It will take place at the marvelous city of **Lucerne in Switzerland from September 8-10, 2025**. It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne, in cooperation with the [Modelica Association](/association/). This is the first visit of this conference series in Switzerland. 
