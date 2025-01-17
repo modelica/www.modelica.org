@@ -30,7 +30,7 @@ Below you find some links to the library documentation provided by different too
 
 ## Open-Source Libraries
 
-To list your library here, please use the [issue tracker.](https://github.com/modelica/old.modelica.org/issues/new?assignees=dietmarw&labels=&template=new-open-source-library.md&title=Add+open-source+library+%5BLibraryName%5D+to+the+library+listing)
+To list your library here, please use the [issue tracker.](https://github.com/modelica/www.modelica.org/issues/new?assignees=dietmarw&labels=&template=new-open-source-library.md&title=Add+open-source+library+%5BLibraryName%5D+to+the+library+listing)
 
 {{< rawhtml >}}
 <iframe src="/impact-libraries.html" frameborder="0" height="560" width="100%"></iframe>
