@@ -146,8 +146,7 @@ The following licenses are used by the Modelica Association for material provide
 | Technology | [Martin Otter](https://rmc.dlr.de/sr/en/staff/martin.otter/) | [DLR-SR, Germany](https://www.dlr.de/sr/en/desktopdefault.aspx/tabid-11579) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
 | Project leader "Modelica Language"  | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
 | Project leader "Modelica Libraries" | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
-| Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haumer) |   OTH Regensburg, Germany  | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de)   |
-| Deputy Project leader "Modelica Libraries" | [Anton Haumer]() |   OTH Regensburg, Germany  | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de)   |
+| Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haumer) |   OTH Regensburg, Germany  | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de) |
 | Project leader "FMI" | Christian Bertsch | [Bosch, Germany](https://www.bosch.com) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
 | Deputy Project leader "FMI" | Torsten Sommer | [Dassault Systèmes, Germany](https://www.3ds.com/) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
 | Project leader "SSP" | Jochen Köhler | [ZF Friedrichshafen, Germany](http://www.zf.com) | [jochen.koehler@zf.com](mailto:Jochen.Koehler@zf.com) |
