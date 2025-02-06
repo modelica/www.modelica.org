@@ -108,7 +108,11 @@ Individuals interested in joining the Modelica Association must have contributed
 A contribution is typically demonstrated by participation in **at least two projects or Assembly meetings** during the previous twelve-month period (§3 of the [bylaws](https://github.com/modelica/MA-Bylaws/releases)).
 There is no such prerequisite for organizational membership applications.
 Individuals and organizations may apply to become a member with <a href="#">this form (PDF format)</a> which should be completed, signed, scanned and mailed to the [chairman](mailto:Martin.Otter@dlr.de).
-Currently, the fee for individuals is 20 Euro/year and for organizations since 2007 according to the number of employees: ≤ 5: 500 Euro/year, ≤ 50: 1000 Euro/year, ≤ 500: 2000 Euro/year, &gt; 500: 5000 Euro/year. In 2025 the organizational membership fees will be raised by 50%. 
+Currently, the fee for individuals is 20 Euro/year and for organizations according to the number of employees: 
+* ≤ 5: 750 Euro/year
+* ≤ 50: 1500 Euro/year
+* ≤ 500: 3000 Euro/year
+* &gt; 500: 7500 Euro/year. 
 
 Information on upcoming design meetings and more are published on the Modelica Association calendar.
 People interested to participate should contact the organizer for details.
