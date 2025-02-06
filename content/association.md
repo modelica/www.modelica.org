@@ -31,7 +31,7 @@ Membership gives you voting rights and enables you to participate in the discuss
 It is encouraged to join at least one of the MA projects as a guest before becoming a member.  
 
 If you are interested, simply contact the [Modelica board](mailto:board@modelica.org) and explain your motivation.
-The [application form for individual members](https://github.com/user-attachments/files/16361099/Application.for.individual.membership.at.Modelica.Association.pdf) provides useful guidance. 
+The [individual application form](https://docs.google.com/forms/d/1AKymk2UfwDSJR4fuYXAyGJuvPw7YLiBFF76jqLSjzWM/edit) provides useful guidance. 
 
 ## Modelica Association Projects
 
