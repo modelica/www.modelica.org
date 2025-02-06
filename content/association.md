@@ -107,7 +107,7 @@ The [application form for individual members](https://github.com/user-attachment
 Individuals interested in joining the Modelica Association must have contributed to an MA project or to other parts of the Modelica Association.
 A contribution is typically demonstrated by participation in **at least two projects or Assembly meetings** during the previous twelve-month period (§3 of the [bylaws](https://github.com/modelica/MA-Bylaws/releases)).
 There is no such prerequisite for organizational membership applications.
-Individuals and organizations may apply to become a member with <a href="#">this form (PDF format)</a> which should be completed, signed, scanned and mailed to the [chairman](mailto:Martin.Otter@dlr.de).
+Individuals and organizations may apply to become a member. If you are interested, simply contact the [Modelica board](mailto:board@modelica.org) and explain your motivation.
 Currently, the fee for individuals is 20 Euro/year and for organizations according to the number of employees: 
 * ≤ 5: 750 Euro/year
 * ≤ 50: 1500 Euro/year
