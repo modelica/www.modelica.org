@@ -36,7 +36,7 @@ The program will cover processes and tools for the modeling of complex physical 
 
 In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition. 
 
-## Call for Sponsors
+## [Call for Sponsors](callforsponsors25)
 
 The **International Modelica & FMI Conference** relies heavily on sponsors to maintain the affordability of the ticket prices. As a sponsor you are also given the opportunity to exhibit at the conference site. If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](callforsponsors25). 
 
@@ -160,7 +160,7 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
  -	Modelica in other application areas (mathematical programming, databases etc.)
  -	Modelica for teaching and education
 
-## Call for papers, user presentations and tutorials
+## [Call for papers, user presentations and tutorials](call2025)
 
 <!-- The call for papers and further information will go out in January 2025.  -->
 
