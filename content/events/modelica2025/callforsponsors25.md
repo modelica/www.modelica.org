@@ -32,6 +32,9 @@ We hope to have sparked your interest and are looking forward to a personal conv
 
 <!-- Places in each category are limited. High tiers earn the right to choose the location of their booth first and a larger booth space. Also, the presentation of the logos on the conference web page and in the conference program will be more prominent for high tiers. Attached you find a floor plan [Campus-Rotkreuz](https://www.hslu.ch/en/lucerne-school-of-information-technology/campus/) and a [virtual 3D tour](https://dock.hslu.ch/rundgang/index.html?startscene=i). This may help you get a first impression of the venue. -->
 
+##### [Sponsorship Options in Detail](../SponsoringDetails_16thModelicaFMI_EN20250218.pdf)
+##### [Conference Ground Floor Plan (Includes Exhibition)](../GroundFloor_CampusRotkreuz_20250206.pdf)
+
 ## Contact
 
 Sponsoring contracts are signed directly with the local organization of the conference, headed by Prof. Dr. Ulf Christian Müller. 
