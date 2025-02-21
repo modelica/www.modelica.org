@@ -102,10 +102,7 @@ Tuesday, September 9th:
 
 ## Registration and Accommodation
 
-<!-- Registration is now open at [Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2024-tickets-794519207337?aff=oddtdtcreator). Please register soon to make planning easy for us. Early Bird tickets will be available until August 10th. If you need a hotel for the conference, we recommend the Graduate Hotel on the UCONN campus in waking distance to the conferene venue. You can reserve a room for a discounted room rate through [**this link**](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=BDLGSGU&corporateCode=3439604). Other hotels are available in the vicinity, but are in 10-15 minutes of driving distance from the conference.  -->
-
-<!-- Registration and accommodation recommendations are not yet available.  -->
-The conference registration will be offered at the following conditions. Details regarding registration will be provided in due course.
+**Registration is now open at [Eventfrog](https://eventfrog.ch/en/p/fairs/congress-conference/the-16th-international-modelica-fmi-conference-7297164051792011009.html)**. Please register soon to make planning easy for us. Early Bird tickets will be available until June 30th. The conference registration is offered at the following conditions.
 
 | Registration | Valid | incl. Dinner | Early-Price | Price |
 |--------------|--------------|--------------|--------------|--------------|
