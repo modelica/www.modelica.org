@@ -90,7 +90,7 @@ Tuesday, September 9th:
 |     |     |
 | :-: | :----- |
 | {{<rawhtml>}} <img src="./pics25/ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra_Siddhartha" width="200" /> {{</rawhtml>}}  |**Mishra Siddhartha,** Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich|
-<!-- | | **Coupling of AI / Physics-Informed Neural Networks (PINNs) with System Models**|  -->
+| **Physics-Informed AI** | AI is increasingly being used in the fast and accurate simulation of physical systems. In this keynote, we will discuss how knowledge of the underlying physics can be explicitly incorporated into AI systems for physical simulations. Key examples will highlight the potential gains as well as the involved challenges.| 
 
 
  Wednesday, September 10th: 
