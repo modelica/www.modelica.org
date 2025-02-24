@@ -28,12 +28,26 @@ The number of spaces available for each option is limited, with a sponsoring dea
 
 <!-- The exhibition area is located in a transit and recreation zone to ensure high visibility. Sponsorship of the conference is also possible without an exhibition area.    -->
 
-We hope to have sparked your interest and are looking forward to a personal conversation to discuss the best sponsorship option for your organization. It would be our pleasure to welcome you as a partner at the 16th International Modelica Conference.
+We hope to have sparked your interest and are looking forward to a personal conversation to discuss the best sponsorship option for your organization. Take a look at the further information section or feel free to reach out to Dr. Müller (contact below) with any questions or special requests. It would be our pleasure to welcome you as a partner at the 16th International Modelica Conference.
 
 <!-- Places in each category are limited. High tiers earn the right to choose the location of their booth first and a larger booth space. Also, the presentation of the logos on the conference web page and in the conference program will be more prominent for high tiers. Attached you find a floor plan [Campus-Rotkreuz](https://www.hslu.ch/en/lucerne-school-of-information-technology/campus/) and a [virtual 3D tour](https://dock.hslu.ch/rundgang/index.html?startscene=i). This may help you get a first impression of the venue. -->
+### Further Information
 
-##### [Sponsorship Options in Detail](../SponsoringDetails_16thModelicaFMI_EN20250218.pdf)
+##### [Sponsorship Options Overview](../SponsoringDetails_16thModelicaFMI_EN20250218.pdf)
 ##### [Conference Ground Floor Plan (Includes Exhibition)](../GroundFloor_CampusRotkreuz_20250206.pdf)
+
+### Sponsoring Agreements
+*Ready to become a sponsor? We look forward to partnering with you!* Download the Sponsorship Agreement of your preferred option. Add your company name, address, and representative (name and function) in the Sponsor header. In the Signature section, include place, date, name, function, and signature. Send the signed contract to Prof. Dr. Müller (see below). [Annex 1: Fundraising Reglement (German Only)](../2024FundraisingReglementderHSLUFoundation.pdf)
+##### [Platinum](../Platinum_Sponsorship_agreement_HSLU.pdf)
+##### [Gold](../Gold_Sponsorship_agreement_HSLU.pdf)
+##### [Silver](../Silver_Sponsorship_agreement_HSLU.pdf)
+##### [Bronze](../Bronze_Sponsorship_agreement_HSLU.pdf)
+
+
+
+
+
+
 
 ## Contact
 
