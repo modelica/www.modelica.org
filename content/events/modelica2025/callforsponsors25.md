@@ -45,9 +45,10 @@ We hope to have sparked your interest and are looking forward to a personal conv
 
 
 
+## Vendor Presentations
+As stated in the sponsoring agreement, time slots for sponsoring/vendor presentations are reserved for Platinum and Gold sponsors, while Silver sponsors may receive a slot based on availability. Presentations are reviewed by the Conference Board to ensure they align with Modelica, FMI, and related standards (including tools, libraries, IDEs, and other supporting technologies).
 
-
-
+Sponsors eligible for a presentation slot can submit their proposals to modelica25@modelica.org.
 
 ## Contact
 

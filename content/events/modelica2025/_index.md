@@ -161,7 +161,7 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 
 <!-- The call for papers and further information will go out in January 2025.  -->
 
- Please see the [call for papers](call2025) for details about paper submissions, and the calls for [industrial user presentations](call2025), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. 
+ Please see the [call for papers](call2025) for details about paper submissions, and the calls for [industrial user presentations](call2025), and tutorials. Please look at the [author instructions](authors) before submitting. 
  You can also [download the Call for papers](Callforpapers-2025-01-06.pdf) and post it in your organization. Paper submission is open on [EasyChair](https://easychair.org/my/conference?conf=16imoc).
  <!--The submission deadlines are as follows:   -->
 <!-- 
