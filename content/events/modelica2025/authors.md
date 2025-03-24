@@ -6,7 +6,7 @@ Information about the submission process is following soon.
 
 ## Preparation of full papers and Extended Abstracts for Industrial User Presentations
 
-The template has been updated for the 2021 conference, so do not use older versions of the template.
+The template has been updated for the 2021 conference, so do not use older versions of the template. Note that a nearly finished **draft paper** is the expected minimum for the submission deadline, papers with only an abstract, or only promised results, will be rejected. 
 Please use the [LaTeX template](https://github.com/modelica-association/conference-templates/tree/master/LaTeX) for the creation of full papers.
 There is also a [Word template](https://github.com/modelica-association/conference-templates/tree/master/MSWord) that is based on the LaTeX template.
 The Word template contains some wording specific to LaTeX packages; when drafting a document in Word, please make the contents look similar to what the LaTeX templates produce.
