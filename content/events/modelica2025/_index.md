@@ -96,8 +96,8 @@ Tuesday, September 9th:
  Wednesday, September 10th: 
 |     |     |
 | :-: | :----- |
-| {{<rawhtml>}} <img src="./pics25/JohanAkesson.jpeg" alt="JohanAkesson" width="200" /> {{</rawhtml>}}  | **Johan R Åkesson,** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB  |
-<!-- | | **The Future of Modeling and Simulation – An Industrial Perspective** | -->
+| {{<rawhtml>}} <img src="./pics25/JohanAkesson.jpeg" alt="JohanAkesson" width="400" /> {{</rawhtml>}}  | **Johan R Åkesson,** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB  |
+| **Integrated Energy Systems** | Modern integrated energy systems require systems engineering methods to address key challenges across the product lifecycle. This keynote will explore three main areas: 1. the need for diverse model fidelities and analysis, 2. ensuring consistency across design layers, and 3. the importance of seamless tooling and integration. |
 
 
 ## Registration and Accommodation
