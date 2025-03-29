@@ -41,10 +41,77 @@ The program will cover processes and tools for the modeling of complex physical 
 
 In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition. 
 
-## [Call for Sponsors](callforsponsors25)
+## Call for Papers
 
-The **International Modelica & FMI Conference** relies heavily on sponsors to maintain the affordability of the ticket prices. As a sponsor you are also given the opportunity to exhibit at the conference site.
-If you are interested in sponsoring the conference, please check out the conditions at in our [call for sponsors](callforsponsors25). 
+You are encouraged to submit a full paper of at least 4 pages, with a maximum of 10 pages, on the following topics:
+
+- Multi-engineering modeling and simulation with free or commercial Modelica libraries 
+- Library Award for new Open-Source Modelica Libraries. 
+- Applications and new tool developments for the Functional Mock-up Interface (FMI) and Layered Standards (LS)
+- Applications and new tool developments for the System Structure and Parameterization (SSP) standard
+- Applications and new tool developments for the FMI for embedded Systems (eFMI) standard 
+- System Simulation as an integrative part of Model-based Systems Engineering (MBSE) 
+- Machine Learning and AI in system simulation 
+- Automotive applications
+- Applications in thermodynamic, energy systems  and building physics
+- Mechatronics and robotics applications
+- Medicine and biology applications
+- Maritime and offshore applications
+- Other industrial applications, such as electric drives, power systems, aerospace, etc.
+- Large-scale system modeling and simulation code generation for parallel computing architectures
+- Real-time and hardware-in-the-loop applications; Code generation for embedded control systems 
+- Use of Artificial Intelligence (AI) methods in simulation; SimToReal for AI training purposes
+- Applications of Modelica and FMI for optimization and control design
+- Modelica modeling, simulation and design tools
+- Symbolic algorithms and numerical methods for model transformation and simulation
+- Experimental language designs and implementations related to Modelica standards
+- Modelica in other application areas (mathematical programming, databases etc.)
+- Modelica for teaching and education
+
+ Please see the  [Authors' Guide](../authors) for further information. You can also [download the Call for papers](Callforpapers-2025-01-06.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System. Paper submission is open on [EasyChair](https://easychair.org/my/conference?conf=16imoc). Authors of papers that are not selected for presentation in the main conference sessions will have the opportunity to present their work as posters.
+
+| Date | |
+| --- | --- |
+|January 6, 2025 |Call for papers |
+|April 17, 2025 |Deadline for submissions|
+|June 1, 2025 | Deadline for Workshops and Tutorials, and Vendor Presentations|
+|June 1, 2025 | Deadline for Industrial User Presentation submissions|
+|June 16, 2025|Notification of acceptance for papers and presentations|
+|June 30, 2025|Deadline for early registration|
+|August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
+|September 8-10, 2025| 16th International Modelica & FMI Conference|
+
+The conference proceedings will be published by the Modelica Association on its website and by  [Linköping University Electronic Press](http://www.ep.liu.se/).
+Each paper will be individually referenced by a DOI.
+
+## Call for Industrial User Presentations
+
+You are encouraged to submit an  **extended abstract**  of 1-2 pages, related to one of the existing or possibly new  [Modelica Association Projects](https://modelica.org/community/projects/):
+
+- LANG - Modelica Language
+- LIB - Modelica Libraries
+- FMI - Functional Mock-up Interface 
+- eFMI - Functional Mock-up Interface for embedded systems
+- SSP - System Structure and Parameterization of Components for Virtual System Design
+- DCP - Distributed Co-Simulation Protocol
+
+Please submit your abstract using the [EasyChair Conference Management System](https://easychair.org/my/conference?conf=16imoc) by **June 1st, 2025**. Please note, this link only works properly if you 1) Have an account on Easychair and 2) are logged into the account when you click the link.
+
+Industrial user presentations are an excellent way to present recent results to the Modelica community with less effort and overhead than a full paper submission. Please indicate whether you plan to give your presentation on-site or remotely in the submission form. These industrial user presentations differ from paper presentations, which we expect to be in-person. These abstracts will be peer-reviewed by experts, but no corresponding papers will be published in the conference proceedings.
+
+Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations. For more details on vendor presentations, please refer to the [call for sponsors](../callforsponsors25).
+
+## Call for Libraries
+
+You are encouraged to submit a free Modelica application library in Modelica source code form. The library should be sent to the program chair ([modelica25@modelica.org ](mailto:modelica25@modelica.org)) and provided under the [3-clause BSD License for the Modelica Association](https://modelica.org/licenses/modelica-3-clause-bsd). Please submit also a corresponding paper to the conference. If the paper gets accepted, you can present your library at the conference. Awards will be given to the best libraries. The exact number of awards and the amounts are still to be determined.
+
+Libraries are evaluated according to the following criteria:
+
+- How useful is the library for the Modelica community, especially for industrial applications?
+- Basic design principle of the library (e.g. physical components are modeled in a declarative way and there are no un-physical restrictions how components can be connected together).
+- Completeness and extent of the library (small or large library, examples).
+- Usage of the library (component documentation, users guide, parameter menus, etc.)
+- Accepted libraries will be included on the conference stick and linked from the Modelica web site.
 
 ## Important Dates
 
@@ -132,11 +199,6 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 - Experimental language designs and implementations related to Modelica standards
 - Modelica in other application areas (mathematical programming, databases etc.)
 - Modelica for teaching and education
-
-## [Call for papers, user presentations and tutorials](call2025)
-
-Please see the [call for papers](call2025) for details about paper submissions, and the calls for [industrial user presentations](call2025), and tutorials. Please look at the [author instructions](authors) before submitting.
-You can also [download the Call for papers](Callforpapers-2025-01-06.pdf) and post it in your organization. Paper submission is open on [EasyChair](https://easychair.org/my/conference?conf=16imoc).
 
 ## Organization and Contact
 
