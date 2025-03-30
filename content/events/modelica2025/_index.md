@@ -29,44 +29,46 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ### October 15th, 2024
 
-| Time | Activity |
-|------|----------|
-| 7:00-8:30 | Arrival/Welcome |
-| 8:30-10:10 | Vendor Sessions |
-| 10:10-11:00 | Modelica Association and FMI Updates |
-| 11:00-12:00 | Keynote: Modeling, Simulation, and Autonomous Vehicles: the challenges and opportunities |
-| 12:00-1:00 | Lunch |
-| 1:00-2:00 | Thermofluid Systems 1 (15 mins + 5 mins Q&A) |
-| 2:00-3:00 | Language/Tools 1 (15 mins + 5 mins Q&A) |
-| 3:00-3:30 | Coffee Break |
-| 3:30-4:30 | Power Systems (15 mins + 5 mins Q&A) |
-| 4:30-5:30 | Language/Tools 2 (15 mins + 5 mins Q&A) |
-| 6:00-8:00 | Conference Dinner |
+| Time  | Activity |
+|------:|----------|
+| 7:00  | Arrival/Welcome |
+| 8:30  | Vendor Sessions |
+| 10:10 | Modelica Association and FMI Updates |
+| 11:00 | Keynote: Modeling, Simulation, and Autonomous Vehicles: the challenges and opportunities |
+| 12:00 | Lunch |
+| 1:00  | Thermofluid Systems 1 (15 mins + 5 mins Q&A) |
+| 2:00  | Language/Tools 1 (15 mins + 5 mins Q&A) |
+| 3:00  | Coffee Break |
+| 3:30  | Power Systems (15 mins + 5 mins Q&A) |
+| 4:30  | Language/Tools 2 (15 mins + 5 mins Q&A) |
+| 6:00  | Conference Dinner |
 
 ### October 16th, 2024
 
-| Time | Activity |
-|------|----------|
-| 8:30-9:30 | Keynote: Energy Urgency, Computation and Role of “Systems” Methods & Tools |
-| 9:30-10:00 | Coffee Break |
-| 10:00-11:00 | Thermofluid Systems 2 (15 mins + 5 mins Q&A) |
-| 11:00-12:00 | Electromechanical Systems (15 mins + 5 mins Q&A) |
-| 12:00-1:00 | Lunch |
-| 1:00-2:00 | Language/Tools 3 (15 mins + 5 mins Q&A) |
-| 2:00-3:00 | User Presentations 1 (12 mins+3 mins Q&A) |
-| 3:00-3:30 | Coffee Break |
-| 3:30-4:10 | Thermofluid Systems 3 (15 mins + 5 mins Q&A) |
-| 4:10-4:55 | User Presentations 2 (12 mins + 3 mins Q&A) |
-| 5:00-5:30 | Podium Discussion |
+| Time  | Activity |
+|-------|----------|
+| 8:30  | Keynote: Energy Urgency, Computation and Role of “Systems” Methods & Tools |
+| 9:30  | Coffee Break |
+| 10:00 | Thermofluid Systems 2 (15 mins + 5 mins Q&A) |
+| 11:00 | Electromechanical Systems (15 mins + 5 mins Q&A) |
+| 12:00 | Lunch |
+| 1:00  | Language/Tools 3 (15 mins + 5 mins Q&A) |
+| 2:00  | User Presentations 1 (12 mins+3 mins Q&A) |
+| 3:00  | Coffee Break |
+| 3:30  | Thermofluid Systems 3 (15 mins + 5 mins Q&A) |
+| 4:10  | User Presentations 2 (12 mins + 3 mins Q&A) |
+| 5:00  | Podium Discussion |
 
 ### Session Contents
 
 #### Thermofluid Systems 1
+
 1. Model-Based Design and Characterization of an Actuator with Low-Boiling Liquid
 2. Dynamic Modeling Methodology for Near Isothermal Compressor
 3. Fluid Property Functions in Polar and Parabolic Coordinates 
 
 #### Language/Tools 1
+
 1. Objectively Defined Intended Uses, a Prerequisite to Efficient MBSE
 2. Modelica supported automated design
 3. Proposal for A Context-oriented Modelica Contributing to Variable Structure Systems
@@ -139,7 +141,7 @@ Duration: 3 hours
 
 #### Suggested Experience and Software Requirements
 
-1. Have prior knowledge in Modelica and either have gone through the online Impact tutorial for basic usage (https://help.modelon.com/latest/application_overview/getting_started_overview/) or have knowledge of using OpenModelica's OMEdit, or
+1. Have prior knowledge in Modelica and either have gone through the online Impact tutorial for [basic usage](https://help.modelon.com/latest/application_overview/getting_started_overview/) or have knowledge of using OpenModelica's OMEdit, or
 1. Have participated in the workshop provided by Modelon on introduction to Modelica modeling and Impact.
 
 Laptop with recent version of either Google Chrome or Opera installed. A minimum of 8GB of memory is recommended.
@@ -221,7 +223,7 @@ Only Modelica experience is required.
 
 Software requirements: A computer that can install Julia. 
 
-The workshop will start with a quick introduction to ModelingToolkit itself (https://docs.sciml.ai/ModelingToolkit/stable/). Then, some of the examples from the ModelingToolkit Course (https://sciml.github.io/ModelingToolkitCourse/dev/lectures/lecture2/) will be used in order to highlight some of the computational generation of models. Automated model generation (https://docs.sciml.ai/Overview/stable/showcase/missing_physics/) will also be highlighted.
+The workshop will start with a quick introduction to [ModelingToolkit itself](https://docs.sciml.ai/ModelingToolkit/stable/). Then, some of the examples from the [ModelingToolkit Course](https://sciml.github.io/ModelingToolkitCourse/dev/lectures/lecture2/) will be used in order to highlight some of the computational generation of models. [Automated model generation](https://docs.sciml.ai/Overview/stable/showcase/missing_physics/) will also be highlighted.
 
 ## Call for Papers
 
@@ -411,8 +413,8 @@ Detailed formatting instructions are included in the [paper templates](https://g
 
 ## Important Dates
 
-| Date | |
-| --- | --- |
+|   |   |
+|---|---|
 |January 6, 2025 |Call for papers |
 |April 17, 2025 |Deadline for submissions|
 |June 1, 2025 | Deadline for Workshops and Tutorials, and Vendor Presentations|
@@ -422,23 +424,27 @@ Detailed formatting instructions are included in the [paper templates](https://g
 |August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
 |September 8-10, 2025| 16th International Modelica & FMI Conference|
 
-## Keynote Speakers 
+## Keynotes 
 
-We are proud to announce our keynote speakers: 
+### Physics-Informed AI, Tuesday, September 9th
 
-Tuesday, September 9th: 
+{{<rawhtml>}}
+<img src="/images/ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra Siddhartha" style="max-width: 150px"/>
+{{</rawhtml>}}
 
-|     |     |
-| :--: | :----- |
-| {{< figure  src="/images/ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra_Siddhartha" width="400px" >}}  |**Mishra Siddhartha,** Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich|
-| **Physics-Informed AI** | AI is increasingly being used in the fast and accurate simulation of physical systems. In this keynote, we will discuss how knowledge of the underlying physics can be explicitly incorporated into AI systems for physical simulations. Key examples will highlight the potential gains as well as the involved challenges.| 
+**Mishra Siddhartha,** Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich
 
+AI is increasingly being used in the fast and accurate simulation of physical systems. In this keynote, we will discuss how knowledge of the underlying physics can be explicitly incorporated into AI systems for physical simulations. Key examples will highlight the potential gains as well as the involved challenges.
 
- Wednesday, September 10th: 
-|     |     |
-| :--: | :----- |
-| {{< figure  src="/images//JohanAkesson.jpeg" alt="JohanAkesson" width="300px">}}  | **Johan R Åkesson,** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB  |
-| **Opportunities and Challenges in Design and Operation of Integrated Energy Systems** | The complexity of modern integrated energy systems demands the systematic use of systems engineering methods and tools to address key challenges across product lifecycle. This keynote will explore three related and critical areas: 1) the demand for diverse model fidelities and analysis, 2) maintaining consistency across design layers, and 3) the importance of seamless tooling and integration. Real-world, HVAC-specific examples will highlight how these challenges are being tackled in practice and the opportunities they present. For over two decades, Carrier has relied on Modelica as a cornerstone technology for model-based product design. The journey began with the development of control systems for transportation refrigeration, where transient simulations allowed for rapid control function development and verification. Today, while controls development remains a vital application, Carrier has expanded Modelica's use across the entire product lifecycle—from conceptual design, through testing and verification, to business sales tools, and into operation with monitoring and diagnostics. Design and operation of highly integrated energy systems such as data centers and district heating systems also calls for new methods and tools. Differentiated applications has driven diversified analysis with Modelica models. Modelica-based steady-state simulation has emerged as a back-bone in product design, sales tools, as well as in field diagnostics. Steady-state and transient optimization is also a necessary element across the product life cycle. The need for diversified analysis and computation is further amplified by application of systems engineering methods where requirements, design space exploration, and validation and verification are key elements. | 
+### Opportunities and Challenges in Design and Operation of Integrated Energy Systems, Wednesday, September 10th
+
+{{<rawhtml>}}
+<img src="/images/JohanAkesson.jpeg" alt="Johan Akesson" style="max-width: 150px"/>
+{{</rawhtml>}}
+
+**Johan R Åkesson,** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB
+
+The complexity of modern integrated energy systems demands the systematic use of systems engineering methods and tools to address key challenges across product lifecycle. This keynote will explore three related and critical areas: 1) the demand for diverse model fidelities and analysis, 2) maintaining consistency across design layers, and 3) the importance of seamless tooling and integration. Real-world, HVAC-specific examples will highlight how these challenges are being tackled in practice and the opportunities they present. For over two decades, Carrier has relied on Modelica as a cornerstone technology for model-based product design. The journey began with the development of control systems for transportation refrigeration, where transient simulations allowed for rapid control function development and verification. Today, while controls development remains a vital application, Carrier has expanded Modelica's use across the entire product lifecycle—from conceptual design, through testing and verification, to business sales tools, and into operation with monitoring and diagnostics. Design and operation of highly integrated energy systems such as data centers and district heating systems also calls for new methods and tools. Differentiated applications has driven diversified analysis with Modelica models. Modelica-based steady-state simulation has emerged as a back-bone in product design, sales tools, as well as in field diagnostics. Steady-state and transient optimization is also a necessary element across the product life cycle. The need for diversified analysis and computation is further amplified by application of systems engineering methods where requirements, design space exploration, and validation and verification are key elements.
 
 ## Registration and Accommodation
 
@@ -504,10 +510,10 @@ The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://w
 
 ### Conference Board
 
-- **Conference Co-Chair:** Prof. Dr. Ulf Christian Müller, University of Applied Sciences and Arts Lucerne
-- **Conference Co-Chair:** Dr. Dirk Zimmer, German Aerospace Center
-- **Board Member:** Prof. Francesco Casella, Politecnico di Milano
-- **Board Member:** Prof. Lars Mikelsons, University of Augsburg
-- **Board Member:** Dipl.-Math. Christian Bertsch, Robert Bosch GmbH
-- **Board Member:** Dr. Hubertus Tummescheit
-- **Board Member:** Dr. Rui Gao, RIGO TECH Co. Ltd.
+- Prof. Dr. Ulf Christian Müller, University of Applied Sciences and Arts Lucerne (Conference Co-Chair)
+- Dr. Dirk Zimmer, German Aerospace Center (Conference Co-Chair)
+- Prof. Francesco Casella, Politecnico di Milano
+- Prof. Lars Mikelsons, University of Augsburg
+- Dipl.-Math. Christian Bertsch, Robert Bosch GmbH
+- Dr. Hubertus Tummescheit
+- Dr. Rui Gao, RIGO TECH Co. Ltd.
