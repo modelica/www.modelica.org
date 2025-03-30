@@ -3,26 +3,10 @@ title: Modelica and FMI Conference
 ---
 
 {{<rawhtml>}}
+<img src="/images/Modelica_and_FMI_Confernce_Logo.png" alt="16th International Modelica & FMI Conference" style="width: 400px"/>
+{{</rawhtml>}}
 
-<table>
-  <thead>
-      <tr>
-          <th style="text-align: left"></th>
-          <th style="text-align: center"></th>
-          <th style="text-align: right"></th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td style="text-align: left"> <h1>The 16th International <br> Modelica & FMI Conference</h1> 
-</td>
-          <td style="text-align: center">   </td>
-          <td style="text-align: right"> <img src="/images/Modelica_and_FMI_Confernce_Logo.png" alt="Modelica and FMI Conference Logo" width="330" /> 
-</td>
-      </tr>
-  </tbody>
-</table>
-{{</rawhtml>}}  
+# The 16th International Modelica & FMI Conference
 
 {{< toc >}}
 
