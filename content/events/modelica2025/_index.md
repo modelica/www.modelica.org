@@ -29,6 +29,10 @@ We are glad to announce the **16th International Modelica & FMI Conference**. It
 
 ![Luzern old part of town. Picture by Simon Koopmann](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Luzern_old_part_of_town.JPG/1280px-Luzern_old_part_of_town.JPG)
 
+
+## Latest News and updates
+The preliminary [Agenda](16thModelicaFMI_ProgramDraftShort.pdf) is now online!
+
 ## About the Conference
 
 The International Modelica & FMI Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), [eFMI](http://efmi-standard.org/) and [DCP](https://dcp-standard.org/).
