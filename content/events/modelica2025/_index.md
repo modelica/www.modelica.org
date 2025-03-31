@@ -92,17 +92,16 @@ We are proud to announce our keynote speakers:
 Tuesday, September 9th: 
 
 |     |     |
-| :-: | :----- |
-| {{<rawhtml>}} <img src="./pics25/ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra_Siddhartha" width="400" /> {{</rawhtml>}}  |**Mishra Siddhartha,** Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich|
+| :--: | :----- |
+| {{< figure  src="/images/ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra_Siddhartha" width="400px" >}}  |**Mishra Siddhartha,** Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich|
 | **Physics-Informed AI** | AI is increasingly being used in the fast and accurate simulation of physical systems. In this keynote, we will discuss how knowledge of the underlying physics can be explicitly incorporated into AI systems for physical simulations. Key examples will highlight the potential gains as well as the involved challenges.| 
 
 
  Wednesday, September 10th: 
 |     |     |
-| :-: | :----- |
-| {{<rawhtml>}} <img src="./pics25/JohanAkesson.jpeg" alt="JohanAkesson" width="400" /> {{</rawhtml>}}  | **Johan R Åkesson,** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB  |
-| **Integrated Energy Systems** | Modern integrated energy systems require systems engineering methods to address key challenges across the product lifecycle. This keynote will explore three main areas: 1. the need for diverse model fidelities and analysis, 2. ensuring consistency across design layers, and 3. the importance of seamless tooling and integration. |
-
+| :--: | :----- |
+| {{< figure  src="/images//JohanAkesson.jpeg" alt="JohanAkesson" width="300px">}}  | **Johan R Åkesson,** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB  |
+| **Opportunities and Challenges in Design and Operation of Integrated Energy Systems** | The complexity of modern integrated energy systems demands the systematic use of systems engineering methods and tools to address key challenges across product lifecycle. This keynote will explore three related and critical areas: 1) the demand for diverse model fidelities and analysis, 2) maintaining consistency across design layers, and 3) the importance of seamless tooling and integration. Real-world, HVAC-specific examples will highlight how these challenges are being tackled in practice and the opportunities they present. For over two decades, Carrier has relied on Modelica as a cornerstone technology for model-based product design. The journey began with the development of control systems for transportation refrigeration, where transient simulations allowed for rapid control function development and verification. Today, while controls development remains a vital application, Carrier has expanded Modelica's use across the entire product lifecycle—from conceptual design, through testing and verification, to business sales tools, and into operation with monitoring and diagnostics. Design and operation of highly integrated energy systems such as data centers and district heating systems also calls for new methods and tools. Differentiated applications has driven diversified analysis with Modelica models. Modelica-based steady-state simulation has emerged as a back-bone in product design, sales tools, as well as in field diagnostics. Steady-state and transient optimization is also a necessary element across the product life cycle. The need for diversified analysis and computation is further amplified by application of systems engineering methods where requirements, design space exploration, and validation and verification are key elements. | 
 
 ## Registration and Accommodation
 
