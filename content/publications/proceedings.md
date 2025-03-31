@@ -43,3 +43,16 @@ Conference proceedings of the Modelica conference series (since year 2009, the c
 [Modelica Automotive Workshop 2002](/events/automotive_workshop_2002/), Dearborn, MI, USA, November 19, 2002.
 
 [1st International Modelica Conference 2000](/events/workshop2000/), Lund University, Sweden, October 23-24, 2000.
+
+
+## Editorial Board
+
+The Editorial Board supervises the publication of the Modelica Conference Proceedings series, organization of Modelica Conferences and is part of the Program Committee for Modelica conferences. The Editorial Board currently consists of the following members of the Modelica Association Board:
+
+<!-- Probably replace Martin with Dirk: update by the board, probably -->
+* [Prof. Martin Sjölund](https://www.ida.liu.se/~marsj/), Linköping University, Sweden.
+* [Prof. Martin Otter](https://www.robotic.dlr.de/sr/de/staff/martin.otter/), Deutsches Zentrum für Luft- und Raumfahrt, Germany.
+* [Prof. Francesco Casella](https://home.deib.polimi.it/casella/), Politecnico di Milano, Italy.
+* Dr. Hilding Elmqvist, Mogram AB, Sweden.
+* Dr. Michael Tiller, Juliahub, U.S.A.
+* 
