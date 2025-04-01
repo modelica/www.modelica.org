@@ -3,16 +3,76 @@ title: Modelica and FMI Conference
 ---
 
 {{<rawhtml>}}
-<img src="/images/Modelica_and_FMI_Confernce_Logo.png" alt="16th International Modelica & FMI Conference" style="width: 400px"/>
+<img src="images/Modelica_and_FMI_Confernce_Logo.svg" alt="16th International Modelica & FMI Conference" style="width: 400px"/>
 {{</rawhtml>}}
 
 # The 16th International Modelica & FMI Conference
 
+We are glad to announce the **16th International Modelica & FMI Conference**. It will take place at the marvelous city of **Lucerne in Switzerland from September 8-10, 2025**. It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne, in cooperation with the [Modelica Association](/association/). This is the first visit of this conference series in Switzerland.
+
 {{< toc >}}
 
-We are glad to announce the **16th International Modelica & FMI Conference**. It will take place at the marvelous city of **Lucerne in Switzerland from September 8-10, 2025**. It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne, in cooperation with the [Modelica Association](/association/). This is the first visit of this conference series in Switzerland. 
+## Sponsors
 
-![Luzern old part of town. Picture by Simon Koopmann](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Luzern_old_part_of_town.JPG/1280px-Luzern_old_part_of_town.JPG)
+### Platinum
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+      <img src="images/LTX.svg" alt="LTX"/>
+    </div>
+  </div>
+
+</div>
+{{</rawhtml>}}
+
+### Gold
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+      <img src="images/3DS.svg" alt="Dassault Systemes"/>
+    </div>
+  </div>
+
+</div>
+{{</rawhtml>}}
+
+### Silver
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+      <img src="images/JuliaHub.svg" alt="JuliaHub"/>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+      <img src="images/WolframResearch.svg" alt="Wolfram Research"/>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+      <img src="images/XRG.png" alt="XRG"/>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+      <img src="images/orthogonal.svg" alt="Orthogonal supersystems GmbH"/>
+    </div>
+  </div>
+
+</div>
+{{</rawhtml>}}
 
 
 ## Latest News and updates
@@ -70,14 +130,14 @@ Each paper will be individually referenced by a DOI.
 
 ## Call for Industrial User Presentations
 
-You are encouraged to submit an  **extended abstract**  of 1-2 pages, related to one of the existing or possibly new  [Modelica Association Projects](https://modelica.org/community/projects/):
+You are encouraged to submit an  **extended abstract**  of 1-2 pages, related to one of the existing or possibly new [Modelica Association Projects](https://modelica.org/community/projects/):
 
-- LANG - Modelica Language
-- LIB - Modelica Libraries
-- FMI - Functional Mock-up Interface 
-- eFMI - Functional Mock-up Interface for embedded systems
-- SSP - System Structure and Parameterization of Components for Virtual System Design
-- DCP - Distributed Co-Simulation Protocol
+- [LANG](/language/) - Modelica Language
+- [LIB](/libraries/) - Modelica Libraries
+- [FMI](https://fmi-standard.org/) - Functional Mock-up Interface 
+- [eFMI](https://efmi-standard.org/) - Functional Mock-up Interface for embedded systems
+- [SSP](https://ssp-standard.org/) - System Structure and Parameterization of Components for Virtual System Design
+- [DCP](https://dcp-standard.org/) - Distributed Co-Simulation Protocol
 
 Please submit your abstract using the [EasyChair Conference Management System](https://easychair.org/my/conference?conf=16imoc) by **June 1st, 2025**. Please note, this link only works properly if you 1) Have an account on Easychair and 2) are logged into the account when you click the link.
 
@@ -229,7 +289,7 @@ Detailed formatting instructions are included in the [paper templates](https://g
 ### Physics-Informed AI, Tuesday, September 9th
 
 {{<rawhtml>}}
-<img src="/images/ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra Siddhartha" style="max-width: 150px"/>
+<img src="images/ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra Siddhartha" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
 **Mishra Siddhartha,** Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich
@@ -239,7 +299,7 @@ AI is increasingly being used in the fast and accurate simulation of physical sy
 ### Opportunities and Challenges in Design and Operation of Integrated Energy Systems, Wednesday, September 10th
 
 {{<rawhtml>}}
-<img src="/images/JohanAkesson.jpeg" alt="Johan Akesson" style="max-width: 150px"/>
+<img src="images/JohanAkesson.jpeg" alt="Johan Akesson" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
 **Johan R Åkesson,** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB
@@ -268,12 +328,12 @@ Under the following link, conference participants will find a **[limited conting
 
 Development in the Modelica Association is organized in [Modelica Association Projects](/association/#modelica-association-projects):
 
-- LANG - Modelica Language
-- LIB - Modelica Libraries
-- FMI - Functional Mock-up Interface
-- eFMI - Functional Mock-up Interface for embedded systems
-- SSP - System Structure and Parameterization of Components for Virtual System Design
-- DCP - Distributed Co-Simulation Protocol
+- [LANG](/language/) - Modelica Language
+- [LIB](/libraries/) - Modelica Libraries
+- [FMI](https://fmi-standard.org/) - Functional Mock-up Interface 
+- [eFMI](https://efmi-standard.org/) - Functional Mock-up Interface for embedded systems
+- [SSP](https://ssp-standard.org/) - System Structure and Parameterization of Components for Virtual System Design
+- [DCP](https://dcp-standard.org/) - Distributed Co-Simulation Protocol
 
 These projects collaborate to design and maintain a set of coordinated standards for modeling and simulation of complex physical systems.
 
@@ -306,7 +366,7 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 
 The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne in cooperation with the [Modelica Association](/association/)
 
-**For general questions, please send an email to:** **[modelica25@modelica.org ](mailto:modelica25@modelica.org )**
+For general questions, please send an email to [modelica25@modelica.org](mailto:modelica25@modelica.org).
 
 ### Conference Board
 
