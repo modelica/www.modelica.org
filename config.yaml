@@ -108,4 +108,7 @@ menu:
       name: "Tools"
       url: "/tools/"
       weight: 1
-
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 2
