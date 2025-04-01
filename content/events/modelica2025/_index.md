@@ -74,9 +74,7 @@ We are glad to announce the **16th International Modelica & FMI Conference**. It
 </div>
 {{</rawhtml>}}
 
-
-## Latest News and updates
-The preliminary [Agenda](16thModelicaFMI_ProgramDraftShort.pdf) is now online!
+If you are interested in sponsoring the **16th International Modelica & FMI Conference** and be visible here, please take a look at the [Call for Sponsors](#call-for-sponsors).
 
 ## About the Conference
 
@@ -375,5 +373,5 @@ For general questions, please send an email to [modelica25@modelica.org](mailto:
 - Prof. Francesco Casella, Politecnico di Milano
 - Prof. Lars Mikelsons, University of Augsburg
 - Dipl.-Math. Christian Bertsch, Robert Bosch GmbH
-- Dr. Hubertus Tummescheit, Model BAsed Innovation LLC
+- Dr. Hubertus Tummescheit, Model Based Innovation LLC
 - Dr. Rui Gao, RIGO TECH Co. Ltd.
