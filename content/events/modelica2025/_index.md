@@ -17,7 +17,7 @@ This is the first visit of this conference series in Switzerland.
 
 ## Sponsors
 
-[Become a sponsor](#call-for-sponsors) the 16th International Modelica & FMI Conference!
+[Become a sponsor](#call-for-sponsors) of the 16th International Modelica & FMI Conference!
 
 ### Platinum
 
