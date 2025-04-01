@@ -215,7 +215,7 @@ The Modelica Association appreciates your support and will help you in your prep
 
 ### Submission process
 
-Information about the submission process is following soon.
+As in most previous Modelica conferences, the [EasyChair](https://easychair.org/conferences/submission_new?a=34399586) Conference Management System is used. Please note, this link only works properly if you 1) Have an account on Easychair and 2) are logged into the account when you click the link. If you don't already have an easychair account, you first have to create one [here](https://easychair.org/account2/create). Make sure that you use an email address for registering that remains valid until the conference. Please choose wether your submission is going to be a full, peer-reviewed paper, or an industrial user presentation. Industrial user presentations require only an abstract and a presentation, and will be reviewed by the conference board. Authors of accepted papers and user presentations will have to submit a **signed Copyright License** [(Word format)](../CopyrightLicense2025.docx) or [(pdf)](../CopyrightLicense2025.pdf) to EasyChair.   
 
 ### Preparation of full papers and Extended Abstracts for Industrial User Presentations
 
