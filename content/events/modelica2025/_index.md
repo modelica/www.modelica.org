@@ -86,6 +86,51 @@ The program will cover processes and tools for the modeling of complex physical 
 
 In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition. 
 
+## Agenda
+
+The agenda is preliminary.
+
+### Monday, September 8
+
+|       |          |
+|-------|----------|
+| 11:30 | Arrival / Reception |
+|       | Welcome Speech  |
+|       | Tutorials - Part 1 |
+| 13:30 | Coffee Break with Poster Presentations |
+|       | Tutorials - Part 2 |
+|       | Modelica & FMI Vendor Presentations  |
+| 18:45 | Welcome Reception |
+
+### Tuesday, September 9
+
+|       |          |
+|-------|----------|
+|  9:00 | [Keynote: Prof. Mishra Siddhartha](#physics-informed-ai-tuesday-september-9th) |
+|       | Coffee Break with Poster Presentations |
+|       | Modelica & FMI News |
+|       | Technical Sessions |
+| 12:00 | Lunch |
+|       | Technical Sessions |
+|       | Industrial User Presentations |
+|       | Coffee Break with Poster Presentations |
+| 16:00 | Panel discussion on the value of open standards |
+|       | Transfer to Lucerne is individual by Train (Boarding at KKL) |
+| 18:00 | Boat-Cruise-Dinner |
+
+### Wednesday, September 10
+
+|       |          |
+|-------|----------|
+|  8:30 | [Keynote: Dr. Johan R Åkesson](#opportunities-and-challenges-in-design-and-operation-of-integrated-energy-systems-wednesday-september-10th) |
+|       | Technical Sessions |
+|       | Coffee Break with Poster Presentations |
+|       | Technical Sessions |
+| 12:40 | Lunch |
+|       | Technical Sessions |
+|       | Closing and Rewards |
+| 16:00 | Coffee To Go |
+
 ## Call for Papers
 
 You are encouraged to submit a full paper of at least 4 pages, with a maximum of 10 pages, on the following topics:
