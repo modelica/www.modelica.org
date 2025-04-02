@@ -158,7 +158,7 @@ You are encouraged to submit a full paper of at least 4 pages, with a maximum of
 - Modelica in other application areas (mathematical programming, databases etc.)
 - Modelica for teaching and education
 
- Please see the  [Authors' Guide](../authors) for further information. You can also [download the Call for papers](Callforpapers-2025-01-06.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System. Paper submission is open on [EasyChair](https://easychair.org/my/conference?conf=16imoc). Authors of papers that are not selected for presentation in the main conference sessions will have the opportunity to present their work as posters.
+ Please see the  [Authors' Guide](#authors-guide) for further information. You can also [download the Call for papers](Callforpapers-2025-01-06.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System. Paper submission is open on [EasyChair](https://easychair.org/my/conference?conf=16imoc). Authors of papers that are not selected for presentation in the main conference sessions will have the opportunity to present their work as posters.
 
 | Date | |
 | --- | --- |
@@ -189,7 +189,7 @@ Please submit your abstract using the [EasyChair Conference Management System](h
 
 Industrial user presentations are an excellent way to present recent results to the Modelica community with less effort and overhead than a full paper submission. Please indicate whether you plan to give your presentation on-site or remotely in the submission form. These industrial user presentations differ from paper presentations, which we expect to be in-person. These abstracts will be peer-reviewed by experts, but no corresponding papers will be published in the conference proceedings.
 
-Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations. For more details on vendor presentations, please refer to the [call for sponsors](../callforsponsors25).
+Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations. For more details on vendor presentations, please refer to the [call for sponsors](#call-for-sponsors).
 
 ## Call for Libraries
 
@@ -226,17 +226,19 @@ We hope to have sparked your interest and are looking forward to a personal conv
 
 ### Further Information
 
-- [Sponsorship Options Overview](../SponsoringDetails_16thModelicaFMI_EN20250218.pdf)
-- [Conference Ground Floor Plan (Includes Exhibition)](../GroundFloor_CampusRotkreuz_20250206.pdf)
+- [Sponsorship Options Overview](SponsoringDetails_16thModelicaFMI_EN20250218.pdf)
+- [Conference Ground Floor Plan (Includes Exhibition)](GroundFloor_CampusRotkreuz_20250206.pdf)
 
 ### Sponsoring Agreements
 
-*Ready to become a sponsor? We look forward to partnering with you!* Download the Sponsorship Agreement of your preferred option. Add your company name, address, and representative (name and function) in the Sponsor header. In the Signature section, include place, date, name, function, and signature. Send the signed contract to Prof. Dr. Müller (see below). [Annex 1: Fundraising Reglement (German Only)](../2024FundraisingReglementderHSLUFoundation.pdf)
+*Ready to become a sponsor? We look forward to partnering with you!*
+Download the Sponsorship Agreement of your preferred option. Add your company name, address, and representative (name and function) in the Sponsor header. In the Signature section, include place, date, name, function, and signature. Send the signed contract to Prof. Dr. Müller (see below).
+[Annex 1: Fundraising Reglement (German Only)](2024FundraisingReglementderHSLUFoundation.pdf)
 
-- [Platinum](../Platinum_Sponsorship_agreement_HSLU.pdf)
-- [Gold](../Gold_Sponsorship_agreement_HSLU.pdf)
-- [Silver](../Silver_Sponsorship_agreement_HSLU.pdf)
-- [Bronze](../Bronze_Sponsorship_agreement_HSLU.pdf)
+- [Platinum](Platinum_Sponsorship_agreement_HSLU.pdf)
+- [Gold](Gold_Sponsorship_agreement_HSLU.pdf)
+- [Silver](Silver_Sponsorship_agreement_HSLU.pdf)
+- [Bronze](Bronze_Sponsorship_agreement_HSLU.pdf)
 
 ### Vendor Presentations
 
@@ -267,7 +269,7 @@ As in most previous Modelica conferences, the [EasyChair](https://easychair.org/
 Please note, this link only works properly if you 1) Have an account on Easychair and 2) are logged into the account when you click the link. If you don't already have an easychair account, you first have to create one [here](https://easychair.org/account2/create).
 Make sure that you use an email address for registering that remains valid until the conference. Please choose wether your submission is going to be a full, peer-reviewed paper, or an industrial user presentation.
 Industrial user presentations require only an abstract and a presentation, and will be reviewed by the conference board.
-Authors of accepted papers and user presentations will have to submit a **signed Copyright License** [(Word document)](../CopyrightLicense2025.docx) or [(PDF)](../CopyrightLicense2025.pdf) to EasyChair.
+Authors of accepted papers and user presentations will have to submit a **signed Copyright License** [(Word document)](CopyrightLicense2025.docx) or [(PDF)](CopyrightLicense2025.pdf) to EasyChair.
 
 ### Preparation of full papers and Extended Abstracts for Industrial User Presentations
 
@@ -277,7 +279,7 @@ There is also a [Word template](https://github.com/modelica-association/conferen
 The Word template contains some wording specific to LaTeX packages; when drafting a document in Word, please make the contents look similar to what the LaTeX templates produce.
 For draft paper submissions, you may also use other templates (but include an extra page at the end stating you will use the correct template for the final submission).
 
-Please make sure that your submission has been created according to the [Modelica Formatting Guidelines](../formatting).
+Please make sure that your submission has been created according to the [Modelica Formatting Guidelines](#formatting-guidelines).
 
 For the final submission, there will also be the possibility to submit Modelica example model files that correspond to your publication. These files will then be attached to your paper in the Modelica Association copy of the proceedings (but not the LiU e-press copy to which  the DOI points).
 
