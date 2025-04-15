@@ -16,6 +16,15 @@ This is the first visit of this conference series in Switzerland.
 **Important news:** Due to many, many requests, we have **extended the paper submission deadline to May 2.**
 Please note that the EasyChair paper submission system enables updates even after the initial submission and early submissions hence help us organizing the reivew process. 
 
+
+{{< toc >}}
+
+## Sponsors
+
+[Become a sponsor](#call-for-sponsors) of the 16th International Modelica & FMI Conference!
+
+### Platinum
+
 {{<rawhtml>}}
 <div class="row row-cols-2 row-cols-md-4 g-4">
 
