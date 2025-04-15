@@ -13,6 +13,10 @@ It will take place at the marvelous city of **Lucerne in Switzerland from Septem
 It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne, in cooperation with the [Modelica Association](/association/).
 This is the first visit of this conference series in Switzerland.
 
+**Important news:** Due to many, many requests, we have **extended the paper submission deadline to May 2.**
+Please note that the EasyChair paper submission system enables updates even after the initial submission and early submissions hence help us organizing the reivew process. 
+
+
 {{< toc >}}
 
 ## Sponsors
@@ -160,19 +164,23 @@ You are encouraged to submit a full paper of at least 4 pages, with a maximum of
 
  Please see the  [Authors' Guide](#authors-guide) for further information. You can also [download the Call for papers](Callforpapers-2025-01-06.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System. Paper submission is open on [EasyChair](https://easychair.org/my/conference?conf=16imoc). Authors of papers that are not selected for presentation in the main conference sessions will have the opportunity to present their work as posters.
 
-| Date | |
+| Date |  |
 | --- | --- |
 |January 6, 2025 |Call for papers |
-|April 17, 2025 |Deadline for submissions|
+|~~April 17~~ **May 2, 2025** | **Deadline for paper submissions** |
 |June 1, 2025 | Deadline for Workshops and Tutorials, and Vendor Presentations|
 |June 1, 2025 | Deadline for Industrial User Presentation submissions|
-|June 16, 2025|Notification of acceptance for papers and presentations|
-|June 30, 2025|Deadline for early registration|
+|~~June 16~~ June 23,  2025|Notification of acceptance for papers and presentations|
+|~~June 30~~ July 7, 2025|Deadline for early registration|
 |August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
 |September 8-10, 2025| 16th International Modelica & FMI Conference|
 
+Please note that the indicated deadline extension is final. Futhermore the EasyChair submission system enables to update your paper during the submission time. Uploading a draft early may help us organizing the reviews in time. 
+
+If you plan to submit directly for a poster, then submit a (short) paper with a corresponding remark.
+
 The conference proceedings will be published by the Modelica Association on its website and by  [Linköping University Electronic Press](http://www.ep.liu.se/).
-Each paper will be individually referenced by a DOI.
+Each paper will be individually referenced by a DOI. For selected papers we aim to enable a post-conference journal publication in [MCMDS](https://www.tandfonline.com/toc/nmcm20/current).
 
 ## Call for Industrial User Presentations
 
@@ -323,16 +331,17 @@ Detailed formatting instructions are included in the [paper templates](https://g
 - References: At the end of your paper, include a list of references, using Harvard-style (author-date) citations. Make sure that every reference is cited in the text, e.g. as (Pantelides, 1988). For LaTeX, the paper [class](https://github.com/modelica-association/conference-templates/blob/d9ddd4700ef0f9a6f9c3d9fecd5736f2b9549e26/LaTeX/modelica.cls#L99) provides the options to use.
 - Length of paper: The minimum requested length for papers is 4 pages. The maximum acceptable length is 10 pages. However, since we no longer provide hard copies of the proceedings, we'll accept full papers up to 15 pages, if the authors have very good reasons to exceed the 10-page limit.
 
-## Important Dates
+## Important Dates 
+(please note the final deadline extension)
 
 |   |   |
 |---|---|
 |January 6, 2025 |Call for papers |
-|April 17, 2025 |Deadline for submissions|
+|~~April 17~~ May 2, 2025 |Deadline for submissions|
 |June 1, 2025 | Deadline for Workshops and Tutorials, and Vendor Presentations|
 |June 1, 2025 | Deadline for Industrial User Presentation submissions|
-|June 16, 2025|Notification of acceptance for papers and presentations|
-|June 30, 2025|Deadline for early registration|
+|~~June 16~~, June 23, 2025|Notification of acceptance for papers and presentations|
+|~~June 30~~ July 7, 2025|Deadline for early registration|
 |August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
 |September 8-10, 2025| 16th International Modelica & FMI Conference|
 
