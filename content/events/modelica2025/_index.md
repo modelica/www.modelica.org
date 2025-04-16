@@ -255,7 +255,7 @@ We hope to have sparked your interest and are looking forward to a personal conv
 ### Further Information
 
 - [Sponsorship Options Overview](SponsoringDetails_16thModelicaFMI_EN20250218.pdf)
-- [Conference Ground Floor Plan (Includes Exhibition)](GroundFloor_CampusRotkreuz_20250206.pdf)
+- [Conference Ground Floor Plan (Includes Exhibition)](GroundFloor_CampusRotkreuz_20250416.pdf)
 
 ### Sponsoring Agreements
 
