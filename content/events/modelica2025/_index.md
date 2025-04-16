@@ -438,3 +438,4 @@ For general questions, please send an email to [modelica25@modelica.org](mailto:
 - Dipl.-Math. Christian Bertsch, Robert Bosch GmbH
 - Dr. Hubertus Tummescheit, Model Based Innovation LLC
 - Dr. Rui Gao, RIGO TECH Co. Ltd.
+- Prof. Martin Sjölund, Linköping University
