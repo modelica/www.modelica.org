@@ -214,7 +214,7 @@ Please include the following details in your submission:
 6. Software requirements  
 7. Link to further information
 
-Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations section in the [call for sponsors](../callforsponsors25). The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
+Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations section in the [call for sponsors](#call-for-sponsors). The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
 
 ## Call for Libraries
 
