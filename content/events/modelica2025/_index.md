@@ -182,6 +182,9 @@ If you plan to submit directly for a poster, then submit a (short) paper with a 
 The conference proceedings will be published by the Modelica Association on its website and by  [Linköping University Electronic Press](http://www.ep.liu.se/).
 Each paper will be individually referenced by a DOI. For selected papers we aim to enable a post-conference journal publication in [MCMDS](https://www.tandfonline.com/toc/nmcm20/current).
 
+### Best Paper Award
+The 16th International Modelica & FMI Conference will recognize the authors of the best paper for their outstanding academic quality and relevance to the conference. All accepted papers are automatically considered for this honorary award.
+
 ## Call for Industrial User Presentations
 
 You are encouraged to submit an  **extended abstract**  of 1-2 pages, related to one of the existing or possibly new [Modelica Association Projects](https://modelica.org/community/projects/):
