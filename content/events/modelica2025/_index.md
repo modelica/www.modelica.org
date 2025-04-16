@@ -218,7 +218,7 @@ Please note that tutorials must involve hands-on activities and cannot be limite
 
 ## Call for Libraries
 
-You are encouraged to submit a free Modelica application library in Modelica source code form. The library should be sent to the program chair ([modelica25@modelica.org ](mailto:modelica25@modelica.org)) and provided under the [3-clause BSD License for the Modelica Association](https://modelica.org/licenses/modelica-3-clause-bsd). Please submit also a corresponding paper to the conference. If the paper gets accepted, you can present your library at the conference. Awards will be given to the best libraries. The exact number of awards and the amounts are still to be determined.
+You are encouraged to submit a free Modelica application library in Modelica source code form. The library should be sent to the program chair ([modelica25@modelica.org ](mailto:modelica25@modelica.org)) and provided under the [3-clause BSD License for the Modelica Association](https://modelica.org/licenses/modelica-3-clause-bsd). Please submit also a corresponding paper to the conference. If the paper gets accepted, you can present your library at the conference. The best two submitted libraries will receive awards of 500 EUR and 250 EUR.
 
 Libraries are evaluated according to the following criteria:
 
