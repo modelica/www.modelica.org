@@ -69,10 +69,17 @@ Conference proceedings of the Modelica conference series (since year 2009, the c
 
 The Editorial Board supervises the publication of the Modelica Conference Proceedings series, organization of Modelica Conferences and is part of the Program Committee for Modelica conferences. The Editorial Board currently consists of the following members of the Modelica Association Board:
 
-<!-- Probably replace Martin with Dirk: update by the board, probably -->
 * [Prof. Martin Sjölund](https://www.ida.liu.se/~marsj/), Linköping University, Sweden.
-* [Prof. Martin Otter](https://www.robotic.dlr.de/sr/de/staff/martin.otter/), Deutsches Zentrum für Luft- und Raumfahrt, Germany.
 * [Prof. Francesco Casella](https://home.deib.polimi.it/casella/), Politecnico di Milano, Italy.
-* Dr. Hilding Elmqvist, Mogram AB, Sweden.
-* Dr. Michael Tiller, Juliahub, U.S.A.
+* [Prof. Lars Mikelsons](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/imech/team/lars-mikelsons/), Augsburg University, Germany
+* [Prof. Luigi Vanfretti](https://faculty.rpi.edu/luigi-vanfretti), Rensselaer Polytechnic Institute, USA
+* [Prof. Arne Speerforck](https://www.tuhh.de/technische-thermodynamik/institut), Technical University Hamburg-Harburg, Germany
+* [Prof. Bernhard Bachmann](https://www.hsbi.de/personenverzeichnis/bernhard-bachmann) Hochschule Bielefeld, Germany
+* [Dr. Michael Wetter](https://eta.lbl.gov/people/michael-wetter), Lawrence Berkeley Lab, USA
+* [Dr. Dirk Zimmer](https://rmc.dlr.de/sr/de/staff/dirk.zimmer/), German Aerospace Center, Germany
+* [Dr. Rui Gao](https://www.linkedin.com/in/rui-gao-07b1151b/), Rigo Tech Co. Ltd, Japan
+* [Dr. Oliver Lenord](https://www.linkedin.com/in/oliver-lenord-66772b269/), Robert Bosch GmbH, Germany
+* [Dr. Hubertus Tummescheit](https://modelbased.cloud/company/), Model Based Innovation LLC, USA
+
+
 
