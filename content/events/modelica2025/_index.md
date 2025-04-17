@@ -182,6 +182,9 @@ If you plan to submit directly for a poster, then submit a (short) paper with a 
 The conference proceedings will be published by the Modelica Association on its website and by  [Linköping University Electronic Press](http://www.ep.liu.se/).
 Each paper will be individually referenced by a DOI. For selected papers we aim to enable a post-conference journal publication in [MCMDS](https://www.tandfonline.com/toc/nmcm20/current).
 
+### Best Paper Award
+The 16th International Modelica & FMI Conference will recognize the authors of the best paper for their outstanding academic quality and relevance to the conference. All accepted papers are automatically considered for this honorary award.
+
 ## Call for Industrial User Presentations
 
 You are encouraged to submit an  **extended abstract**  of 1-2 pages, related to one of the existing or possibly new [Modelica Association Projects](https://modelica.org/community/projects/):
@@ -199,9 +202,26 @@ Industrial user presentations are an excellent way to present recent results to 
 
 Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations. For more details on vendor presentations, please refer to the [call for sponsors](#call-for-sponsors).
 
+
+## Call for Tutorials
+At the Modelica Conference, several tutorials will be held in parallel. Each tutorial will a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
+
+If you're interested in hosting a tutorial, please send the required information listed below to [modelica25@modelica.org ](mailto:modelica25@modelica.org). The application deadline is **June 1st, 2025**. As only a limited number of tutorials can be held in parallel, we encourage early submission and application.
+
+Please include the following details in your submission:
+1. Title of the tutorial
+2. Suggested duration of the tutorial  
+3. Presenter(s) name(s) and affiliation(s)  
+4. Abstract (around 200 Words)
+5. Expected experience of participants  
+6. Software requirements  
+7. Link to further information
+
+Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations section in the [call for sponsors](#call-for-sponsors). The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
+
 ## Call for Libraries
 
-You are encouraged to submit a free Modelica application library in Modelica source code form. The library should be sent to the program chair ([modelica25@modelica.org ](mailto:modelica25@modelica.org)) and provided under the [3-clause BSD License for the Modelica Association](https://modelica.org/licenses/modelica-3-clause-bsd). Please submit also a corresponding paper to the conference. If the paper gets accepted, you can present your library at the conference. Awards will be given to the best libraries. The exact number of awards and the amounts are still to be determined.
+You are encouraged to submit a free Modelica application library in Modelica source code form. The library should be sent to the program chair ([modelica25@modelica.org ](mailto:modelica25@modelica.org)) and provided under the [3-clause BSD License for the Modelica Association](https://modelica.org/licenses/modelica-3-clause-bsd). Please submit also a corresponding paper to the conference. If the paper gets accepted, you can present your library at the conference. The best two submitted libraries will receive awards of 500 EUR and 250 EUR.
 
 Libraries are evaluated according to the following criteria:
 
@@ -235,7 +255,7 @@ We hope to have sparked your interest and are looking forward to a personal conv
 ### Further Information
 
 - [Sponsorship Options Overview](SponsoringDetails_16thModelicaFMI_EN20250218.pdf)
-- [Conference Ground Floor Plan (Includes Exhibition)](GroundFloor_CampusRotkreuz_20250206.pdf)
+- [Conference Ground Floor Plan (Includes Exhibition)](GroundFloor_CampusRotkreuz_20250416.pdf)
 
 ### Sponsoring Agreements
 
