@@ -145,7 +145,7 @@ The following licenses are used by the Modelica Association for material provide
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| Marketing | Hubertus Tummescheit | | [hubertus.tummescheit@gmail.com](mailto:hubertus.tummescheit@gmail.com) |
+| Marketing | Hubertus Tummescheit | [Model Based Innovation LLC, USA](https://modelbased.cloud) | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
 | Quality and Processes | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
 | Technology | [Martin Otter](https://rmc.dlr.de/sr/en/staff/martin.otter/) | [DLR-SR, Germany](https://www.dlr.de/sr/en/desktopdefault.aspx/tabid-11579) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
 | Project leader "Modelica Language"  | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
@@ -158,7 +158,7 @@ The following licenses are used by the Modelica Association for material provide
 | Project leader "DCP" | vacant |     |     |
 | Deputy Project leader "DCP" | Klaus Schuch | [AVL, Austria](https://www.avl.com/) | [klaus.schuch@avl.com](mailto:klaus.schuch@avl.com) |
 | Project leader "eFMI" | Christoff Bürger | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [christoff.buerger@3ds.com](mailto:christoff.buerger@3ds.com) |
-| Deputy Project leader "eFMI" | Hubertus Tummescheit | | [hubertus.tummescheit@gmail.com](mailto:hubertus.tummescheit@gmail.com) |
+| Deputy Project leader "eFMI" | Hubertus Tummescheit | | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
 
 ## Members of the Modelica Association with Specific Duties
 
