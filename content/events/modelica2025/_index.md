@@ -48,6 +48,12 @@ Please note that the EasyChair paper submission system enables updates even afte
     </div>
   </div>
 
+  <div class="col">
+    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+      <img src="images/modelon-logo.svg" alt="Modelon"/>
+    </div>
+  </div>
+
 </div>
 {{</rawhtml>}}
 
@@ -77,6 +83,12 @@ Please note that the EasyChair paper submission system enables updates even afte
   <div class="col">
     <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
       <img src="images/orthogonal.svg" alt="Orthogonal supersystems GmbH"/>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+      <img src="images/asam-logo.svg" alt="ASAM eV"/>
     </div>
   </div>
 
