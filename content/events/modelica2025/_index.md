@@ -111,11 +111,11 @@ The agenda is preliminary.
 |       |          |
 |-------|----------|
 | 11:30 | Arrival / Reception |
-|       | Welcome Speech  |
-|       | Tutorials - Part 1 |
-| 13:30 | Coffee Break with Poster Presentations |
-|       | Tutorials - Part 2 |
-|       | Modelica & FMI Vendor Presentations  |
+| 13:00 | Welcome Speech  |
+| 13:30 | Tutorials - Part 1 |
+| 15:30 | Coffee Break with Poster Presentations |
+| 16:00 | Tutorials - Part 2 |
+| 16:45 | Modelica & FMI Vendor Presentations  |
 | 18:45 | Welcome Reception |
 
 ### Tuesday, September 9
