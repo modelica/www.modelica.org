@@ -108,6 +108,14 @@ Please note that the EasyChair paper submission system enables updates even afte
     </a>      
   </div>
 
+  <div class="col">
+    <a href="https://www.exxcellent.de/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/eXXcellent-solutions-Logo.svg" alt="Exxcellent Solution GmbH"/>
+      </div>
+    </a>      
+  </div>
+
 </div>
 {{</rawhtml>}}
 
