@@ -29,9 +29,11 @@ Please note that the EasyChair paper submission system enables updates even afte
 <div class="row row-cols-2 row-cols-md-4 g-4">
 
   <div class="col">
-    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
-      <img src="images/LTX.svg" alt="LTX"/>
-    </div>
+    <a href="https://www.ltx.de/english.html" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+        <img src="images/LTX.svg" alt="LTX"/>
+      </div>
+    </a>
   </div>
 
 </div>
@@ -43,15 +45,19 @@ Please note that the EasyChair paper submission system enables updates even afte
 <div class="row row-cols-2 row-cols-md-4 g-4">
 
   <div class="col">
+   <a href="https://www.3ds.com" target="_blank" style="pointer-events: auto;">
     <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
       <img src="images/3DS.svg" alt="Dassault Systemes"/>
     </div>
+    </a>
   </div>
 
   <div class="col">
-    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-      <img src="images/modelon-logo.svg" alt="Modelon"/>
-    </div>
+     <a href="https://modelon.com/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/modelon-logo.svg" alt="Modelon"/>
+      </div>
+     </a>
   </div>
 
 </div>
@@ -63,34 +69,53 @@ Please note that the EasyChair paper submission system enables updates even afte
 <div class="row row-cols-2 row-cols-md-4 g-4">
 
   <div class="col">
-    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-      <img src="images/JuliaHub.svg" alt="JuliaHub"/>
-    </div>
+    <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+            <img src="images/JuliaHub.svg" alt="JuliaHub"/>
+      </div>
+    </a>
   </div>
 
   <div class="col">
-    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-      <img src="images/WolframResearch.svg" alt="Wolfram Research"/>
-    </div>
+    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/WolframResearch.svg" alt="Wolfram Research"/>
+      </div>
+    </a>
   </div>
 
   <div class="col">
-    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
-      <img src="images/XRG.png" alt="XRG"/>
-    </div>
+    <a href="https://xrg-simulation.de/en" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+        <img src="images/XRG.png" alt="XRG"/>
+      </div>
+    </a>
   </div>
 
   <div class="col">
-    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-      <img src="images/orthogonal.svg" alt="Orthogonal supersystems GmbH"/>
-    </div>
+    <a href="https://www.orthogonal.dev" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/orthogonal.svg" alt="Orthogonal supersystems GmbH"/>
+      </div>
+    </a>
   </div>
 
   <div class="col">
-    <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-      <img src="images/asam-logo.svg" alt="ASAM eV"/>
-    </div>
+    <a href="https://www.asam.net/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/asam-logo.svg" alt="ASAM eV"/>
+      </div>
+    </a>      
   </div>
+
+   <div class="col">
+    <a href="https://www.exxcellent.de/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/eXXcellent-solutions-Logo.svg" alt="Exxcellent Solution GmbH"/>
+      </div>
+    </a>      
+  </div>
+
 
 </div>
 {{</rawhtml>}}
