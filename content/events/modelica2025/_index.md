@@ -60,6 +60,14 @@ Please note that the EasyChair paper submission system enables updates even afte
      </a>
   </div>
 
+  <div class="col">
+     <a href="https://www.tongyuan.cc/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/TONGYUAN.png" alt="Tongyuan"/>
+      </div>
+     </a>
+  </div>
+
 </div>
 {{</rawhtml>}}
 
@@ -96,6 +104,14 @@ Please note that the EasyChair paper submission system enables updates even afte
     <a href="https://www.orthogonal.dev" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
         <img src="images/orthogonal.svg" alt="Orthogonal supersystems GmbH"/>
+      </div>
+    </a>
+  </div>
+
+  <div class="col">
+    <a href="https://openmodelica.org" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/OMlogo.svg" alt="Open Modelica"/>
       </div>
     </a>
   </div>
