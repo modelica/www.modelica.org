@@ -3,7 +3,11 @@ title: Modelica and FMI Conference
 ---
 
 {{<rawhtml>}}
-<img src="images/Modelica_and_FMI_Confernce_Logo.svg" alt="16th International Modelica & FMI Conference" style="width: 400px"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Modelica_and_FMI_Confernce_Logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/Modelica_and_FMI_Confernce_Logo-light.svg">
+  <img src="images/Modelica_and_FMI_Confernce_Logo-light.svg" alt="16th International Modelica & FMI Conference">
+</picture>
 {{</rawhtml>}}
 
 # The 16th International Modelica & FMI Conference
@@ -12,10 +16,6 @@ We are glad to announce the **16th International Modelica & FMI Conference**.
 It will take place at the marvelous city of **Lucerne in Switzerland from September 8-10, 2025**.
 It is organized by [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne, in cooperation with the [Modelica Association](/association/).
 This is the first visit of this conference series in Switzerland.
-
-**Important news:** Due to many, many requests, we have **extended the paper submission deadline to May 2.**
-Please note that the EasyChair paper submission system enables updates even after the initial submission and early submissions hence help us organizing the reivew process. 
-
 
 {{< toc >}}
 
@@ -142,6 +142,16 @@ The International Modelica & FMI Conference is the main event for users, library
 The program will cover processes and tools for the modeling of complex physical and cyber-physical systems as applied to a wide range of research and industrial applications. 
 
 In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition. 
+
+![HLSU Campus Zug-Rotkreuz](images/rotkreuz-campus.jpg)
+
+{{<rawhtml>}}<i class="fa-solid fa-map-location-dot me-2"></i>{{</rawhtml>}}[Campus Zug-Rotkreuz, Suurstoffi 1, 6343 Risch-Rotkreuz, Switzerland](https://maps.app.goo.gl/n3xfnqL6CrRi2Bm57)
+
+{{<rawhtml>}}<i class="fa-solid fa-globe me-2"></i>{{</rawhtml>}}[Location & Directions](https://www.hslu.ch/en/lucerne-school-of-information-technology/about-us/standort/)
+
+{{<rawhtml>}}<i class="fa-solid fa-vr-cardboard me-2"></i>{{</rawhtml>}}[Virtual Tour](https://dock.hslu.ch/rundgang/index.html?startscene=i)
+
+{{<rawhtml>}}<i class="fa-solid fa-bed me-2"></i>{{</rawhtml>}}[Discounted Hotels](https://regis.buchertravel.ch/event/International_Modelica_Conference2025)
 
 ## Agenda
 
