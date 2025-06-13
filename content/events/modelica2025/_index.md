@@ -147,6 +147,14 @@ The program will cover processes and tools for the modeling of complex physical 
 
 In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition. 
 
+![HLSU Campus Zug-Rotkreuz](images/rotkreuz-campus.jpg)
+
+{{<rawhtml>}}<i class="fa-solid fa-map-location-dot me-2"></i>{{</rawhtml>}}[Campus Zug-Rotkreuz, Suurstoffi 1, 6343 Risch-Rotkreuz, Switzerland](https://maps.app.goo.gl/n3xfnqL6CrRi2Bm57)
+
+{{<rawhtml>}}<i class="fa-solid fa-globe me-2"></i>{{</rawhtml>}}[Location & Directions](https://www.hslu.ch/en/lucerne-school-of-information-technology/about-us/standort/)
+
+{{<rawhtml>}}<i class="fa-solid fa-vr-cardboard me-2"></i>{{</rawhtml>}}[Virtual Tour](https://dock.hslu.ch/rundgang/index.html?startscene=i)
+
 ## Agenda
 
 The agenda is preliminary.
