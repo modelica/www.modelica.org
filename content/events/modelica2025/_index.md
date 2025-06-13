@@ -3,7 +3,11 @@ title: Modelica and FMI Conference
 ---
 
 {{<rawhtml>}}
-<img src="images/Modelica_and_FMI_Confernce_Logo.svg" alt="16th International Modelica & FMI Conference" style="width: 400px"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Modelica_and_FMI_Confernce_Logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/Modelica_and_FMI_Confernce_Logo-light.svg">
+  <img src="images/Modelica_and_FMI_Confernce_Logo-light.svg" alt="16th International Modelica & FMI Conference">
+</picture>
 {{</rawhtml>}}
 
 # The 16th International Modelica & FMI Conference
