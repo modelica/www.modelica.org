@@ -162,7 +162,7 @@ In addition to paper presentations, the conference features several Modelica tut
 ### Monday, September 8
 
 |       |          |
-|-------|----------|
+|------:|----------|
 | 11:30 | Arrival / Reception |
 | 13:00 | Welcome Speech  |
 | 13:30 | Tutorials - Part 1 |
@@ -174,7 +174,7 @@ In addition to paper presentations, the conference features several Modelica tut
 ### Tuesday, September 9
 
 |       |          |
-|-------|----------|
+|------:|----------|
 |  9:00 | [Keynote: Prof. Mishra Siddhartha](#physics-informed-ai-tuesday-september-9th) |
 |       | Coffee Break with Poster Presentations |
 |       | Modelica & FMI News |
@@ -190,7 +190,7 @@ In addition to paper presentations, the conference features several Modelica tut
 ### Wednesday, September 10
 
 |       |          |
-|-------|----------|
+|------:|----------|
 |  8:30 | [Keynote: Dr. Johan R Åkesson](#opportunities-and-challenges-in-design-and-operation-of-integrated-energy-systems-wednesday-september-10th) |
 |       | Technical Sessions |
 |       | Coffee Break with Poster Presentations |
@@ -306,12 +306,12 @@ We are very glad that the Lucerne School of Engineering and Architecture took th
 
 We offer exhibition and sponsoring in 4 different options (prices without 8.1%-VAT).
 
-| Option | Price CHF | No. of free registrations |
-|--------------|--------------|--------------|
-| Platinum | 12500 | 3 - each with a value of 900 CHF |
-| Gold | 10000 | 2 - each with a value of 900 CHF| 
-| Silver | 5000 | 1 - with a value of 900 CHF| 
-| Bronze | 3000 | 0 | 
+| Option   | Price         | No. of free registrations        |
+|----------|--------------:|----------------------------------|
+| Platinum |    12,500 CHF | 3 - each with a value of 900 CHF |
+| Gold     |    10,000 CHF | 2 - each with a value of 900 CHF | 
+| Silver   |     5,000 CHF | 1 - with a value of 900 CHF      | 
+| Bronze   |     3,000 CHF | 0                                | 
 
 The number of spaces available for each option is limited, with a sponsoring deadline in mid-July or until all spots are filled. The exhibition spaces range from 8 to 20 m². Higher-level sponsors may choose their exhibition space first in order to secure a larger stand area. Depending on the option, the logos of the sponsoring partners will be positioned more prominently on the conference website and in the conference program. The [virtual 3D tour](https://dock.hslu.ch/rundgang/index.html?startscene=i) will give you a comprehensive impression of the venue. 
 
@@ -456,13 +456,13 @@ The complexity of modern integrated energy systems demands the systematic use of
 
 **[Registration is now open at Eventfrog](https://eventfrog.ch/en/p/fairs/congress-conference/the-16th-international-modelica-fmi-conference-7297164051792011009.html)**. Please register soon to make planning easy for us. Early Bird tickets will be available until June 30th. The conference registration is offered at the following conditions.
 
-| Registration | Valid | incl. Dinner | Early-Price | Price |
-|--------------|--------------|--------------|--------------|--------------|
-| Standard | Mon-Wed | yes | 750 CHF | 900 CHF|
-| PhD | Mon-Wed | no | 400 CHF | 500 CHF|
-| Student | Mon-Wed | no | 200 CHF | 250 CHF|
-| Industrial User Presentation | only Tuesday | no | 200 CHF | 250 CHF|
-| Dinner | Dinner | yes | 150 CHF | 150 CHF|
+| Registration                 | Valid        | incl. Dinner | Early-Price | Price   |
+|------------------------------|--------------|:------------:|------------:|--------:|
+| Standard                     | Mon-Wed      | yes          | 750 CHF     | 900 CHF |
+| PhD                          | Mon-Wed      | no           | 400 CHF     | 500 CHF |
+| Student                      | Mon-Wed      | no           | 200 CHF     | 250 CHF |
+| Industrial User Presentation | only Tuesday | no           | 200 CHF     | 250 CHF |
+| Dinner                       | Dinner       | yes          | 150 CHF     | 150 CHF |
 
 The conference will take place at the [Rotkreuz campus](https://dock.hslu.ch/rundgang/index.html?startscene=i)  of Lucerne University of Applied Sciences and Arts, which can be reached in as little as 13 minutes by train from Lucerne railroad station. We recommend taking the train to the campus, as the campus is located directly at Rotkreuz station. The university cannot provide parking spaces in Rotkreuz. There are parking spaces in the vicinity of the campus whose availability and prices are not subject to the university. 
 
