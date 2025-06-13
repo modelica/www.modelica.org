@@ -153,7 +153,11 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ## Agenda
 
-The agenda is preliminary.
+{{<rawhtml>}}
+<div class="alert alert-info" role="alert">
+  <i class="fa-solid fa-circle-info me-3"></i>The agenda is preliminary
+</div>
+{{</rawhtml>}}
 
 ### Monday, September 8
 
