@@ -320,7 +320,7 @@ We hope to have sparked your interest and are looking forward to a personal conv
 ### Further Information
 
 - [Sponsorship Options Overview](SponsoringDetails_16thModelicaFMI_EN20250218.pdf)
-- [Conference Ground Floor Plan (Includes Exhibition)](GroundFloor_CampusRotkreuz_20250416.pdf)
+- [Conference Ground Floor Plan (Includes Exhibition)](GroundFloor_CampusRotkreuz130625.pdf)
 
 ### Sponsoring Agreements
 
@@ -454,7 +454,7 @@ The complexity of modern integrated energy systems demands the systematic use of
 
 ## Registration and Accommodation
 
-**[Registration is now open at Eventfrog](https://eventfrog.ch/en/p/fairs/congress-conference/the-16th-international-modelica-fmi-conference-7297164051792011009.html)**. Please register soon to make planning easy for us. Early Bird tickets will be available until June 30th. The conference registration is offered at the following conditions.
+**[Registration is now open at Eventfrog](https://eventfrog.ch/en/p/fairs/congress-conference/the-16th-international-modelica-fmi-conference-7297164051792011009.html)**. Please register soon to make planning easy for us. Early Bird tickets will be available until July 7th. The conference registration is offered at the following conditions.
 
 | Registration                 | Valid        | incl. Dinner | Early-Price | Price   |
 |------------------------------|--------------|:------------:|------------:|--------:|
