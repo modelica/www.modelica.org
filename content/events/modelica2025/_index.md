@@ -151,6 +151,8 @@ In addition to paper presentations, the conference features several Modelica tut
 
 {{<rawhtml>}}<i class="fa-solid fa-vr-cardboard me-2"></i>{{</rawhtml>}}[Virtual Tour](https://dock.hslu.ch/rundgang/index.html?startscene=i)
 
+{{<rawhtml>}}<i class="fa-solid fa-bed me-2"></i>{{</rawhtml>}}[Discounted Hotels](https://regis.buchertravel.ch/event/International_Modelica_Conference2025)
+
 ## Agenda
 
 The agenda is preliminary.
