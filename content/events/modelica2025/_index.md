@@ -181,7 +181,6 @@ In addition to paper presentations, the conference features several Modelica tut
 |       | Technical Sessions |
 | 12:00 | Lunch |
 |       | Technical Sessions |
-|       | Industrial User Presentations |
 |       | Coffee Break with Poster Presentations |
 | 16:00 | Panel discussion on the value of open standards |
 |       | Transfer to Lucerne is individual by Train (Boarding at KKL) |
