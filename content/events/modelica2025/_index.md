@@ -460,7 +460,7 @@ The complexity of modern integrated energy systems demands the systematic use of
 | Standard                     | Mon-Wed      | yes          | 750 CHF     | 900 CHF |
 | PhD-Candidate                | Mon-Wed      | no           | 400 CHF     | 500 CHF |
 | Non-PhD-Student              | Mon-Wed      | no           | 200 CHF     | 250 CHF |
-| Dinner                       | Dinner       | yes          | 150 CHF     | 150 CHF |
+| Conference Dinner            | Dinner       | yes          | 150 CHF     | 150 CHF |
 
 The conference will take place at the [Rotkreuz campus](https://dock.hslu.ch/rundgang/index.html?startscene=i)  of Lucerne University of Applied Sciences and Arts, which can be reached in as little as 13 minutes by train from Lucerne railroad station. We recommend taking the train to the campus, as the campus is located directly at Rotkreuz station. The university cannot provide parking spaces in Rotkreuz. There are parking spaces in the vicinity of the campus whose availability and prices are not subject to the university. 
 
