@@ -153,11 +153,14 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ## Agenda
 
+**[Link to Detailed Preliminary Conference Program](16thModelicaFMI_PrelProgram.pdf)**
+
 {{<rawhtml>}}
 <div class="alert alert-info" role="alert">
-  <i class="fa-solid fa-circle-info me-3"></i>The agenda is preliminary
+  <i class="fa-solid fa-circle-info me-3"></i>The agenda is preliminary 
 </div>
 {{</rawhtml>}}
+
 
 ### Monday, September 8
 
