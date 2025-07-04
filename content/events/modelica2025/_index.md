@@ -153,11 +153,18 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ## Agenda
 
-**[Link to Detailed Preliminary Conference Program](16thModelicaFMI_PrelProgram.pdf)**
+{{<rawhtml>}}
+<div class="alert alert-info" role="alert">
+  <i class="fa-solid fa-circle-info me-3"></i> Links to detailled information
+</div>
+{{</rawhtml>}}
+
+- **[Detailed Preliminary Conference Program](16thModelicaFMI_PrelProgram.pdf)**
+- **[Tutorial Abstracts](Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)**
 
 {{<rawhtml>}}
 <div class="alert alert-info" role="alert">
-  <i class="fa-solid fa-circle-info me-3"></i>The agenda is preliminary 
+  <i class="fa-solid fa-circle-info me-3"></i>High Level Preliminary Conference Program
 </div>
 {{</rawhtml>}}
 
