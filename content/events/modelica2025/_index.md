@@ -153,11 +153,21 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ## Agenda
 
-**[Link to Detailed Preliminary Conference Program](16thModelicaFMI_PrelProgram.pdf)**
+{{<rawhtml>}}
+<div class="alert alert-info" role="alert">
+  <i class="fa-solid fa-circle-info me-3"></i> Links to Detailed Information
+</div>
+{{</rawhtml>}}
+
+- **[Preliminary Conference Program](16thModelicaFMI_PrelProgram.pdf)**
+- **[Tutorial Abstract Booklet](Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)**
+
+- Please let us know your tutorial preferences. The survey helps us plan the tutorial sessions. It is intended for conference participants only and should be filled out only once. **[Tutorial Survey](https://terminplaner6.dfn.de/en/e/d590fb98fe94c51b446157009fca9395-1294761)**
+
 
 {{<rawhtml>}}
 <div class="alert alert-info" role="alert">
-  <i class="fa-solid fa-circle-info me-3"></i>The agenda is preliminary 
+  <i class="fa-solid fa-circle-info me-3"></i>High Level Preliminary Conference Program
 </div>
 {{</rawhtml>}}
 
