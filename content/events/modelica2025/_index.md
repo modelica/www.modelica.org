@@ -155,12 +155,12 @@ In addition to paper presentations, the conference features several Modelica tut
 
 {{<rawhtml>}}
 <div class="alert alert-info" role="alert">
-  <i class="fa-solid fa-circle-info me-3"></i> Links to detailled information
+  <i class="fa-solid fa-circle-info me-3"></i> Links to Detailed Information
 </div>
 {{</rawhtml>}}
 
-- **[Detailed Preliminary Conference Program](16thModelicaFMI_PrelProgram.pdf)**
-- **[Tutorial Abstracts](Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)**
+- **[Preliminary Conference Program](16thModelicaFMI_PrelProgram.pdf)**
+- **[Tutorial Abstract Booklet](Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)**
 
 {{<rawhtml>}}
 <div class="alert alert-info" role="alert">
