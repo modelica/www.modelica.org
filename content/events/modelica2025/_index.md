@@ -228,6 +228,25 @@ In addition to paper presentations, the conference features several Modelica tut
 |       | Closing and Rewards |
 | 16:00 | Coffee To Go |
 
+### Post-Conference Program on Thursday, September 11 
+The post conference program is not part of the conference ticket but is organized by the Modelica Association and its first part is also open to non-members. Participation is on your own expense. 
+
+|       |          |
+|------:|----------|
+| 09:00 | Short Presentations of the FMI and Modelica Working groups |
+| 09:30 | FMI Advisory Meeting and Modelica Advisory Meeting (in parallel) |
+| 12:30 | Lunch |
+
+The goal of the advisory meetings is that current or future users can give feedback to the Modelica Association. You can present your challenges and detail your needs. In case you want to take part at one of these advisory meetings as guest:
+- please register for the FMI Advisory meeting [via email](mailto:contact@fmi-standard.org).
+- please register for the Modelica Advisory meeting [via online booking](https://terminplaner6.dfn.de/en/b/b8ceacb2fd2032bbbf901583f997f728-1284258).
+
+The post conference program then proceeds exclusive for members of the MA until Friday September 12, 15:00.
+
+
+
+
+
 ## Call for Papers
 
 You are encouraged to submit a full paper of at least 4 pages, with a maximum of 10 pages, on the following topics:
