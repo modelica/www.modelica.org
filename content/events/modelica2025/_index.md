@@ -228,7 +228,7 @@ In addition to paper presentations, the conference features several Modelica tut
 |       | Closing and Rewards |
 | 16:00 | Coffee To Go |
 
-### Post-Conference Program on Thursday, September 11 
+### Thursday, September 11 (Post-Conference Program)
 The post conference program is not part of the conference ticket but is organized by the Modelica Association and its first part is also open to non-members. Participation is on your own expense. 
 
 |       |          |
@@ -286,6 +286,7 @@ You are encouraged to submit a full paper of at least 4 pages, with a maximum of
 |~~June 30~~ July 7, 2025|Deadline for early registration|
 |August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
 |September 8-10, 2025| 16th International Modelica & FMI Conference|
+|September 11-12, 2025| Modelica Association Meeting with public part on Sept. 11|
 
 Please note that the indicated deadline extension is final. Futhermore the EasyChair submission system enables to update your paper during the submission time. Uploading a draft early may help us organizing the reviews in time. 
 
