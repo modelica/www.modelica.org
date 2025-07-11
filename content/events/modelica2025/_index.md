@@ -236,6 +236,7 @@ The post conference program is not part of the conference ticket but is organize
 | 09:00 | Modelica Language and Library Advisory Meeting |
 | 09:00 | FMI Advisory Meeting  |
 | 12:30 | Lunch |
+| 13:30 - 15:00 | Coordination between the Modelica Association Projects |
 
 The goal of the advisory meetings is that current or future users can give feedback to the Modelica Association. You can present your challenges and detail your needs. In case you want to take part at one of these advisory meetings as guest:
 - please register for the FMI Advisory meeting [via email](mailto:contact@fmi-standard.org).
