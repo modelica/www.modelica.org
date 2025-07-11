@@ -237,6 +237,26 @@ In addition to paper presentations, the conference features several Modelica tut
 |       | Closing and Rewards |
 | 16:00 | Coffee To Go |
 
+### Thursday, September 11 (Post-Conference Program)
+The post conference program is not part of the conference ticket but is organized by the Modelica Association and its first part is also open to non-members. Participation is on your own expense. 
+
+|       |          |
+|------:|----------|
+| 09:00 | Modelica Language and Library Advisory Meeting |
+| 09:00 | FMI Advisory Meeting  |
+| 12:30 | Lunch |
+| 13:30 - 15:00 | Coordination between the Modelica Association Projects |
+
+The goal of the advisory meetings is that current or future users can give feedback to the Modelica Association. You can present your challenges and detail your needs. In case you want to take part at one of these advisory meetings as guest:
+- please register for the FMI Advisory meeting [via email](mailto:contact@fmi-standard.org).
+- please register for the Modelica Advisory meeting [via online booking](https://terminplaner6.dfn.de/en/b/b8ceacb2fd2032bbbf901583f997f728-1284258).
+
+The post conference program then proceeds exclusive for members of the MA until Friday September 12, 15:00.
+
+
+
+
+
 ## Call for Papers
 
 You are encouraged to submit a full paper of at least 4 pages, with a maximum of 10 pages, on the following topics:
@@ -276,6 +296,7 @@ You are encouraged to submit a full paper of at least 4 pages, with a maximum of
 |~~June 30~~ July 7, 2025|Deadline for early registration|
 |August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
 |September 8-10, 2025| 16th International Modelica & FMI Conference|
+|September 11-12, 2025| Modelica Association Meetings with public part on Sept. 11|
 
 Please note that the indicated deadline extension is final. Futhermore the EasyChair submission system enables to update your paper during the submission time. Uploading a draft early may help us organizing the reviews in time. 
 
