@@ -532,7 +532,7 @@ For the first time at the International Modelica Conference, we will have a Pene
 We choose panelist from a braod range of companies and organizations using Modelica for their product design and research. Our distinguished Panelists are:
 
 {{<rawhtml>}}
-<img src="adam-mugshot.jpg" alt="Adam Moravansky" style="margin-left: 0; max-width: 150px"/>
+<img src="images/adam-mugshot.jpg" alt="Adam Moravansky" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
 **Adam Moravanszky**, Senior Director Simulation Technology,  NVIDIA. At NVIDIA, Adam leads teams advancing open source simulation projects such as PhysX and Newton, and chairs the Physics Working Group of the Alliance for OpenUSD (AOUSD) open standard.
@@ -544,7 +544,7 @@ We choose panelist from a braod range of companies and organizations using Model
 **Clément Coïc**, Technology Cluster Lead - Digital Mechatronics, Siemens Healthineers. Clément leads innovation projects that investigate the value and interconnection of new digital technologies for Siemens Healthineers purposes. A specific focus is carried into leveraging system simulation for better control or path planning of robotic systems, enhancing Machine Learning models with Physics, and modeling the physical behavior of PhysicalAI developments. His works heavily relies on open-standards, like Modelica and FMI, and open-source modules - like Julia's SciML ecosystem, ROS or OpenCV and Yolo, to name a few.
 
 {{<rawhtml>}}
-<img src="images/PotraitDZSquare.JPG" alt="Dirk Zimmer" style="margin-left: 0; max-width: 150px"/>
+<img src="images/PortraitDZSquare.JPG" alt="Dirk Zimmer" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
 **Dirk Zimmer**, Chairman of the Modelica Association. Expert for equation-based Modeling and Simulation at the Institute of Robotics and Mechatronics, German Aerospace Center (DLR).
@@ -557,7 +557,7 @@ The open Modelica Standards provide a real technical, economical as well as soci
 **Marius Dupuis**, CEO, ASAM e.V. The CEO’s role at ASAM is to manage a team that keeps things running, kicks off new endeavors, and makes sure we are seen and heard. Marius' role is right in the midst of system simulation and (open) standards. It comprises getting members on board, motivating them to initiate and conduct standardization projects, providing a roadmap and legal framework that fit the market, and keeping the association in a good shape.
 
 {{<rawhtml>}}
-<img src="images/thumbnail_wettr.jpg" alt="Michael Wetter" style="margin-left: 0; max-width: 150px"/>
+<img src="images/thumbnail_wetter.jpg" alt="Michael Wetter" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
 **Michael Wetter**, Computational Senior Scientist, Lawrence Berkeley National Laboratory (LBNL). Leading the development of modular modeling, design and controls based on Modelica and FMI for building and district energy and control systems. Michael Wetter has been leading the Modelica Buildings Library which is used in industry and academia for the design of HVAC equipment, building and district energy systems, and data center cooling systems. He also spearheaded the development of digitalization of building control design-installation-commissioning, leading to the proposed ASHRAE Standard 231P, to be expected to be approved within the next few months, which uses a subset of Modelica to standardize control logic formulation in a vendor-independent format.
