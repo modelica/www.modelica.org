@@ -510,21 +510,6 @@ AI is increasingly being used in the fast and accurate simulation of physical sy
 
 The complexity of modern integrated energy systems demands the systematic use of systems engineering methods and tools to address key challenges across product lifecycle. This keynote will explore three related and critical areas: 1) the demand for diverse model fidelities and analysis, 2) maintaining consistency across design layers, and 3) the importance of seamless tooling and integration. Real-world, HVAC-specific examples will highlight how these challenges are being tackled in practice and the opportunities they present. For over two decades, Carrier has relied on Modelica as a cornerstone technology for model-based product design. The journey began with the development of control systems for transportation refrigeration, where transient simulations allowed for rapid control function development and verification. Today, while controls development remains a vital application, Carrier has expanded Modelica's use across the entire product lifecycle—from conceptual design, through testing and verification, to business sales tools, and into operation with monitoring and diagnostics. Design and operation of highly integrated energy systems such as data centers and district heating systems also calls for new methods and tools. Differentiated applications has driven diversified analysis with Modelica models. Modelica-based steady-state simulation has emerged as a back-bone in product design, sales tools, as well as in field diagnostics. Steady-state and transient optimization is also a necessary element across the product life cycle. The need for diversified analysis and computation is further amplified by application of systems engineering methods where requirements, design space exploration, and validation and verification are key elements.
 
-## Registration and Accommodation
-
-**[Registration is now open at Eventfrog](https://eventfrog.ch/en/p/fairs/congress-conference/the-16th-international-modelica-fmi-conference-7297164051792011009.html)**. Please register soon to make planning easy for us. Early Bird tickets will be available until July 7th. The conference registration is offered at the following conditions.
-
-| Registration                 | Valid        | incl. Dinner | Early-Price | Price   |
-|------------------------------|--------------|:------------:|------------:|--------:|
-| Standard                     | Mon-Wed      | yes          | 750 CHF     | 900 CHF |
-| PhD-Candidate                | Mon-Wed      | no           | 400 CHF     | 500 CHF |
-| Non-PhD-Student              | Mon-Wed      | no           | 200 CHF     | 250 CHF |
-| Conference Dinner            | Dinner       | yes          | 150 CHF     | 150 CHF |
-
-The conference will take place at the [Rotkreuz campus](https://dock.hslu.ch/rundgang/index.html?startscene=i)  of Lucerne University of Applied Sciences and Arts, which can be reached in as little as 13 minutes by train from Lucerne railroad station. We recommend taking the train to the campus, as the campus is located directly at Rotkreuz station. The university cannot provide parking spaces in Rotkreuz. There are parking spaces in the vicinity of the campus whose availability and prices are not subject to the university. 
-
-Under the following link, conference participants will find a **[limited contingent of hotels in Lucerne and Rotkreuz at discounted rates.](https://regis.buchertravel.ch/event/International_Modelica_Conference2025)** Please use the search window to view all available hotels and prices. We would like to point out that Lucerne offers significantly more tourist attractions than Rotkreuz. However, Lucerne is in high season during the conference, so accommodation costs may be higher. Cheaper alternatives can be found, for example, in youth hostels in the city of Lucerne, Airbnbs, or hotels in the vicinity of Lucerne and Rotkreuz with good rail connections.
-
 ## Panel Discussion
 
 For the first time at the International Modelica Conference, we will have a Penel discussion. The topic is: **Open Standards vs. Open source, Collaboration or Conflict?**.
@@ -570,6 +555,20 @@ The open Modelica Standards provide a real technical, economical as well as soci
 
 We are looking forward to a lively and informative discussion with our panelists. The panel discussion will evolve around a few prepared questions, and questions from the audience. It will be moderated by our board member **Hubertus Tummescheit**, (Board member Modelica Association), President Model Based Innovation LLC. 
 
+## Registration and Accommodation
+
+**[Registration is now open at Eventfrog](https://eventfrog.ch/en/p/fairs/congress-conference/the-16th-international-modelica-fmi-conference-7297164051792011009.html)**. Please register soon to make planning easy for us. Early Bird tickets will be available until July 7th. The conference registration is offered at the following conditions.
+
+| Registration                 | Valid        | incl. Dinner | Early-Price | Price   |
+|------------------------------|--------------|:------------:|------------:|--------:|
+| Standard                     | Mon-Wed      | yes          | 750 CHF     | 900 CHF |
+| PhD-Candidate                | Mon-Wed      | no           | 400 CHF     | 500 CHF |
+| Non-PhD-Student              | Mon-Wed      | no           | 200 CHF     | 250 CHF |
+| Conference Dinner            | Dinner       | yes          | 150 CHF     | 150 CHF |
+
+The conference will take place at the [Rotkreuz campus](https://dock.hslu.ch/rundgang/index.html?startscene=i)  of Lucerne University of Applied Sciences and Arts, which can be reached in as little as 13 minutes by train from Lucerne railroad station. We recommend taking the train to the campus, as the campus is located directly at Rotkreuz station. The university cannot provide parking spaces in Rotkreuz. There are parking spaces in the vicinity of the campus whose availability and prices are not subject to the university. 
+
+Under the following link, conference participants will find a **[limited contingent of hotels in Lucerne and Rotkreuz at discounted rates.](https://regis.buchertravel.ch/event/International_Modelica_Conference2025)** Please use the search window to view all available hotels and prices. We would like to point out that Lucerne offers significantly more tourist attractions than Rotkreuz. However, Lucerne is in high season during the conference, so accommodation costs may be higher. Cheaper alternatives can be found, for example, in youth hostels in the city of Lucerne, Airbnbs, or hotels in the vicinity of Lucerne and Rotkreuz with good rail connections.
 
 ## Scope of the Conference
 
