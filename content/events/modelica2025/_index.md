@@ -525,6 +525,52 @@ The conference will take place at the [Rotkreuz campus](https://dock.hslu.ch/run
 
 Under the following link, conference participants will find a **[limited contingent of hotels in Lucerne and Rotkreuz at discounted rates.](https://regis.buchertravel.ch/event/International_Modelica_Conference2025)** Please use the search window to view all available hotels and prices. We would like to point out that Lucerne offers significantly more tourist attractions than Rotkreuz. However, Lucerne is in high season during the conference, so accommodation costs may be higher. Cheaper alternatives can be found, for example, in youth hostels in the city of Lucerne, Airbnbs, or hotels in the vicinity of Lucerne and Rotkreuz with good rail connections.
 
+## Panel Discussion
+
+For the first time at the International Modelica Conference, we will have a Penel discussion. The topic is: **Open Standards vs. Open source, Collaboration or Conflict?**.
+
+We choose panelist from a braod range of companies and organizations using Modelica for their product design and research. Our distinguished Panelists are:
+
+{{<rawhtml>}}
+<img src="adam-mugshot.jpg" alt="Adam Moravansky" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Adam Moravanszky**, Senior Director Simulation Technology,  NVIDIA. At NVIDIA, Adam leads teams advancing open source simulation projects such as PhysX and Newton, and chairs the Physics Working Group of the Alliance for OpenUSD (AOUSD) open standard.
+
+{{<rawhtml>}}
+<img src="images/Clement.jpeg" alt="Clément Coïc" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Clément Coïc**, Technology Cluster Lead - Digital Mechatronics, Siemens Healthineers. Clément leads innovation projects that investigate the value and interconnection of new digital technologies for Siemens Healthineers purposes. A specific focus is carried into leveraging system simulation for better control or path planning of robotic systems, enhancing Machine Learning models with Physics, and modeling the physical behavior of PhysicalAI developments. His works heavily relies on open-standards, like Modelica and FMI, and open-source modules - like Julia's SciML ecosystem, ROS or OpenCV and Yolo, to name a few.
+
+{{<rawhtml>}}
+<img src="images/PotraitDZSquare.JPG" alt="Dirk Zimmer" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Dirk Zimmer**, Chairman of the Modelica Association. Expert for equation-based Modeling and Simulation at the Institute of Robotics and Mechatronics, German Aerospace Center (DLR).
+The open Modelica Standards provide a real technical, economical as well as societal benefit. Promoting them in Dirk's role as Chairman is hence an honor. Also DLR profits from them: in the field of robotics the multi-domain simulation and control aspects play a crucial role for further advancement.
+
+{{<rawhtml>}}
+<img src="images/Marius_DUPUIS.JPG" alt="Marius Dupuis" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Marius Dupuis**, CEO, ASAM e.V. The CEO’s role at ASAM is to manage a team that keeps things running, kicks off new endeavors, and makes sure we are seen and heard. Marius' role is right in the midst of system simulation and (open) standards. It comprises getting members on board, motivating them to initiate and conduct standardization projects, providing a roadmap and legal framework that fit the market, and keeping the association in a good shape.
+
+{{<rawhtml>}}
+<img src="images/thumbnail_wettr.jpg" alt="Michael Wetter" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Michael Wetter**, Computational Senior Scientist, Lawrence Berkeley National Laboratory (LBNL). Leading the development of modular modeling, design and controls based on Modelica and FMI for building and district energy and control systems. Michael Wetter has been leading the Modelica Buildings Library which is used in industry and academia for the design of HVAC equipment, building and district energy systems, and data center cooling systems. He also spearheaded the development of digitalization of building control design-installation-commissioning, leading to the proposed ASHRAE Standard 231P, to be expected to be approved within the next few months, which uses a subset of Modelica to standardize control logic formulation in a vendor-independent format.
+
+{{<rawhtml>}}
+<img src="images/Schulmeister.jpg" alt="Ulrich Schulmeister" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Ulrich Schulmeister**, Head of Systems Engineering, Simulation, Virtualization and Vehicle Safety at the Central Department in the Bosch Mobility Company. Ullrich has ore than 30 years’ experience in automotive software, function development, system development in series production, pre-development and corporate research. He leads the Initiative “Virtualisation 1st” with the targets to increase speed and efficiency in product development and to enable new business.
+
+We are looking forward to a lively and informative discussion with our panelists. The panel discussion will evolve around a few prepared questions, and questions from the audience. It will be moderated by our board member **Hubertus Tummescheit**, (Board member Modelica Association), President Model Based Innovation LLC. 
+
+
 ## Scope of the Conference
 
 [Modelica](/) is a freely available, equation-based, object-oriented language for convenient and efficient modeling of complex, multi-domain cyber-physical systems described by ordinary differential, difference and algebraic equations. The Modelica language and the companion Modelica Standard Library have been utilized in a variety of demanding industrial applications, including full vehicle dynamics, power systems, robotics, buildings and district energy systems, hardware-in-the-loop simulations and embedded control systems. The [Functional Mock-up Interface (FMI)](https://www.fmi-standard.org/) is an open standard for the tool-independent exchange of models and for co-simulation. It is supported by many [Modelica and non-Modelica tools](/tools/) and is the key to utilizing Modelica models in non-Modelica environments.
