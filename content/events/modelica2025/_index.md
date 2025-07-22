@@ -526,14 +526,14 @@ We choose panelist from a braod range of companies and organizations using Model
 <img src="images/Clement.jpeg" alt="Clément Coïc" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
-**Clément Coïc**, Technology Cluster Lead - Digital Mechatronics, Siemens Healthineers. Clément leads innovation projects that investigate the value and interconnection of new digital technologies for Siemens Healthineers purposes. A specific focus is carried into leveraging system simulation for better control or path planning of robotic systems, enhancing Machine Learning models with Physics, and modeling the physical behavior of PhysicalAI developments. His works heavily relies on open-standards, like Modelica and FMI, and open-source modules - like Julia's SciML ecosystem, ROS or OpenCV and Yolo, to name a few.
+**Clément Coïc**, Technology Cluster Lead - Digital Mechatronics, Siemens Healthineers. Clément leads innovation projects that investigate the value and interconnection of new digital technologies for Siemens Healthineers purposes. A specific focus is carried into leveraging system simulation for better control or path planning of robotic systems, enhancing Machine Learning models with Physics, and modeling the physical behavior of PhysicalAI developments. His works heavily relies on open standards, like Modelica and FMI, and open source modules - like Julia's SciML ecosystem, ROS or OpenCV and Yolo, to name a few.
 
 {{<rawhtml>}}
 <img src="images/PortraitDZSquare.JPG" alt="Dirk Zimmer" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
-**Dirk Zimmer**, Chairman of the Modelica Association. Expert for equation-based Modeling and Simulation at the Institute of Robotics and Mechatronics, German Aerospace Center (DLR).
-The open Modelica Standards provide a real technical, economical as well as societal benefit. Promoting them in Dirk's role as Chairman is hence an honor. Also DLR profits from them: in the field of robotics the multi-domain simulation and control aspects play a crucial role for further advancement.
+**Dirk Zimmer**, Chairman of the Modelica Association. Expert for equation-based modeling and simulation at the Institute of Robotics and Mechatronics, German Aerospace Center (DLR).
+The open Modelica standards provide a real technical, economical as well as societal benefit. Promoting them in Dirk's role as Chairman is hence an honor. Also DLR profits from them: in the field of robotics the multi-domain simulation and control aspects play a crucial role for further advancement.
 
 {{<rawhtml>}}
 <img src="images/Marius_DUPUIS.JPG" alt="Marius Dupuis" style="margin-left: 0; max-width: 150px"/>
@@ -545,15 +545,15 @@ The open Modelica Standards provide a real technical, economical as well as soci
 <img src="images/thumbnail_wetter.jpg" alt="Michael Wetter" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
-**Michael Wetter**, Computational Senior Scientist, Lawrence Berkeley National Laboratory (LBNL). Leading the development of modular modeling, design and controls based on Modelica and FMI for building and district energy and control systems. Michael Wetter has been leading the Modelica Buildings Library which is used in industry and academia for the design of HVAC equipment, building and district energy systems, and data center cooling systems. He also spearheaded the development of digitalization of building control design-installation-commissioning, leading to the proposed ASHRAE Standard 231P, to be expected to be approved within the next few months, which uses a subset of Modelica to standardize control logic formulation in a vendor-independent format.
+**Michael Wetter**, Computational Senior Scientist, Lawrence Berkeley National Laboratory (LBNL). Leading the development of modular modeling, design and controls based on Modelica and FMI for building and district energy and control systems. Michael Wetter has been leading the Modelica Buildings Library which is used in industry and academia for the design of HVAC equipment, building and district energy systems, and data center cooling systems. He also spearheaded the development of digitalization of building control design-installation-commissioning, leading to the proposed ASHRAE Standard 231P, expected to be approved within the next few months, which uses a subset of Modelica to standardize control logic formulation in a vendor-independent format.
 
 {{<rawhtml>}}
 <img src="images/Schulmeister.jpg" alt="Ulrich Schulmeister" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
-**Ulrich Schulmeister**, Head of Systems Engineering, Simulation, Virtualization and Vehicle Safety at the Central Department in the Bosch Mobility Company. Ullrich has ore than 30 years’ experience in automotive software, function development, system development in series production, pre-development and corporate research. He leads the Initiative “Virtualisation 1st” with the targets to increase speed and efficiency in product development and to enable new business.
+**Ulrich Schulmeister**, Head of Systems Engineering, Simulation, Virtualization and Vehicle Safety at the Central Department in the Bosch Mobility Company. Ullrich has ore than 30 years of experience in automotive software, function development, system development in series production, pre-development and corporate research. He leads the Initiative “Virtualization 1st” with the goal to increase speed and efficiency in product development and to enable new business.
 
-We are looking forward to a lively and informative discussion with our panelists. The panel discussion will evolve around a few prepared questions, and questions from the audience. It will be moderated by our board member **Hubertus Tummescheit**, (Board member Modelica Association), President Model Based Innovation LLC. 
+We are looking forward to a lively and informative discussion with our panelists. The panel discussion will evolve around a few prepared questions, and questions from the audience. It will be moderated by our board member **Hubertus Tummescheit**, Board member Modelica Association, President Model Based Innovation LLC. 
 
 ## Registration and Accommodation
 
