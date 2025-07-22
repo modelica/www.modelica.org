@@ -510,6 +510,51 @@ AI is increasingly being used in the fast and accurate simulation of physical sy
 
 The complexity of modern integrated energy systems demands the systematic use of systems engineering methods and tools to address key challenges across product lifecycle. This keynote will explore three related and critical areas: 1) the demand for diverse model fidelities and analysis, 2) maintaining consistency across design layers, and 3) the importance of seamless tooling and integration. Real-world, HVAC-specific examples will highlight how these challenges are being tackled in practice and the opportunities they present. For over two decades, Carrier has relied on Modelica as a cornerstone technology for model-based product design. The journey began with the development of control systems for transportation refrigeration, where transient simulations allowed for rapid control function development and verification. Today, while controls development remains a vital application, Carrier has expanded Modelica's use across the entire product lifecycle—from conceptual design, through testing and verification, to business sales tools, and into operation with monitoring and diagnostics. Design and operation of highly integrated energy systems such as data centers and district heating systems also calls for new methods and tools. Differentiated applications has driven diversified analysis with Modelica models. Modelica-based steady-state simulation has emerged as a back-bone in product design, sales tools, as well as in field diagnostics. Steady-state and transient optimization is also a necessary element across the product life cycle. The need for diversified analysis and computation is further amplified by application of systems engineering methods where requirements, design space exploration, and validation and verification are key elements.
 
+## Panel Discussion
+
+For the first time at the International Modelica Conference, we will have a Penel discussion. The topic is: **Open Standards vs. Open source, Collaboration or Conflict?**.
+
+We choose panelist from a braod range of companies and organizations using Modelica for their product design and research. Our distinguished Panelists are:
+
+{{<rawhtml>}}
+<img src="images/adam-mugshot.jpg" alt="Adam Moravansky" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Adam Moravanszky**, Senior Director Simulation Technology,  NVIDIA. At NVIDIA, Adam leads teams advancing open source simulation projects such as PhysX and Newton, and chairs the Physics Working Group of the Alliance for OpenUSD (AOUSD) open standard.
+
+{{<rawhtml>}}
+<img src="images/Clement.jpeg" alt="Clément Coïc" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Clément Coïc**, Technology Cluster Lead - Digital Mechatronics, Siemens Healthineers. Clément leads innovation projects that investigate the value and interconnection of new digital technologies for Siemens Healthineers purposes. A specific focus is carried into leveraging system simulation for better control or path planning of robotic systems, enhancing Machine Learning models with Physics, and modeling the physical behavior of PhysicalAI developments. His works heavily relies on open standards, like Modelica and FMI, and open source modules - like Julia's SciML ecosystem, ROS or OpenCV and Yolo, to name a few.
+
+{{<rawhtml>}}
+<img src="images/PortraitDZSquare.JPG" alt="Dirk Zimmer" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Dirk Zimmer**, Chairman of the Modelica Association. Expert for equation-based modeling and simulation at the Institute of Robotics and Mechatronics, German Aerospace Center (DLR).
+The open Modelica standards provide a real technical, economical as well as societal benefit. Promoting them in Dirk's role as Chairman is hence an honor. Also DLR profits from them: in the field of robotics the multi-domain simulation and control aspects play a crucial role for further advancement.
+
+{{<rawhtml>}}
+<img src="images/Marius_DUPUIS.JPG" alt="Marius Dupuis" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Marius Dupuis**, CEO, ASAM e.V. The CEO’s role at ASAM is to manage a team that keeps things running, kicks off new endeavors, and makes sure we are seen and heard. Marius' role is right in the midst of system simulation and (open) standards. It comprises getting members on board, motivating them to initiate and conduct standardization projects, providing a roadmap and legal framework that fit the market, and keeping the association in a good shape.
+
+{{<rawhtml>}}
+<img src="images/thumbnail_wetter.jpg" alt="Michael Wetter" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Michael Wetter**, Computational Senior Scientist, Lawrence Berkeley National Laboratory (LBNL). Leading the development of modular modeling, design and controls based on Modelica and FMI for building and district energy and control systems. Michael Wetter has been leading the Modelica Buildings Library which is used in industry and academia for the design of HVAC equipment, building and district energy systems, and data center cooling systems. He also spearheaded the development of digitalization of building control design-installation-commissioning, leading to the proposed ASHRAE Standard 231P, expected to be approved within the next few months, which uses a subset of Modelica to standardize control logic formulation in a vendor-independent format.
+
+{{<rawhtml>}}
+<img src="images/Schulmeister.jpg" alt="Ulrich Schulmeister" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Ulrich Schulmeister**, Head of Systems Engineering, Simulation, Virtualization and Vehicle Safety at the Central Department in the Bosch Mobility Company. Ullrich has ore than 30 years of experience in automotive software, function development, system development in series production, pre-development and corporate research. He leads the Initiative “Virtualization 1st” with the goal to increase speed and efficiency in product development and to enable new business.
+
+We are looking forward to a lively and informative discussion with our panelists. The panel discussion will evolve around a few prepared questions, and questions from the audience. It will be moderated by our board member **Hubertus Tummescheit**, Board member Modelica Association, President Model Based Innovation LLC. 
+
 ## Registration and Accommodation
 
 **[Registration is now open at Eventfrog](https://eventfrog.ch/en/p/fairs/congress-conference/the-16th-international-modelica-fmi-conference-7297164051792011009.html)**. Please register soon to make planning easy for us. Early Bird tickets will be available until July 7th. The conference registration is offered at the following conditions.
