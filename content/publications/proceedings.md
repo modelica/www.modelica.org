@@ -32,7 +32,7 @@ Presentation material and slides are not subject to a peer-review process and ma
 
 The Modelica Conferences are conducted by a local organizer in cooperation with the Modelica Association. The details of this cooperation are stipulated by a corresponding license agreement.
 
-For each Modelica conference, a conference board is established. The conference board takes on the organizational duties of its specific conference and also serves editorial duties. To ensure alignment with the editorial policies of the Modelica conference proceedings at least 4 members of the Editorial board must be members of the conference board. Futhermore, the complete editorial board is given access to all the reviews and the conference boards decisions in order to conduct oversight. This access is unrestricted. The editorial board is given the power to overrule any editorial decisions of the conference board with a simple majority and quorum of five
+For each Modelica conference, a conference board is established. The conference board takes on the organizational duties of its specific conference and also serves editorial duties. To ensure alignment with the editorial policies of the Modelica conference proceedings at least 4 members of the Editorial board must be members of the conference board. Furthermore, the complete editorial board is given access to all the reviews and the conference boards decisions in order to conduct oversight. This access is unrestricted. The editorial board is given the power to overrule any editorial decisions of the conference board with a simple majority and quorum of five
 
 
 ## Editorial Board and Contact Information
