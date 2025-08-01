@@ -4,7 +4,7 @@ title: Proceedings
 <!-- This is a skeleton for what we need for Scopus -->
 # The Modelica and FMI Conference Proceedings
 <!-- Note on updated name since 2025-->
-The Modelica Association publishes its confereces proceedings in a journal.
+The Modelica Association publishes its conferences proceedings in a journal.
 Until 2024, the name of the proceedings and journal was "Modelica Conference Proceedings". Due to the increased adoptiona and importance of the FMI stnadard by the Modelica Association, the name of the proceedings and journal is "Modelica and FMI Conference Proceedings". Since its inception in 2000 the papers from the Modelica Conference Proceedings have collected over 5000 citations. 
 
 ## Aim & Scope
