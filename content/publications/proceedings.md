@@ -5,7 +5,7 @@ title: Proceedings
 # The Modelica and FMI Conference Proceedings
 <!-- Note on updated name since 2025-->
 The Modelica Association publishes its conferences proceedings in a journal.
-Until 2024, the name of the proceedings and journal was "Modelica Conference Proceedings". Due to the increased adoptiona and importance of the FMI stnadard by the Modelica Association, the name of the proceedings and journal is "Modelica and FMI Conference Proceedings". Since its inception in 2000 the papers from the Modelica Conference Proceedings have collected over 5000 citations. 
+Until 2024, the name of the proceedings and journal was "Modelica Conference Proceedings". Due to the increased adoption and importance of the FMI standard by the Modelica Association, the name of the proceedings and journal is "Modelica and FMI Conference Proceedings". Since its inception in 2000 the papers from the Modelica Conference Proceedings have collected over 5000 citations. 
 
 ## Aim & Scope
 The International Modelica & FMI Conference explores the frontier of science and technology to model and simulate complex physical and cyber-physical systems for a wide range of research and industrial applications. In particular, the conference covers topics such as symbolic algorithms and numerical methods to simulate equation-based, object-oriented models for design optimization, real-time simulation, and model-based control, as well as model-based system development methods and tools, modeling language design and semantics, and model library design. It also covers applications in automotive, aircraft, space, robotics, energy systems, and other areas using the modeling language Modelica and other Modelica Association standards for system simulation such as FMI, SSP, DCP, and eFMI.
