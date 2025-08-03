@@ -434,6 +434,8 @@ Please make sure that your submission has been created according to the [Modelic
 
 For the final submission, there will also be the possibility to submit Modelica example model files that correspond to your publication. These files will then be attached to your paper in the Modelica Association copy of the proceedings (but not the LiU e-press copy to which  the DOI points).
 
+To announce your presentation, we encourage all presenters to post on social media with a nice picture. You may use [this template](images/SpeakerSocialMediaTemplate.pptx).
+
 ### Preparation of Industrial User Presentations. 
 
 There are no specific templates for industrial user presentations. The presentations follow the same guidelines as for full papers.
