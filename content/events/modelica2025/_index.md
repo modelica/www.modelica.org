@@ -204,10 +204,11 @@ In addition to paper presentations, the conference features several Modelica tut
 | 11:30 | Arrival / Reception |
 | 13:00 | Welcome Speech  |
 | 13:30 | Tutorials - Part 1 |
-| 15:00 | Coffee Break with Poster Presentations |
-| 15:30 | Tutorials - Part 2 |
+| 14:45 | Coffee Break with Poster Presentations |
+| 15:15 | Tutorials - Part 2 |
+| 16:30 | Short Break |
 | 16:45 | Modelica & FMI Vendor Presentations  |
-| 18:45 | Welcome Reception |
+| 19:05 | Welcome Reception |
 
 ### Tuesday, September 9
 
