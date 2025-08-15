@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 629 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-126,-132.5)">
+        <path d="M169.8,375.4L169.8,132.5L126,132.5L126,411.5L330.3,411.5L330.3,377.8L169.7,377.8L169.8,375.4Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/>
+        <path d="M219.2,132.5L174.6,132.5L174.6,372.9L330.3,372.9L330.3,331.8L219.2,331.8L219.2,132.5Z" style="fill:url(#_Linear2);fill-rule:nonzero;"/>
+        <path d="M660.4,268.4L750.9,132.5L704.6,132.5L611.2,269.9L705.5,411.5L754.8,411.5L660.4,268.4Z" style="fill:url(#_Linear3);fill-rule:nonzero;"/>
+        <path d="M608.3,265.6L698.7,132.5L646.8,132.5L606.2,199.1L565.9,132.5L255.6,132.5L255.6,169.1L544.2,169.1" style="fill:url(#_Linear4);fill-rule:nonzero;"/>
+        <path d="M337.7,372.9L381.9,372.9L381.9,174L255.6,174L255.6,211.5L337.7,211.5L337.7,372.9Z" style="fill:url(#_Linear5);fill-rule:nonzero;"/>
+        <path d="M541.5,174L386.8,174L386.8,377.8L337.7,377.8L337.7,411.5L431,411.5L431,211.5L512,211.5L550.4,269.7L455.9,411.6L509.1,411.6L605.3,270L541.5,174Z" style="fill:url(#_Linear6);fill-rule:nonzero;"/>
+        <path d="M515,411.5L559.9,411.5L604.6,339L648.8,411.5L699.7,411.5L608.3,274.3L515,411.5Z" style="fill:url(#_Linear7);fill-rule:nonzero;"/>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.81869e-14,297.015,-297.015,1.81869e-14,228.141,127.831)"><stop offset="0" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="0.03" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,80,116);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.81869e-14,297.015,-297.015,1.81869e-14,252.469,127.831)"><stop offset="0" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="0.03" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,80,116);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.81869e-14,297.015,-297.015,1.81869e-14,683.033,127.831)"><stop offset="0" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="0.03" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,80,116);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.81869e-14,297.015,-297.015,1.81869e-14,477.168,127.831)"><stop offset="0" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="0.03" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,80,116);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear5" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.81869e-14,297.015,-297.015,1.81869e-14,318.786,127.831)"><stop offset="0" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="0.03" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,80,116);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear6" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.81869e-14,297.015,-297.015,1.81869e-14,471.549,127.831)"><stop offset="0" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="0.03" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,80,116);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear7" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.81869e-14,297.015,-297.015,1.81869e-14,607.345,127.831)"><stop offset="0" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="0.03" style="stop-color:rgb(0,149,212);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,80,116);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
