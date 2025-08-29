@@ -162,13 +162,15 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ## Agenda
 
-{{<rawhtml>}}
-<div class="alert alert-info" role="alert">
-  <i class="fa-solid fa-circle-info me-3"></i> Links to Detailed Information
-</div>
-{{</rawhtml>}}
+- **[Full Conference Program](16thModelicaFMI_PrelProgram.pdf)**
 
-- **[Preliminary Conference Program](16thModelicaFMI_PrelProgram.pdf)**
+{{<rawhtml>}}
+<picture>
+  <a href="16thModelicaFMI_PrelProgram.pdf">
+    <img src="images/ProgramOverview.png" alt="Full Program Overview", width=100%>
+  </a>
+</picture>
+{{</rawhtml>}}
 
 - **Tutorials**
   1.	Beyond Simulation: Building Workflows and Web Applications with Modelica and Python
@@ -190,53 +192,6 @@ In addition to paper presentations, the conference features several Modelica tut
   - **[Tutorial Abstract Booklet](Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)**
   - Please let us know your tutorial preferences. The survey helps us plan the tutorial sessions. It is intended for conference participants only and should be filled out only once. **[Tutorial Survey](https://terminplaner6.dfn.de/en/e/d590fb98fe94c51b446157009fca9395-1294761)**
 
-{{<rawhtml>}}
-<div class="alert alert-info" role="alert">
-  <i class="fa-solid fa-circle-info me-3"></i>High Level Preliminary Conference Program
-</div>
-{{</rawhtml>}}
-
-
-### Monday, September 8
-
-|       |          |
-|------:|----------|
-| 11:30 | Arrival / Reception |
-| 13:00 | Welcome Speech  |
-| 13:30 | Tutorials - Part 1 |
-| 14:45 | Coffee Break with Poster Presentations |
-| 15:15 | Tutorials - Part 2 |
-| 16:30 | Short Break |
-| 16:45 | Modelica & FMI Vendor Presentations  |
-| 19:05 | Welcome Reception |
-
-### Tuesday, September 9
-
-|       |          |
-|------:|----------|
-|  9:00 | [Keynote: Prof. Mishra Siddhartha](#physics-informed-ai-tuesday-september-9th) |
-|       | Coffee Break with Poster Presentations |
-|       | Modelica & FMI News |
-|       | Technical Sessions |
-| 12:00 | Lunch |
-|       | Technical Sessions |
-|       | Coffee Break with Poster Presentations |
-| 16:00 | Panel discussion on the value of open standards |
-|       | Transfer to Lucerne is individual by Train (Boarding at KKL) |
-| 18:00 | Boat-Cruise-Dinner |
-
-### Wednesday, September 10
-
-|       |          |
-|------:|----------|
-|  8:30 | [Keynote: Dr. Johan R Åkesson](#opportunities-and-challenges-in-design-and-operation-of-integrated-energy-systems-wednesday-september-10th) |
-|       | Technical Sessions |
-|       | Coffee Break with Poster Presentations |
-|       | Technical Sessions |
-| 12:40 | Lunch |
-|       | Technical Sessions |
-|       | Closing and Rewards |
-| 16:00 | Coffee To Go |
 
 ### Thursday, September 11 (Post-Conference Program)
 The post conference program is not part of the conference ticket but is organized by the Modelica Association and its first part is also open to non-members. Participation is on your own expense. 
