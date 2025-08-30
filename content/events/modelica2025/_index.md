@@ -197,6 +197,15 @@ In addition to paper presentations, the conference features several Modelica tut
 {{</rawhtml>}}
 
 
+### Sunday, September 7
+
+Spontaneous **group hike to the Niederbauen** for nature and hiking enthusiasts. [Details & registration here →](Modelica_and_FMI_Group_Hike.pdf)
+
+{{<rawhtml>}}
+<img src="images/Niderbauen.jpg" alt="Niederbauen" style="max-width: 450px"/>
+{{</rawhtml>}}
+
+
 ### Monday, September 8
 
 |       |          |
