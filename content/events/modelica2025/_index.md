@@ -162,7 +162,7 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ## Agenda
 
-[{{<i class="fa-solid fa-file-arrow-down me-1">}} Preliminary Conference Program](16thModelicaFMI_PrelProgram.pdf)
+[{{<i class="fa-solid fa-file-arrow-down me-1">}} Final Conference Program](16thModelicaFMI_Program.pdf)
 
 [{{<i class="fa-solid fa-file-arrow-down me-1">}} Tutorial Abstract Booklet](Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)
 
