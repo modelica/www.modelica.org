@@ -19,7 +19,9 @@ This is the first visit of this conference series in Switzerland.
 
 ## Sponsors
 
+<!--
 [Become a sponsor](#call-for-sponsors) of the 16th International Modelica & FMI Conference!
+-->
 
 ### Platinum
 
@@ -138,8 +140,6 @@ This is the first visit of this conference series in Switzerland.
     </a>      
   </div>
 
-
-
 </div>
 {{</rawhtml>}}
 
@@ -190,12 +190,13 @@ It is intended for conference participants only and should be filled out only on
 
 ### Sunday, September 7
 
-Spontaneous **group hike to the Niederbauen** for nature and hiking enthusiasts. [Details & registration here →](Modelica_and_FMI_Group_Hike.pdf)
+Spontaneous **group hike to the Niederbauen** for nature and hiking enthusiasts.
+
+[{{<i class="fa-solid fa-file-arrow-down me-1">}} Details & Registration](Modelica_and_FMI_Group_Hike.pdf)
 
 {{<rawhtml>}}
 <img src="images/Niderbauen.jpg" alt="Niederbauen" style="max-width: 450px"/>
 {{</rawhtml>}}
-
 
 ### Monday, September 8
 
@@ -239,6 +240,7 @@ Spontaneous **group hike to the Niederbauen** for nature and hiking enthusiasts.
 | 16:00 | Coffee To Go |
 
 ### Thursday, September 11 (Post-Conference Program)
+
 The post conference program is not part of the conference ticket but is organized by the Modelica Association and its first part is also open to non-members. Participation is on your own expense. 
 
 |       |          |
@@ -254,10 +256,7 @@ The goal of the advisory meetings is that current or future users can give feedb
 
 The post conference program then proceeds exclusive for members of the MA until Friday September 12, 15:00.
 
-
-
-
-
+<!--
 ## Call for Papers
 
 You are encouraged to submit a full paper of at least 4 pages, with a maximum of 10 pages, on the following topics:
@@ -308,7 +307,9 @@ Each paper will be individually referenced by a DOI. For selected papers we aim 
 
 ### Best Paper Award
 The 16th International Modelica & FMI Conference will recognize the authors of the best paper for their outstanding academic quality and relevance to the conference. All accepted papers are automatically considered for this honorary award.
+-->
 
+<!--
 ## Call for Industrial User Presentations
 
 You are encouraged to submit an  **extended abstract**  of 1-2 pages, related to one of the existing or possibly new [Modelica Association Projects](https://modelica.org/community/projects/):
@@ -325,9 +326,11 @@ Please submit your abstract using the [EasyChair Conference Management System](h
 Industrial user presentations are an excellent way to present recent results to the Modelica community with less effort and overhead than a full paper submission. Please indicate whether you plan to give your presentation on-site or remotely in the submission form. These industrial user presentations differ from paper presentations, which we expect to be in-person. These abstracts will be peer-reviewed by experts, but no corresponding papers will be published in the conference proceedings.
 
 Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations. For more details on vendor presentations, please refer to the [call for sponsors](#call-for-sponsors).
+-->
 
-
+<!--
 ## Call for Tutorials
+
 At the Modelica Conference, several tutorials will be held in parallel. Each tutorial will a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
 
 If you're interested in hosting a tutorial, please send the required information listed below to [modelica25@modelica.org ](mailto:modelica25@modelica.org). The application deadline is **June 1st, 2025**. As only a limited number of tutorials can be held in parallel, we encourage early submission and application.
@@ -342,7 +345,9 @@ Please include the following details in your submission:
 7. Link to further information
 
 Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations section in the [call for sponsors](#call-for-sponsors). The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
+-->
 
+<!--
 ## Call for Libraries
 
 You are encouraged to submit a free Modelica application library in Modelica source code form. The library should be sent to the program chair ([modelica25@modelica.org ](mailto:modelica25@modelica.org)) and provided under the [3-clause BSD License for the Modelica Association](https://modelica.org/licenses/modelica-3-clause-bsd). Please submit also a corresponding paper to the conference. If the paper gets accepted, you can present your library at the conference. The best two submitted libraries will receive awards of 500 EUR and 250 EUR.
@@ -354,7 +359,9 @@ Libraries are evaluated according to the following criteria:
 - Completeness and extent of the library (small or large library, examples).
 - Usage of the library (component documentation, users guide, parameter menus, etc.)
 - Accepted libraries will be included on the conference stick and linked from the Modelica web site.
+-->
 
+<!--
 ## Call for Sponsors
 
 The 16th International Conference will be the first in Switzerland, which hosts a very interesting market for modeling and simulation tools. In recent years, the Swiss economy has re-focused on its production and engineering sector, which is highly specialized and export-oriented. Whereas many European states shrank their industrial production in the last decade, Switzerland maintained [healthy growth](https://www.focus-economics.com/country-indicator/switzerland/industry/) in this important metric. Its economy is one of the [freest world-wide](https://www.heritage.org/index/pages/country-pages/switzerland), and almost 99% of all enterprises represent SMEs, reflecting the specialized nature of its industry. Classic system modeling and simulation have now become increasingly important for many of these SMEs. 
@@ -380,7 +387,9 @@ We hope to have sparked your interest and are looking forward to a personal conv
 
 - [Sponsorship Options Overview](SponsoringDetails_16thModelicaFMI_EN20250218.pdf)
 - [Conference Ground Floor Plan (Includes Exhibition)](GroundFloor_CampusRotkreuz130625.pdf)
+-->
 
+<!--
 ### Sponsoring Agreements
 
 *Ready to become a sponsor? We look forward to partnering with you!*
@@ -391,12 +400,15 @@ Download the Sponsorship Agreement of your preferred option. Add your company na
 - [Gold](Gold_Sponsorship_agreement_HSLU.pdf)
 - [Silver](Silver_Sponsorship_agreement_HSLU.pdf)
 - [Bronze](Bronze_Sponsorship_agreement_HSLU.pdf)
+-->
 
+<!--
 ### Vendor Presentations
 
 As stated in the sponsoring agreement, time slots for sponsoring/vendor presentations are reserved for Platinum and Gold sponsors, while Silver sponsors may receive a slot based on availability. Presentations are reviewed by the Conference Board to ensure they align with Modelica, FMI, and related standards (including tools, libraries, IDEs, and other supporting technologies).
 
 Sponsors eligible for a presentation slot can submit their proposals to modelica25@modelica.org.
+-->
 
 ### Contact
 
@@ -413,6 +425,7 @@ Switzerland
 
 The Modelica Association appreciates your support and will help you in your preparations for the conference. 
 
+<!--
 ## Authors' guide
 
 ### Submission process
@@ -476,8 +489,11 @@ Detailed formatting instructions are included in the [paper templates](https://g
   The proceedings will only be published in electronic form, so you can include color pictures; however, be aware that readers could print them using black&white laser printers, so the diagrams should also look reasonable when printed in grayscale. Use at least 10 or 11 pt font size for text in the figures (e.g. labels or legends), since it may become unreadable if the paper is resized for printing.
 - References: At the end of your paper, include a list of references, using Harvard-style (author-date) citations. Make sure that every reference is cited in the text, e.g. as (Pantelides, 1988). For LaTeX, the paper [class](https://github.com/modelica-association/conference-templates/blob/d9ddd4700ef0f9a6f9c3d9fecd5736f2b9549e26/LaTeX/modelica.cls#L99) provides the options to use.
 - Length of paper: The minimum requested length for papers is 4 pages. The maximum acceptable length is 10 pages. However, since we no longer provide hard copies of the proceedings, we'll accept full papers up to 15 pages, if the authors have very good reasons to exceed the 10-page limit.
+-->
 
-## Important Dates 
+<!--
+## Important Dates
+
 (please note the final deadline extension)
 
 |   |   |
@@ -490,6 +506,7 @@ Detailed formatting instructions are included in the [paper templates](https://g
 |~~June 30~~ July 7, 2025|Deadline for early registration|
 |August 1, 2025|Submission of final papers, presentations, and one-page abstracts|
 |September 8-10, 2025| 16th International Modelica & FMI Conference|
+-->
 
 ## Keynotes 
 
