@@ -152,50 +152,41 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ![HLSU Campus Zug-Rotkreuz](images/rotkreuz-campus.jpg)
 
-{{<rawhtml>}}<i class="fa-solid fa-map-location-dot me-2"></i>{{</rawhtml>}}[Campus Zug-Rotkreuz, Suurstoffi 1, 6343 Risch-Rotkreuz, Switzerland](https://maps.app.goo.gl/n3xfnqL6CrRi2Bm57)
+[{{<i class="fa-solid fa-map-location-dot me-1">}} Campus Zug-Rotkreuz, Suurstoffi 1, 6343 Risch-Rotkreuz, Switzerland](https://maps.app.goo.gl/n3xfnqL6CrRi2Bm57)
 
-{{<rawhtml>}}<i class="fa-solid fa-globe me-2"></i>{{</rawhtml>}}[Location & Directions](https://www.hslu.ch/en/lucerne-school-of-information-technology/about-us/standort/)
+[{{<i class="fa-solid fa-globe me-1">}} Location & Directions](https://www.hslu.ch/en/lucerne-school-of-information-technology/about-us/standort/)
 
-{{<rawhtml>}}<i class="fa-solid fa-vr-cardboard me-2"></i>{{</rawhtml>}}[Virtual Tour](https://dock.hslu.ch/rundgang/index.html?startscene=i)
+[{{<i class="fa-solid fa-vr-cardboard me-1">}} Virtual Tour](https://dock.hslu.ch/rundgang/index.html?startscene=i)
 
-{{<rawhtml>}}<i class="fa-solid fa-bed me-2"></i>{{</rawhtml>}}[Discounted Hotels](https://regis.buchertravel.ch/event/International_Modelica_Conference2025)
+[{{<i class="fa-solid fa-bed me-1">}} Discounted Hotels](https://regis.buchertravel.ch/event/International_Modelica_Conference2025)
 
 ## Agenda
 
-{{<rawhtml>}}
-<div class="alert alert-info" role="alert">
-  <i class="fa-solid fa-circle-info me-3"></i> Links to Detailed Information
-</div>
-{{</rawhtml>}}
+[{{<i class="fa-solid fa-file-arrow-down me-1">}} Preliminary Conference Program](16thModelicaFMI_PrelProgram.pdf)
 
-- **[Preliminary Conference Program](16thModelicaFMI_PrelProgram.pdf)**
+[{{<i class="fa-solid fa-file-arrow-down me-1">}} Tutorial Abstract Booklet](Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)
 
-- **Tutorials**
-  1.	Beyond Simulation: Building Workflows and Web Applications with Modelica and Python
-  2.	CasADi tutorial on dynamic optimization with FMI 3.0 Model Exchange
-  3.	eFMI®: A beginner’s overview and hands-on
-  4.	Exporting and importing an FMU using C code
-  5.	FMI Beginners Tutorial - Exporting, Simulating, and Co-Simulating FMUs
-  6.	FMUGym: From Uncertainty-Aware Simulation to Learning-Based Control with FMI and Python
-  7.	Introduction to Modeling, Simulation, Debugging, and Interoperability with Modelica and OpenModelica
-  8.	Modelica in the Browser: Modeling, Simulation and Web App Integration for Custom UI
-  9.	Modeling and Simulation of profitableness analyses in Modelica – industrial energy system meets variable energy prices
-  10.	Modeling and Simulation of Robotic Arm Dynamics and Control in Modelica with MWORKS
-  11.	Modeling complex thermal architectures using the DLR ThermoFluid Stream Library
-  12.	Regression Testing with Dymola and the Testing Library
-  13.	System Structure and Parameterization
-  14.	Tutorial on FMI3 co-simulation with UniFMU
-  15.	Using SMArtInt+ for machine-learning and easy integration of artificial intelligence in Modelica
+### Tutorials
+
+1.	Beyond Simulation: Building Workflows and Web Applications with Modelica and Python
+2.	CasADi tutorial on dynamic optimization with FMI 3.0 Model Exchange
+3.	eFMI®: A beginner’s overview and hands-on
+4.	Exporting and importing an FMU using C code
+5.	FMI Beginners Tutorial - Exporting, Simulating, and Co-Simulating FMUs
+6.	FMUGym: From Uncertainty-Aware Simulation to Learning-Based Control with FMI and Python
+7.	Introduction to Modeling, Simulation, Debugging, and Interoperability with Modelica and OpenModelica
+8.	Modelica in the Browser: Modeling, Simulation and Web App Integration for Custom UI
+9.	Modeling and Simulation of profitableness analyses in Modelica – industrial energy system meets variable energy prices
+10.	Modeling and Simulation of Robotic Arm Dynamics and Control in Modelica with MWORKS
+11.	Modeling complex thermal architectures using the DLR ThermoFluid Stream Library
+12.	Regression Testing with Dymola and the Testing Library
+13.	System Structure and Parameterization
+14.	Tutorial on FMI3 co-simulation with UniFMU
+15.	Using SMArtInt+ for machine-learning and easy integration of artificial intelligence in Modelica
   
-  - **[Tutorial Abstract Booklet](Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)**
-  - Please let us know your tutorial preferences. The survey helps us plan the tutorial sessions. It is intended for conference participants only and should be filled out only once. **[Tutorial Survey](https://terminplaner6.dfn.de/en/e/d590fb98fe94c51b446157009fca9395-1294761)**
-
-{{<rawhtml>}}
-<div class="alert alert-info" role="alert">
-  <i class="fa-solid fa-circle-info me-3"></i>High Level Preliminary Conference Program
-</div>
-{{</rawhtml>}}
-
+Please let us know your tutorial preferences.
+The [tutorial survey](https://terminplaner6.dfn.de/en/e/d590fb98fe94c51b446157009fca9395-1294761) helps us plan the tutorial sessions.
+It is intended for conference participants only and should be filled out only once. 
 
 ### Monday, September 8
 
