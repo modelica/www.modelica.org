@@ -188,6 +188,15 @@ Please let us know your tutorial preferences.
 The [tutorial survey](https://terminplaner6.dfn.de/en/e/d590fb98fe94c51b446157009fca9395-1294761) helps us plan the tutorial sessions.
 It is intended for conference participants only and should be filled out only once. 
 
+### Sunday, September 7
+
+Spontaneous **group hike to the Niederbauen** for nature and hiking enthusiasts. [Details & registration here →](Modelica_and_FMI_Group_Hike.pdf)
+
+{{<rawhtml>}}
+<img src="images/Niderbauen.jpg" alt="Niederbauen" style="max-width: 450px"/>
+{{</rawhtml>}}
+
+
 ### Monday, September 8
 
 |       |          |
