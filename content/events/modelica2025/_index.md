@@ -166,6 +166,8 @@ In addition to paper presentations, the conference features several Modelica tut
 
 [{{<i class="fa-solid fa-file-arrow-down me-1">}} Tutorial Abstract Booklet](Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)
 
+<!-- [{{<i class="fa-solid fa-file-arrow-down me-1">}} Conference Brochure](Conference_Brochure_Lucerne_2025.pdf) -->
+
 ### Tutorials
 
 1.	Beyond Simulation: Building Workflows and Web Applications with Modelica and Python
