@@ -138,7 +138,7 @@ The following licenses are used by the Modelica Association for material provide
 | --- | --- | --- | --- |
 | Chairperson | [Dirk Zimmer](https://rmc.dlr.de/sr/en/staff/dirk.zimmer/) | [DLR-SR, Germany](https://www.dlr.de/) | [dirk.zimmer@dlr.de](mailto:dirk.zimmer@dlr.de) |
 | Vice-Chairperson | Martin Sjölund | Linköping University, Sweden | [martin.sjolund@liu.se](mailto:martin.sjolund@liu.se) |
-| Secretary | Rui Gao | SimTek |  |
+| Secretary | Rui Gao | [SimTek, China](https://en.simtek.cc/) | [rui.gao@simtek.cc](mailto:rui.gao@simtek.cc) |
 | Treasurer | Jonas Eborn | [Modelon, Sweden](http://www.modelon.com) | [jonas.eborn@modelon.com](mailto:jonas.eborn@modelon.com) |
 
 ## Board Members with specific duties
