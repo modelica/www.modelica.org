@@ -162,13 +162,15 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ## Agenda
 
-[{{<i class="fa-solid fa-mobile-phone">}} Full Conference App](https://pretalx.com/16thmodelicafmiconference/schedule)
+
+[{{<i class="fa-solid fa-mobile-phone me-1">}} Full Conference App](https://pretalx.com/16thmodelicafmiconference/schedule)
 
 [{{<i class="fa-solid fa-file-arrow-down me-1">}} Final Conference Program](16thModelicaFMI_Program.pdf)
 
 [{{<i class="fa-solid fa-file-arrow-down me-1">}} Tutorial Abstract Booklet](Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)
 
-[{{<i class="fa-solid fa-book">}} Conference Brochure](Conference_Brochure_Lucerne_2025.pdf)
+[{{<i class="fa-solid fa-book me-1">}} Conference Brochure](Conference_Brochure_Lucerne_2025.pdf)
+
 
 ### Tutorials
 
