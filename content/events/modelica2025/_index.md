@@ -162,6 +162,7 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ## Agenda
 
+
 [{{<i class="fa-solid fa-mobile-phone me-1">}} Full Conference App](https://pretalx.com/16thmodelicafmiconference/schedule)
 
 [{{<i class="fa-solid fa-file-arrow-down me-1">}} Final Conference Program](16thModelicaFMI_Program.pdf)
@@ -169,6 +170,7 @@ In addition to paper presentations, the conference features several Modelica tut
 [{{<i class="fa-solid fa-file-arrow-down me-1">}} Tutorial Abstract Booklet](Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)
 
 [{{<i class="fa-solid fa-book me-1">}} Conference Brochure](Conference_Brochure_Lucerne_2025.pdf)
+
 
 ### Tutorials
 
@@ -256,7 +258,7 @@ The post conference program is not part of the conference ticket but is organize
 
 The goal of the advisory meetings is that current or future users can give feedback to the Modelica Association. You can present your challenges and detail your needs. In case you want to take part at one of these advisory meetings as guest:
 - please register for the FMI Advisory meeting [via email](mailto:contact@fmi-standard.org).
-- please register for the Modelica Advisory meeting [via online booking](https://terminplaner6.dfn.de/en/b/b8ceacb2fd2032bbbf901583f997f728-1284258).
+- please register for the Modelica Advisory meeting [via online booking](https://terminplaner6.dfn.de/en/b/b8ceacb2fd2032bbbf901583f997f728-1284258). You can then also choose to join from 09:00 via [WebEx](https://modelicaassociation.webex.com/modelicaassociation/j.php?MTID=m173f3a6cad84d6540dd19f92251e0a4b).
 
 The post conference program then proceeds exclusive for members of the MA until Friday September 12, 15:00.
 
