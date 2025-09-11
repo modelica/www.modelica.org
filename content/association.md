@@ -185,38 +185,38 @@ Contributor License Agreements and other documents can be sent to:
 
 The following organizations are members of the Modelica Association:
 
-| Organization, Head-quarter                                                                                                         | Contact                        |
-|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| [ADC Automotive Data of China (Tianjing), Tianjin, China](http://www.catarc.info/)                                                 |                                |
-| [Altair, Troy, MI, USA](http://www.altair.com)                                                                                     |                                |
-| [Ansys, Inc, Canonsburg, PA, USA](http://ansys.com/)                                                                               |                                |
-| [Austrian Institute of Technology, Vienna, Austria](http://www.ait.ac.at/)                                                         |                                |
-| [Beckhoff Automation, Verl, Germany](https://www.beckhoff.com)                                                                     | modelica@beckhoff.com          |
-| [BMW, Munich, Germany](http://www.bmw.de/de/home.html)                                                                             |                                |
-| [Boeing (The Boeing Company), Chicago, USA](https://www.boeing.com/)                                                               |                                |
-| [COMSOL AB, Stockholm, Sweden](https://www.comsol.com/company)                                                                     |                                |
-| [Dassault Systèmes SA, Paris, France](http://www.3ds.com)                                                                          | [Modelica.info@3ds.com](mailto:Modelica.info@3ds.com) |
-| [DLR - Institute of System Dynamics and Control, Oberpfaffenhofen, Germany](https://www.dlr.de/en/sr/about-us/institute)           | [Martin.Otter@dlr.de](mailto:Martin.Otter@dlr.de)     |
-| [ESI Germany, Dresden, Germany](https://www.simulationx.com/)                                                                     |                                |
-| [Global Crown Technology, Beijing, China](http://www.globalcrown.com.cn/index_en.asp)                                              |                                |
-| [IDA PELAB, Sweden, Linköping, Sweden](http://www.ida.liu.se/~pelab)                                                               | [peter.fritzson@liu.se](mailto:peter.fritzson@liu.se) |
-| [Institut für Thermodynamik, Universität Braunschweig, Braunschweig, Germany](http://www.ift-bs.de/)                               | [ift@tu-bs.de](mailto:ift@tu-bs.de)                   |
-| [Institute of Engineering Thermodynamics, Hamburg University of Technology, Hamburg, Germany](https://www.tuhh.de/technische-thermodynamik/en/institute) | [arne.speerforck@tuhh.de](mailto:arne.speerforck@tuhh.de) |
-| [Institute of Vehicle Engineering (iVH), Seoul, Korea](http://www.ivh.co.kr)                                                       |                                |
-| [Liebherr Aerospace Toulouse, Toulouse, France](https://www.liebherr.com/en-fr/group/location/toulouse-profile-3752241)            |                                |
-| [LTX Simulation, Munich, Germany](http://ltx.de)                                                                                   | [info@ltx.de](mailto:info@ltx.de)                     |
-| [Maplesoft, Waterloo, ON, Canada](http://www.maplesoft.com/)                                                                       | [modelica@maplesoft.com](mailto:modelica@maplesoft.com) |
-| [Mitsubishi Electric Research Laboratories (MERL), Cambridge, MA, USA](https://www.merl.com/)                                      | [bortoff@merl.com](mailto:bortoff@merl.com)           |
-| [Modelon AB, Lund, Sweden](http://www.modelon.com)                                                                                 | [info@modelon.com](mailto:info@modelon.com)           |
-| [orthogonal supersystems, Munich, Germany](https://plus.orthogonal.dev/)                                                           |                                |
-| [Robert Bosch, Stuttgart, Germany](https://www.bosch.com/company/)                                                                 |                                |
-| [Shanghai Formal-Tech Information Technology, Shanghai, China](http://www.formal-tech.com/)                                        | yang.yang@formal-tech.com      |
-| [Siemens Digital Industry Software, Lyon, France](http://www.siemens.com/plm)                                                      |                                |
-| [Suzhou Tongyuan Software & Control Technology, Suzhou, China](http://en.tongyuan.cc/)                                             | [zhoufl@tongyuan.cc](mailto:zhoufl@tongyuan.cc)       |
-| [Virtual Vehicle Research, Graz, Austria](https://www.v2c2.at/)                                                                    | [info@v2c2.at](mailto:info@v2c2.at)                   |
-| [Wolfram MathCore, Linköping, Sweden](https://www.wolfram.com/index.en.html?source=footer)                                         | [ma-contact@wolfram.com](mailto:ma-contact@wolfram.com) |
-| [XRG Simulation, Hamburg, Germany](http://www.xrg-simulation.de/index.php?l=e)                                                     | [info@xrg-simulation.de](mailto:info@xrg-simulation.de) |
-| [Yuansi SimTek, Nanjing, China](https://en.simtek.cc/)                                                                            | [aiguo.xu@simtek.cc](mailto:aiguo.xu@simtek.cc)       |
+| Organization                                                                                        | Headquarter                          | Contact                        |
+|-----------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------|
+| [ADC Automotive Data of China (Tianjing)](http://www.catarc.info/)                                  | Tianjin, China                       |                                |
+| [Altair](http://www.altair.com)                                                                     | Troy, MI, USA                        |                                |
+| [Ansys, Inc](http://ansys.com/)                                                                     | Canonsburg, PA, USA                  |                                |
+| [Austrian Institute of Technology](http://www.ait.ac.at/)                                           | Vienna, Austria                      |                                |
+| [Beckhoff Automation](https://www.beckhoff.com)                                                     | Verl, Germany                        | modelica@beckhoff.com          |
+| [BMW](http://www.bmw.de/de/home.html)                                                               | Munich, Germany                      |                                |
+| [Boeing (The Boeing Company)](https://www.boeing.com/)                                              | Chicago, USA                         |                                |
+| [COMSOL AB](https://www.comsol.com/company)                                                         | Stockholm, Sweden                    |                                |
+| [Dassault Systèmes SA](http://www.3ds.com)                                                          | Paris, France                        | [Modelica.info@3ds.com](mailto:Modelica.info@3ds.com) |
+| [DLR - Institute of System Dynamics and Control](https://www.dlr.de/en/sr/about-us/institute)       | Oberpfaffenhofen, Germany            | [Martin.Otter@dlr.de](mailto:Martin.Otter@dlr.de)     |
+| [ESI Germany](https://www.simulationx.com/)                                                         | Dresden, Germany                     |                                |
+| [Global Crown Technology](http://www.globalcrown.com.cn/index_en.asp)                               | Beijing, China                       |                                |
+| [IDA PELAB](http://www.ida.liu.se/~pelab)                                                           | Linköping, Sweden                    | [peter.fritzson@liu.se](mailto:peter.fritzson@liu.se) |
+| [Institut für Thermodynamik, Universität Braunschweig](http://www.ift-bs.de/)                       | Braunschweig, Germany                | [ift@tu-bs.de](mailto:ift@tu-bs.de)                   |
+| [Institute of Engineering Thermodynamics, Hamburg University of Technology](https://www.tuhh.de/technische-thermodynamik/en/institute) | Hamburg, Germany                     | [arne.speerforck@tuhh.de](mailto:arne.speerforck@tuhh.de) |
+| [Institute of Vehicle Engineering (iVH)](http://www.ivh.co.kr)                                      | Seoul, Korea                         |                                |
+| [Liebherr Aerospace Toulouse](https://www.liebherr.com/en-fr/group/location/toulouse-profile-3752241)| Toulouse, France                     |                                |
+| [LTX Simulation](http://ltx.de)                                                                     | Munich, Germany                      | [info@ltx.de](mailto:info@ltx.de)                     |
+| [Maplesoft](http://www.maplesoft.com/)                                                              | Waterloo, ON, Canada                 | [modelica@maplesoft.com](mailto:modelica@maplesoft.com) |
+| [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/)                            | Cambridge, MA, USA                   | [bortoff@merl.com](mailto:bortoff@merl.com)           |
+| [Modelon AB](http://www.modelon.com)                                                                | Lund, Sweden                         | [info@modelon.com](mailto:info@modelon.com)           |
+| [orthogonal supersystems](https://plus.orthogonal.dev/)                                             | Munich, Germany                      |                                |
+| [Robert Bosch](https://www.bosch.com/company/)                                                      | Stuttgart, Germany                   |                                |
+| [Shanghai Formal-Tech Information Technology](http://www.formal-tech.com/)                          | Shanghai, China                      | yang.yang@formal-tech.com      |
+| [Siemens Digital Industry Software](http://www.siemens.com/plm)                                     | Lyon, France                         |                                |
+| [Suzhou Tongyuan Software & Control Technology](http://en.tongyuan.cc/)                             | Suzhou, China                        | [zhoufl@tongyuan.cc](mailto:zhoufl@tongyuan.cc)       |
+| [Virtual Vehicle Research](https://www.v2c2.at/)                                                    | Graz, Austria                        | [info@v2c2.at](mailto:info@v2c2.at)                   |
+| [Wolfram MathCore](https://www.wolfram.com/index.en.html?source=footer)                             | Linköping, Sweden                    | [ma-contact@wolfram.com](mailto:ma-contact@wolfram.com) |
+| [XRG Simulation](http://www.xrg-simulation.de/index.php?l=e)                                        | Hamburg, Germany                     | [info@xrg-simulation.de](mailto:info@xrg-simulation.de) |
+| [Yuansi SimTek](https://en.simtek.cc/)                                                              | Nanjing, China                       | [aiguo.xu@simtek.cc](mailto:aiguo.xu@simtek.cc)       |
 
 *If you want to contact an organizational member, please ask [backoffice@modelica.org](mailto:backoffice@modelica.org).*
 
