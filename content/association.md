@@ -181,17 +181,147 @@ Contributor License Agreements and other documents can be sent to:
     80939 Munich
     Germany
 
-## Organizational Members of the Modelica Association (listed alphabetically)
+## Organizational Members of the Modelica Association
 
-{{< rawhtml >}}
-<iframe src="https://docs.google.com/spreadsheets/d/1rooVex94xygk_Y0gy4FESsMrTpnJxPwPlI5-apTgtjk/pubhtml?gid=21&amp;chrome=false&amp;range=A2:B32" frameborder="0" height="600" width="100%"></iframe>
-{{< /rawhtml >}}
+The following organizations are members of the Modelica Association:
 
-## Individual Members of the Modelica Association (listed alphabetically)
+| Organization                                                                                        | Headquarter                          | Contact                        |
+|-----------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------|
+| [ADC Automotive Data of China (Tianjing)](http://www.catarc.info/)                                  | Tianjin, China                       |                                |
+| [Altair](http://www.altair.com)                                                                     | Troy, MI, USA                        |                                |
+| [Ansys, Inc](http://ansys.com/)                                                                     | Canonsburg, PA, USA                  |                                |
+| [Austrian Institute of Technology](http://www.ait.ac.at/)                                           | Vienna, Austria                      |                                |
+| [Beckhoff Automation](https://www.beckhoff.com)                                                     | Verl, Germany                        | modelica@beckhoff.com          |
+| [BMW](http://www.bmw.de/de/home.html)                                                               | Munich, Germany                      |                                |
+| [Boeing (The Boeing Company)](https://www.boeing.com/)                                              | Chicago, USA                         |                                |
+| [COMSOL AB](https://www.comsol.com/company)                                                         | Stockholm, Sweden                    |                                |
+| [Dassault Systèmes SA](http://www.3ds.com)                                                          | Paris, France                        | [Modelica.info@3ds.com](mailto:Modelica.info@3ds.com) |
+| [DLR - Institute of System Dynamics and Control](https://www.dlr.de/en/sr/about-us/institute)       | Oberpfaffenhofen, Germany            | [Martin.Otter@dlr.de](mailto:Martin.Otter@dlr.de)     |
+| [ESI Germany](https://www.simulationx.com/)                                                         | Dresden, Germany                     |                                |
+| [Global Crown Technology](http://www.globalcrown.com.cn/index_en.asp)                               | Beijing, China                       |                                |
+| [IDA PELAB](http://www.ida.liu.se/~pelab)                                                           | Linköping, Sweden                    | [peter.fritzson@liu.se](mailto:peter.fritzson@liu.se) |
+| [Institut für Thermodynamik, Universität Braunschweig](http://www.ift-bs.de/)                       | Braunschweig, Germany                | [ift@tu-bs.de](mailto:ift@tu-bs.de)                   |
+| [Institute of Engineering Thermodynamics, Hamburg University of Technology](https://www.tuhh.de/technische-thermodynamik/en/institute) | Hamburg, Germany                     | [arne.speerforck@tuhh.de](mailto:arne.speerforck@tuhh.de) |
+| [Institute of Vehicle Engineering (iVH)](http://www.ivh.co.kr)                                      | Seoul, Korea                         |                                |
+| [Liebherr Aerospace Toulouse](https://www.liebherr.com/en-fr/group/location/toulouse-profile-3752241)| Toulouse, France                     |                                |
+| [LTX Simulation](http://ltx.de)                                                                     | Munich, Germany                      | [info@ltx.de](mailto:info@ltx.de)                     |
+| [Maplesoft](http://www.maplesoft.com/)                                                              | Waterloo, ON, Canada                 | [modelica@maplesoft.com](mailto:modelica@maplesoft.com) |
+| [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/)                            | Cambridge, MA, USA                   | [bortoff@merl.com](mailto:bortoff@merl.com)           |
+| [Modelon AB](http://www.modelon.com)                                                                | Lund, Sweden                         | [info@modelon.com](mailto:info@modelon.com)           |
+| [orthogonal supersystems](https://plus.orthogonal.dev/)                                             | Munich, Germany                      |                                |
+| [Robert Bosch](https://www.bosch.com/company/)                                                      | Stuttgart, Germany                   |                                |
+| [Shanghai Formal-Tech Information Technology](http://www.formal-tech.com/)                          | Shanghai, China                      | yang.yang@formal-tech.com      |
+| [Siemens Digital Industry Software](http://www.siemens.com/plm)                                     | Lyon, France                         |                                |
+| [Suzhou Tongyuan Software & Control Technology](http://en.tongyuan.cc/)                             | Suzhou, China                        | [zhoufl@tongyuan.cc](mailto:zhoufl@tongyuan.cc)       |
+| [Virtual Vehicle Research](https://www.v2c2.at/)                                                    | Graz, Austria                        | [info@v2c2.at](mailto:info@v2c2.at)                   |
+| [Wolfram MathCore](https://www.wolfram.com/index.en.html?source=footer)                             | Linköping, Sweden                    | [ma-contact@wolfram.com](mailto:ma-contact@wolfram.com) |
+| [XRG Simulation](http://www.xrg-simulation.de/index.php?l=e)                                        | Hamburg, Germany                     | [info@xrg-simulation.de](mailto:info@xrg-simulation.de) |
+| [Yuansi SimTek](https://en.simtek.cc/)                                                              | Nanjing, China                       | [aiguo.xu@simtek.cc](mailto:aiguo.xu@simtek.cc)       |
 
-{{< rawhtml >}}
-<iframe src="https://docs.google.com/spreadsheets/d/1rooVex94xygk_Y0gy4FESsMrTpnJxPwPlI5-apTgtjk/pubhtml?gid=1807480701&amp;chrome=false&amp;range=A1:E94" frameborder="0" height="1660" width="100%"></iframe>
-{{< /rawhtml >}}
+*If you want to contact an organizational member, please ask [backoffice@modelica.org](mailto:backoffice@modelica.org).*
+
+## Individual Members of the Modelica Association
+
+Currently the Modelica Association has 126 individual members.
+
+The following members have given the consent to appear publicly.
+
+If you want to contact a member via email, please ask [backoffice@modelica.org](mailto:backoffice@modelica.org).
+
+| Name                | Affiliation Webpage                                                                 | MAP      |
+|---------------------|-------------------------------------------------------------------------------------|----------|
+| Åkesson, Johan      |                                                                                     | LANG     |
+| Aronsson, Peter     |                                                                                     | LANG     |
+| [Asghar, Adeel](https://www.ida.liu.se/~adeas31/)                | [PELAB, IDA, Linköping University](https://openmodelica.org/)                       | LANG     |
+| [Bachmann, Bernhard](https://www.fh-bielefeld.de/personenverzeichnis/bernhard-bachmann) | [Hochschule Bielefeld](http://www.fh-bielefeld.de/)                                 | LANG     |
+| Bäuml, Thomas       | [AIT Austrian Institute of Technology](http://www.ait.ac.at/)                       |          |
+| [Bernardin, Laurent](https://www.linkedin.com/in/bernardin/)          | [Maplesoft](http://www.maplesoft.com)                                              |          |
+| Bertsch, Christian  | [Robert Bosch GmbH](http://www.bosch.com/)                                         |          |
+| Beuter, Volker      | [VI-Grade GmbH](http://www.vi-grade.com)                                            |          |
+| Beutlich, Thomas    |                                                                                     | LANG, LIB |
+| [Blochwitz, Torsten](http://www.SimulationX.com)                      | [ESI ITI GmbH](http://www.esi-group.com)                                            | LANG     |
+| Bödrich, Thomas     |                                                                                     | LIB      |
+| Bouskela, Daniel    |                                                                                     |          |
+| Braun, Willi        | [Hochschule Bielefeld](https://www.fh-bielefeld.de/ium/ammo)                        | LANG     |
+| [Broman, David](https://people.kth.se/~dbro/)                    | [KTH Royal Institute of Technology](http://www.kth.se/)                             | LANG     |
+| Brück, Dag          | [Dassault Systèmes AB](http://www.3ds.com/dymola)                                   | LANG, LIB |
+| Bürger, Christoff   | [Dassault Systèmes AB](https://www.3ds.com/)                                       | LANG, LIB |
+| [Casella, Francesco](https://www.deib.polimi.it/ita/personale/dettagli/129954) | [Politecnico di Milano](http://www.polimi.it)                                      | LANG, LIB |
+| Clauß, Christoph    |                                                                                     | LANG, LIB |
+| Dempsey, Mike       | [Claytex Service Limited](http://www.claytex.com/)                                 | LANG     |
+| Eborn, Jonas        |                                                                                     | LANG     |
+| [Elmqvist, Hilding](http://www.Mogram.net)                           | [Mogram AB](http://mogram.net)                                                      | LANG     |
+| [Elsheikh, Atiyah](http://mathemodica.com/members/atiyah/)          | [Mathemodica](http://mathemodica.com)                                               | LANG     |
+| Fontanella, Giuliano| [Dassault Systèmes](http://www.3ds.com)                                             |          |
+| Frenkel, Jens       |                                                                                     |          |
+| [Fritzson, Peter](http://www.ida.liu.se/~petfr)                    | [PELAB, IDA, Linköping University](http://www.ida.liu.se/labs/pelab)                | LANG     |
+| Gäfvert, Magnus     |                                                                                     | LANG     |
+| Gall, Leo           | [LTX Simulation](http://www.ltx.de)                                                 | LANG, LIB |
+| Gao, Rui            |                                                                                     |          |
+| Gopalswamy, Swami   | [Texas A&M University](https://www.tamu.edu/)                                       |          |
+| Gräber, Manuel      |                                                                                     | LANG     |
+| [Harman, Peter](http://cae.tech)                                 | [CAE Tech Limited](http://cae.tech)                                                 | LANG     |
+| [Haumer, Anton](http://www.oth-regensburg.de/en/faculties/electrical-engineering-and-information-technology/laboratories/electrical-machines.html) | [Technisches Büro für Elektrotechnik Haumer](http://www.haumer.at/)                 | LANG, LIB |
+| Hedberg, Daniel     |                                                                                     | LANG     |
+| Heinrich, Carsten   | [Institut für Luft- und Kältetechnik GmbH](http://www.ilkdresden.de)                | LANG     |
+| Henningsson, Erik   |                                                                                     |          |
+| Henningsson, Toivo  |                                                                                     |          |
+| Henriksson, Dan     | [Dassault Systèmes AB](https://www.3ds.com/products-services/catia/products/dymola) | LANG     |
+| Idebrant, Andreas   | [Wolfram MathCore AB](http://www.wolfram.com/system-modeler/)                       |          |
+| Jardin, Audrey      |                                                                                     |          |
+| Ježek, Filip        |                                                                                     | LANG     |
+| Ji, Yang            | [orthogonal supersystems](https://plus.orthogonal.dev/)                             |          |
+| Junghanns, Andreas  | [SYNOPSYS](https://www.synopsys.com/)                                               |          |
+| [Kang, Daeoh](https://www.linkedin.com/in/daeoh-kang-a3a8411b6/)         | [iVH](http://www.ivh.co.kr)                                                         | LANG, LIB |
+| Kämpe, Jonathan     |                                                                                     | LANG     |
+| Kofránek, Jiří      |                                                                                     | LANG     |
+| Köhler, Jochen      | [ZF Friedrichshafen AG](http://www.zf.com)                                          |          |
+| [Kral, Christian](https://christiankral.net/)                      | [Mechatroniker für Elektromaschinenbau und Automatisierung](https://christiankral.net/)| LANG, LIB |
+| Krammer, Martin     | [Knorr-Bremse](http://www.knorr-bremse.com)                                         |          |
+| Kurzbach, Gerd      | [ESI ITI GmbH](https://www.simulationx.com/)                                        | LANG     |
+| Lambert, Quentin    |                                                                                     | LANG     |
+| Landgren, Ben       | [PerformanSea](https://performansea.com/)                                           | LANG     |
+| Link, Kilian        |                                                                                     | LANG     |
+| Majetta, Kristin    | [Viessmann](https://www.viessmann.family/de)                                        | LANG, LIB |
+| [Matejak, Marek](https://github.com/marekmatejak)                 | [Charles University in Prague](https://patofyziologie.lf1.cuni.cz/en)               |          |
+| Mattsson, Jesper    | [Modelon AB](http://www.modelon.com)                                                | LANG     |
+| Mattsson, Sven Erik |                                                                                     | LANG     |
+| Mehlhase, Alexandra |                                                                                     |          |
+| Neuber, Eric        |                                                                                     | LANG     |
+| Newman, Chuck       |                                                                                     |          |
+| Nikoukhah, Ramine   |                                                                                     | LANG     |
+| [Nilsson, Henrik](http://www.cs.nott.ac.uk/~psznhn)                | [University of Nottingham](http://www.cs.nott.ac.uk)                                |          |
+| [Olsson, Hans](https://github.com/HansOlsson)                   | [Dassault Systèmes AB](https://www.3ds.com/products-services/catia/products/dymola/) | LANG, LIB |
+| [Otter, Martin](http://rmc.dlr.de/sr/en/staff/martin.otter/)     | [DLR](http://www.dlr.de/sr)                                                         | LANG, LIB |
+| [Pop, Adrian](https://www.ida.liu.se/~adrpo33/)                | [PELAB, IDA, Linköping University](http://www.ida.liu.se/labs/pelab)                | LANG     |
+| Prölss, Katrin      |                                                                                     | LANG     |
+| [Puente Varela, Basilio](https://modelica-spain.org)                      | [Techno Pro Hispania S.L.](http://www.tphispania.com/)                           |          |
+| Remond, Xavier      | [Dassault Systèmes SA](http://www.3ds.com/)                                         |          |
+| Schuch, Klaus       |                                                                                     |          |
+| Seidel, Stephan     |                                                                                     |          |
+| Selvan, Nithish     | [Modelon AB](https://modelon.com/)                                                  |          |
+| Shmoylova, Elena    |                                                                                     | LANG, LIB |
+| Sielemann, Michael  |                                                                                     | LANG     |
+| [Sjölund, Martin](https://www.ida.liu.se/~marsj34/)                | [Linköping University](http://www.ida.liu.se/labs/pelab)                            | LANG, LIB |
+| Stavåker, Kristian  | [Saab AB](https://www.saab.com/)                                                    |          |
+| Thiele, Bernhard    |                                                                                     | LANG, LIB |
+| Thomas, Eric        | [Dassault Aviation](http://www.dassault-aviation.com/)                              | LANG     |
+| Tidefelt, Henrik    | [Wolfram MathCore AB](http://www.mathcore.com)                                      | LANG, LIB |
+| [Tiller, Michael](https://modelica.university)                     | [JuliaHub](https://juliahub.com/)                                                   | LANG, LIB |
+| Tronarp, Otto       |                                                                                     |          |
+| Tummescheit, Hubertus |                                                                                   | LANG, LIB |
+| Uckun, Serdar       |                                                                                     |          |
+| [Vanfretti, Luigi](http://alsetlab.com)                             | [Rensselaer Polytechnic Institute](http://www.rpi.edu)                              | LANG     |
+| Vukovic, Vladimir   | [Teesside University - Technology Futures Institute](https://www.tees.ac.uk/)        |          |
+| Wagner, Loïc        |                                                                                     |          |
+| Wernersson, Karl    | [Dassault Systèmes AB](http://www.3ds.com/)                                         | LANG     |
+| [Wetter, Michael](http://simulationresearch.lbl.gov/wetter/)       | [Lawrence Berkely National Laboratory](https://buildings.lbl.gov/)                  |          |
+| [Winkler, Dietmar](https://me.dwe.no)                               | [University of South-Eastern Norway](https://www.usn.no/)                           | LANG, LIB |
+| Wischhusen, Stefan  | [XRG Simulation GmbH](http://www.xrg-simulation.de/)                                | LIB      |
+| [Xie, Dongping](https://github.com/xie-dongping)                 | [Dassault Systemès](https://www.3ds.com/products-services/catia/products/dymola/)   |          |
+| [Zhou, Fanli](http://en.tongyuan.cc)                           | [Suzhou Tongyuan Software & Control Technology Co., Ltd.](http://www.tongyuan.cc)   | LANG, LIB |
+
+*If you want to contact a member via email, please ask [backoffice@modelica.org](mailto:backoffice@modelica.org).*
 
 ## Map of Modelica Association members
 
