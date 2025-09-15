@@ -17,6 +17,19 @@ This is the first visit of this conference series in Switzerland.
 
 {{< toc >}}
 
+
+
+## Conference Follow-up
+
+Thank you to everyone who joined the **16th International Modelica & FMI Conference**!  
+
+- **[Photo Gallery](https://drive.google.com/drive/folders/1kr75fAMumqEIi7iP805EcWhAugIzMoV9?usp=sharing)** Impressions from the conference, sessions, and social events (via Google Drive, no sign-in required.  
+
+- **[Conference App](https://pretalx.com/16thmodelicafmiconference/schedule)** The app with the full program and paper submissions remains available.  
+  Some authors also chose to share their slides, and you can find the author details for each contribution.  
+  *Please note: The app is expected to stay online for an extended period, but availability cannot be guaranteed indefinitely.*  
+  
+
 ## Sponsors
 
 <!--
