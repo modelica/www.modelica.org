@@ -1,19 +1,22 @@
 ---
 ---
 
-# Modelica Conference series
+# Modelica and FMI Conference series
 
-The **International Modelica Conference series** explores the frontier of science and technology to model and simulate complex physical and cyber-physical systems for a wide range of research and industrial applications. It is the largest and main impacting event for application specialists, developers of model libraries and simulation software, as well as language designers of the [equation based modeling language Modelica](https://www.modelica.org/) and related technology such as the [Functional Mockup Interface](https://fmi-standard.org/) (to exchange or co-simulate dynamic models). In particular, the conference covers topics such as symbolic algorithms and numerical methods to simulate equation-based, object-oriented models for design optimization, real-time simulation, and model-based control, in automotive, aircraft, space, robotic, energy systems and other areas.
+The **International Modelica and FMI Conference series** explores the frontier of science and technology to model and simulate complex physical and cyber-physical systems for a wide range of research and industrial applications. It is the largest and main impacting event for application specialists, developers of model libraries and simulation software, as well as language designers of the [equation based modeling language Modelica](https://www.modelica.org/) and related technology such as the [Functional Mockup Interface](https://fmi-standard.org/) (to exchange or co-simulate dynamic models). In particular, the conference covers topics such as symbolic algorithms and numerical methods to simulate equation-based, object-oriented models for design optimization, real-time simulation, and model-based control, in automotive, aircraft, space, robotic, energy systems and other areas.
 
-The Modelica Conference is organized by the Modelica Association and a local organizer. The local organizer is selected by the members of the Modelica Association. The Modelica Association has 50% ownership for the financial responsibilities. A steering committee from the Modelica Association (see below) supervises the conference organization and guarantees the high scientific level of the conference.
+The Modelica and FMI Conference is organized by the Modelica Association and a local organizer. The local organizer is selected by the members of the Modelica Association. The Modelica Association has 50% ownership for the financial responsibilities. A steering committee from the Modelica Association (see below) supervises the conference organization and guarantees the high scientific level of the conference.
 
 ## Upcoming Conferences
 
- * The [16th International Modelica & FMI Conference](/events/modelica2025/) will be held in **Lucerne, Switzerland**, **Sep 8-10, 2025**. The event is organized by the [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch/en/) in cooperation with the [Modelica Association](https://modelica.org/association/). It is an in-person event held in English that is open for sponsorship positions.
+ * The **Asian Modelica Conference 2026]**  will take place **Sept 21-22 2026** in **Hangzhou, China**. It is hosted by Beihang University and Nanjing Yuansi SimTek.
+ * The **American Modelica and FMI Conference 2026** The conference will take place **Oct 12-14 2026** ** in **Atlanta, USA**. It is hosted by the Aerospace System Design Lab of Georgia Tech.
+ * The **[17th International Modelica & FMI Conference** will be held **Sept 20-22 2027 in Prague, Czechoslovakia. It is co-hosted with [CSKI (Czech Society for Cybernetics and Informatics)](https://www.cski.cz/homepage/en). It is an in-person event held in English that is open for sponsorship positions.
 
  ## Recent Conferences
 
-  * The [American Modelica Conference 2024](/events/american2024/) The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**.
+ * The [16th International Modelica & FMI Conference](/events/modelica2025/) took place in **Lucerne, Switzerland**, **Sep 8-10, 2025**. The event was organized by the [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch/en/) in cooperation with the [Modelica Association](https://modelica.org/association/). It was an in-person event held in English.
+ * The [American Modelica Conference 2024](/events/american2024/) The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**.
  * The [Asian Modelica Conference 2024](/events/asian2024/) will take place at the **ICC Hotel in Jeju - Island** in South Korea from **December 12-13, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/).
 
 ## Major rules for a Modelica Conference
