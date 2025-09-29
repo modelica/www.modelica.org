@@ -241,6 +241,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Beutlich, Thomas    |                                                                                     | LANG, LIB |
 | [Blochwitz, Torsten](http://www.SimulationX.com)                      | [ESI ITI GmbH](http://www.esi-group.com)                                            | LANG     |
 | Bödrich, Thomas     |                                                                                     | LIB      |
+| Bolognese, Michele      | [Fondazione Bruno Kessler](https://energy.fbk.eu/)                              |          |
 | Bouskela, Daniel    |                                                                                     |          |
 | Braun, Willi        | [Hochschule Bielefeld](https://www.fh-bielefeld.de/ium/ammo)                        | LANG     |
 | [Broman, David](https://people.kth.se/~dbro/)                    | [KTH Royal Institute of Technology](http://www.kth.se/)                             | LANG     |
