@@ -222,7 +222,7 @@ The following organizations are members of the Modelica Association:
 
 ## Individual Members of the Modelica Association
 
-Currently the Modelica Association has 126 individual members.
+Currently the Modelica Association has 128 individual members.
 
 The following members have given the consent to appear publicly.
 
@@ -248,6 +248,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Bürger, Christoff   | [Dassault Systèmes AB](https://www.3ds.com/)                                       | LANG, LIB |
 | [Casella, Francesco](https://www.deib.polimi.it/ita/personale/dettagli/129954) | [Politecnico di Milano](http://www.polimi.it)                                      | LANG, LIB |
 | Clauß, Christoph    |                                                                                     | LANG, LIB |
+| [Coïc, Clement](https://www.linkedin.com/in/clementcoic) |                                                |           |
 | Dempsey, Mike       | [Claytex Service Limited](http://www.claytex.com/)                                 | LANG     |
 | Eborn, Jonas        |                                                                                     | LANG     |
 | [Elmqvist, Hilding](http://www.Mogram.net)                           | [Mogram AB](http://mogram.net)                                                      | LANG     |
