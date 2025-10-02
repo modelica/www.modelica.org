@@ -11,11 +11,11 @@ The development of Modelica or FMI is supported by a number of externally funded
 |     |     |
 | --- | --- |
 | Name | **OpenSCALING** \- Open standards for SCALable virtual engineerING and operation |
-| Web | [https://itea4.org/project/openscaling.html](https://itea4.org/project/openscaling.html) (overview at ITEA web) |
-| Duration | November 2023 – October 2027 |
-| Budget | 10.9 Mill. Euro, 84 person years |
-| Type of project | ITEA Project. The project is partially funded by the national research agencies of France (DGCIS), Germany (BMBF), Hungary, Spain, Sweden (VINNOVA). |
-| Project partners | 27 partners and research organzations from Europe|
+| Web | [https://openscaling.org](https://openscaling.org)  |
+| Duration | November 2023 – January 2027 |
+| Budget |  	10.4 Mill. Euro, 75 person years |
+| Type of project | ITEA Project. The project is partially funded by the national research agencies of Germany (BMBFTR), Hungary (National Research, Development and Innovation Office), Sweden (VINNOVA).|
+| Project partners | 26 partners and research organizations from Europe|
 | Leader | Dr. Oliver Lenord  (Robert Bosch GmbH) |
 | Purpose | The European Climate Law sets the target of reducing net greenhouse gas emissions by at least 55% for 2030 in Europe and to become climate-neutral by 2050. To meet these ambitious goals, open standards and established modelling and simulation tools need be enhanced to better support large-scale systems and distributed controllers optimized to minimize energy consumption and greenhouse gas emissions. Several industrial demonstrators will showcase how the OpenSCALING innovations are applied in the energy, building, aviation, and automotive domains through green hydrogen production, more efficient heat pumps, fuel cell propulsion and electrified vehicles. |
 
