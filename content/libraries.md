@@ -38,7 +38,7 @@ To list your library here, please use the [issue tracker.](https://github.com/mo
 
 ## Commercial Libraries
 
-To propose changes to this list, use a [GitHub pull request](https://github.com/modelica/old.modelica.org/blob/master/libraries.html).
+To propose changes to this list, use a [GitHub pull request](https://github.com/modelica/www.modelica.org/blob/main/content/libraries.md).
 
 | Name | Description | Developer | Distributor(s) |
 | --- | --- | --- | --- |
