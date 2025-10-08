@@ -8,13 +8,13 @@ Conference proceedings of the Modelica conference series (since year 2009, the c
 
 [Asian Modelica Conference 2024](https://modelica.org/events/asian2024/), Jeju Island, South Korea, December 12–13, 2024.
 
-[American Modelica Conference 2024](https://modelica.org/events/american2024/),Storrs, Connecticut, USA, October 14-16, 2024.
+[American Modelica Conference 2024](https://modelica.org/events/american2024/), Storrs, Connecticut, USA, October 14-16, 2024.
 
 [15th International Modelica Conference 2023](https://2023.international.conference.modelica.org/), Aachen, Germany, October 9-11, 2023.
 
 [Asian Modelica Conference 2022](https://2022.asian.conference.modelica.org/), Tokyo, Japan, November 24–25, 2022.
 
-[American Modelica Conference 2022](https://2022.american.conference.modelica.org/),Dallas, Texas, USA, October 26-28, 2022.
+[American Modelica Conference 2022](https://2022.american.conference.modelica.org/), Dallas, Texas, USA, October 26-28, 2022.
 
 [14th International Modelica Conference 2021](https://2021.international.conference.modelica.org/), fully remote event, September 20–24, 2021.
 
