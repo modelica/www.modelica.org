@@ -29,15 +29,6 @@ The Modelica and FMI Conference is organized by the Modelica Association and a l
 * The local organizers of a Modelica conference must follow the [Instructions for conference organizers](http://www.ep.liu.se/ecp/index.en.asp#tab4).
 * The authors of the papers keep their copyright and all rights on their paper and give the Modelica Association and Linköping University Electronic Press just the right for publishing.
 
-## Editorial Board
-
-The Editorial Board supervises the publication of the Modelica Conference Proceedings series, organization of Modelica Conferences and is part of the Program Committee for Modelica conferences. The Editorial Board currently consists of the following members of the Modelica Association Board:
-
-* [Prof. Peter Fritzson](http://www.ida.liu.se/~petfr/), Linköping University, Sweden.
-* [Prof. Martin Otter](http://www.robotic.dlr.de/sr/de/staff/martin.otter/), Deutsches Zentrum für Luft- und Raumfahrt, Germany.
-* [Prof. Francesco Casella](http://home.deib.polimi.it/casella/), Politecnico di Milano, Italy.
-* Dr. Hilding Elmqvist, Mogram AB, Sweden.
-* Dr. Michael Tiller, Juliahub, U.S.A.
 
 In case of general inquiries for Modelica Conferences, send an email to the Modelica Assocation board ([board \[ AT \] modelica \[ DOT \] org](Mailto:board%20[%20AT%20]%20modelica%20[%20DOT%20]%20org)).
 
