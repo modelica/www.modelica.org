@@ -6,9 +6,15 @@ title: Proceedings
 
 Conference proceedings of the Modelica conference series (since year 2009, the conference proceedings are published by Linköping University Press; before they were published on the Modelica Association web):
 
+[American Modelica Conference 2024](https://modelica.org/events/american2024/),Storrs, Connecticut, USA, October 14-16, 2024.
+
 [15th International Modelica Conference 2023](https://2023.international.conference.modelica.org/), Aachen, Germany, October 9-11, 2023.
 
+[American Modelica Conference 2022](https://2022.american.conference.modelica.org/),Dallas, Texas, USA, October 26-28, 2022.
+
 [14th International Modelica Conference 2021](https://2021.international.conference.modelica.org/), fully remote event, September 20–24, 2021.
+
+[American Modelica Conference 2020](https://2020.american.conference.modelica.org/), Virtual Conference originally planned for Boulder, Colorado, March. 23-25, 2020.
 
 [13th International Modelica Conference 2019](https://2019.international.conference.modelica.org/), Regensburg, Germany, March 4-6, 2019.
 
