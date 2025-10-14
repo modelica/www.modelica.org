@@ -257,6 +257,24 @@ DPS is a Value-added reseller for Dymola in North America and France. DPS is an 
 
 ---
 
+### [Eradity AB](https://eradity.com), Dalby, Sweden
+
+Contact: [info@eradity.com](mailto:info@eradity.com)
+
+Eradity powers innovation with high-fidelity system modeling and simulation. Leveraging Modelica and FMI, Eradity delivers multi-domain models that enable early insights, optimize performance, and support confident decisions.
+
+Solutions include:
+
+* Functional concept and TCO analysis
+* Energy and performance optimization
+* Rapid component characterization and calibration
+* Cross-domain system modeling (mechanical, electrical, fluid, thermal, control)
+* Seamless co-simulation and toolchain integration
+
+Eradity empowers automotive, energy, and industrial sectors with smarter, simulation-driven solutions that accelerate growth.
+
+---
+
 ### [Gauthier Simulation](http://www.GauthierSimulation.com), Inc., Huntsville, Alabama, USA
 
 Contact: [Modelica@GauthierSimulation.com](mailto:Modelica@GauthierSimulation.com)
