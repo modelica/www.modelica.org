@@ -147,7 +147,7 @@ The following licenses are used by the Modelica Association for material provide
 | --- | --- | --- | --- |
 | Marketing | Hubertus Tummescheit | [Model Based Innovation LLC, USA](https://modelbased.cloud) | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
 | Quality and Processes | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
-| Technology | [Martin Otter](https://rmc.dlr.de/sr/en/staff/martin.otter/Biography) | [DLR-SR, Germany](https://www.dlr.de/sr/en) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
+| Technology | [Martin Otter](https://martinotter.github.io/) | [DLR-SR, Germany](https://www.dlr.de/en/fk) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
 | Project leader "Modelica Language"  | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
 | Project leader "Modelica Libraries" | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
 | Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haumer) |   OTH Regensburg, Germany  | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de) |
@@ -294,7 +294,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Nikoukhah, Ramine   |                                                                                     | LANG     |
 | [Nilsson, Henrik](https://www.linkedin.com/in/henilsson/?originalSubdomain=uk)                | [University of Nottingham](http://www.cs.nott.ac.uk)                                |          |
 | [Olsson, Hans](https://github.com/HansOlsson)                   | [Dassault Systèmes AB](https://www.3ds.com/products-services/catia/products/dymola/) | LANG, LIB |
-| [Otter, Martin](https://rmc.dlr.de/sr/en/staff/martin.otter/Biography)     | [DLR](https://www.dlr.de/en/sr)                                                         | LANG, LIB |
+| [Otter, Martin](https://martinotter.github.io/)     | [DLR](https://www.dlr.de/en/fk)                                                         | LANG, LIB |
 | [Pop, Adrian](https://www.ida.liu.se/~adrpo33/)                | [PELAB, IDA, Linköping University](http://www.ida.liu.se/labs/pelab)                | LANG     |
 | Prölss, Katrin      |                                                                                     | LANG     |
 | [Puente Varela, Basilio](https://modelica-spain.org/index.php/author/basilio/)                      | [Techno Pro Hispania S.L.](http://www.tphispania.com/)                           |          |
