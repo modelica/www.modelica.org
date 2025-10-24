@@ -147,7 +147,7 @@ The following licenses are used by the Modelica Association for material provide
 | --- | --- | --- | --- |
 | Marketing | Hubertus Tummescheit | [Model Based Innovation LLC, USA](https://modelbased.cloud) | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
 | Quality and Processes | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
-| Technology | [Martin Otter](https://rmc.dlr.de/sr/en/staff/martin.otter/) | [DLR-SR, Germany](https://www.dlr.de/sr/en/desktopdefault.aspx/tabid-11579) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
+| Technology | [Martin Otter](https://martinotter.github.io/) | [DLR-SR, Germany](https://www.dlr.de/en/fk) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
 | Project leader "Modelica Language"  | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
 | Project leader "Modelica Libraries" | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
 | Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haumer) |   OTH Regensburg, Germany  | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de) |
@@ -252,7 +252,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | [Coïc, Clement](https://www.linkedin.com/in/clementcoic) |                                                |           |
 | Dempsey, Mike       | [Claytex Service Limited](http://www.claytex.com/)                                 | LANG     |
 | Eborn, Jonas        |                                                                                     | LANG     |
-| [Elmqvist, Hilding](http://www.Mogram.net)                           | [Mogram AB](http://mogram.net)                                                      | LANG     |
+| [Elmqvist, Hilding](https://github.com/HildingElmqvist)                           | [Mogram AB](http://mogram.net)                                                      | LANG     |
 | [Elsheikh, Atiyah](http://mathemodica.com/members/atiyah/)          | [Mathemodica](http://mathemodica.com)                                               | LANG     |
 | Fontanella, Giuliano| [Dassault Systèmes](http://www.3ds.com)                                             |          |
 | Frenkel, Jens       |                                                                                     |          |
@@ -262,7 +262,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Gao, Rui            |                                                                                     |          |
 | Gopalswamy, Swami   | [Texas A&M University](https://www.tamu.edu/)                                       |          |
 | Gräber, Manuel      |                                                                                     | LANG     |
-| [Harman, Peter](http://cae.tech)                                 | [CAE Tech Limited](http://cae.tech)                                                 | LANG     |
+| [Harman, Peter](https://github.com/harmanpa)                                 | [CAE Tech Limited](http://cae.tech)                                                 | LANG     |
 | [Haumer, Anton](http://www.oth-regensburg.de/en/faculties/electrical-engineering-and-information-technology/laboratories/electrical-machines.html) | [Technisches Büro für Elektrotechnik Haumer](http://www.haumer.at/)                 | LANG, LIB |
 | Hedberg, Daniel     |                                                                                     | LANG     |
 | Heinrich, Carsten   | [Institut für Luft- und Kältetechnik GmbH](http://www.ilkdresden.de)                | LANG     |
@@ -292,12 +292,12 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Neuber, Eric        |                                                                                     | LANG     |
 | Newman, Chuck       |                                                                                     |          |
 | Nikoukhah, Ramine   |                                                                                     | LANG     |
-| [Nilsson, Henrik](http://www.cs.nott.ac.uk/~psznhn)                | [University of Nottingham](http://www.cs.nott.ac.uk)                                |          |
+| [Nilsson, Henrik](https://www.linkedin.com/in/henilsson/?originalSubdomain=uk)                | [University of Nottingham](http://www.cs.nott.ac.uk)                                |          |
 | [Olsson, Hans](https://github.com/HansOlsson)                   | [Dassault Systèmes AB](https://www.3ds.com/products-services/catia/products/dymola/) | LANG, LIB |
-| [Otter, Martin](http://rmc.dlr.de/sr/en/staff/martin.otter/)     | [DLR](http://www.dlr.de/sr)                                                         | LANG, LIB |
+| [Otter, Martin](https://martinotter.github.io/)     | [DLR](https://www.dlr.de/en/fk)                                                         | LANG, LIB |
 | [Pop, Adrian](https://www.ida.liu.se/~adrpo33/)                | [PELAB, IDA, Linköping University](http://www.ida.liu.se/labs/pelab)                | LANG     |
 | Prölss, Katrin      |                                                                                     | LANG     |
-| [Puente Varela, Basilio](https://modelica-spain.org)                      | [Techno Pro Hispania S.L.](http://www.tphispania.com/)                           |          |
+| [Puente Varela, Basilio](https://modelica-spain.org/index.php/author/basilio/)                      | [Techno Pro Hispania S.L.](http://www.tphispania.com/)                           |          |
 | Remond, Xavier      | [Dassault Systèmes SA](http://www.3ds.com/)                                         |          |
 | Schuch, Klaus       |                                                                                     |          |
 | Seidel, Stephan     |                                                                                     |          |
@@ -321,7 +321,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | [Winkler, Dietmar](https://me.dwe.no)                               | [University of South-Eastern Norway](https://www.usn.no/)                           | LANG, LIB |
 | Wischhusen, Stefan  | [XRG Simulation GmbH](http://www.xrg-simulation.de/)                                | LIB      |
 | [Xie, Dongping](https://github.com/xie-dongping)                 | [Dassault Systemès](https://www.3ds.com/products-services/catia/products/dymola/)   |          |
-| [Zhou, Fanli](http://en.tongyuan.cc)                           | [Suzhou Tongyuan Software & Control Technology Co., Ltd.](http://www.tongyuan.cc)   | LANG, LIB |
+| [Zhou, Fanli](https://www.linkedin.com/in/fanli-zhou-a016a410b/?originalSubdomain=cn)                           | [Suzhou Tongyuan Software & Control Technology Co., Ltd.](http://www.tongyuan.cc)   | LANG, LIB |
 
 *If you want to contact a member via email, please ask [backoffice@modelica.org](mailto:backoffice@modelica.org).*
 
