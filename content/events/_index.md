@@ -45,10 +45,16 @@ In case of general inquiries for Modelica Conferences, send an email to the Mode
 
 Conference proceedings of the Modelica conference series (since year 2009, the conference proceedings are published by Linköping University Press; before they were published on the Modelica Association web).
 
+* [Asian Modelica Conference 2024](https://modelica.org/events/asian2024/), Jeju Island, South Korea, December 12-13, 2024.
+* [American Modelica Conference 2024](https://doi.org/10.3384/ecp207), Storrs, Connecticut, USA, October 14-16, 2024.
 * [15th International Modelica Conference 2023](https://2023.international.conference.modelica.org/), Aachen, Germany, October 9-11, 2023.
+* [Asian Modelica Conference 2022](https://doi.org/10.3384/ecp193), Tokyo, Japan, November 24–25, 2022.
+* [American Modelica Conference 2022](https://doi.org/10.3384/ecp21186), Dallas, Texas, USA, October 26-28, 2022.
 * [14th International Modelica Conference 2021](https://2021.international.conference.modelica.org/), fully remote event, September 20–24, 2021.
+* [Asian Modelica Conference 2020](https://doi.org/10.3384/ecp2020174), Virtual conference planned for Tokyo, October 8–9, 2020.
+* [American Modelica Conference 2020](https://doi.org/10.3384/ecp20169), Virtual Conference originally planned for Boulder, Colorado, March. 23-25, 2020.
 * [13th International Modelica Conference 2019](https://2019.international.conference.modelica.org/), Regensburg, Germany, March 4-6, 2019.
-* [American Modelica Conference 2018](https://2018.american.conference.modelica.org/), Cambridge MA, USA, Oct. 9-10, 2018.
+* [American Modelica Conference 2018]( https://doi.org/10.3384/ecp18154), Cambridge MA, USA, Oct. 9-10, 2018.
 * [2nd Japanese Modelica Conference 2018](/events/modelica2018japan), Tokyo, Japan, May 17-18, 2018.
 * [12th International Modelica Conference 2017](https://2017.international.conference.modelica.org/), Prague, Czech Republic, May 15-17, 2017.
 * [Japanese Modelica Conference 2016](http://dx.doi.org/10.3384/ecp16124), in Tokyo, Japan, May 23-24, 2016.
