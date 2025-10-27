@@ -6,6 +6,8 @@ title: Proceedings
 
 Conference proceedings of the Modelica conference series (since year 2009, the conference proceedings are published by Linköping University Press; before they were published on the Modelica Association web):
 
+[16th International Modelica and FMI Conference proceedings](https://ecp.ep.liu.se/index.php/modelica/issue/view/10)
+
 [Asian Modelica Conference 2024](https://modelica.org/events/asian2024/), Jeju Island, South Korea, December 12–13, 2024.
 
 [American Modelica Conference 2024](https://modelica.org/events/american2024/), Storrs, Connecticut, USA, October 14-16, 2024.
