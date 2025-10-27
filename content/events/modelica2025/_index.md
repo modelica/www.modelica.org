@@ -81,7 +81,7 @@ Thank you to everyone who joined the **16th International Modelica & FMI Confere
         <img src="images/TONGYUAN.png" alt="Tongyuan"/>
       </div>
      </a>
-  </div>-
+  </div>
 
 </div>
 {{</rawhtml>}}
