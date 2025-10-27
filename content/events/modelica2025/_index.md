@@ -27,7 +27,9 @@ Thank you to everyone who joined the **16th International Modelica & FMI Confere
 
 - **[Conference App](https://pretalx.com/16thmodelicafmiconference/schedule)** The app with the full program and paper submissions remains available.  
   Some authors also chose to share their slides, and you can find the author details for each contribution.  
-  *Please note: The app is expected to stay online for an extended period, but availability cannot be guaranteed indefinitely.*  
+  *Please note: The app is expected to stay online for an extended period, but availability cannot be guaranteed indefinitely.*
+
+- **[Proceedings]**(https://ecp.ep.liu.se/index.php/modelica/issue/view/105): The Proceedings of the 16th International Modelica and FMI Conference are available online from Linköping University Press!
   
 
 ## Sponsors
@@ -79,7 +81,7 @@ Thank you to everyone who joined the **16th International Modelica & FMI Confere
         <img src="images/TONGYUAN.png" alt="Tongyuan"/>
       </div>
      </a>
-  </div>
+  </div>-
 
 </div>
 {{</rawhtml>}}
