@@ -1,6 +1,6 @@
 ---
 title: Publication of Conference Proceedings and Free Libraries
-date: 2025-09-05
+date: 2025-10-27
 ---
 
 **Proceedings of the 16th International Modelica Conference Published -   
@@ -11,6 +11,8 @@ The [Proceedings of the 16th International Modelica & FMI Conference](https://do
 With over 1000 pages, they give a detailed account on the technical progress that was discussed at our biennial conference. The feedback we have received directly after the conference was that this edition had a stronger focus on multi-domain tools, and general methodologies rather than just individual applications. Something that seemed to be very much welcomed by our audience, certainly fostered by the stronger inclusion of FMI and related standards and it also is reflected in the proceedings.
 
 Many corresponding presentations can be also found on the [conference app](https://pretalx.com/16thmodelicafmiconference/schedule). In addition to the proceedings, this includes also the keynote presentations and presentations from the industrial users track.
+
+![](/images/LibraryCandidates2025.png)
 
 In addition to papers and presentations, there is another important form to contribute to the common body of knowledge that I want to highlight now: these are the free open-source Modelica libraries.  This is the most direct way of transferring modeling know-how between persons and organizations. Either by applying the models directly in simulation or by studying the equations behind them.
 
