@@ -3,7 +3,7 @@ title: Publication of Conference Proceedings and Free Libraries
 date: 2025-10-27
 ---
 
-**Proceedings of the 16th International Modelica Conference Published -   
+**Proceedings of the 16th International Modelica & FMI Conference Published -   
 Special Highlight on Free Modelica Libraries**
 
 The [Proceedings of the 16th International Modelica & FMI Conference](https://doi.org/10.3384/ecp218)  are now published via the electronic press of Linköping Universitet.
