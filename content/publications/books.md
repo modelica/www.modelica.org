@@ -45,6 +45,15 @@ title: Books
 >}}
 
 {{< book 
+    name="Multi-physics Modeling of Technological Systems" 
+    author="Marc Budinger, Ion Hazyuk, Clément Coïc"
+    year="2018"
+    link="https://a.co/d/6M1EoIP"
+    image="/images/books/Coic2019.png"
+    description="The development of mechatronic and multidomain technological systems requires the dynamic behavior to be simulated before detailed CAD geometry is available. This book presents the fundamental concepts of multiphysics modeling with lumped parameters. The approach adopted in this book, based on examples, is to start from the physical concepts, move on to the models and their numerical implementation, and finish with their analysis. With this practical problem-solving approach, the reader will gain a deep understanding of multiphysics modeling of mechatronic or technological systems – mixing mechanical power transmissions, electrical circuits, heat transfer devices and electromechanical or fluid power actuators. Most of the book's examples are made using Modelica platforms..."
+>}}
+
+{{< book 
     name="Introduction to Modeling and Simulation of Technical and Physical Systems" 
     author="Peter Fritzson"
     year="2011"
@@ -98,7 +107,16 @@ title: Books
     link="https://pidplanet.wordpress.com/modelica"
     image="/images/books/Alfaro2015.png"
     description="First Spanish book covering the basics of Modelica, its standard library components, and the use (with examples) of OpenModelica, JModelica.org, and Wolfram System Modeler. The book aim at soften the Modelica learning curve to the Spanish speaking newcomers and to provide a set of examples to the more advanced users. It is published under a Creative Commons CC-BY-NC-ND license."
->}}  
+>}}
+
+{{< book 
+    name="Modélisation multiphysique des systèmes technologiques" 
+    author="Marc Budinger, Ion Hazyuk, Clément Coïc"
+    year="2019"
+    link="https://amzn.eu/d/7lMKcvl"
+    image="/images/books/Coic2019b.png"
+    description="Cet ouvrage présente les concepts fondamentaux de modélisation multiphysique à paramètres localisés. Cette approche permet de modéliser des systèmes technologiques multidomaines de type mécatronique et donne la possibilité de simuler le comportement de systèmes avant que la géométrie CAO détaillée ne soit disponible. Elle est implémentée aujourd'hui par de nombreux logiciels : Simscape (Matlab), AMEsim, VHDL-AMS, Dymola (Modelica), OpenModelica (Modelica), etc. L'approche adoptée est de partir des concepts physiques pour aller ensuite vers les modèles et leur implémentation numérique et finir par leur analyse et leur utilisation en conception. Modélisation multiphysique des systèmes technologiques expose via des exemples pratiques les principaux concepts menant à la mise en place et à l'utilisation de modèles stationnaires et transitoires à paramètres localisés. La plupart de ces exemples sont réalisés à l'aide du langage Modelica..."
+>}}
 
 {{< book 
     name="Praxis der Simulationstechnik" 
