@@ -153,8 +153,8 @@ The following licenses are used by the Modelica Association for material provide
 | Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haumer) |   OTH Regensburg, Germany  | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de) |
 | Project leader "FMI" | Christian Bertsch | [Bosch, Germany](https://www.bosch.com) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
 | Deputy Project leader "FMI" | Torsten Sommer | [Dassault Systèmes, Germany](https://www.3ds.com/) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
-| Project leader "SSP" | vacant |     |     |
-| Deputy Project leader "SSP" | Pierre Mai | [PMSF, Germany](https://pmsf.eu/) | [pmai@pmsfit.de](mailto:pmai@pmsfit.de) |
+| Project leader "SSP" | Pierre Mai |  [PMSF, Germany](https://pmsf.eu/)   |  [pmai@pmsfit.de](mailto:pmai@pmsfit.de)   |
+| Deputy Project leader "SSP" |  Robert Hällqvist |  Saab AB | |
 | Project leader "DCP" | vacant |     |     |
 | Deputy Project leader "DCP" | Klaus Schuch | [AVL, Austria](https://www.avl.com/) | [klaus.schuch@avl.com](mailto:klaus.schuch@avl.com) |
 | Project leader "eFMI" | Christoff Bürger | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [christoff.buerger@3ds.com](mailto:christoff.buerger@3ds.com) |
