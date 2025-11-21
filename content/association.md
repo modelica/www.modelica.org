@@ -222,7 +222,7 @@ The following organizations are members of the Modelica Association:
 
 ## Individual Members of the Modelica Association
 
-Currently the Modelica Association has 128 individual members.
+Currently the Modelica Association has 129 individual members.
 
 The following members have given the consent to appear publicly.
 
