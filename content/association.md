@@ -248,6 +248,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Brück, Dag          | [Dassault Systèmes AB](http://www.3ds.com/dymola)                                   | LANG, LIB |
 | Bürger, Christoff   | [Dassault Systèmes AB](https://www.3ds.com/)                                       | LANG, LIB |
 | [Casella, Francesco](https://www.deib.polimi.it/ita/personale/dettagli/129954) | [Politecnico di Milano](http://www.polimi.it)                                      | LANG, LIB |
+| Chen, Zhipeng       | [Tongyuan](https://en.tongyuan.cc/)                                                  |          |
 | Clauß, Christoph    |                                                                                     | LANG, LIB |
 | [Coïc, Clement](https://www.linkedin.com/in/clementcoic) |                                                |           |
 | Dempsey, Mike       | [Claytex Service Limited](http://www.claytex.com/)                                 | LANG     |
@@ -302,7 +303,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Remond, Xavier      | [Dassault Systèmes SA](http://www.3ds.com/)                                         |          |
 | Schuch, Klaus       |                                                                                     |          |
 | Seidel, Stephan     |                                                                                     |          |
-| Selvan, Nithish     | [Modelon AB](https://modelon.com/)                                                  |          |
+| Selvan, Nithish     | [Modelon AB](https://modelon.com/)                                                  | LIB        |
 | Shmoylova, Elena    |                                                                                     | LANG, LIB |
 | Sielemann, Michael  |                                                                                     | LANG     |
 | [Sjölund, Martin](https://www.ida.liu.se/~marsj34/)                | [Linköping University](http://www.ida.liu.se/labs/pelab)                            | LANG, LIB |
