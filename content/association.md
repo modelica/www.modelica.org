@@ -222,7 +222,7 @@ The following organizations are members of the Modelica Association:
 
 ## Individual Members of the Modelica Association
 
-Currently the Modelica Association has 129 individual members.
+Currently the Modelica Association has 130 individual members.
 
 The following members have given the consent to appear publicly.
 
@@ -264,6 +264,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Gao, Rui            |                                                                                     |          |
 | Gopalswamy, Swami   | [Texas A&M University](https://www.tamu.edu/)                                       |          |
 | Gräber, Manuel      |                                                                                     | LANG     |
+| Hällqvist, Robert   | [Saab Aeronautics](https://www.saab.com/)                                           |   |
 | [Harman, Peter](https://github.com/harmanpa)                                 | [CAE Tech Limited](http://cae.tech)                                                 | LANG     |
 | [Haumer, Anton](http://www.oth-regensburg.de/en/faculties/electrical-engineering-and-information-technology/laboratories/electrical-machines.html) | [Technisches Büro für Elektrotechnik Haumer](http://www.haumer.at/)                 | LANG, LIB |
 | Hedberg, Daniel     |                                                                                     | LANG     |
