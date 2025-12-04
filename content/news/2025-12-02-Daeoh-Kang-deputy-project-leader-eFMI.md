@@ -3,7 +3,7 @@ title: Daeoh Kang, CEO of iVH Co., Ltd., new deputy project leader of MAP eFMI®
 date: 2025-12-02
 ---
 
-We are happy to announce that Daeoh Kang (CEO of [iVH Co., Ltd.](https://www.ivh.co.kr/)) is our new deputy project leader of the [Modelica Association Project eFMI®](https://www.efmi-standard.org/). Hubertus Tummescheit (former [Modelon AB](https://modelon.com/), now [The REUSE Company](https://www.reusecompany.com/)), our current deputy project leader, changed affiliation a while ago, for which reason Hubertus could not contribute and follow our project as much as he would have liked.
+We are happy to announce that Daeoh Kang (CEO of [iVH Co., Ltd.](https://www.ivh.co.kr/)) is our new deputy project leader of the [Modelica Association Project eFMI®](https://www.efmi-standard.org/). Hubertus Tummescheit (former [Modelon AB](https://modelon.com/), now [The REUSE Company](https://www.reusecompany.com/)), our former deputy project leader, changed affiliation a while ago, for which reason Hubertus could not contribute and follow our project as much as he would have liked.
 
 ![Daeoh Kang (CEO of iVH Co., Ltd.)](/images/2025-12-02-news-Daeoh-Kang.png)
 
