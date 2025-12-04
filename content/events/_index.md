@@ -10,7 +10,7 @@ The Modelica and FMI Conference is organized by the Modelica Association and a l
 ## Upcoming Conferences
 
  * The **Asian Modelica Conference 2026]**  will take place **Sept 21-22 2026** in **Hangzhou, China**. It is hosted by Beihang University and Nanjing Yuansi SimTek.
- * The **American Modelica and FMI Conference 2026** The conference will take place **Oct 12-14 2026** ** in **Atlanta, USA**. It is hosted by the Aerospace System Design Lab of Georgia Tech.
+ * The [**American Modelica and FMI Conference 2026**](american2026) The conference will take place **Oct 12-14 2026** ** in **Atlanta, USA**. It is hosted by the Aerospace System Design Lab of Georgia Tech.
  * The **[17th International Modelica & FMI Conference** will be held **Sept 20-22 2027 in Prague, Czechoslovakia. It is co-hosted with [CSKI (Czech Society for Cybernetics and Informatics)](https://www.cski.cz/homepage/en). It is an in-person event held in English that is open for sponsorship positions.
 
  ## Recent Conferences
