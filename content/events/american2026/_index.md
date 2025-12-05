@@ -13,7 +13,16 @@ in cooperation with the [Modelica Association](/association/). Join us in person
 The Modelica and FMI Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and 
 industrial progress related to [Modelica](/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), [eFMI](http://efmi-standard.org/), [DCP](https://dcp-standard.org/)
 and methods and tools for equation oriented languages. Please take a look at the [Call for Papers](cfp) if you are interested in submitting.
-The program will cover processes and tools for the modeling of complex physical and cyber-physical systems as applied to a wide range of research and industrial applications. 
+
+ 1. The program will cover processes and tools for the modeling of complex physical and cyber-physical systems as applied to a wide range of research and industrial applications,
+ and will have a new track in this conference that covers technical contributions from equation-oriented languages other than Modelica.  
+
+ 1. It is supported by many [Modelica and non-Modelica tools](https://modelica.org/tools/) and is the key to utilizing Modelica models in non-Modelica environments. 
+
+For the 2026 conference we will include a new track on the structure and application of equation-oriented modeling languages other than Modelica into the program, 
+since we see many similarities that will enrich a conversation centered on principles of equation-oriented modeling.  
+We invite users of these other modeling languages to submit their technical publications to this conference, and hope 
+that the broader scope will benefit the growth of equation-oriented modeling.   
 
 In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.  
 <!-- The previous [American Modelica conference in 2024](https://2022.american.conference.modelica.org/) was also streamed, giving many Modelicans in Europe the opportunity to watch presentations on the latest updates on Modelica-related research and innovation.  
@@ -29,7 +38,8 @@ Additional details are available in the [call for papers](cfp).
 
 ## Sponsorship opportunities
 
-The American Modelica conference will be your opportunity to meet your customers again in a personal setting, at a great location. Please stay tuned for details about our sponsorship opportunities, we will post them here in the near future. Note that all sponsors will have the opportunity to exhibit at the conference, and that we don't offer a separate way to exhibit at the conference.  
+The American Modelica conference will be your opportunity to meet your customers again in a personal setting, at a great location. Please stay tuned for details about our sponsorship opportunities, we will post them here in the near future. 
+Note that all sponsors will have the opportunity to exhibit at the conference, and that we don't offer a separate way to exhibit at the conference.  
 
 
 The **American Modelica Conference 2026** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference, 
