@@ -34,7 +34,7 @@ The American Modelica conference will be your opportunity to meet your customers
 
 The **American Modelica Conference 2026** relies heavily on sponsors to maintain the affordability of the ticket prices. If you are interested in sponsoring the conference, 
 please check out the conditions at in our [call for sponsors](https://modelica.org/events/american2026/callforsponsors) and contact us as soon as possible at 
-**[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)**. 
+**[modelicaNA2026@groups.liu.se](mailto:modelicaNA2026@groups.liu.se)**. 
 
 ## Scope of the Conference
 
@@ -78,10 +78,10 @@ language, library, and tool developments, and to get in touch with people workin
 
 ## Call for papers, user presentations and tutorials
 
-Please see the [call for papers](call2024) for details about paper submissions, and the calls for [industrial user presentations](call2024), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
+Please see the [call for papers](cfp) for details about paper submissions, and the calls for [industrial user presentations](cfp), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
 
 - May 1, 2026 Submission of full papers
-- June 1, 2026 Submission of extended abstracts for presentation-only contributions, <!-- [workshops and tutorials](https://docs.google.com/forms/d/e/1FAIpQLScsRLAe-YwK7yAQoW6B5KQQ87M_SU4dgj6eKnvpjG3h53HMGw/viewform) -->
+- June 1, 2026 Submission of extended abstracts for presentation-only contributions, [workshops and tutorials](https://docs.google.com/forms/d/e/1FAIpQLSelZCdRQzg8qHhTdjf_J39wCVQMR2H2WHQDR6GLfcur25gK7g/viewform?usp=header)
 <!-- - August 10, 2024 Notification of acceptance for papers and presentations 
 - August 30th, 2026 Submission of final papers and one-page abstracts
 - October 7th, 2026 Submission of final presentations -->
@@ -90,13 +90,13 @@ Please see the [call for papers](call2024) for details about paper submissions, 
 
 The conference is organized by NAMUG in cooperation with the [Modelica Association](/).
 
-**For general questions, please send an email to:** **[modelicaNA2024@groups.liu.se](mailto:modelicaNA2024@groups.liu.se)**
+**For general questions, please send an email to:** **[modelicaNA2026@groups.liu.se](mailto:modelicaNA2026@groups.liu.se)**
 
 ### Conference Board
 
   -  **Conference Co-Chair** Dr. Michael Tiller, Juliahub
-  -  **Conference Co-Chair** Dr. Hubertus Tummescheit, Modelon
-  -  **Local Co-Chair** Prof. Dmitri Mavris, Geprgia Institute of Technology 
+  -  **Conference Co-Chair** Dr. Hubertus Tummescheit, Model Based Innovation LLC
+  -  **Local Co-Chair** Prof. Dmitri Mavris, Georgia Institute of Technology 
   -  **Program Chair** Prof. Luigi Vanfretti, Rensselaer Polytechnic Insitute
   -  **Program Chair** Dr. Michael Wetter,Lawrence Berkeley National Laboratory
   -  **Conference Excecutive Coordinator** Dr. Christopher Laughman, Mitsubishi Electric Research Laboratories
