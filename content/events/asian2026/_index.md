@@ -6,7 +6,7 @@ title: Modelica and FMI Conference
 
 
 We announce the **Asian Modelica & FMI Conference 2026**.
-It will take place at the high-tech city of **Hangzhou, China from September 21-22, 2026**.
+It will take place at the high-tech city of **Hangzhou, China from September 21-22, 2026** also famous of its stunning west lake scenery.
 It is organized by the [Beihang University](https://global.buaa.edu.cn/en/) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
 This is the first visit of the conference series in China.
 
@@ -74,9 +74,12 @@ Recommended authors are required to revise and restructure their manuscripts to 
 
 For industrial participants, in addition to submitting scientific papers, you may opt to present an industrial case study/presentation. For this category, only an abstract is required, with submissions due by June 30, 2026. Please note that these industrial presentations will not be included in the conference proceedings nor considered for the IJMSSC Special Issue.
 
+You can also [download the Call for papers](CfP_Asian_2026.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System.
 
+<!--
  Please see the  [Authors' Guide](#authors-guide) for further information.
- 
+ -->
+
  <!--
   You can also [download the Call for papers](Callforpapers-2025-01-06.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System. Paper submission is open on [EasyChair](https://easychair.org/my/conference?conf=16imoc). Authors of papers that are not selected for presentation in the main conference sessions will have the opportunity to present their work as posters.
   
@@ -370,6 +373,19 @@ The open Modelica standards provide a real technical, economical as well as soci
 We are looking forward to a lively and informative discussion with our panelists. The panel discussion will evolve around a few prepared questions, and questions from the audience. It will be moderated by our board member **Hubertus Tummescheit**, Board member Modelica Association, President Model Based Innovation LLC. 
 
 -->
+
+## Conference Venue
+
+![Campus](images/Campus2.png)
+
+The conference will take place in the main building of the [Hangzhou Campus, Beihang University](https://zfaien.buaa.edu.cn/Campus/Campus_Map.htm)
+- 166 Shuanghongqiao ST, Pingyao, Yuhang District, Hangzhou, China
+
+The venue offers space for 3 parallel technical tracks and also a plenary hall for the shared sessions.
+
+The program will be scheduled so that both Modelica and FMI interested have a full program to enjoy. Switching between sessions is not only possible but also encouraged.
+
+
 ## Travel and Accommodation
 
 We recommend to book your room in the [Wyndham Garden Hotel Hangzhou Yuhang](https://www.wyndhamhotels.com/wyndham-garden/hangzhou-china/wyndham-garden-hangzhou-yuhang/overview)
@@ -413,14 +429,22 @@ Under the following link, conference participants will find a **[limited conting
 
 The conference is organized by organized by the [Beihang University](https://global.buaa.edu.cn/en/) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
 
-| Beihang University                 | Nanjing Yuansi SimTek Co., Ltd.        | 
-|------------------------------|--------------|
-| <img src="images/Beihang.png" alt="drawing" width="150"/>                   | <img src="images/SIMTEK.png" alt="drawing" width="200"/>   |
+
 
 
 For general questions, please contact
 - [Rui Gao](rui.gao@simtek.cc)
 - [Jian Wang](07248@buaa.edu.cn) 
+
+
+{{<rawhtml>}}
+<img src="images/Beihang.png" alt="Beihang University" width="150"/>
+
+<img src="images/SIMTEK.png" alt="Simtek" width="180"/>   
+{{</rawhtml>}}
+
+
+
 
 ### Main Conference Board
 
