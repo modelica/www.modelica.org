@@ -2,7 +2,7 @@
 title: Modelica and FMI Conference
 ---
 
-# Asian Modelica Conference 2026
+# Asian Modelica & FMI Conference 2026
 
 
 We announce the **Asian Modelica & FMI Conference 2026**.
@@ -35,7 +35,7 @@ In addition to paper presentations, the conference features several Modelica tut
 
 |   |   |
 |---|---|
-|December 2, 2026 |Call for papers |
+|December 12, 2025 |Call for papers |
 |April 30, 2026 |Deadline for scientific paper submissions|
 |June 15, 2026 | Notification of acceptance for scientific papers and presentations |
 |June 30, 2026 | Deadline for submission of industrial user presentations|
@@ -456,7 +456,7 @@ For general questions, please contact
 - Dr. Jian Wang, Beihang University
 - Prof. Yanfang Liu, Beihang University
 - Prof. WeiLin Li, Northwestern Polytechnical University
-- Dr. Haiying Ou, BYD
+- Dr. Haiying Ou, China SAE Automobile Model Digital Engineering Branch
 - Dr. Hong Lü, China General Nuclear Power Corporation(CGN)
 
 ### Conference Advisory Board
@@ -464,6 +464,7 @@ For general questions, please contact
 - Prof. Lin Zhang, Beihang University, China
 - Dr. Christian Bertsch, Robert Bosch GmbH, Germany
 - Dr. Yutaka Hirano, Hirano research Laboratory, Japan
+- Dr. Dai Araki, Toshiba Digital Solution, Japan
 - Dr. Daeoh Kang, iVH, Korea
 - Dr. Aiguo Xu, Nanjing Yuansi SimTek., Co., Ltd. China
 - Dr. Fanli Zhou, Suzhou Tongyuan Software & Control Technology Co., Ltd. China
