@@ -462,7 +462,7 @@ For general questions, please contact
 ### Conference Advisory Board
 
 - Prof. Lin Zhang, Beihang University, China
-- Dr. Christian Bertsch, Robert Bosch GmbH, Germany
+- Dipl.-Math. Christian Bertsch, Robert Bosch GmbH, Germany
 - Dr. Yutaka Hirano, Hirano research Laboratory, Japan
 - Dr. Dai Araki, Toshiba Digital Solution, Japan
 - Dr. Daeoh Kang, iVH, Korea
