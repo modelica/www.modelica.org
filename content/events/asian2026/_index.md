@@ -392,7 +392,7 @@ We recommend to book your room in the [Wyndham Garden Hotel Hangzhou Yuhang](htt
 
 - 2699 Yuhangtang Rd, Hangzhou, 311100, Zhejiang, China
 
-A welcome reception will be provided on the evening of September 20 and the conference banquet in the evening of September 21 will take place in this hotel.
+A welcome reception will be provided on the evening of September 20 and the conference banquet in the evening of September 21 will take place in this hotel. We also aim to provide a shuttle service to the conference venue.
 
 Transportation directly to Hangzhou:
 - Flight: Hangzhou Xiaoshan International Airport (HGH), 57 Km
@@ -456,7 +456,7 @@ For general questions, please contact
 - Dr. Jian Wang, Beihang University
 - Prof. Yanfang Liu, Beihang University
 - Prof. WeiLin Li, Northwestern Polytechnical University
-- Dr. Haiying Ou, China SAE Automobile Model Digital Engineering Branch
+- Dr. Ou Haiying, China SAE Automobile Model Digital Engineering Branch
 - Dr. Hong Lü, China General Nuclear Power Corporation(CGN)
 
 ### Conference Advisory Board
@@ -466,7 +466,11 @@ For general questions, please contact
 - Dr. Yutaka Hirano, Hirano research Laboratory, Japan
 - Dr. Dai Araki, Toshiba Digital Solution, Japan
 - Dr. Daeoh Kang, iVH, Korea
+
+<!--
+
 - Dr. Aiguo Xu, Nanjing Yuansi SimTek., Co., Ltd. China
 - Dr. Fanli Zhou, Suzhou Tongyuan Software & Control Technology Co., Ltd. China
 - Mr. Shaoqing He, CATARC/Data
 - Prof. Yusheng Liu, Hope System Technology
+-->
