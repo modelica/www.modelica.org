@@ -40,7 +40,8 @@ In addition to paper presentations, the conference features several Modelica tut
 |June 15, 2026 | Notification of acceptance for scientific papers and presentations |
 |June 30, 2026 | Deadline for submission of industrial user presentations|
 |June 30, 2026  | Deadline for submission of vendor presentations  |
-|June 30, 2026   | Deadline for early registration|
+|July 15, 2026  | Notification of acceptance for industrial user presentations  |
+|July 31, 2026   | Deadline for early registration|
 |August 1, 2026| Submission of final papers, presentations, and one-page abstracts|
 |September 21-22, 2026| Asian Modelica & FMI Conference 2026 |
 
@@ -456,7 +457,7 @@ For general questions, please contact
 - Dr. Jian Wang, Beihang University
 - Prof. Yanfang Liu, Beihang University
 - Prof. WeiLin Li, Northwestern Polytechnical University
-- Dr. Ou Haiying, China SAE Automobile Model Digital Engineering Branch
+- Dr. OU Haiying, China SAE Automobile Model Digital Engineering Branch
 - Dr. Hong Lü, China General Nuclear Power Corporation(CGN)
 
 ### Conference Advisory Board
@@ -466,9 +467,9 @@ For general questions, please contact
 - Dr. Yutaka Hirano, Hirano research Laboratory, Japan
 - Dr. Dai Araki, Toshiba Digital Solution, Japan
 - Dr. Daeoh Kang, iVH, Korea
-
+- Prof. Tielong Shen, Dalian Univ. of Technology & Emeritus Professor (Sophia Univ.)
+  
 <!--
-
 - Dr. Aiguo Xu, Nanjing Yuansi SimTek., Co., Ltd. China
 - Dr. Fanli Zhou, Suzhou Tongyuan Software & Control Technology Co., Ltd. China
 - Mr. Shaoqing He, CATARC/Data
