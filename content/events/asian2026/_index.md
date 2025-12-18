@@ -434,8 +434,8 @@ The conference is organized by organized by the [Beihang University](https://glo
 
 
 For general questions, please contact
-- [Rui Gao](rui.gao@simtek.cc)
-- [Jian Wang](07248@buaa.edu.cn) 
+- [Rui Gao](mailto:rui.gao@simtek.cc)
+- [Jian Wang](mailto:07248@buaa.edu.cn) 
 
 
 {{<rawhtml>}}
