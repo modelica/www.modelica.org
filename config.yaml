@@ -71,6 +71,20 @@ menu:
       url: "/events/"
       weight: 4    
 
+    - pageRef: "asian2026"
+      identifier: "asian2026"
+      name: "Asian Modelica & FMI Conference 2026"
+      url: "/events/asian2026"
+      parent: "events"
+      weight: 1    
+
+    - pageRef: "american2026"
+      identifier: "american2026"
+      name: "American Modelica & FMI Conference 2026"
+      url: "/events/american2026"
+      parent: "events"
+      weight: 2    
+
     - pageRef: "news"
       identifier: "news"
       name: "News"
