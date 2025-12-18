@@ -146,19 +146,19 @@ The following licenses are used by the Modelica Association for material provide
 |     |     |     |     |
 | --- | --- | --- | --- |
 | Marketing | Hubertus Tummescheit | [Model Based Innovation LLC, USA](https://modelbased.cloud) | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
-| Quality and Processes | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
+| Quality and Processes | [Francesco Casella](http://home.deib.polimi.it/casella/) | [Politecnico di Milano, Italy](https://www.polimi.it/) | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
 | Technology | [Martin Otter](https://martinotter.github.io/) | [DLR-SR, Germany](https://www.dlr.de/en/fk) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
 | Project leader "Modelica Language"  | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
-| Project leader "Modelica Libraries" | [Francesco Casella](http://home.deib.polimi.it/casella/) | Politecnico di Milano, Italy | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
-| Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haumer) |   OTH Regensburg, Germany  | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de) |
-| Project leader "FMI" | Christian Bertsch | [Bosch, Germany](https://www.bosch.com) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
-| Deputy Project leader "FMI" | Torsten Sommer | [Dassault Systèmes, Germany](https://www.3ds.com/) | [contact@fmi-standard.org](mailto:contact@fmi-standard.org) |
+| Project leader "Modelica Libraries" | [Francesco Casella](http://home.deib.polimi.it/casella/) | [Politecnico di Milano, Italy](https://www.polimi.it/) | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
+| Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haumer) | [OTH Regensburg, Germany](https://www.oth-regensburg.de/) | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de) |
+| Project leader "FMI" | Christian Bertsch | [Bosch, Germany](https://www.bosch.com) | [christian.bertsch@de.bosch.com](mailto:christian.bertsch@de.bosch.com) |
+| Deputy Project leader "FMI" | Torsten Sommer | [Dassault Systèmes, Germany](https://www.3ds.com/) | [torsten.sommer@3ds.com](mailto:torsten.sommer@3ds.com) |
 | Project leader "SSP" | Pierre Mai |  [PMSF, Germany](https://pmsf.eu/)   |  [pmai@pmsfit.de](mailto:pmai@pmsfit.de)   |
-| Deputy Project leader "SSP" |  |  | |
-| Project leader "DCP" | vacant |     |     |
+| Deputy Project leader "SSP" | Robert Hällqvist | [Saab, Sweden](https://www.saab.com/) | [robert.hallqvist@saabgroup.com](mailto:robert.hallqvist@saabgroup.com)|
+| Project leader "DCP" | -- vacant -- |     |     |
 | Deputy Project leader "DCP" | Klaus Schuch | [AVL, Austria](https://www.avl.com/) | [klaus.schuch@avl.com](mailto:klaus.schuch@avl.com) |
 | Project leader "eFMI" | Christoff Bürger | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [christoff.buerger@3ds.com](mailto:christoff.buerger@3ds.com) |
-| Deputy Project leader "eFMI" | Hubertus Tummescheit | | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
+| Deputy Project leader "eFMI" | Daeoh Kang | [iVH, Korea](https://www.ivh.co.kr/) | [bigfive@ivh.co.kr](mailto:bigfive@ivh.co.kr) |
 
 ## Members of the Modelica Association with Specific Duties
 
