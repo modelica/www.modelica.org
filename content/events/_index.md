@@ -39,7 +39,7 @@ The Editorial Board supervises the publication of the Modelica Conference Procee
 * Dr. Hilding Elmqvist, Mogram AB, Sweden.
 * Dr. Michael Tiller, Juliahub, U.S.A.
 
-In case of general inquiries for Modelica Conferences, send an email to the Modelica Assocation board ([board \[ AT \] modelica \[ DOT \] org](Mailto:board%20[%20AT%20]%20modelica%20[%20DOT%20]%20org)).
+In case of general inquiries for Modelica Conferences, send an email to the Modelica Assocation board ([board@modelica.org](mailto:board@modelica.org)).
 
 ## Conference Proceedings
 
