@@ -2,7 +2,7 @@
 
 The **American Modelica and FMI Conference 2026** will be an in-person conference event. 
 The conference will take place at the **Georgia Institute of Technology** in the [Aerospace Design Laboratory](https://www.asdl.gatech.edu/) 
-from **October 12–14, 2024**. It is organized by [NAMUG](https://namug.org/), the North American Modelica Users Group, 
+from **October 12–14, 2026**. It is organized by [NAMUG](https://namug.org/), the North American Modelica Users Group, 
 in cooperation with the [Modelica Association](/association/). Join us in person in Atlanta!
 
 ![](georgia-institute-technology_578.jpg)
