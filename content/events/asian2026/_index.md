@@ -1,7 +1,7 @@
 ---
 title: Modelica and FMI Conference
 ---
-
+![Conference logo](images/logo1.png)
 # Asian Modelica & FMI Conference 2026
 
 
@@ -433,9 +433,7 @@ The conference is organized by organized by the [Beihang University](https://glo
 
 
 
-For general questions, please contact
-- [Rui Gao](mailto:rui.gao@simtek.cc)
-- [Jian Wang](mailto:07248@buaa.edu.cn) 
+For general questions, please contact [modelica26asia@modelica.org](mailto:modelica26asia@modelica.org).
 
 
 {{<rawhtml>}}
