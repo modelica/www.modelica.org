@@ -156,9 +156,10 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 - Dipl. Math. Christian Bertsch, Robert Bosch GmbH, Germany
 - Dr. Hubertus Tummescheit, Model Based Innovation LLC, USA
 - Dr. Daeoh Kang, iVH, Korea
-- Prof. Martin Sjölund, Linköping University
+- Prof. Martin Sjölund, Linköping University, Sweden
 
 
 ## Local Organization
-- Ing. Milena Zeithamlová, [Action M Agency](https://web.action-m.com/?lang=en) , Czech Republic [modelica@action-m.com](mailto:modelica@action-m.com).
-- Bc. Eliáš Sýkora, DiS
+- Ing. Milena Zeithamlová, [Action M Agency](https://web.action-m.com/?lang=en), Czech Republic.
+- Bc. Eliáš Sýkora, DiS, Czech Republic
+- Contact for questions regarding local issues (accomodation, visa, etc): [modelica@action-m.com](mailto:modelica@action-m.com)
