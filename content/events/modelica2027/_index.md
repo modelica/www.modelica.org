@@ -42,6 +42,25 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ------------------------------------
 
+
+## Important dates
+
+| Date |  |
+| --- | --- |
+|April 19, 2027 | **Deadline for paper submissions** |
+|June 7, 2027 | Deadline for Workshops and Tutorials, and Vendor Presentations|
+|June 7, 2027 | **Deadline for Industrial User Presentation submissions**|
+|June 19,  2027|Notification of acceptance for papers and presentations|
+| July 5, 2027| **Deadline for early registration** | 
+|August 8, 2027|Submission of final papers, presentations, and one-page abstracts|
+| September 15, 2027| Deadline for late registration|
+|September 20-22, 2027| **17th International Modelica & FMI Conference**|
+|September 23, 2027 | Post Conference Meeting: Public Modelica & FMI Design and Advisory Meeting  (not included in conference registration)|
+|September 24, 2027 | Internal Post Conference Meeting: Modelica & FMI Design, Modelica Association and MAP members only |
+
+------------------------------------
+
+
 ## Call for Papers
 
 You are encouraged to submit a full paper of at least 4 pages, with a maximum of 10 pages, on the following topics:
@@ -160,6 +179,6 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 
 
 ## Local Organization
-- Ing. Milena Zeithamlová, [Action M Agency](https://web.action-m.com/?lang=en), Czech Republic.
+- Ing. Milena Zeithamlová, [Action M Agency](https://web.action-m.com/?lang=en), Czech Republic
 - Bc. Eliáš Sýkora, DiS, Czech Republic
 - Contact for questions regarding local issues (accomodation, visa, etc): [modelica@action-m.com](mailto:modelica@action-m.com)
