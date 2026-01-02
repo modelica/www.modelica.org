@@ -148,14 +148,17 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 ------------------------------------
 
 ### Conference Board
-
-- Dr. Dirk Zimmer, German Aerospace Center (Conference Chair)
-- Prof. Francesco Casella, Politecnico di Milano
+- doc. MUDr. Jiří Kofránek, CSc., Charles University, Czech Republic (Honorary  Chair)
+- Mgr. Tomáš Kulhánek, Ph.D., VITO, Mol, Belgium (Local Conference Chair)
+- Dr. Dirk Zimmer, German Aerospace Center, Germany (Program Conference Chair)
+- Prof. Francesco Casella, Politecnico di Milano, Italy
+- Prof. Lars Mikelsons, University of Augsburg, Germany
+- Dipl. Math. Christian Bertsch, Robert Bosch GmbH, Germany
+- Dr. Hubertus Tummescheit, Model Based Innovation LLC, USA
+- Dr. Daeoh Kang, iVH, Korea
 - Prof. Martin Sjölund, Linköping University
-- Dipl. Math. Christian Bertsch, Robert Bosch GmbH
+
 
 ## Local Organization
 - Ing. Milena Zeithamlová, [Action M Agency](https://web.action-m.com/?lang=en) , Czech Republic [modelica@action-m.com](mailto:modelica@action-m.com).
-- Mgr. Tomáš Kulhánek, Ph.D., VITO, Mol, Belgium
-- doc. MUDr. Jiří Kofránek, CSc., Charles University
 - Bc. Eliáš Sýkora, DiS
