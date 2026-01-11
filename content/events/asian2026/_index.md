@@ -75,7 +75,7 @@ Recommended authors are required to revise and restructure their manuscripts to 
 
 For industrial participants, in addition to submitting scientific papers, you may opt to present an industrial case study/presentation. For this category, only an abstract is required, with submissions due by June 30, 2026. Please note that these industrial presentations will not be included in the conference proceedings nor considered for the IJMSSC Special Issue.
 
-You can also [download the Call for papers](CfP_Asian_2026.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System.
+You can also [download the Call for papers](CfP_Asian_2026.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System. Paper submission is open on [EasyChair](https://easychair.org/conferences/?conf=amfc2026) 
 
 <!--
  Please see the  [Authors' Guide](#authors-guide) for further information.
