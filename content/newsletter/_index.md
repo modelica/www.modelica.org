@@ -16,3 +16,7 @@ Issues
 - [2024-03](2024-03) issued on Nov 18, 2024
 - [2024-02](2024-02) issued on Jul 21, 2024
 - [2024-01](2024-01) issued on Mar 15, 2024
+- [Modelica conference special issue](2023-MC) issued on Sep 15, 2023
+- [2023-03](2023-03) issued on Nov 13, 2023
+- [2023-02](2023-02) issued on Jul 10, 2023
+- [2023-01](2023-01) issued on Mar 6, 2023
