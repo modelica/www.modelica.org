@@ -92,10 +92,10 @@ menu:
       parent: "events"
       weight: 3    
 
-    - pageRef: "news"
-      identifier: "news"
-      name: "News"
-      url: "/news/"
+    - pageRef: "newsletter"
+      identifier: "newsletter"
+      name: "Newsletter"
+      url: "/newsletter/"
       weight: 4
 
     - pageRef: "publications"
@@ -132,4 +132,4 @@ menu:
 markup:
   tableOfContents:
     startLevel: 2
-    endLevel: 2
+    endLevel: 3
