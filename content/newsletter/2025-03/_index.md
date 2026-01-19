@@ -2,7 +2,9 @@
 title: Newsletter 2025-03
 ---
 
-## Modelica Association Newsletter, issued on 08 December 2025
+## Modelica Association Newsletter 2025-03
+
+issued on 08 December 2025
 
 {{<rawhtml>}}
 <style>

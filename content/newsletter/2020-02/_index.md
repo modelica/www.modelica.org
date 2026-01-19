@@ -2,6 +2,10 @@
 title: Newsletter 2020-02
 ---
 
+# Modelica Association Newsletter 2020-02
+
+issued on 03 August 2020
+
 {{<rawhtml>}}
 <style>
     section img {

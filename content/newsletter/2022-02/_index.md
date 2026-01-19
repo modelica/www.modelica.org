@@ -2,6 +2,10 @@
 title: Newsletter 2022-02
 ---
 
+# Modelica Association Newsletter 2022-02
+
+issued on 01 August 2022
+
 {{<rawhtml>}}
 <style>
   section img {

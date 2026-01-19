@@ -2,6 +2,10 @@
 title: Newsletter 2022-01
 ---
 
+# Modelica Association Newsletter 2022-01
+
+issued on 27 March 2022
+
 {{<rawhtml>}}
 <style>
   section img {

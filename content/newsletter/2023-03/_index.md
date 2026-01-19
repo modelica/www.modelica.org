@@ -2,6 +2,10 @@
 title: Newsletter 2023-03
 ---
 
+# Modelica Association Newsletter 2023-03
+
+issued on 13 November 2023
+
 {{<rawhtml>}}
 <style>
     section img {

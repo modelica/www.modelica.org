@@ -2,6 +2,10 @@
 title: Newsletter 2021-02
 ---
 
+# Modelica Association Newsletter 2021-02
+
+issued on 08 September 2021
+
 {{<rawhtml>}}
 <style>
     section img {

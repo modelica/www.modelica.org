@@ -2,6 +2,10 @@
 title: Newsletter 2019-02
 ---
 
+# Modelica Association Newsletter 2019-02
+
+issued on 22 July 2019
+
 {{<rawhtml>}}
 <style>
     section img {

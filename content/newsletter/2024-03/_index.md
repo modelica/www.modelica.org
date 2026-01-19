@@ -2,6 +2,10 @@
 title: Newsletter 2024-03
 ---
 
+# Modelica Association Newsletter 2024-03
+
+issued on 18 November 2024
+
 {{<rawhtml>}}
 <style>
 section img {

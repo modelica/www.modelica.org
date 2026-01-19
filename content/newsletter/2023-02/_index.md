@@ -2,6 +2,10 @@
 title: Newsletter 2023-02
 ---
 
+# Modelica Association Newsletter 2023-02
+
+issued on 10 July 2020
+
 {{<rawhtml>}}
 <style>
     section img {

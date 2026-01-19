@@ -2,6 +2,10 @@
 title: Newsletter 2025-01
 ---
 
+# Modelica Association Newsletter 2025-01
+
+issued on 15 March 2025
+
 {{<rawhtml>}}
 <section id="main_content">
           <p><img src="Modelica.svg" alt="Modelica newsletter 2025-01 logo"></p>

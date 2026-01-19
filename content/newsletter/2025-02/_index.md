@@ -2,6 +2,10 @@
 title: Newsletter 2025-02
 ---
 
+# Modelica Association Newsletter 2025-02
+
+issued on 21 July 2025
+
 {{<rawhtml>}}
 <style>
 section img {

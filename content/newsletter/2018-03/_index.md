@@ -2,6 +2,10 @@
 title: Newsletter 2018-03
 ---
 
+# Modelica Association Newsletter 2018-03
+
+issued on 26 November 2018
+
 {{<rawhtml>}}
 <style>
     section img {

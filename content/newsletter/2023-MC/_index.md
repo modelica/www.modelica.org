@@ -2,6 +2,12 @@
 title: Newsletter Modelica conference special issue
 ---
 
+# Modelica Association Newsletter
+
+Modelica conference special issue
+
+issued on 15 September 2023
+
 {{<rawhtml>}}
 <style>
     section img {

@@ -2,6 +2,10 @@
 title: Newsletter 2018-01
 ---
 
+# Modelica Association Newsletter 2018-01
+
+issued on 02 April 2018
+
 {{<rawhtml>}}
 <style>
     section img {
