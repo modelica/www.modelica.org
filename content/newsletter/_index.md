@@ -8,6 +8,8 @@ title: Newsletter
 <a class="btn btn-primary btn-lg my-5" href="https://modelica.us12.list-manage.com/subscribe?u=0be901f875b69817eddd7e71b&id=0cb2cf5b72" role="button"><i class="fa-regular fa-envelope me-3"></i>Subscribe</a>
 {{</rawhtml>}}
 
+Contributions are open to everyone, please see the submission [guidelines](guidelines) for details.
+
 Issues
 
 - [2026-01](2026-01) unreleased
