@@ -99,9 +99,15 @@ The alt and title text could be omitted. Please keep in mind, that the folder is
     
 ### Headings
 
-Please use **4th level heading** for any headings within your posts, e.g.
+Please use **3rd level heading** for title of your post. Use **4th level heading** for any headings within your posts, e.g.
 
-    #### My Beautiful Subheading
+    ### Announcing new WorldPeace Modelica library
+	
+	Lorem ipsum...
+	
+	#### Compatibility issues
+	
+	Dolor sit amet...
 
 ### Preview
 
@@ -111,15 +117,15 @@ If writing directly in GitHub, make use of the *Preview changes* - which offers 
 
 You can use the following code as a basis for your article or explore the [newsletter repository](https://github.com/modelica/www.modelica.org/tree/main/content/newsletter/) to inspire from the previous contributions.
 
-    ## FMI User Meeting at the Modelica Conference 2015
+    ### FMI User Meeting at the Modelica Conference 2015
 
     ![FMI logo](../2026-01/FMI.png)
 
     The FMI Project will organize an "**FMI User Meeting**" within the tutorial/workshop session on the first day of the Modelica Conference 2015 as a complement to the scientific track(s) on FMI.    
     The intention is 
-    to increase the interaction between FMI users in different companies / institutions and the Modelica Association Project FMI.
+    to increase the interaction between FMI users in different companies / institutions and the [Modelica Association](https://modelica.org/) Project FMI.
 
-    ### Agenda
+    #### Agenda
 
     - FMI overview
     - FMI current status
@@ -137,7 +143,7 @@ This code would yield the result in GitHub preview similar to this:
 ![FMI logo](../2026-01/FMI.png)
 
 The FMI Project will organize an "**FMI User Meeting**" within the tutorial/workshop session on the first day of the Modelica Conference 2015 as a complement to the scientific track(s) on FMI.    
-The intention is to increase the interaction between FMI users in different companies / institutions and the Modelica Association Project FMI.
+The intention is to increase the interaction between FMI users in different companies / institutions and the [Modelica Association](https://modelica.org/) Project FMI.
 
 #### Agenda
 
