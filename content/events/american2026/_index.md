@@ -9,6 +9,7 @@ in cooperation with the [Modelica Association](/association/). Join us in person
 
 ![](georgia-institute-technology_578.jpg)
 
+{{< toc >}}
 
 ## About the Conference
 
