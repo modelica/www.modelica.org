@@ -92,10 +92,10 @@ menu:
       parent: "events"
       weight: 3    
 
-    - pageRef: "newsletter"
-      identifier: "newsletter"
-      name: "Newsletter"
-      url: "/newsletter/"
+    - pageRef: "news"
+      identifier: "news"
+      name: "News"
+      url: "/news/"
       weight: 4
 
     - pageRef: "publications"
