@@ -3,7 +3,7 @@
 
   <div class="col">
       <div class="d-flex justify-content-center align-items-center" style="height: 10rem; padding: 3rem">
-        <img src="ConferenceLogo2026.png" alt="Conference Logo"/>
+        <img src="ConferenceLogoUS2026.png" alt="Conference Logo"/>
       </div>
   </div>
 
