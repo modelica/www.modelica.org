@@ -1,4 +1,6 @@
+{{<rawhtml>}}
 <img src="ConferenceLogo2026.png" width="200" height="200" alt="Conference logo"/>
+{{</rawhtml>}}
 
 # American Modelica and FMI Conference 2026
 
