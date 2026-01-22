@@ -1,11 +1,16 @@
+---
+title: American Modelica and FMI Conference 2026
+---
+
 {{<rawhtml>}}
-<div class="row row-cols-2 row-cols-md-4 g-4">
+<div class="row row-cols-2 row-cols-md-4">
 
   <div class="col">
-      <div class="d-flex justify-content-center align-items-center" style="height: 10rem; padding: 3rem">
-        <img src="ConferenceLogoUS2026.png" alt="Conference Logo"/>
+      <div class="d-flex justify-content-center align-items-center" style="height: 250px; padding: 2rem">
+        <img src="images/ConferenceLogoUS2026.svg" alt="Conference Logo"/>
       </div>
   </div>
+  
 
 </div>
 {{</rawhtml>}}
@@ -19,7 +24,6 @@ in cooperation with the [Modelica Association](/association/). Join us in person
 
 ![](georgia-institute-technology_578.jpg)
 
-{{< toc >}}
 
 ## About the Conference
 
