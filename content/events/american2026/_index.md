@@ -1,3 +1,5 @@
+<img src="ConferenceLogo2026.png" width="200" height="200" alt="Conference logo"/>
+
 # American Modelica and FMI Conference 2026
 
 The **American Modelica and FMI Conference 2026** will be an in-person conference event. 
