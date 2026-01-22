@@ -95,19 +95,21 @@ If you commit the image together with your post, you can link it relatively, i. 
 
     ![Alt text](My-Company-logo.jpg 'Title text')
 
-The alt and title text could be omitted. Please keep in mind, that the folder is shared for the whole issue and name the images specifically to your post to avoid collisions with contributions of others. E.g. if you post name is `new-version-of-FMI` use `new-version-of-FMI-logo.png` instead of just `logo.png` to avoid conflicts.
+The alt and title text could be omitted. Please keep in mind, that the folder is shared for the whole issue and name the images specifically to your post to avoid collisions with contributions of others.
+E.g. if you post name is `new-version-of-FMI` use `new-version-of-FMI-logo.png` instead of just `logo.png` to avoid conflicts.
     
 ### Headings
 
-Please use **3rd level heading** for title of your post. Use **4th level heading** for any headings within your posts, e.g.
+Please use **3rd level heading** for title of your post.
+Use **4th level heading** for any headings within your posts, e.g.
 
     ### Announcing new WorldPeace Modelica library
-	
-	Lorem ipsum...
-	
-	#### Compatibility issues
-	
-	Dolor sit amet...
+
+    Lorem ipsum...
+
+    #### Compatibility issues
+
+    Dolor sit amet...
 
 ### Preview
 
