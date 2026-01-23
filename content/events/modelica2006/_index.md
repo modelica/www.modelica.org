@@ -16,8 +16,6 @@ It will bring together Modelica users, library developers, tool vendors, and lan
 The program will cover modeling of complex physical systems with Modelica in a wide range of research and industrial applications, peer-reviewed and selected by the Program Committee.  
 In addition to traditional paper presentations and poster sessions you have the choice of four Modelica tutorials for the beginner and the advanced.
 
-We are looking forward to see you in Vienna and to share a successful and enjoyable conference with you.  
-For further information browse through the following pages or contact us at [modelica2006@modelica.org](mailto:modelica2006@modelica.org).
 
 * Full Conference Proceedings: [Volume 1](/events/modelica2006/Proceedings/proceedings/Proceedings2006_Vol1.pdf) and [Volume 2](/events/modelica2006/Proceedings/proceedings/Proceedings2006_Vol2.pdf)
 * [Final Program (pdf)](/events/modelica2006/Images/FinalProgram.pdf)
