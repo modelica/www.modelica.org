@@ -445,7 +445,7 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
 
 
 
-### Main Conference Board
+### Conference Board
 
 - Prof. Shichun Yang, Beihang University, Conference Co-Chair
 - Dr. Rui Gao, Nanjing Yuansi SimTek., Co., Ltd., Conference Co-Chair
