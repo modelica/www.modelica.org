@@ -3,17 +3,13 @@ title: American Modelica and FMI Conference 2026
 ---
 
 {{<rawhtml>}}
-<div class="row row-cols-2 row-cols-md-4">
-
-  <div class="col">
-      <div class="d-flex justify-content-center align-items-center" style="height: 250px; padding: 2rem">
-        <img src="images/ConferenceLogoUS2026.svg" alt="Conference Logo"/>
-      </div>
-  </div>
-  
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Modelica_and_FMI_Confernce_Logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/Modelica_and_FMI_Confernce_Logo-light.svg">
+  <img src="images/Modelica_and_FMI_Confernce_Logo-light.svg" alt="16th International Modelica & FMI Conference">
+</picture>
 {{</rawhtml>}}
+
 
 # American Modelica and FMI Conference 2026
 
