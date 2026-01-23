@@ -75,7 +75,7 @@ The Editorial Board supervises the publication of the Modelica Conference Procee
 * [Prof. Luigi Vanfretti](https://faculty.rpi.edu/luigi-vanfretti), Rensselaer Polytechnic Institute, USA
 * [Prof. Yanfang Liu](https://www.researchgate.net/profile/Yf-Liu-3), Beihang University, China
 * [Prof. Arne Speerforck](https://www.tuhh.de/technische-thermodynamik/institut), Technical University Hamburg-Harburg, Germany
-* [Prof. Bernhard Bachmann](https://www.hsbi.de/personenverzeichnis/bernhard-bachmann) Hochschule Bielefeld, Germany
+* [Prof. Bernhard Bachmann](https://www.hsbi.de/personenverzeichnis/bernhard-bachmann), Universität Bielefeld, Germany
 * [Dr. Michael Wetter](https://eta.lbl.gov/people/michael-wetter), Lawrence Berkeley Lab, USA
 * [Dr. Dirk Zimmer](https://rmc.dlr.de/sr/de/staff/dirk.zimmer/), German Aerospace Center, Germany
 * [Dr. Rui Gao](https://www.linkedin.com/in/rui-gao-07b1151b/), Rigo Tech Co. Ltd, Japan
@@ -102,7 +102,7 @@ Conference proceedings of the Modelica conference series (since year 2009, the c
 * [Proceedings](https://doi.org/10.3384/ecp11063) of the [8th International Modelica Conference 2011](https://2011.international.conference.modelica.org/), Technical University of Dresden, Germany, March 20-22, 2011.
 * [Proceedings](https://doi.org/10.3384/ecp0943) of the [7th International Modelica Conference 2009](https://2009.international.conference.modelica.org/), Como, Italy, September 20-22, 2009.
 * Proceedings ([Volume 1](/events/conference2008/proceedings/volume_1.pdf), [Volume 2](/events/conference2008/proceedings/volume_2.pdf)) of the [6th International Modelica Conference 2008](/events/conference2008/), Bielefeld University of Applied Sciences, Germany, March 3-4, 2008.
-* [5th International Modelica Conference 2006](/events/modelica2006/), arsenal research, Vienna, Austria, September 4-5, 2006.
+* Proceedings ([Volume 1](/events/modelica2006/Proceedings/proceedings/Proceedings2006_Vol1.pdf), [Volume 2](/events/modelica2006/Proceedings/proceedings/Proceedings2006_Vol2.pdf)) of the [5th International Modelica Conference 2006](/events/modelica2006/), arsenal research, Vienna, Austria, September 4-5, 2006.
 * Proceedings ([Volume 1](/events/Conference2005/online_proceedings/Proceedings2005_Vol1.pdf), [Volume 2](/events/Conference2005/online_proceedings/Proceedings2005_Vol1.pdf)) of the [4th International Modelica Conference 2005](/events/conference2005/), Technical University Hamburg, Germany, March 7-8, 2005.
 * [Proceedings](/events/Conference2003/papers/Proceedings_Modelica2003.pdf) of the [3rd International Modelica Conference 2003](/events/conference2003/), Linköping University, Sweden, November 3-4, 2003.
 * [Proceedings](/events/Conference2002/papers/Proceedings-Modelica2002.zip) of the [2nd International Modelica Conference 2002](/events/conference2002/), Deutsches Zentrum für Luft- und Raumfahrt (DLR) in Oberpfaffenhofen, Germany, March 18 - 19, 2002.
