@@ -19,6 +19,7 @@ In addition to traditional paper presentations and poster sessions you have the 
 We are looking forward to see you in Vienna and to share a successful and enjoyable conference with you.  
 For further information browse through the following pages or contact us at [modelica2006@modelica.org](mailto:modelica2006@modelica.org).
 
+* Full Conference Proceedings: [Volume 1](/events/modelica2006/Proceedings/proceedings/Proceedings2006_Vol1.pdf) and [Volume 2](/events/modelica2006/Proceedings/proceedings/Proceedings2006_Vol2.pdf)
 * [Final Program (pdf)](/events/modelica2006/Images/FinalProgram.pdf)
 * [Time Schedule of Final Program (pdf)](/events/modelica2006/Images/Program.pdf)
 * The Conference [Poster](/events/modelica2006/Images/Poster.pdf) and [Flyer](/events/modelica2006/Images/Flyer.pdf)
