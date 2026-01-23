@@ -6,9 +6,9 @@ title: Development
 
 ## Modelica Issue Tracking
 
-Issues (bugs, improvement suggestions, questions, etc.) to the Modelica Language can be reported by everyone using the [Modelica issue tracking system](https://trac.modelica.org/Modelica/).
+Issues (bugs, improvement suggestions, questions, etc.) to the Modelica Language can be reported by everyone using the [GitHub issue tracker](https://github.com/modelica/ModelicaSpecification/issues).
 
-Issues (bugs, improvement suggestions,) regarding the Modelica Standard Library can be reported using the [GitHub issue tracker](https://github.com/modelica/Modelica/issues)
+Issues (bugs, improvement suggestions,) regarding the Modelica Standard Library can be reported using the [GitHub issue tracker](https://github.com/modelica/ModelicaStandardLibrary/issues)
 
 If you have any tool related issues, contact the support sites of the [tool vendors](/tools/ "Tools").
 
