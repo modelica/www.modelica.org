@@ -20,48 +20,62 @@
 
 ## Aim & Scope
 
-The **International Modelica and FMI Conference series** explores the frontier of science and technology to model and simulate complex physical and cyber-physical systems for a wide range of research and industrial applications. It is the largest and main impacting event for application specialists, developers of model libraries and simulation software, as well as language designers of the [equation based modeling language Modelica](https://www.modelica.org/) and related technology such as the [Functional Mockup Interface](https://fmi-standard.org/) (to exchange or co-simulate dynamic models). In particular, the conference covers topics such as symbolic algorithms and numerical methods to simulate equation-based, object-oriented models for design optimization, real-time simulation, and model-based control, in automotive, aircraft, space, robotic, energy systems and other areas.
+The **International Modelica and FMI Conference series** explores the frontier of science and technology to model and simulate complex physical and cyber-physical systems for a wide range of research and industrial applications. It is the largest and main impacting event for application specialists, developers of model libraries and simulation software, as well as language designers of the [equation based modeling language Modelica](https://www.modelica.org/) and related technology such as the [Functional Mockup Interface](https://fmi-standard.org/) (to exchange or co-simulate dynamic models). In particular, the conference covers topics such as symbolic algorithms and numerical methods to simulate equation-based, object-oriented models for design optimization, real-time simulation, and model-based control, in automotive, aircraft, space, robotic, energy systems and other areas. The conference embraces also other standards of the Modelica Association such as [SSP](https://ssp-standard.org/) or [eFMI](https://www.efmi-standard.org/) as weel as the interaction of other tools with these standards.
 
 ## Rules and Governing Body
 
-The Modelica and FMI Conference is organized by the Modelica Association and a local organizer. The local organizer is selected by the members of the Modelica Association. The Modelica Association has 50% ownership for the financial responsibilities. A steering committee from the Modelica Association (see below) supervises the conference organization and guarantees the high scientific level of the conference.
+The Modelica and FMI Conferences are organized by the Modelica Association and a local organizer. The local organizer is selected by the board of the Modelica Association for each event. The Modelica Association has 50% ownership for the financial responsibilities. A steering committee from the Modelica Association (see below) supervises the conference organization and guarantees the high scientific level of the conference.
 
 For each Modelica conference, a conference board is established. The conference board takes on the organizational duties of its specific conference and also serves editorial duties.
 
-To ensure alignment with the editorial policies of the Modelica conference proceedings at least 4 members of the Editorial board must be members of the conference board. Furthermore, the complete editorial board is given access to all the reviews and the conference boards decisions in order to conduct oversight. This access is unrestricted. The editorial board (listed below) is given the power to overrule any editorial decisions of the conference board with a simple majority and quorum of five.
+To ensure alignment with the editorial policies of the Modelica conference proceedings at least 4 members of the Editorial board must be members of the conference board. Furthermore, the complete editorial board is given access to all the reviews and the conference boards decisions in order to conduct oversight. This access is unrestricted with the exception of personal conflicts of interest. The editorial board (listed below) is given the power to overrule any editorial decisions of the conference board with a qualified majority of 66% and a quorum of six.
 
-The proceedings are published electronically with open access in the series [Linköping Electronic Conference Proceedings](https://ecp.ep.liu.se/index.php/modelica/issue/archive) (ISSN: 1650-3686, eISSN: 1650-3740).
+The proceedings are published electronically with gold open access in the series [Linköping Electronic Conference Proceedings](https://ecp.ep.liu.se/index.php/modelica/issue/archive) (ISSN: 1650-3686, eISSN: 1650-3740).
 
-The local organizers of a Modelica conference must follow the [Instructions for conference organizers](https://ecp.ep.liu.se/index.php/index/publish).
- 
+The local organizers of a Modelica conference must follow the [Instructions for conference organizers](https://ecp.ep.liu.se/index.php/index/publish) especially regarding the copyright agreement and the provision of metadata.
 
 
 ## Peer Review Process
 
-Only full papers can be submitted: Required are 4-10 pages with double columns according to provided templates. In exceptional cases, the Editorial Board can extend the maximum page limit to 14 pages, in case the authors provide a justification.
+Only full papers can be submitted: Required are 4-10 pages with double columns according to the provided templates and the author's guide. In exceptional cases, the Conference Board can extend the maximum page limit to 14 pages, in case the authors provide a justification. The last 4 pages shall then preferrably used as an appendix.
 
 The proceedings of the Modelica Conference collect the scientific papers of the Modelica Conference series. In order to appear as part of this conference series each paper has to undergo a peer review process with at least 3 independent reviews.
 
+The reviewers are selected from the programm commmittee of each conference that is being selected by the conference board (with help of the editorial board).
+
 The reviewers must have no conflict of interest with the authors of the reviewed paper. A conflict of interest between a reviewer and a paper exists if:
-- the reviewer is author of the paper or acknowledged as contributing source.
+- the reviewer is author of the paper or is acknowledged as a contributing source.
 - the reviewer works for the same organization as one of the authors.
 - the reviewer has co-authored a paper with any of the papers authors in the last 24 months.
 
-Presentation material and slides are not subject to a peer-review process and may only be appended to the proceedings.
+Reviewers are obliged to mark their conflict of interest in the electronic review system before the papers are assigned. Paper are assigned with their authors visible. The reviewer remains anonymous to the author but the reviews can be seen by all other reviewers and members of the conference board that have no conflict of interest with the paper. Reviews remain stored in the electronic review system.
+
+The final decision on paper acceptance is with the conference board. The board may ask for additional reviews in unclear cases. The review score shall be the dominating factor for paper selection but the board may express its preferences in weighing between different topics. Board members are strictly obliged to abstain from any decision that conflicts their own interests.
+
+Presentation material and slides are not subject to a peer-review process and may only be appended to the proceedings. This rules also holds true for other not peer-reviewed content such as industrial user presentations or invited keynote speaches.
+
+In addition to the specific rules listed above, the Review Process is subject to the Publishing Ethics Statement as listed below.
 
 
-## Ethics 
+## Ethics
 
-The [Publishing Ethics and Malpractice Statement](https://journal.ep.liu.se/index.php/index/ethics) of this series is the fundamental code of conduct for a Modelica Conference.
+The [Publishing Ethics and Malpractice Statement](https://journal.ep.liu.se/index.php/index/ethics) of this series is aligned with our publisher and describes the fundamental code of conduct for a Modelica Conference.
 
-## Author Rights and Fees
+## Author Rights, Fees  Guidelines
 
 The authors of the papers keep their copyright and all rights on their paper and give the Modelica Association and Linköping University Electronic Press just the right for publishing.
 
-To be accepted for publication in the conference proceedings, the paper must have succesfully undergone the peer review process and must have been presented by a registered participant at the corresponding conference. 
+To be accepted for publication in the conference proceedings, the paper must have succesfully undergone the peer review process and must have been presented by a registered participant at the corresponding conference.
 
 Authors are not required to pay any fees for submitting or publishing their papers in the Modelica and FMI Conference Proceedings. The Modelica Association covers all publication costs to ensure that the proceedings are available as gold open access. This policy reflects the Association's commitment to supporting the dissemination of knowledge without financial barriers.
 
+## Author Guidelines
+
+Authors shall use the [LaTeX template](https://github.com/modelica-association/conference-templates/tree/master/LaTeX) for the creation of full papers. There is also a [Word template](https://github.com/modelica-association/conference-templates/tree/master/MSWord) that is based on the LaTeX template.
+
+The Word template contains some wording specific to LaTeX packages; when drafting a document in Word, please make the contents look similar to what the LaTeX templates produce.
+
+Authors shall create their submission according to the [Modelica Formatting Guidelines](https://modelica.org/events/american2024/formatting/).
 
 
 
@@ -88,7 +102,7 @@ The Editorial Board is headed by Prof. Martin Sjölund who also acts as vice-cha
 
 In case of general inquiries for Modelica Conferences, send an email to the Modelica Assocation board ([board@modelica.org](mailto:board@modelica.org)).
 
-## All International Modelica Conference Proceedings
+## All International Modelica & FMI Conference Proceedings
 
 Conference proceedings of the Modelica conference series (since year 2009, the conference proceedings are published by Linköping University Press; before they were published on the Modelica Association web).
 * [Proceedings](https://doi.org/10.3384/ecp218) of the [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/), Lucerne, Switzerland, September 8-19, 2025.
@@ -108,7 +122,7 @@ Conference proceedings of the Modelica conference series (since year 2009, the c
 * [Proceedings](/events/Conference2002/papers/Proceedings-Modelica2002.zip) of the [2nd International Modelica Conference 2002](/events/conference2002/), Deutsches Zentrum für Luft- und Raumfahrt (DLR) in Oberpfaffenhofen, Germany, March 18 - 19, 2002.
 * [1st International Modelica Workshop 2000](/events/workshop2000/), Lund University, Sweden, October 23-24, 2000.
 
-## All Regional Modelica Conference Proceedings
+## All Regional Modelica & FMI Conference Proceedings
 * [Proceedings](https://doi.org/10.3384/ecp218) of the [Asian Modelica Conference 2024](/events/asian2024/), Jeju Island, South Korea, December 12-13, 2024.
 * [Proceedings](https://doi.org/10.3384/ecp207) of the [American Modelica Conference 2024](/events/american2024/), Storrs, Connecticut, USA, October 14-16, 2024.
 * [Proceedings](https://doi.org/10.3384/ecp193) of the [Asian Modelica Conference 2022](https://2022.asian.conference.modelica.org/), Tokyo, Japan, November 24–25, 2022.
