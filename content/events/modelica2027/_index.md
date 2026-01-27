@@ -15,7 +15,7 @@ title: Modelica and FMI Conference 2027
 
 We are glad to announce the **17th International Modelica & FMI Conference**.
 It will be held at **Clarion Congress Hotel Prague, Czech Republic, September 20–22, 2027**.
-It is organized by [CSKI](https://www.cski.cz/), in cooperation with the [Modelica Association](/association/).  
+It is organized by  [Modelica Association](/association/), in cooperation with the [CSKI](https://www.cski.cz/) and a local organizer.  
 
 ------------------------------------
 
@@ -32,15 +32,34 @@ In addition to paper presentations, the conference features several Modelica tut
 
 **We are looking forward to seeing you in Prague!**
 
-<picture>
-  <img src="https://www.modelicaprague.cz/images/photos/prague.jpg" alt="Prague, Czech Republic" style="width:50%">
-</picture>
+![Prague 2027](images/Prague_2027.jpg)
 
 {{<rawhtml>}}<i class="fa-solid fa-map-location-dot me-2"></i>{{</rawhtml>}}[Clarion Congress Hotel Prague, Freyova 945/33, 190 00 Praha 9-Vysočany](https://maps.app.goo.gl/CgHTQQF9DgQDeTUN6)
 
 {{<rawhtml>}}<i class="fa-solid fa-bed me-2"></i>{{</rawhtml>}}[Conference Venue](https://modelicaprague.cz/venue.php)
 
+![Conference Venue Prague 2027](images/Prague_venue.jpg)
+
 ------------------------------------
+
+
+## Important Dates
+
+| Date |  |
+| --- | --- |
+|April 19, 2027 | **Deadline for Paper Submissions** |
+|June 7, 2027 | Deadline for Workshops and Tutorials, and Vendor Presentations|
+|June 7, 2027 | **Deadline for Industrial User Presentation Submissions**|
+|June 19,  2027|Notification of Acceptance for Papers and Presentations|
+|July 5, 2027| **Deadline for Early Registration** | 
+|August 8, 2027| Submission of Final Papers, Presentations, and One-Page Abstracts|
+|September 15, 2027| Deadline for Late Registration|
+|September 20-22, 2027| **17th International Modelica & FMI Conference**|
+|September 23, 2027 | Post Conference Meeting: Public Modelica & FMI Design and Advisory Meeting  (not included in conference registration)|
+|September 24, 2027 | Internal Post Conference Meeting: Modelica & FMI Design, Modelica Association and MAP members only |
+
+------------------------------------
+
 
 ## Call for Papers
 
@@ -101,7 +120,7 @@ Please note that purely tool-related presentations are not permitted for these a
 ## Call for Tutorials
 At the Modelica Conference, several tutorials will be held in parallel. Each tutorial will a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
 
-Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations section in the [call for sponsors](#call-for-sponsors). The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
+Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations which will be announced at a later date as a part of Call for Sponsors. The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
 
 ------------------------------------
 
@@ -148,14 +167,18 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 ------------------------------------
 
 ### Conference Board
+- Doc. MUDr. Jiří Kofránek, CSc., Charles University, CSKI, Czech Republic (Honorary  Chair)
+- Mgr. Tomáš Kulhánek, Ph.D., VITO, Mol, Belgium (Local Conference Chair)
+- Dr. Dirk Zimmer, German Aerospace Center, Germany (Program Conference Chair)
+- Prof. Francesco Casella, Politecnico di Milano, Italy
+- Prof. Lars Mikelsons, University of Augsburg, Germany
+- Dipl. Math. Christian Bertsch, Robert Bosch GmbH, Germany
+- Dr. Hubertus Tummescheit, Model Based Innovation LLC, USA
+- Dr. Daeoh Kang, iVH, Korea
+- Prof. Martin Sjölund, Linköping University, Sweden
 
-- Dr. Dirk Zimmer, German Aerospace Center (Conference Chair)
-- Prof. Francesco Casella, Politecnico di Milano
-- Prof. Martin Sjölund, Linköping University
-- Dipl. Math. Christian Bertsch, Robert Bosch GmbH
 
 ## Local Organization
-- Ing. Milena Zeithamlová, [Action M Agency](https://web.action-m.com/?lang=en) , Czech Republic [modelica@action-m.com](mailto:modelica@action-m.com).
-- Mgr. Tomáš Kulhánek, Ph.D., VITO, Mol, Belgium
-- doc. MUDr. Jiří Kofránek, CSc., Charles University
-- Bc. Eliáš Sýkora, DiS
+- Ing. Milena Zeithamlová, [Action M Agency](https://web.action-m.com/?lang=en), Czech Republic
+- Bc. Eliáš Sýkora, DiS, Czech Republic
+- Contact for questions regarding local issues (accomodation, visa, etc): [modelica@action-m.com](mailto:modelica@action-m.com)

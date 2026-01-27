@@ -283,6 +283,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Köhler, Jochen      | [ZF Friedrichshafen AG](http://www.zf.com)                                          |          |
 | [Kral, Christian](https://christiankral.net/)                      | [Mechatroniker für Elektromaschinenbau und Automatisierung](https://christiankral.net/)| LANG, LIB |
 | Krammer, Martin     | [Knorr-Bremse](http://www.knorr-bremse.com)                                         |          |
+| [Kulhánek, Tomáš](https://tomaskulhanek.github.io/)   | [VITO](https://vito.be/en)                                   |  |
 | Kurzbach, Gerd      | [ESI ITI GmbH](https://www.simulationx.com/)                                        | LANG     |
 | Lambert, Quentin    |                                                                                     | LANG     |
 | Landgren, Ben       | [PerformanSea](https://performansea.com/)                                           | LANG     |

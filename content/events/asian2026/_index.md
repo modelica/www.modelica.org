@@ -1,13 +1,13 @@
 ---
 title: Modelica and FMI Conference
 ---
-
+![Conference logo](images/logo1.png)
 # Asian Modelica & FMI Conference 2026
 
 
 We announce the **Asian Modelica & FMI Conference 2026**.
 It will take place at the high-tech city of **Hangzhou, China from September 21-22, 2026** also famous of its stunning west lake scenery.
-It is organized by the [Beihang University](https://global.buaa.edu.cn/en/) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
+It is organized by the [Beihang University (at Hangzhou campus)](https://zfaien.buaa.edu.cn/About_Us/Overview.htm) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
 This is the first visit of the conference series in China.
 
 <!-- {{< toc >}} -->
@@ -75,7 +75,7 @@ Recommended authors are required to revise and restructure their manuscripts to 
 
 For industrial participants, in addition to submitting scientific papers, you may opt to present an industrial case study/presentation. For this category, only an abstract is required, with submissions due by June 30, 2026. Please note that these industrial presentations will not be included in the conference proceedings nor considered for the IJMSSC Special Issue.
 
-You can also [download the Call for papers](CfP_Asian_2026.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System.
+You can also [download the Call for papers](CfP_Asian_2026.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System. Paper submission is open on [EasyChair](https://easychair.org/conferences/?conf=amfc2026) 
 
 <!--
  Please see the  [Authors' Guide](#authors-guide) for further information.
@@ -232,7 +232,7 @@ Download the Sponsorship Agreement of your preferred option. Add your company na
 -->
 
 
-<!--
+
 ## Authors' guide
 
 ### Submission process
@@ -296,7 +296,7 @@ Detailed formatting instructions are included in the [paper templates](https://g
   The proceedings will only be published in electronic form, so you can include color pictures; however, be aware that readers could print them using black&white laser printers, so the diagrams should also look reasonable when printed in grayscale. Use at least 10 or 11 pt font size for text in the figures (e.g. labels or legends), since it may become unreadable if the paper is resized for printing.
 - References: At the end of your paper, include a list of references, using Harvard-style (author-date) citations. Make sure that every reference is cited in the text, e.g. as (Pantelides, 1988). For LaTeX, the paper [class](https://github.com/modelica-association/conference-templates/blob/d9ddd4700ef0f9a6f9c3d9fecd5736f2b9549e26/LaTeX/modelica.cls#L99) provides the options to use.
 - Length of paper: The minimum requested length for papers is 4 pages. The maximum acceptable length is 10 pages. However, since we no longer provide hard copies of the proceedings, we'll accept full papers up to 15 pages, if the authors have very good reasons to exceed the 10-page limit.
--->
+
 
 
 
@@ -433,9 +433,7 @@ The conference is organized by organized by the [Beihang University](https://glo
 
 
 
-For general questions, please contact
-- [Rui Gao](mailto:rui.gao@simtek.cc)
-- [Jian Wang](mailto:07248@buaa.edu.cn) 
+For general questions, please contact [modelica26asia@modelica.org](mailto:modelica26asia@modelica.org).
 
 
 {{<rawhtml>}}
@@ -447,18 +445,18 @@ For general questions, please contact
 
 
 
-### Main Conference Board
+### Conference Board
 
-- Prof. Shichun Yang, Beihang University
-- Dr. Rui Gao, Nanjing Yuansi SimTek., Co., Ltd.
-- Dr. Dirk Zimmer, German Aerospace Center (DLR), Germany
-- Prof. Martin Sjolund, Linköping University, Sweden
-- Prof. Haiying Lin, Beihang University
-- Dr. Jian Wang, Beihang University
-- Prof. Yanfang Liu, Beihang University
-- Prof. WeiLin Li, Northwestern Polytechnical University
-- Dr. OU Haiying, China SAE Automobile Model Digital Engineering Branch
-- Dr. Hong Lü, China General Nuclear Power Corporation(CGN)
+- Prof. Shichun Yang, Beihang University, Conference Co-Chair
+- Dr. Rui Gao, Nanjing Yuansi SimTek., Co., Ltd., Conference Co-Chair
+- Dr. Dirk Zimmer, German Aerospace Center (DLR), Germany, Conference Co-Chair
+- Prof. Martin Sjolund, Linköping University, Sweden, Editorial Chair
+- Prof. Haiying Lin, Beihang University, Local Arrangement Co-Chair
+- Dr. Jian Wang, Beihang University, Local Arrangement Co-Chair
+- Prof. Yanfang Liu, Beihang University, Program Chair
+- Prof. WeiLin Li, Northwestern Polytechnical University, Publicity Co-Chair
+- Dr. OU Haiying, China SAE Automobile Model Digital Engineering Branch, Publicity Co-Chair
+- Dr. Hong Lü, China General Nuclear Power Corporation(CGN), Publicity Co-Chair
 
 ### Conference Advisory Board
 
