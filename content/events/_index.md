@@ -5,17 +5,36 @@
 
 
 
-### Upcoming Conferences
+### Upcoming Conferences - hosted by Modelica Association
 
- * The [**Asian Modelica Conference 2026**](asian2026)  will take place **Sept 21-22 2026** in **Hangzhou, China**. It is hosted by Beihang University and Nanjing Yuansi SimTek.
- * The [**American Modelica and FMI Conference 2026**](american2026) The conference will take place **Oct 12-14 2026** in **Atlanta, USA**. It is hosted by the Aerospace System Design Lab of Georgia Tech.
- * The [**17th International Modelica & FMI Conference**](modelica2027) will be held **Sept 20-22 2027 in Prague, Czech Republic**. It is co-hosted with [CSKI (Czech Society for Cybernetics and Informatics)](https://www.cski.cz/homepage/en). It is an in-person event held in English that is open for sponsorship positions.
+| **Conference**                                          | **Date**              | **Location**               | **Organizers**                                                  | **Status**                |
+|-------------------------------------------------------|-----------------------|---------------------------|----------------------------------------------------------------|---------------------------|
+| [**American Modelica and FMI Conference 2026**](https://modelica.org/events/american2026/) | October 12-14, 2026   | Atlanta, USA              | [NAMUG](https://modelica.org), [Modelica Association](https://modelica.org) | Call for papers           |
+| [**Asian Modelica & FMI Conference 2026**](https://modelica.org/events/asian2026/)   | September 21-22, 2026 | Hangzhou, China           | [Beihang University](https://www.buaa.edu.cn/en/), [Nanjing Yuansi SimTek Co.](https://www.yuansi.com), [Modelica Association](https://modelica.org) | Call for papers           |
+| [**17th International Modelica & FMI Conference**](https://modelica.org/events/modelica2027/) | September 20-22, 2027 | Prague, Czech Republic    | [CSKI](http://cski.cz), [Modelica Association](https://modelica.org) | Call for sponsors         |
 
- ### Recent Conferences
 
- * The [16th International Modelica & FMI Conference](/events/modelica2025/) took place in **Lucerne, Switzerland**, **Sep 8-10, 2025**. The event was organized by the [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch/en/) in cooperation with the [Modelica Association](https://modelica.org/association/). It was an in-person event held in English.
- * The [American Modelica Conference 2024](/events/american2024/) The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**.
- * The [Asian Modelica Conference 2024](/events/asian2024/) will take place at the **ICC Hotel in Jeju - Island** in South Korea from **December 12-13, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/).
+### Upcoming Conferences - organized by Members of the Modelica Association
+*These conferences might not be tool neutral. But, they should be close to Modelica Association Standards*
+
+| **Conference**                          | **Date**               | **Location**                | **Organizers**                                                  | **Status**                |
+|-----------------------------------------|-----------------------|----------------------------|-----------------------------------------------------------------|---------------------------|
+| [**OpenModelica & ModProd Workshops 2026**](https://openmodelica.org/news/om-modprod-2026/)               | February 2-4, 2026   | Virtual                     | [OSMC](https://openmodelica.org)                       | Running           |
+| [**Wolfram System Modeler User Conference 2026**](https://www.bigmarker.com/wolfram-u/wsm-user-conference-2026?utm_bmcr_source=wsm-events-page) | February 18, 2026    | Virtual                     | [Wolfram Research](https://www.wolfram.com)                    | Registration open          |
+| [**Modelica in Process Engineering Meetup**](https://tlk-energy.de/events/meetup-modelica-process-engineering) | May 5, 2026         | Cologne, Germany           | [TLK Energy](https://tlk-energy.de)                           | Registration open          |
+| [**EOOLT 2026**](https://eoolt.org/2026/index.html)               | June 15, 2026         | Bielefeld, Germany         | [Hochschule Bielefeld, University of Applied Sciences](https://www.hs-bielefeld.de) | Call for papers           |
+| [**ThermoSim 2026**](https://tlk-energy.de/events/thermosim-2026) | September 13-15, 2026 | Aachen, Germany            | [TLK Energy](https://tlk-energy.de), [TLK-Thermo](https://tlk-thermo.de), [LTX Simulation](https://ltx.de)          | Call for papers           |
+| [**CATIA User Symposium Europe**](https://myevents.3ds.com/catia-user-symposium-europe) | September 26-28, 2026 | Darmstadt, Germany         | [Dassault Systèmes](https://www.3ds.com)                       | Registration open          |
+
+
+### Recent Conferences - hosted by Modelica Association
+
+| **Conference**                                          | **Date**              | **Location**               | **Organizers**                                                  | **Status**                |
+|-------------------------------------------------------|-----------------------|---------------------------|----------------------------------------------------------------|---------------------------|
+| [**American Modelica Conference 2024**](https://modelica.org/events/american2024/) | October 14-16, 2024   | Storrs, USA               | [University of Connecticut](https://www.uconn.edu)            | Proceedings available      |
+| [**Asian Modelica Conference 2024**](https://modelica.org/events/asian2024/)   | December 12-13, 2024  | Jeju Island, South Korea   | [iVH](https://www.ivh-simulation.com), [Modelica Association](https://www.modelica.org) | Proceedings available      |
+| [**16th International Modelica & FMI Conference**](https://modelica.org/events/modelica2025/) | September 8-10, 2025  | Lucerne, Switzerland      | [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch), [Modelica Association](https://www.modelica.org) | Proceedings available      |
+
 
 
 ## Aim & Scope
