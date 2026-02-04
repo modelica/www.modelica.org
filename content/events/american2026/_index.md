@@ -1,3 +1,16 @@
+---
+title: American Modelica and FMI Conference 2026
+---
+
+{{<rawhtml>}}
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Modelica_and_FMI_Confernce_Logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/Modelica_and_FMI_Confernce_Logo-light.svg">
+  <img src="images/Modelica_and_FMI_Confernce_Logo-light.svg" alt="16th International Modelica & FMI Conference">
+</picture>
+{{</rawhtml>}}
+
+
 # American Modelica and FMI Conference 2026
 
 The **American Modelica and FMI Conference 2026** will be an in-person conference event. 
@@ -7,6 +20,7 @@ in cooperation with the [Modelica Association](/association/). Join us in person
 
 ![](georgia-institute-technology_578.jpg)
 
+{{< toc >}}
 
 ## About the Conference
 

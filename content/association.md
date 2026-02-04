@@ -283,6 +283,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Köhler, Jochen      | [ZF Friedrichshafen AG](http://www.zf.com)                                          |          |
 | [Kral, Christian](https://christiankral.net/)                      | [Mechatroniker für Elektromaschinenbau und Automatisierung](https://christiankral.net/)| LANG, LIB |
 | Krammer, Martin     | [Knorr-Bremse](http://www.knorr-bremse.com)                                         |          |
+| [Kulhánek, Tomáš](https://tomaskulhanek.github.io/)   | [VITO](https://vito.be/en)                                   |  |
 | Kurzbach, Gerd      | [ESI ITI GmbH](https://www.simulationx.com/)                                        | LANG     |
 | Lambert, Quentin    |                                                                                     | LANG     |
 | Landgren, Ben       | [PerformanSea](https://performansea.com/)                                           | LANG     |
@@ -317,7 +318,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Tummescheit, Hubertus |                                                                                   | LANG, LIB |
 | Uckun, Serdar       |                                                                                     |          |
 | [Vanfretti, Luigi](http://alsetlab.com)                             | [Rensselaer Polytechnic Institute](http://www.rpi.edu)                              | LANG     |
-| Vukovic, Vladimir   | [Teesside University - Technology Futures Institute](https://www.tees.ac.uk/)        |          |
+| Vukovic, Vladimir   | [V-LAB Ltd](https://v-lab.uk)        |          |
 | Wagner, Loïc        |                                                                                     |          |
 | Wernersson, Karl    | [Dassault Systèmes AB](http://www.3ds.com/)                                         | LANG     |
 | [Wetter, Michael](http://simulationresearch.lbl.gov/wetter/)       | [Lawrence Berkely National Laboratory](https://buildings.lbl.gov/)                  |          |

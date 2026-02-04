@@ -1,0 +1,1065 @@
+---
+title: Newsletter 2018-01
+---
+
+# Modelica Association Newsletter 2018-01
+
+issued on 02 April 2018
+
+{{<rawhtml>}}
+<style>
+    section img {
+        border-radius: 10px;
+  padding: 15px;
+  background: #fff;
+  max-height: 400px;
+}
+</style>
+
+<section id="main_content">
+
+<h1 class="no_toc" id="table-of-contents">Table of contents</h1>
+
+<ul id="markdown-toc">
+  <li><a href="#letter-from-the-board" id="markdown-toc-letter-from-the-board">Letter from the Board</a></li>
+  <li><a href="#modelica-association" id="markdown-toc-modelica-association">Modelica Association</a>    <ul>
+      <li><a href="#updated-fmi-cross-check-process" id="markdown-toc-updated-fmi-cross-check-process">Updated FMI Cross Check Process</a></li>
+      <li><a href="#pde-for-systems-call-for-use-cases" id="markdown-toc-pde-for-systems-call-for-use-cases">PDE for Systems: Call for Use Cases</a></li>
+      <li><a href="#american-modelica-conference-2018-october-9-10-2018" id="markdown-toc-american-modelica-conference-2018-october-9-10-2018">American Modelica Conference 2018, October 9 - 10, 2018</a></li>
+      <li><a href="#fmi-steering-committee-releases-fmi-2-1-feature-list" id="markdown-toc-fmi-steering-committee-releases-fmi-2-1-feature-list">FMI Steering Committee releases FMI 2.1 feature list</a></li>
+    </ul>
+  </li>
+  <li><a href="#related-projects" id="markdown-toc-related-projects">Related projects</a>    <ul>
+      <li><a href="#ibpsa-project-1-expert-meeting-in-berlin" id="markdown-toc-ibpsa-project-1-expert-meeting-in-berlin">IBPSA Project 1 Expert Meeting in Berlin</a></li>
+      <li><a href="#modprod-annual-workshop-2018" id="markdown-toc-modprod-annual-workshop-2018">ModProd Annual Workshop 2018</a></li>
+    </ul>
+  </li>
+  <li><a href="#vendor-news" id="markdown-toc-vendor-news">Vendor news</a>    <ul>
+      <li><a href="#modelica-support-in-wolfram-language-11-3" id="markdown-toc-modelica-support-in-wolfram-language-11-3">Modelica Support in Wolfram Language 11.3</a></li>
+      <li><a href="#tlk-dave-new-version-1-7-0" id="markdown-toc-tlk-dave-new-version-1-7-0">TLK DaVE - New version 1.7.0</a></li>
+      <li><a href="#wolfram-systemmodeler-5-1-released" id="markdown-toc-wolfram-systemmodeler-5-1-released">Wolfram SystemModeler 5.1 Released</a></li>
+      <li><a href="#simcenter-amesim-16-supports-all-fmi-coupling-modes" id="markdown-toc-simcenter-amesim-16-supports-all-fmi-coupling-modes">Simcenter Amesim 16 supports all FMI coupling modes</a></li>
+      <li><a href="#mworks-2018-released" id="markdown-toc-mworks-2018-released">MWorks 2018 released</a></li>
+      <li><a href="#new-version-3-9-of-esi-s-simulationx-released" id="markdown-toc-new-version-3-9-of-esi-s-simulationx-released">New version 3.9 of ESI’s SimulationX released</a></li>
+      <li><a href="#openmodelica-annual-workshop-2018" id="markdown-toc-openmodelica-annual-workshop-2018">OpenModelica Annual Workshop 2018</a></li>
+      <li><a href="#openmodelica-1-12-0-release" id="markdown-toc-openmodelica-1-12-0-release">OpenModelica 1.12.0 Release</a></li>
+      <li><a href="#omsimulator-2-0-with-fmi-composition-beta1-release" id="markdown-toc-omsimulator-2-0-with-fmi-composition-beta1-release">OMSimulator 2.0 with FMI Composition Beta1 Release</a></li>
+      <li><a href="#julia-and-matlab-scripting-for-openmodelica" id="markdown-toc-julia-and-matlab-scripting-for-openmodelica">Julia and Matlab Scripting for OpenModelica</a></li>
+      <li><a href="#modelon-announces-release-of-2018-1" id="markdown-toc-modelon-announces-release-of-2018-1">Modelon Announces Release of 2018.1</a></li>
+      <li><a href="#free-downloads-from-dassault-systemes" id="markdown-toc-free-downloads-from-dassault-systemes">Free Downloads from Dassault Systemes</a></li>
+      <li><a href="#dymola-2018-fd01" id="markdown-toc-dymola-2018-fd01">Dymola 2018 FD01</a></li>
+    </ul>
+  </li>
+  <li><a href="#news-from-libraries" id="markdown-toc-news-from-libraries">News from libraries</a>    <ul>
+      <li><a href="#first-release-of-fluiddynamics-library-for-cfd-simulations-in-modelica" id="markdown-toc-first-release-of-fluiddynamics-library-for-cfd-simulations-in-modelica">First Release of FluidDynamics Library for CFD Simulations in Modelica</a></li>
+      <li><a href="#tlk-til-suite-new-version-3-5-0" id="markdown-toc-tlk-til-suite-new-version-3-5-0">TLK TIL Suite - New version 3.5.0</a></li>
+      <li><a href="#testing-library-1-0-create-and-run-regression-tests" id="markdown-toc-testing-library-1-0-create-and-run-regression-tests">Testing Library 1.0 - Create and run regression tests</a></li>
+      <li><a href="#pneumatic-systems-library" id="markdown-toc-pneumatic-systems-library">Pneumatic Systems Library</a></li>
+      <li><a href="#modelica-arduino-a-virtual-arduino-uno-and-firmata-for-modelica" id="markdown-toc-modelica-arduino-a-virtual-arduino-uno-and-firmata-for-modelica">Modelica Arduino - a virtual Arduino Uno and Firmata for Modelica</a></li>
+      <li><a href="#hydrogen-library-1-0-pem-fuel-cell-systems" id="markdown-toc-hydrogen-library-1-0-pem-fuel-cell-systems">Hydrogen Library 1.0 - PEM Fuel cell systems</a></li>
+      <li><a href="#fmpy-simulate-fmus-in-python" id="markdown-toc-fmpy-simulate-fmus-in-python">FMPy - simulate FMUs in Python</a></li>
+      <li><a href="#electric-power-systems-library" id="markdown-toc-electric-power-systems-library">Electric Power Systems Library</a></li>
+    </ul>
+  </li>
+  <li><a href="#education-news" id="markdown-toc-education-news">Education news</a>    <ul>
+      <li><a href="#training-courses-for-modelica-and-dymola-by-ltx-simulation-gmbh" id="markdown-toc-training-courses-for-modelica-and-dymola-by-ltx-simulation-gmbh">Training Courses for Modelica and Dymola by LTX Simulation GmbH</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="letter-from-the-board">Letter from the Board</h2>
+<p>Dear Modelica and FMI interested,</p>
+
+<p>the Modelica Association (MA) is restarting its newsletter.
+We are happy that <a href="mailto:filip.jezek@creativeconnections.cz">Filip Ježek</a> - one of the organizers of the Modelica’2017 conference in Prague -
+will be the editor and organizer of the newsletters. The plan is to have three releases per year. Furthermore, the technical infrastructure for the newsletter has changed: 
+Since Modelica Association is migrating to “Software-as-a-Service” platforms to minimize our maintenance burden,  the legacy Modelica Association Newsletter application is replaced by a new GitHub based publishing process.</p>
+
+<p>The Modelica Association board was newly elected on March 21, for the coming two years period.
+The <a href="https://www.modelica.org/association">new board</a> is identical to the previous board with the following exceptions:</p>
+
+<ul>
+  <li>
+    <p>Hilding Elmqvist, one of the founders of the Modelica Association,
+did not longer apply for the <em>Technology</em> board position. In an email to the 
+Modelica Association members Hilding wrote: <em>I have been on the board in different positions from the start and I now think it’s time for younger members to push forward</em>.  <br>
+Torsten Blochwitz from ESI-ITI was elected for the board position for <em>Technology.</em> The goal of this position is in particular to improve the coordination of the different standardization activities of MA.</p>
+  </li>
+  <li>
+    <p>Thomas Beutlich from ESI-ITI was elected as leader for the MA Project <em>Libraries</em>. 
+As a deputy for this project, Dietmar Winkler from University College of Southeast Norway was elected.
+Note, this MA Project recently improved its <a href="https://github.com/modelica/MAP-LIB_ProjectRules">project rules</a>
+in order that the development of the Modelica Standard Library is improved.</p>
+  </li>
+</ul>
+
+<p>In October last year, MA had a one-day Modelica Association Strategy Meeting to discuss the future of MA. Several of the ideas and suggestions developed at this workshop are on the way to be implemented to improve the operation of MA. To mention a few:</p>
+
+<ul>
+  <li>
+    <p>In April, MA will start its Back Office operated by <a href="http://www.ltx.de/english.html">LTX</a>.
+The MA board can then delegate administrative tasks to its back office to offload work
+and to improve the administrative processes.</p>
+  </li>
+  <li>
+    <p>The MA board and interested MA projects get more budget freedom.
+In particular, the MA Project FMI will now have its own budget for the coming year,
+ e.g., to organize the further development of the FMI compliance checker or
+ the FMI cross check in a more effective way.</p>
+  </li>
+  <li>
+    <p>The MA newsletter is reactivated with a new newsletter editor and a new technical infrastructure.</p>
+  </li>
+  <li>
+    <p>The FMI cross check results are currently moved to a modern infrastructure
+designed and implemented by Michael Tiller, see <a href="#updated-fmi-cross-check-process">article below</a>.</p>
+  </li>
+</ul>
+
+<p>In order to enlarge the Modelica and FMI community, MA has changed its strategy regarding
+Modelica conferences. Previously, the International Modelica Conference took place every 18 months in Europe.
+This is changed now:</p>
+
+<ul>
+  <li>
+    <p>The International Modelica Conference will take place every 2 years in March in Europe.
+The next one will take place in <strong>March 4-6, 2019</strong> in Regensburg Germany.</p>
+  </li>
+  <li>
+    <p>In the year between International Modelica Conferences,
+Modelica Conferences shall be organized on other continents with country specific focus.
+In 2018, the following conferences of this kind will take place:</p>
+
+    <ul>
+      <li>
+        <p>The <a href="https://www.modelica.org/events/modelica2018japan">second Japanese Modelica Conference</a>
+will take place <strong>May 17-19, 2018</strong> in Tokyo, Japan.</p>
+      </li>
+      <li>
+        <p>The <a href="https://www.modelica.org/events/modelica2018Americas">first American Modelica Conference</a>
+will take place <strong>Oct. 8-10, 2018</strong> in Cambridge, MA, U.S.A.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>If you would like to organize a Modelica Conference, please inspect the Modelica Conference series
+<a href="https://www.modelica.org/publications/ModelicaConference">web page</a>.</p>
+
+<p>If you have interesting news for the Modelica and FMI community, please follow the
+<a href="https://newsletter.modelica.org/submission-guidelines.html">submission guidelines</a>.</p>
+
+<p>Martin Otter on March 23, 2018  <br>
+(Chairman of the Modelica Association)</p>
+
+<p><em>This article is provided by Martin Otter (<a href="https://www.modelica.org/">Modelica Association</a>)</em></p>
+
+<h1 id="modelica-association">Modelica Association</h1>
+
+<h2 id="updated-fmi-cross-check-process">Updated FMI Cross Check Process</h2>
+<p>The FMI project collects and publishes so-called “cross check” data.  As part of this process, each vendor
+publishes data about their FMI compliant tools along with FMUs exported from those tools.  This allows other
+vendors to test those FMUs by importing them.  In this way, the FMI vendors work together to detect and
+address any non-compliant implementations to improve the overall quality of FMI support.</p>
+
+<p>This process used to involve one very large SVN repository where <em>all</em> vendors published not only their
+tool data and FMUs but the results of their attempts to import other vendor’s FMUs.  Needless to say, with all
+the large binary files and data files associated with this compliance checking process, the repository
+got to be very large.  Furthermore, the Modelica Association had to manage users, permissions, disk
+space, <em>etc.</em> for this effort.</p>
+
+<p>In an attempt to streamline the process, it was decided to give every vendor their own repository.  In
+these repositories, vendors compile data about themselves, their tools, sample FMUs and results of 
+importing FMUs from other tools.  In this way, each vendor repository is a more manageable size and since
+each vendor is managing the repository themselves, the Modelica Association doesn’t need to get involved
+in the management of users, permissions, <em>etc.</em>.</p>
+
+<p>To facilitate this process, the Modelica Association established the <a href="https://github.com/fmi-crosscheck"><code class="language-plaintext highlighter-rouge">fmi-crosscheck</code> organization</a>
+on GitHub.  Each vendors existing FMI data was broken out into
+individual vendor-specific repositories under this umbrella organization.  Furthermore, these repositories
+use a technology called <a href="https://developer.github.com/webhooks/">webhooks</a> to signal when they have
+been updated.  <strong>Using these webhooks, the entire process of generating the FMI web site has been automated</strong>.
+Now, when any vendor pushes changes to their repository, a complete rebuild of the FMI web site is
+triggered using the very latest vendor data.  As a result, the data shown on the FMI web site is always
+the very latest compliance data.</p>
+
+<p>But there were changes beyond simply creating vendor specific repositories.  The scripts that process
+the data were completely rewritten.  While the previous pages on the FMI web site were static
+HTML pages generated while processing the cross check data, the new process involves compiling all
+the cross check data into a machine readable form and then rendering it <em>dynamically</em> on the web site.
+This allows visitors to the site to search and filter the FMI compliance data interactively.  Instead of
+long tables and horizontal scrollbars, the new dynamic visualization encourages users to search,
+filter and zoom to explore the data which generally fits on a single page.  Users can even bookmark
+specific search, filter and selection settings and/or email their results to others as a single URL.</p>
+
+<p>A preview of
+the new dynamic web site can be found at <a href="https://preview.fmi-standard.org/tools/">https://preview.fmi-standard.org</a>.
+If you find any issues, please report them in the <a href="https://github.com/modelica/fmi-crosscheck-tools/issues"><code class="language-plaintext highlighter-rouge">fmi-crosscheck-tools</code> issue tracker</a>.</p>
+
+<p>All source code associated with the new FMI cross check process can be found in the <a href="https://github.com/modelica/fmi-crosscheck-tools"><code class="language-plaintext highlighter-rouge">fmi-crosscheck-tools</code> repository</a>.  This includes the scripts that process the data,
+the code that is used to dynamically visualize the data as well as the source code for the build server that
+handles webhook notifications and pushes out new published versions of the FMI web site.  If you are interested
+in improving the cross check process, we welcome contributions via pull requests for the tools in that repository.</p>
+
+<p>Note, if you are a vendor and you have not yet taken ownership of your new repository, please <a href="mailto:michael.tiller@gmail.com">contact me</a> so you can be added as an admin to your repository.</p>
+
+<p>With the new infrastructure working, the FMI Steering Committee will now update the FMI Cross-Check Rules and then implement those new rules in the new infrastructure during the next few months.</p>
+
+<p><em>This article is provided by Michael M. Tiller (<a href="https://www.xogeny.com">Xogeny</a>)</em></p>
+
+<h2 id="pde-for-systems-call-for-use-cases">PDE for Systems: Call for Use Cases</h2>
+<p>A new project proposal called <strong>PDE</strong> (partial differential equations) <strong>for Systems</strong> was initiated at the Modelica Design Meeting on March 20, 2018. It addresses the utilization of reduced order models originating from semi-discretized PDE (such as finite difference/element/volume models) from various physical domains  in system simulations in a standardized, tool-independent way. This includes the definition of non-proprietary standard formats to export data from associated tools but also aims to specify a standardized, extended Functional Mock-up Interface (xFMI) component as shown in the workflow instance below. The goal is to organize model exchange and co-simulation of reduced order PDE-models in system simulation and represent cyber-physical systems with relevant distributed properties this way.</p>
+
+<p><img src="WorkflowPDEForSystems.png" alt=""></p>
+
+<p>The project is supposed to be driven by a collection of use cases which in particular demonstrate the added value of such a standardized interface component and attract industry and commercial PDE-tool vendors.  Everyone who feels appealed by the project idea is strongly requested to submit use case candidates similar to the use case <a href="https://github.com/modelica/pde-for-systems/blob/master/use-cases/healt-monitoring-of-composite.md">Health Monitoring of Composite</a> to the <a href="https://github.com/modelica/pde-for-systems/tree/master/use-cases">repository</a>, preferably by June 1, 2018.</p>
+
+<p>Contact: Dr. Andreas Heckmann, DLR, Institute of System Dynamics and Control, andreas.heckmann@dlr.de</p>
+
+<p><em>This article is provided by Andreas Heckmann, <a href="http://www.dlr.de/sr/">DLR</a></em></p>
+
+<h2 id="american-modelica-conference-2018-october-9-10-2018">American Modelica Conference 2018, October 9 - 10, 2018</h2>
+<p><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F36908542%2F232427334571%2F1%2Foriginal.jpg?w=800&amp;rect=0%2C149%2C1486%2C743&amp;s=11377e10a546a2aeb2884502bfaba381" alt=""></p>
+
+<p>The American Modelica Conference 2018 will be held at the Samberg Conference Center in Cambridge/Boston, MA, USA
+from <strong>October 9 - 10, 2018</strong>. It is organized by the Modelica Association and the North American Modelica
+Users’ Group (NAMUG).</p>
+
+<p>Registration is already open with early bird discounts available until August 20th at
+<a href="https://www.eventbrite.com/e/the-american-modelica-conference-2018-tickets-39188362447">Eventbrite</a></p>
+
+<p>The Modelica Conference is the main event for users, library developers, tool vendors and researchers to
+share their knowledge and learn about the latest scientific and industrial progress related to the Modelica
+modeling language and the Functional Mockup Interface (FMI). The program will cover modeling of complex
+physical and cyber-physical systems, as well as tools, for a wide range of research and industrial
+applications. All contributions are peer-reviewed and selected by the Program Committee. This conference
+is co-organized by the North American Modelica Users’ Group (NAMUG) and the Modelica Association.</p>
+
+<p>This conference will feature one or several conference tracks with presentations of peer-reviewed papers as
+you would find at any Modelica conference.  In addition, it will also have one track of industrial,
+user-oriented presentations like those found at typical NAMUG events over the last 5 years.  These presentations
+do not need to be accompanied by a full scientific paper. The abstracts for the presentations will also
+be peer-reviewed by the conference board.</p>
+
+<h4 id="free-workshops-october-8th">Free Workshops October 8th</h4>
+
+<p>Thanks to the generous support from MERL (Mitsubishi Electric Research Lab), NAMUG
+will organize two <strong>free Modelica workshops, Monday, October 8th</strong> (before the conference).  These workshops
+will take place at the MERL offices in Cambridge. If you are interested in attending one of these workshops,
+please select “Workshop Ticket” on the
+<a href="https://www.eventbrite.com/e/the-american-modelica-conference-2018-tickets-39188362447">Eventbrite</a> event page.
+There will be a beginner’s workshop in the morning, and an advanced workshop with an introduction to
+modeling of thermo-fluid systems using applications from the Buildings Library in the afternoon. To aid in planning,
+<strong>please register soon for these workshops</strong> since these workshops are conditional on interest and participation.</p>
+
+<p>We are looking forward to seeing you in Cambridge, MA.</p>
+
+<p><em>Dr. Michael Tiller</em> and Associate Professor <em>Luigi Vanfretti</em>, PhD, General Chair (Xogeny) and Program Chair (Rensselaer Polytechnical Institute)</p>
+
+<p><em>This article is provided by Hubertus Tummescheit, <a href="https://www.modelon.com/">Modelon</a></em></p>
+
+<h2 id="fmi-steering-committee-releases-fmi-2-1-feature-list">FMI Steering Committee releases FMI 2.1 feature list</h2>
+<p><img src="http://fmi-standard.org/assets/img/fmi-logo.svg" alt="FMI logo" title="FMI image" width="250px"></p>
+
+<p>The FMI Steering Committee is happy to announce the preliminary (Alpha) feature list for FMI 2.1. “Preliminary” means that we might be forced to drop some features from that list for the actual release. This list is based on the results of the respective working groups which were discussed at the last FMI Design Meeting (Nov 2017).</p>
+
+<ul>
+  <li>Ports and Icons:
+Help the user to build consistent systems from FMUs and render the systems more intuitively with better representation of structured ports (for instance buses and physical connectors) in the modelDescription.xml.</li>
+  <li>Array variables:
+Allow FMUs to communicate multi-dimensional variables and change their sizes using structural parameters.</li>
+  <li>Clocks and Hybrid Co-Simulation
+Introduces clocks for synchronization of variables changes across FMUs. Allows co-simulation with events.</li>
+  <li>Binary Data Type:
+Adds an opaque binary data type to FMU variables to allow, for instance, efficiently exchanging of complex sensor data.</li>
+  <li>Intermediate Output Values:
+Allow access of intermediate output values between communication time points from the FMU to disclose relevant subsystem behavior for analysis or advanced co-simulation master algorithms.</li>
+  <li>Source code FMUs:
+Adding more information to the modelDescription.xml file to improve automatic import of source code FMUs.</li>
+</ul>
+
+<p>We expect to conclude the now following prototype-phase mid 2018 with a potentially shortened Beta feature list of proven FMI 2.1 features.
+In the unlikely event of unsolvable conflicts between features, the FMI Steering Committee might be forced to again remove or alter
+features during the merge-phase of all FMI Change Proposals (FCPs) starting after the release of the Beta feature list.
+The FMI Steering Committee will make these FCPs available to interested parties on request once their maturity allows dissemination.</p>
+
+<p><em>This article is provided by Andreas Junghanns (<a href="https://www.qtronic.de/">QTronic GmbH</a>)</em></p>
+
+<h1 id="related-projects">Related projects</h1>
+
+<h2 id="ibpsa-project-1-expert-meeting-in-berlin">IBPSA Project 1 Expert Meeting in Berlin</h2>
+<p>On February 27 and 28, 2018, the IBPSA Project 1 held its first Expert Meeting at the UdK Berlin, hosted by Christoph Nytsch-Geusen.
+The meeting was attended by 60 people. The main focus of meeting was to organize collaborative work
+to be conducted during the 5 year project duration.
+There was also a well received keynote by Hubertus Tummescheit,
+Chief Strategy Officer and co-founder of Modelon,
+about “The Adoption of MPC in the Power Industry – Lessons Learned and Ideas for the Buildings Industry”.</p>
+
+<p><img src="berlin-photo.jpg" alt="IBPSA Project 1 Expert Meeting Attendees" title="IBPSA Project 1 Expert Meeting Attendees" width="250px"></p>
+
+<p>During the meeting, work was prioritized for work packages ranging
+from</p>
+<ul>
+  <li>a Modelica library for design and operation, e.g., the <a href="https://github.com/ibpsa/modelica-ibpsa">Modelica IBPSA Library</a>,</li>
+  <li>a Modelica library and an FMI-based platform to compare the performance of Model Predictive Control algorithms for buildings called BOPTEST,</li>
+  <li>data representation and mapping tools for urban energy simulation workflows,</li>
+  <li>a tool chain for Building Information Modeling (BIM) to Modelica translation,</li>
+  <li>applications that demonstrate the developed technologies, and</li>
+  <li>a validation test procedure called DESTEST for the validation of district energy models.</li>
+</ul>
+
+<p>The next meeting will be in fall in Paris, organized by Engie.</p>
+
+<p>For more information about the project, visit <a href="https://ibpsa.github.io/project1/index.html">ibpsa.github.io/project1/</a></p>
+
+<p><em>This article is provided by Michael Wetter (<a href="http://simulationresearch.lbl.gov/modelica">Lawrence Berkeley National Laboratory</a>)</em></p>
+
+<h2 id="modprod-annual-workshop-2018">ModProd Annual Workshop 2018</h2>
+<p>The 12th international MODPROD Workshop on Model-Based Cyber-Physical Product Development,
+organized by the MODPROD competence center at Linköping University,
+was successfully held at Linköping University, Linköping, Sweden, February 6-7, 2018.</p>
+
+<p>Four tutorials were held in the morning the first day on the topics:</p>
+
+<ul>
+  <li>Introduction to Modelica modeling, debugging, optimization</li>
+  <li>FMI for composite modeling, co-simulation and model-exchange</li>
+  <li>Using system anatomies to understand complex systems</li>
+  <li>requirement  modelling and verification</li>
+</ul>
+
+<p>The program and presentations are available from <a href="http://www.modprod.liu.se/">the ModProd website</a></p>
+
+<table style="table-layout:fixed;">
+  <tbody>
+    <tr>
+      <td><img src="2018-0207-Keynote-Sebastian-Engell-IMG_0303.medium.jpg" alt=""></td>
+      <td><img src="2018-0207-Keynote-Janos-Sztipanovits-IMG_0306.medium.jpg" alt=""></td>
+    </tr>
+    <tr>
+      <td>Sebastian Engell (Technical University of Dortmund, Germany) gives his MODPROD keynote on“Challenges in the Engineering and Management of Cyber-physical Systems of Systems”.</td>
+      <td>Janos Sztipanovits (Vanderbilt University, USA) presents his keynote on “Integration platforms for the Model-Based Design of Cyber-Physical Systems”.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>This article is provided by Peter Fritzson <a href="https://www.openmodelica.org/">Open Source Modelica Consortium</a></em></p>
+
+<h1 id="vendor-news">Vendor news</h1>
+
+<h2 id="modelica-support-in-wolfram-language-11-3">Modelica Support in Wolfram Language 11.3</h2>
+<p>Version 11.3 of the Wolfram Language and Mathematica have just been released, with nearly 120 completely new functions. This includes built-in support for simulating and analyzing Modelica models, with the full simulation core of SystemModeler now available to all Wolfram Language users.</p>
+
+<p><img src="wolframlanguage-113.png" alt="Wolfram Language 11.3 Workflow&quot;" title="Simulate and plot models using the Wolfram Language"></p>
+
+<p>The system modeling functionality in the Wolfram Language makes it very easy to accomplish tasks such as:</p>
+<ul>
+  <li>Analyzing problems in and the performance of systems, e.g. <a href="https://www.wolfram.com/system-modeler/examples/industrial-manufacturing/configuration-analysis-cylinders.html">vibration analysis of a printing press</a></li>
+  <li>Designing and optimizing aspects of a system, e.g. <a href="https://www.wolfram.com/system-modeler/examples/aerospace-defense/aircraft-dynamics-design-simulation.html">design of an aircraft autopilot</a></li>
+  <li>Exploring and investigating different scenarios, e.g. <a href="http://blog.wolfram.com/data/uploads/2018/03/Natural-Selection-with-Wolfram-SystemModeler.nb">studying the spread of sickle cell anemia</a></li>
+</ul>
+
+<p><a href="http://www.wolfram.com/system-modeler/what-is-new/?popup=system-modeling-in-the-wolfram-language">Click here</a> to see a video of the new functionality in action, or <a href="http://blog.wolfram.com/2018/03/08/roaring-into-2018-with-another-big-release-launching-version-11-3-of-the-wolfram-language-mathematica/">click here</a> to read more about what is new in the latest version.</p>
+
+<p><em>This article is provided by Patrik Ekenberg <a href="http://wolfram.com">Wolfram</a></em></p>
+
+<h2 id="tlk-dave-new-version-1-7-0">TLK DaVE - New version 1.7.0</h2>
+
+<div style="float: right">
+  <p><img src="tlk-dave-logo.png" alt="tlk-dave logo"></p>
+</div>
+
+<p>DaVE is TLK’s software tool to visualize and analyze transient <strong>measurement</strong> and <strong>simulation</strong> data. Its greatest potential lies in the illustration of thermal systems. The main functions of DaVE are:</p>
+<ul>
+  <li>Opening different data file formats like Dymola result files, csv and FMUs.</li>
+  <li>Exporting data e.g. via your own Python script or directly to csv and pdf.</li>
+  <li>Simulating online with TISC, CAN, HiL or offline with FMUs.</li>
+  <li>Visualizing data using vector-line plots, thermal state charts (optional module) and many other instruments.</li>
+</ul>
+
+<p>The latest version 1.7.0 contains many new features to make simulation and its post-processing a lot easier and more efficient. One of those improvements is the optional <strong>P&amp;I Flow Diagram</strong> module. This tool allows you to setup a visual model of your system by the use of pre-existing or self-made icons (nodes). You can connect your simulation or measurement data to the P&amp;I Flow Diagram and easily monitor your system’s behavior.</p>
+
+<p><strong>The latest version 1.7.0</strong> of DaVE contains the following improvements and features:</p>
+<ul>
+  <li>Improved <strong>simulation speed and handling of FMUs</strong> within DaVE.</li>
+  <li>New <strong>Tabular Data Connector</strong> to implement data via copy and paste.</li>
+  <li>Export your data with your own <strong>Python script</strong> and to <strong>PowerPoint</strong> at the push of a button.</li>
+  <li>Improved features for the optional <strong>State Chart module</strong>.</li>
+  <li>Many changes improving overall usability.</li>
+</ul>
+
+<p>For further information see <a href="https://www.tlk-thermo.com/index.php/en/software-products/dave">www.tlk-thermo.com</a>, <a href="https://www.tlk-thermo.com/images/tlk/content/presentations/DaVE_EN_2017_June.pdf">download the DaVE presentation</a> or contact us at <a href="mailto:dave@tlk-thermo.com">dave@tlk-thermo.com</a>.</p>
+
+<p><em>This article is provided by Matthias Kwak <a href="https://www.tlk-thermo.com/">TLK-Thermo GmbH</a></em></p>
+
+<h2 id="wolfram-systemmodeler-5-1-released">Wolfram SystemModeler 5.1 Released</h2>
+<p>We are pleased to announce the release of Wolfram SystemModeler 5.1.</p>
+
+<p><img src="systemmodeler-51.png" alt="SystemModeler 5.1 Banner" title="Unleash Your Models with SystemModeler 5.1"></p>
+
+<p>SystemModeler 5.1 focuses on maximizing the usage you get from your models. Create models that are user friendly and let others analyze and explore them or deploy them onto a physical system.</p>
+
+<p>Some key features include:</p>
+<ul>
+  <li>New standardized export with FMI for co-simulation. Make your models potentially usable anywhere, by anyone.</li>
+  <li>Ready your models for exploration and analysis with new tools to develop high-quality, flexible and easy-to-share models.</li>
+  <li>Deploy to millions of Wolfram Language users with the new built-in system modeling functionality</li>
+</ul>
+
+<p>Read more about the release here 
+<a href="http://blog.wolfram.com/2018/03/21/unleash-your-models-with-systemmodeler-5-1/">blog.wolfram.com/2018/03/21/unleash-your-models-with-systemmodeler-5-1</a></p>
+
+<p>For more details and the latest news, visit <a href="http://www.wolfram.com/system-modeler/what-is-new">wolfram.com/system-modeler/what-is-new</a></p>
+
+<p><em>This article is provided by Patrik Ekenberg <a href="http://wolfram.com/system-modeler/">Wolfram</a></em></p>
+
+<h2 id="simcenter-amesim-16-supports-all-fmi-coupling-modes">Simcenter Amesim 16 supports all FMI coupling modes</h2>
+<h4 id="simcenter-amesim-16-supports-all-fmi-10-and-20-coupling-modes">Simcenter Amesim 16 supports all FMI 1.0 and 2.0 coupling modes</h4>
+<p>With the addition of FMI 2.0 for model exchange import and export, 
+<strong>the recently released Simcenter Amesim 16 supports all existing continuous and discrete coupling modes of FMI</strong>. 
+Moreover all Simcenter Amesim 2.0 FMUs can provide their directional derivatives. 
+As a result, Simcenter Amesim’s recognized frequency analysis capabilities become available within advanced FMI master or importing environments. These high-end FMI capabilities 
+make Simcenter Amesim one of the most interoperable system simulation tools and reflect 
+Siemens PLM Software’s expertise and prominent role within the FMI Steering Committee.</p>
+
+<p><img src="Simcenter-Amesim-FMI.png" alt=""></p>
+
+<p>For its forthcoming product releases, Siemens PLM Software is working on other advanced FMI capabilities that pave the way towards large-scale and efficient heterogeneous simulations.</p>
+
+<h4 id="support-for-fmi-compatible-real-time-targets">Support for FMI compatible real-time targets</h4>
+<p>With Simcenter Amesim 16, users can create and export real-time capable models directly as FMUs
+specifically generated for compatible multi-core and/or multi-processor real-time targets. Supported hardware currently includes:</p>
+
+<ul>
+  <li>dSPACE SCALEXIO</li>
+  <li>ETAS LABCAR (32-bit and 64-bit)</li>
+  <li>Concurrent Simulation Workbench (32-bit and 64-bit)</li>
+</ul>
+
+<p><img src="Simcenter-Amesim-FMI2.png" alt=""></p>
+
+<p>More will come, along with <strong>the support of tunable parameters for online or virtual calibration</strong>.<br>
+For more information on Simcenter Amesim, please visit our <a href="https://www.siemens.com/plm/simcenter-amesim">website</a>.</p>
+
+<p><em>This article is provided by Bruno Loyer (<a href="http&gt;//www.siemens.com/plm/simcenter-amesim">Siemens PLM Software</a>)</em></p>
+
+<h2 id="mworks-2018-released">MWorks 2018 released</h2>
+<p>MWorks has evolved into a product suite, including system simulation software
+<strong>MWorks.Sysplorer</strong> (original MWorks), system architecture design software
+<strong>MWorks.Sysbuilder</strong>, and model collaboration and management software
+<strong>MWorks.Syslink</strong>. MWorks.Sysplorer 2018 is now being launched after rebuilding for
+two years.</p>
+
+<p><img src="MWorks-Sysplorer-2018.png" alt=""></p>
+
+<h4 id="mworkssysplorer-2018">MWorks.Sysplorer 2018</h4>
+<ul>
+  <li>Fully supports Modelica language specification 3.4 and Modelica standard library 3.2.1,
+and is compatible with 2.x version.</li>
+  <li>Provides full supports for FMI 1.0 and FMI 2.0, including the export and import of the
+Model-Exchange mode, as well as the slave export and import of the Co-Simulation
+mode.</li>
+  <li>Supports collaborative modeling based on MWorks.Syslink, providing unified model
+management and collaborative services, including downloading, updating, submitting,
+and publishing.</li>
+  <li>Provides a new UI appearance and the solver performance is greatly improved.</li>
+  <li>Export models to NI Veristand and Matlab S-Function, and the distributed display
+function is provided.</li>
+</ul>
+
+<p><img src="MWorks-Aircraft-Dynamics-Library.png" alt=""></p>
+<h4 id="tongyuan-aircraft-dynamics-library">Tongyuan Aircraft Dynamics Library</h4>
+<p>The library supports system-level rapid modeling and simulation of a wide range of flight
+vehicles. The library provides 6-DOF aircraft model, aerodynamic calculation model,
+basic components that constitute the flight control law, and the necessary components to
+complete the closed loop of the aircraft system, also provides the hardware interface for
+the operating devices. The library can be applied to the rapid construction of aircraft
+system model, verification of control laws, desktop simulation and real-time simulation of
+human in the loop.</p>
+
+<p><img src="MWorks-Liquid-Rocket-Engine-Library.png" alt=""></p>
+<h4 id="tongyuan-liquid-rocket-engine-library">Tongyuan Liquid Rocket Engine Library</h4>
+<p>The Liquid Rocket Engine library covers the component models required for simulation of
+liquid rocket engine system, including turbo pumps, various types of pipes, valves,
+throttle elements, combustor components, and sources. The user can quickly build a
+system model based on the physical topology of the liquid power system, the main state
+parameters of the engine in the process of starting, adjusting and shutdown can be
+studied by simulation.</p>
+
+<p><em>This article is provided by Fanli Zhou (<a href="http://www.tongyuan.cc/">Suzhou Tongyuan</a>)</em></p>
+
+<h2 id="new-version-3-9-of-esi-s-simulationx-released">New version 3.9 of ESI’s SimulationX released</h2>
+<p><img src="SimulationX.png" alt=""></p>
+
+<p>SimulationX 3.9 comes with a multitude of new features and libraries both for Modelica® experts and for those new to the Modelica world, enabling an easy access to system simulation.</p>
+
+<p>New navigation aids and filters for the model structure facilitate even experienced simulation engineers in dealing with large and complex model structures. Starting from this version, a Simulation Task Manager with extensive functionalities is available for automated series calculations. New and expanded model libraries accelerate development and design processes, particularly in the areas of design, development and virtual testing of electric vehicles and belt conveyors, including a novel model generator. The model range has also been expanded with new vibration dampers for vibration analysis of drive trains.</p>
+
+<p>Furthermore, version 3.9 supports Modelica State Machines as well as efficiently integrating clocked signals into the system model, using the Modelica Synchronous technology.</p>
+
+<p>For more information visit <a href="https://www.simulationx.com/3-9">www.simulationx.com/3-9 </a></p>
+
+<p><em>This article is provided by Thomas Hofmann (<a href="https://www.simulationx.com/">ESI ITI</a>)</em></p>
+
+<h2 id="openmodelica-annual-workshop-2018">OpenModelica Annual Workshop 2018</h2>
+<p>The 10th OpenModelica Annual Workshop organized by the Open Source Modelica Consortium
+was held successfully in Linköping, Sweden, on February 5, 2018.New results and applications regarding the OpenModelica
+platform were presented, including design of a test automation system, simulation of mobile machinery,
+a standardized interface between the C and C++ runtime, a Hydropower Modelica library, parallel large-scale
+optimization and internet-of-things for cyber-physical systems, homotopy-based initialization,
+DAE-model for solving large systems, co-simulation using OMSimulator, equation-based model reduction,
+using Python API for controlling non-linear reactor models.</p>
+
+<p>The program and the 13 presentations are available from: <a href="https://www.openmodelica.org/events/openmodelica-workshop/openmodelica-program-2018">link</a></p>
+
+<table style="table-layout:fixed;">
+  <tbody>
+    <tr>
+      <td><img src="2018-0205-OM-Chars-Adrian-Bernhard-IMG_0279.medium.jpg" alt=""></td>
+      <td><img src="2018-0205-Volker-WaurichIMG_0286.medium.jpg" alt=""></td>
+    </tr>
+    <tr>
+      <td>Adrian Pop and Bernhard Thiele, OpenModelica workshop chairpersons (Linköping University) opening the workshop.</td>
+      <td>OpenModelica workshop, Volker Waurich presenting automation of a wheel loader (TU Dresden).</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>This article is provided by Peter Fritzson <a href="https://www.openmodelica.org/">Open Source Modelica Consortium</a></em></p>
+
+<h2 id="openmodelica-1-12-0-release">OpenModelica 1.12.0 Release</h2>
+<p>OpenModelica is an open-source Modelica-based cyber-physical mathematical modeling,
+simulation and optimization environment intended for industrial and academic usage.
+Its long-term development is supported by a non-profit organization – the Open Source Modelica Consortium <a href="https://www.openmodelica.org/">OSMC</a>
+with many company, institute, and university members.</p>
+
+<p><img src="https://openmodelica.github.io/OpenModelica-Resources/images/2017-3DAnimation-V6Engine.jpg" alt=""></p>
+
+<p>The figure shows 3D visualization and animation using OpenModelica.</p>
+
+<p>Below the main aspects are described of the <a href="https://openmodelica.org/doc/OpenModelicaUsersGuide/v1.12.0/">OpenModelica 1.12.0 release</a> from October 2017 which is the most recent stable regular release.
+Substantial work on improved stability, library coverage, and verification coverage has been done.
+An OpenModelica 1.13.0 Beta release is planned in April-2018.<a href="(https://www.openmodelica.org/)">see</a></p>
+
+<p>Summary of some of the most important improvements:</p>
+
+<ul>
+  <li>A new (stand-alone) FMI- and TLM-based simulation tool OMSimulator 1.0, this first version for connected FMUs, TLM objects,
+Simulink models (via wrappers), Adams models (via wrappers), BEAST models (via wrappers), Modelica models</li>
+  <li>Graphic configuration editing of composite models consisting of FMUs</li>
+  <li>Increased library coverage including significantly increased verification coverage</li>
+  <li>Graphical editing support for state machines and transitions</li>
+  <li>An OMEdit HTML WYSIWYG Editor, e.g. useful for documentation</li>
+  <li>Faster lookup processing, making some libraries faster to browse and compile</li>
+  <li>Additional advanced visualization features for multibody animation</li>
+  <li>Increased tool interoperability by addition of the ZeroMQ communications protocol</li>
+  <li>Enhanced OMPython including linearization, now also working with Python 3</li>
+  <li>Support for Linux RedHat/Fedora binary builds of OpenModelica</li>
+  <li>Support for exporting the system of equations in GraphML (yEd) format for debugging</li>
+</ul>
+
+<h4 id="openmodelica-supports-3d-visualization-and-animation-in-two-ways">OpenModelica supports 3D visualization and animation in two ways</h4>
+
+<ol>
+  <li>Built-in 3D animation and visualization in OMEdit of multi-body systems (since OpenModelica v1.11.0; see the <a href="https://openmodelica.org/doc/OpenModelicaUsersGuide/v1.12.0/omedit.html#d-visualization">User’s Guide</a> for instructions).</li>
+  <li>Visualization using third-party libraries such as the commercial DLR Visualization library.</li>
+</ol>
+
+<p><i>Visualization in OMEdit of Multi-Body Systems</i></p>
+
+<p>Below: An example 3D visualization and animation of an excavator (Courtesy TU Dresden).</p>
+
+<p><img src="https://openmodelica.github.io/OpenModelica-Resources/images/2017-3DAnimation-Excavator.png" alt="Excavator"></p>
+
+<ul>
+  <li>This is a built-in feature of OMEdit to visualize and animate MSL-Multi-Body shapes</li>
+  <li>Supports visualization and animation of simulation results</li>
+  <li>Animation of geometric primitives and CAD-Files</li>
+</ul>
+
+<p><i>Visualization Using the External DLR Visualization Library</i></p>
+
+<p>Below: Visualization and animation of the DLR ROboMObil (Courtesy DLR).</p>
+
+<p><img src="https://openmodelica.github.io/OpenModelica-Resources/images/2018-DLR-Visualization-3D-Robomobil.jpg" alt="Robomobil"></p>
+
+<p>The DLR visualization library supports the following:</p>
+<ul>
+  <li>Advanced, model-integrated and vendor-unspecific visualization for Modelica models</li>
+  <li>Offline, online and real-time animation</li>
+  <li>Video-export function</li>
+  <li>Commercial library, a feature reduced free Community Edition exists</li>
+</ul>
+
+<h4 id="openmodelica-code-generators-for-embedded-real-time-code">OpenModelica Code Generators for Embedded Real-Time Code</h4>
+
+<p>OpenModelica currently (as of v1.12.0) provides two flavors of code
+generators for embedded real-time code:</p>
+
+<p>A full-fledged OpenModelica-generated source-code FMU (Functional Mockup Unit) code generator:</p>
+
+<ul>
+  <li>Can be used to cross-compile FMUs for platforms with more available memory.</li>
+  <li>These platforms can map FMI inputs/outputs to analog/digital I/O in the importing FMI master.</li>
+</ul>
+
+<p>A very simple experimental code generator generating a very small footprint statically linked
+executable:</p>
+
+<ul>
+  <li>Not an FMU because there is no OS, filesystem, or shared objects in microcontrollers.</li>
+</ul>
+
+<p>Below is the <a href="http://vlabs.iitb.ac.in/sbhs/">SBHS</a> (a teaching board using an ATmega16 microcontroller) running an OpenModelica-based
+controller (the Arduino is based on the same microcontroller and is also supported in the <a href="https://github.com/modelica/Modelica_DeviceDrivers">Modelica_DeviceDrivers</a> library):</p>
+
+<p><img src="https://openmodelica.github.io/OpenModelica-Resources/images/2017-OM-real-time-controller-codegen-SHBS-Arduino.jpg" alt="SBHS board"></p>
+
+<h4 id="enhanced-ompython-including-control-design">Enhanced OMPython Including Control Design</h4>
+
+<p>OMPython is the Python scripting interface to the OpenModelica <a href="https://www.openmodelica.org/">tool suite</a>.
+An Enhanced OMPython version has recently been developed, making it possible to perform control design,
+model linearization, sensitivity analysis, etc. <a href="https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/ompython.html#enhanced-ompython-features">UserGuide</a></p>
+
+<p><img src="closedloop.jpg" alt=""></p>
+
+<p>Investigating closed loop eigenvalues</p>
+
+<p><img src="Seborg-Chemical.jpg" alt=""></p>
+
+<p>Simulation of a Seborg chemical process reactor controlled by a PI controller</p>
+
+<p>The enhanced OMPython is available in the OpenModelica 1.12.0 final release and later releases. Below some highlights are briefly mentioned.:</p>
+
+<ul>
+  <li>Access to the whole OpenModelica scripting API</li>
+  <li>Loading, compiling, and simulating models</li>
+  <li>Operations on models such as linearization.</li>
+  <li>Loading simulation results for analysis, plotting, etc.</li>
+  <li>Parameter sweeps, e.g. sensitivity analysis.</li>
+  <li>Control design.</li>
+</ul>
+
+<p><em>This article is provided by Peter Fritzson <a href="https://www.openmodelica.org/">Open Source Modelica Consortium</a></em></p>
+
+<h2 id="omsimulator-2-0-with-fmi-composition-beta1-release">OMSimulator 2.0 with FMI Composition Beta1 Release</h2>
+<p>OMSimulator is a rather new tool in the OpenModelica tool suite and provides a co-simulation and simulation environment for FMUs. The OMSimulator 2.0 release will be part of OpenModelica 1.13.0 and supports both ordinary signal connections and TLM (transmission line modeling) connections.</p>
+
+<p><img src="https://openmodelica.github.io/OpenModelica-Resources/images/2018-OpenModelica-OMSimulator.png" alt="OMSimulator and OMEdit"></p>
+
+<p>The following are highlights of OMSimulator 2.0:</p>
+
+<ul>
+  <li>Efficient simulation of composite models based on model exchange and co-simulation FMUs</li>
+  <li>3D visualization of connected mechanical model components which can be FMUs, Modelica models, or co-simulated components accessed via wrappers in ADAMS, Simulink, Beast, or Modelica</li>
+  <li>Graphical composition of FMUs and visualization of simulation results</li>
+  <li>Scripting interface</li>
+  <li>Distributed simulations utilizing TLM master algorithm</li>
+  <li>Increased numerical stability during co-simulation in various applications due to TLM connectors</li>
+  <li>SSP (System Structure and Parameterization) support for composite models</li>
+</ul>
+
+<p><em>This article is provided by Lennart Ochel and Adeel Asghar (<a href="https://openmodelica.org/">Open Source Modelica Consortium</a>)</em></p>
+
+<h2 id="julia-and-matlab-scripting-for-openmodelica">Julia and Matlab Scripting for OpenModelica</h2>
+<p>Julia and Matlab scripting interfaces have been introduced to the OpenModelica tool suite <a href="https://www.openmodelica.org/">see</a> 
+called OMJulia and OMMatlab.<a href="https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/">see</a></p>
+
+<p><img src="Seborg-Chemical1.jpg" alt=""></p>
+
+<p>Simulation of a Seborg chemical process reactor</p>
+
+<p>The OMJulia and OMMatlab scripting modules are available in the OpenModelica 1.13.0 Beta1 release and later releases. Below some highlights are briefly mentioned.:</p>
+
+<ul>
+  <li>Access to the whole OpenModelica scripting API</li>
+  <li>Loading, compiling, and simulating models</li>
+  <li>Operations on models such as linearization.</li>
+  <li>Loading simulation results for analysis, plotting, etc.</li>
+  <li>Parameter sweeps, e.g. for optimization and/or sensitivity analysis.</li>
+  <li>Control design when used together with appropriate Julia or Matlab packages.</li>
+</ul>
+
+<p><em>This article is provided by Peter Fritzson <a href="https://www.openmodelica.org/">Open Source Modelica Consortium</a></em></p>
+
+<h2 id="modelon-announces-release-of-2018-1">Modelon Announces Release of 2018.1</h2>
+<p><a href="http://www.modelon.com"><img src="Modelon_2011_Flat_RGB.png" width="452" height="130" class="" alt=""></a></p>
+
+<p>Modelon is pleased to announce the release of 2018.1 for products within the <a href="http://www.modelon.com/products/modelon-library-suite/" title="Opens internal link in current window" class="internal-link">Modelon Library Suite</a>, <a href="http://www.modelon.com/products/modelon-creator-suite/" title="Opens internal link in current window" class="internal-link">Modelon Creator Suite</a>, and <a href="http://www.modelon.com/products/modelon-deployment-suite/" title="Opens internal link in current window" class="internal-link">Modelon Deployment Suite</a>. Detailed release notes are available and can be found on the individual product pages as well as clicking the links below.&nbsp;</p>
+
+<p>As part of our multi-platform strategy Modelon libraries are compliant in Dymola, OPTIMICA, Simplorer, IGNITE, and MapleSim.</p>
+
+<p>Updated versions of Modelon products are only sold and distributed directly from Modelon, as well as approved <a href="http://www.modelon.com/about-modelon/contact/resellers/" title="Opens internal link in current window" class="internal-link">resellers</a>.<a href="http://www.modelon.com/about-modelon/contact/sales-and-inquiries/" title="Opens internal link in current window" class="internal-link"> Contact us directly</a> to update your Modelon software!</p>
+
+<p><a href="http://www.modelon.com/products/modelon-library-suite/"><img src="Modelon_Library_Suite_logo.png" width="300" height="164" class="" alt=""></a></p>
+
+<p>2018.1 includes updates to the following libraries within the Modelon Library Suite:</p>
+
+<ul>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/air-conditioning-library/air-conditioning-library-release-information/" title="Opens internal link in current window" class="internal-link">Air Conditioning Library v1.16</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/electric-power-library/electric-power-library-release-information/" title="Opens internal link in current window" class="internal-link">Electric Power Library v2.4</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/engine-dynamics-library/engine-dynamics-library-release-information/" title="Opens internal link in current window" class="internal-link">Engine Dynamics Library v2.1</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/environmental-control-library/environmental-control-library-release-information/" title="Opens internal link in current window" class="internal-link">Environmental Control Library v3.4</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/fuel-cell-library-release-information/" title="Opens internal link in current window" class="internal-link">Fuel Cell Library v1.7</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/fuel-system-library/fuel-system-library-release-information/" title="Opens internal link in current window" class="internal-link">Fuel System Library v4.3</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/heat-exchanger-library/heat-exchanger-library-release-information/" title="Opens internal link in current window" class="internal-link">Heat Exchanger Library v2.1</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/hydraulics-library-release-information/" title="Opens internal link in current window" class="internal-link">Hydraulics Library v4.8</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/hydro-power-library/hydro-power-library-release-information/" title="Opens internal link in current window" class="internal-link">Hydro Power Library v2.7</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/liquid-cooling-library/liquid-cooling-library-release-information/" title="Opens internal link in current window" class="internal-link">Liquid Cooling Library v2.1</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/pneumatics-library-release-information/" title="Opens internal link in current window" class="internal-link">Pneumatics Library v2.4</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/thermal-power-library-release-information/" title="Opens internal link in current window" class="internal-link">Thermal Power Library v1.16</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/vapor-cycle-library/vapor-cycle-library-release-information/" title="Opens internal link in current window" class="internal-link">Vapor Cycle Library v2.1</a></li>
+  <li><a href="http://www.modelon.com/products/modelon-library-suite/vehicle-dynamics-library-release-information/" title="Opens internal link in current window" class="internal-link">Vehicle Dynamics Library v3.1</a></li>
+</ul>
+
+<p><a href="http://www.modelon.com/products/modelon-creator-suite/"><img src="Modelon_Creator_Suite_Logo.png" width="300" height="170" class="" alt=""></a></p>
+
+<p>2018.1 includes updates to the following products within the Modelon Creator Suite:</p>
+<ul>
+  <li><a href="http://www.modelon.com/products/optimica-compiler-toolkit-release-information/" title="Opens internal link in current window" class="internal-link">OPTIMICA Compiler Toolkit v1.2</a></li>
+  <li><a href="http://www.jmodelica.org/" title="Opens external link in new window" target="_blank" class="external-link-new-window">JModelica 2.2</a></li>
+</ul>
+
+<p><a href="http://www.modelon.com/products/modelon-deployment-suite/"><img src="Modelon_Deployment_Suite_logo.png" width="300" height="145" class="" alt=""></a></p>
+
+<p>2018.1 includes updates to the following product within the Modelon Deployment Suite:</p>
+<ul>
+  <li><a href="http://www.modelon.com/products/modelon-deployment-suite/fmit-toolbox-for-matlabsimulink-release-information/" title="Opens internal link in current window" class="internal-link">FMI Toolbox v2.6.3</a></li>
+</ul>
+
+<p><em>This article is provided by Jesse Gohl, <a href="http://www.modelon.com">Modelon</a></em></p>
+
+<h2 id="free-downloads-from-dassault-systemes">Free Downloads from Dassault Systemes</h2>
+<p><img src="Free-Downloads-Dassault-Systemes-whitepaper-cropped.png" alt=""></p>
+
+<p>Dassault Systèmes offers <a href="https://www.3ds.com/products-services/catia/products/dymola/free-downloads/">free webinars, whitepapers and tools</a> for the Modelica and FMI communities.</p>
+
+<h4 id="webinars">Webinars</h4>
+
+<p><strong>An introduction to Dymola</strong></p>
+<ul>
+  <li>Learn how the power of Dymola and Modelica can drive the efficient modeling,
+simulation and validation of multi-domain dynamic systems to rapidly solve
+complex modeling and analysis problems.</li>
+</ul>
+
+<p><strong>MBSE with Modelica and Dymola</strong></p>
+<ul>
+  <li>Optimize systems development - from conceptual studies through to detailed
+HIL validation. Model-based system engineering is essential to speed the development
+of complex, multi-domain systems.</li>
+</ul>
+
+<p><strong>Building models with Dymola</strong></p>
+<ul>
+  <li>Watch this webinar to discover how the power of Modelica and Dymola can be used
+to quickly model, configure, simulate and validate the many different systems in a
+hybrid electric vehicle, for example, to evaluate the impact of different control
+system strategies.</li>
+</ul>
+
+<h4 id="whitepapers">Whitepapers</h4>
+
+<p>Dive into some of the powerful features of Dymola with these easily accessible papers,
+written by our Dymola, Modelica and FMI experts. Topics covered include model debugging,
+performance, tips and tricks.</p>
+<ul>
+  <li>Dymola Referential (a technical overview and summary of benefits of Dymola, Modelica, and FMI)</li>
+  <li>Dymola Sparse Solvers for Large-Scale Simulations</li>
+  <li>Model Analysis Using the Event Log in Dymola</li>
+  <li>Analyzing Numeric Integration</li>
+  <li>Migrating from Modelica 2 to Modelica 3</li>
+</ul>
+
+<h4 id="tools-and-libraries">Tools and Libraries</h4>
+
+<p><strong>FMU Simulator</strong> is a standalone Windows app that lets you inspect, validate and test
+Functional Mockup Units (FMUs). It supports FMI 1.0 and 2.0 for both model exchange
+and co-simulation as well file based input and output. With its easy to use interface
+it’s an essential for every developer working with FMUs.</p>
+
+<p><strong>FMPy Library</strong> is a Python library to simulate Functional Mockup Units (FMUs).
+It supports FMI 1.0 and 2.0 for both model exchange and co-simulation and runs
+on Windows and Linux.</p>
+
+<p>The <strong>Modelica Arduino library</strong> lets you simulate your circuits and sketches on a
+virtual Arduino Uno without the need for hardware, a lab and soldering.</p>
+
+<p><em>This article is provided by Dag Brück (<a href="http://www.3ds.com/dymola">Dassault Systemes</a>)</em></p>
+
+<h2 id="dymola-2018-fd01">Dymola 2018 FD01</h2>
+<p><img src="Dymola2018FD01-sparse-solver-small.png" alt=""></p>
+
+<p>Speed up your simulations with the newest Dymola version <strong>Dymola 2018 FD01</strong>.</p>
+
+<h4 id="modeling-and-simulation">Modeling and simulation</h4>
+
+<p>To improve simulation performance, the numeric solvers have been improved for large models
+with sparse structure, e.g. electrical transmission lines. For appropriate model structures
+up to 100x faster simulation can be achieved.</p>
+
+<p>Dymola 2018 FD01 has been enhanced with convenient tools to check what events are generated
+during simulation and plot hot spots of execution. This helps the user to find simulation
+bottlenecks and prepare models for real-time simulation.</p>
+
+<p>Flexible and natural handling of units on input allows the user to type expressions such as
+“47 pF” directly. Dymola detects unit and prefix and applies appropriate scaling to SI units.</p>
+
+<h4 id="new-modelica-libraries">New Modelica libraries</h4>
+
+<p>Several new Modelica libraries are introduced in Dymola 2018 FD01, providing a wide range
+of solutions from hydraulic systems to advanced power plants.</p>
+<ul>
+  <li>Fluid Power – hydraulic systems</li>
+  <li>Electric Power Systems – AC and DC including high frequency AC</li>
+  <li>Hydrogen – fuel cell applications</li>
+  <li>ClaRa Plus – advanced power plants</li>
+  <li>Fluid Dynamics – estimate human comfort within an air-conditioned zone</li>
+  <li>Testing – framework to build test models and create reference results</li>
+</ul>
+
+<p><em>This article is provided by Dag Brück (<a href="http://www.3ds.com/dymola">Dassault Systemes</a>)</em></p>
+
+<h1 id="news-from-libraries">News from libraries</h1>
+
+<h2 id="first-release-of-fluiddynamics-library-for-cfd-simulations-in-modelica">First Release of FluidDynamics Library for CFD Simulations in Modelica</h2>
+<p><img src="xrg-fluiddynamics-library.jpg" alt="FluidDynamics logo" title="FluidDynamics logo" width="620px"></p>
+
+<p>The <strong>FluidDynamics</strong> library is created for <strong>Computational Fluid Dynamics</strong> (CFD) simulations using Modelica language. The coarse grid model of the library allowing up to 2000 cells uses common CFD equations, but the model is written entirely in Modelica language.
+The flow is predicted purely by the outer boundary conditons, internal stresses and gravitation. Thus, it has the great advantage, that users must not know the flow pattern in an air-conditoned space.</p>
+
+<p><img src="transient_room.gif" alt="Transient room" title="Passive office heat-up" width="440px"></p>
+
+<h4 id="user-benefits">User Benefits</h4>
+<ul>
+  <li><strong>Faster execution time</strong> than conventional CFD</li>
+  <li><strong>Less software costs</strong> since no middleware between CFD and Modelica tool required</li>
+  <li><strong>Faster project execution</strong> since conceptual tasks can be performed with the coarse grid</li>
+  <li><strong>Full insight</strong> into code through open-source Modelica implementation</li>
+</ul>
+
+<p>The library is available for <strong>Dymola 2018 FD01</strong>. Grid generation and postprocessing is performed with <strong>XRG Score</strong> included in the package. It can be used for automotive, aeronautical, buildings and other HVAC applications.</p>
+
+<p><em>This article is provided by Stefan Wischhusen (<a href="http://www.xrg-simulation.de/">XRG Simulation GmbH</a>)</em></p>
+
+<h2 id="tlk-til-suite-new-version-3-5-0">TLK TIL Suite - New version 3.5.0</h2>
+
+<div style="float: right">
+  <p><img src="tlk-tilsuite-logo.png" alt="tlk-tilsuite logo"></p>
+</div>
+
+<p>The TIL Suite enables stationary and transient simulations. The current <strong>version 3.5.0</strong> includes numerous new and improved components and system models. Among other things, we would like to draw your attention to the following innovations:</p>
+<ul>
+  <li>Using the gas components, air pathways and systems can be simulated with ideal gases and mixtures, taking <strong>condensation and ice formation</strong> into account.</li>
+  <li>The optimization of the VLE fluid components (vapor-liquid-equilibrium) enables more robust simulations of <strong>refrigerant circuits, heat pumps</strong> or other systems with working fluids.</li>
+  <li>With the aid of new and optimized liquid components (hydraulic inductor and compensation tanks), <strong>cooling circuits</strong> and <strong>hydraulic systems</strong> can be calculated much faster and more stable.</li>
+  <li>Completely revised and clearly extended documentation.</li>
+</ul>
+
+<p>For further information see <a href="https://www.tlk-thermo.com/index.php/en/software-products/til-suite">www.tlk-thermo.com</a>, <a href="https://www.tlk-thermo.com/images/tlk/content/presentations/TIL_Suite_presentation.pdf">download the TIL presentation</a> or contact us at <a href="mailto:til@tlk-thermo.com">til@tlk-thermo.com</a>.</p>
+
+<p><em>This article is provided by Matthias Kwak <a href="https://www.tlk-thermo.com/">TLK-Thermo GmbH</a></em></p>
+
+<h2 id="testing-library-1-0-create-and-run-regression-tests">Testing Library 1.0 - Create and run regression tests</h2>
+<p>The Testing Library is a Modelica Library available to all Dymola users. 
+With this library it is possible to build test cases, create reference results and run the tests –
+all within Dymola. It allows detecting unwanted side effects on model changes in an early
+stage by running regular tests. The user can also use the library to validate that a system meets its requirement during the development phase.</p>
+
+<p>The library contains multiple blocks for the continuous
+comparison of signals to reference values and trajectories. Existing examples and test
+models can easily be converted to a test case by providing a reference and connecting the
+signals of interest to one of the various comparison blocks.</p>
+
+<p><img src="TestingLibrary_LossyGearDemo.png" alt=""></p>
+
+<p>Test models can be simulated as any other model. At the end of the simulation the
+message window shows the test result for every check block in the model.
+This allows the developer to check regularly during the development if the tests class behaves as expected.</p>
+
+<p><em>This article is provided by Imke Krüger ( <a href="http://www.3ds.com/dymola">Dassault Systemes</a> )</em></p>
+
+<h2 id="pneumatic-systems-library">Pneumatic Systems Library</h2>
+<p>The new Pneumatic Systems Library (PSL) is intended to assist the development of pneumatic systems. PSL enables predicting the system behavior for a wide range of industrial applications such as industrial machines, pneumatic brakes or suspension systems
+as well as cooling and engine bleed air systems for aerospace.</p>
+
+<p>In this first release, the following components are introduced:</p>
+<ul>
+  <li>Gases: IdealAir model and ImportFromMSL so any media model extending from Modelica.Media.Interfaces.PartialMedium can be used for gas properties.</li>
+  <li>Sources: ideal pressure, mass flow rate and exhaust, silencer and a vane compressor.</li>
+  <li>Valves: directional, proportional and flow control valves.</li>
+  <li>Actuators: linear, rotary and bellow drive.</li>
+  <li>Reservoirs.</li>
+  <li>Piping: tube, bend and a custom pressure loss component.</li>
+  <li>Sensors.</li>
+</ul>
+
+<p>The library also includes a package modeling the main physical effects modeled: capacitance (energy storage), resistance (energy dissipation) and power transformation (mechanical and thermal). These effects serve as a basis for the development of the previously listed components.</p>
+
+<p>The component icons are compliant with the standard ISO 1219 which is typically used for pneumatic schematics. Animation is provided to see the valve and cylinder displacement with respect to their command.</p>
+
+<p>As an example, the following model represents two single-acting cylinders with spring feedback, piloted by a single directional control valve alternatively connecting to an ideal pressure source or exhaust. While the top cylinder does not include any cushioning device, the piston of the bottom cylinder will close the inlet port when it approaches its end stop (throttle effect).</p>
+
+<p><img src="PneumaticSystemsLibrary-cushioning-model.png" alt="" title="Pneumatic Systems Example"></p>
+
+<p>This example covers the main physical effects involved into pneumatics: capacitance as the gas volume inside the cylinder, restriction as the inlet flow restriction into the cylinder and transformation as the cylinder converts pneumatic into mechanic power.</p>
+
+<p>As the example uses a one-sided cylinder, cushioning only happens on the left side of the cylinder actuation. When the piston enters the cushioning zone (below the green line), the cylinder with cushioning (red plot) receives less mass flow rate from the inlet port and thus its speed decreases regarding the top cylinder (blue plot).</p>
+
+<p><img src="PneumaticSystemsLibrary-cushioning-result.png" alt="" title="Pneumatic Systems Example Result"></p>
+
+<p><em>This article is provided by Dr. Clément Coïc and Maximilian Kormann (<a href="https://www.3ds.com/">Dassault Systèmes Deutschland GmbH</a>)</em></p>
+
+<h2 id="modelica-arduino-a-virtual-arduino-uno-and-firmata-for-modelica">Modelica Arduino - a virtual Arduino Uno and Firmata for Modelica</h2>
+<p>With the Arduino Modelica library you can simulate your circuits and <a href="https://www.arduino.cc/en/Tutorial/Sketch">sketches</a> on a virtual <a href="https://www.arduino.cc/en/Main/ArduinoBoardUno">Arduino Uno</a> and connect your Modelica models to real-world circuits using the <a href="http://www.firmata.org/">Firmata protocol</a>.</p>
+
+<p>It’s developed by Dassault Systèmes and released under the GPLv3 on <a href="https://github.com/CATIA-Systems/Modelica-Arduino">GitHub</a>.</p>
+
+<p><img src="Modelica-Arduino/robot-arm.png" alt="Robot Arm Example"></p>
+
+<p><img src="Modelica-Arduino/firmata-fade.png" alt="Firmata Fade LED Example"></p>
+
+<h4 id="how-does-it-work">How does it work?</h4>
+
+<p>The ArduinoUno model is driven by an ExternalObject that contains the compiled sketch and an implementation of the Arduino API. The external object is synchronized at every sample step with the Modelica model.</p>
+
+<p>When a model that contains the ArduinoUno block is translated the external object is automatically re-built through the preInstantiate=Arduino.Internal.buildSketch(…) directive in its annotation.</p>
+
+<p>This function writes a new Sketch.cpp to Arduino/Resources/Source/Arduino that includes the sketch currently selected in the ArduinoUno component and calls the build script build_sketch.bat.</p>
+
+<p>This script re-builds the shared libraries Arduino/Resources/Library/win32/ModelicaArduino.dll and win64/ModelicaArduino.dll that contain the implementation of the external object.</p>
+
+<p><em>This article is provided by Torsten Sommer (<a href="https://www.3ds.com/">Dassault Systémes</a>)</em></p>
+
+<h2 id="hydrogen-library-1-0-pem-fuel-cell-systems">Hydrogen Library 1.0 - PEM Fuel cell systems</h2>
+<p><img src="Hydrogen-image.png" alt="" width="70%"></p>
+
+<p>The Hydrogen library is targeted at modeling and simulating of PEM fuel cell stacks and
+fuel cell systems using hydrogen and air. It may be used for pre-design, control strategy
+evaluation, or loss analysis. The library contains models for membranes and complete stacks
+as well as auxiliary components, e.g. compressors and valves.
+Due to the generic equivalent circuit approach, only the data sheet with a polarization curve
+is needed for the parameterization of the membrane models. A tutorial helps the user to
+adapt the stack templates to his/her fuel cell type.</p>
+
+<p><em>This article is provided by Imke Krüger (<a href="https://www.3ds.com/">Dassault Systemes</a>)</em></p>
+
+<h2 id="fmpy-simulate-fmus-in-python">FMPy - simulate FMUs in Python</h2>
+<p>FMPy is a free Python library to simulate Functional Mock-up Units (FMUs) that…</p>
+
+<ul>
+  <li>supports FMI 1.0 and 2.0</li>
+  <li>supports Co-Simulation and Model Exchange</li>
+  <li>runs on Windows, Linux and macOS</li>
+  <li>has a graphical user interface</li>
+  <li>compiles source code FMUs</li>
+</ul>
+
+<p>It’s developed at Dassault Systèmes and released under the 3-clause BSD license.<br>
+For more information on how to install FMPy and a short tutorial take a look at the <a href="http://fmpy.readthedocs.io/en/latest/">documentation</a>.</p>
+
+<p>You’ve found a problem or have a suggestion? Visit our <a href="https://github.com/CATIA-Systems/FMPy">GitHub project</a> and open an issue.</p>
+
+<h4 id="simulate-an-fmu-in-the-graphical-user-interface">Simulate an FMU in the Graphical User Interface</h4>
+
+<p><img src="FMPy/Rectifier_GUI.png" alt="FMPy GUI"></p>
+
+<h4 id="simulate-an-fmu-in-python">Simulate an FMU in Python</h4>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt;&gt;&gt; from fmpy import *
+&gt;&gt;&gt; fmu = 'Rectifier.fmu'
+&gt;&gt;&gt; dump(fmu)  # get information
+
+Model Info
+
+  FMI Version       2.0
+  Model Name        Rectifier
+  Description       Model Rectifier
+  Platforms         win64
+  Continuous States 4
+  Event Indicators  6
+  Variables         63
+  Generation Tool   MapleSim (1267140/1267140/1267140)
+  Generation Date   2017-10-04T12:07:10Z
+
+Default Experiment
+
+  Stop Time         0.1
+  Step Size         1e-07
+
+Variables (input, output)
+
+Name                Causality          Start Value  Unit     Description
+outputs             output        282.842712474619  V        Rectifier1.Capacitor1.v
+&gt;&gt;&gt; result = simulate_fmu(fmu)         # simulate the FMU
+&gt;&gt;&gt; from fmpy.util import plot_result  # import the plot function
+&gt;&gt;&gt; plot_result(result)                # plot the variables
+</code></pre></div></div>
+
+<p><img src="FMPy/Rectifier_result.png" alt="Rectifier Result"></p>
+
+<h4 id="simulate-an-fmu-on-the-command-line">Simulate an FMU on the command line</h4>
+
+<p>To get information about an FMU directly from the command line change to the folder where you’ve saved the
+FMU and enter</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>fmpy info Rectifier.fmu
+</code></pre></div></div>
+
+<p>Simulate the FMU and plot the results</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>fmpy simulate Rectifier.fmu --show-plot
+</code></pre></div></div>
+
+<p>Get more information about the available options</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>fmpy --help
+</code></pre></div></div>
+
+<h4 id="advanced-usage">Advanced Usage</h4>
+
+<p>To learn more about how to use FMPy in you own scripts take a look at the
+<a href="https://github.com/CATIA-Systems/FMPy/tree/master/fmpy/examples">examples</a>.</p>
+
+<p><em>This article is provided by Torsten Sommer (<a href="https://www.3ds.com/">Dassault Systémes</a>)</em></p>
+
+<h2 id="electric-power-systems-library">Electric Power Systems Library</h2>
+<p>The Electric Power Systems Library (EPSL) is intended to assist the process of designing electrical power systems. It enables modeling Alternate Current (AC) and Direct Current (DC) as well as combined AC/DC (hybrid) networks found e.g. in More Electrical Aircrafts. Due to the use of a phasor based description, it enables fast simulation of AC systems, with performance basically independent of the AC system’s frequency. The EPSL covers the key components of an electrical power system at different levels of detail. The architectural mode corresponds to “simple” phasor theory resulting in a quasi-static description of the system. The functional level of detail uses dynamic phasors to cover dynamic effects in the models. The modeling mode can currently be switched on a per-component basis via a parameter.
+Additionally, the EPSL enables the description of harmonics of the fundamental AC frequency, which can be either constant or variable. Currently the AC components are either single or three-phased, whereas other phase numbers would be straight-forward to be added due to the generic modeling approach of components.
+As an example, part of a generic aircraft electric power system architecture, proposed and studied within the MOET european project [MOET06], is modeled using EPSL in Dymola.
+The power generation is realized thanks to the aircraft engines connected directly to Variable Frequency Starter Generators. The VFSGs convert the mechanical power into electrical power. The electrical power is then distributed to the consumers through High Voltage AC bus bar and DC bus bars.
+Typical loads on the system are, for example: Environmental Control System (ECS), Electro-Mechanical Actuators (EMA), Wing Icing Protection System.</p>
+
+<p><img src="EPSL-MOET.PNG" alt=""></p>
+
+<p>This architecture considers a large aircraft with four engines. The circuit associated to the first generator is illustrated in the figure above.</p>
+
+<p>[MOET06]	MOET Consortium Partners, More Open Electrical Technologies - Technical Report, 2006.</p>
+
+<p><em>This article is provided by Dr. Clément Coïc  (<a href="https://www.3ds.com/">Dassault Systèmes Deutschland GmbH</a>)</em></p>
+
+<h1 id="education-news">Education news</h1>
+
+<h2 id="training-courses-for-modelica-and-dymola-by-ltx-simulation-gmbh">Training Courses for Modelica and Dymola by LTX Simulation GmbH</h2>
+<p><img src="Training_LTXSimulation.png" width="550"></p>
+
+<p>In the upcoming months, LTX Simulation GmbH offers the following 2-day training classes for Dymola and Modelica in German language (in English on request) at our office in Munich:</p>
+
+<p><a href="http://www.ltx.de/download/Kurs_ModelicaDymola_LTXSimulation.pdf">Multi-domain modeling and simulation with Modelica and Dymola</a> (Prof. Martin Otter)<br>
+April 24 – 25, 2018</p>
+
+<p><a href="http://www.ltx.de/download/Kurs_EinfuehrungDymolaModelica_LTXSimulation.pdf">Introduction to Dymola and Modelica</a> (Leo Gall)<br>
+July 02 – 03, 2018</p>
+
+<p><a href="http://www.ltx.de/download/Kurs_VisualizationMultiBody_LTXSimulation.pdf">DLR Visualization Library and Modelica MultiBody</a> (Dr. Tobias Bellmann)<br>
+Autumn 2018, please contact us for next date</p>
+
+<p>We also offer in-house classes in German or English on request.
+If you are interested in special topics for your training (e.g. Model Calibration, OpenModelica, Modelica Synchronous State Machines), please contact us.</p>
+
+<p>Please visit <a href="http://kurse.ltx.de">our website</a> for more information or contact us at <a href="mailto:kurse@ltx.de">kurse@ltx.de</a>.</p>
+
+<p><em>This article is provided by Leo Gall <a href="http://www.ltx.de/">LTX Simulation GmbH</a></em></p>
+
+</section>
+{{</rawhtml>}}
