@@ -28,7 +28,7 @@ The Modelica and FMI Conferences are organized by the Modelica Association and a
 
 For each Modelica conference, a conference board is established. The conference board takes on the organizational duties of its specific conference and also serves editorial duties.
 
-To ensure alignment with the editorial policies of the Modelica conference proceedings at least 4 members of the Editorial board must be members of the conference board. Furthermore, the complete editorial board is given access to all the reviews and the conference boards decisions in order to conduct oversight. This access is unrestricted with the exception of personal conflicts of interest. The editorial board (listed below) is given the power to overrule any editorial decisions of the conference board with a qualified majority of 66% and a quorum of six.
+To ensure alignment with the editorial policies of the Modelica conference proceedings at least 4 members of the Editorial board must be members of the international conference board. Furthermore, the complete editorial board is given access to all the reviews and the conference boards decisions in order to conduct oversight. This access is unrestricted with the exception of personal conflicts of interest. The editorial board (listed below) is given the power to overrule any editorial decisions of the conference board with a qualified majority of two thirds and a quorum of six.
 
 The proceedings are published electronically with gold open access in the series [Linköping Electronic Conference Proceedings](https://ecp.ep.liu.se/index.php/modelica/issue/archive) (ISSN: 1650-3686, eISSN: 1650-3740).
 
@@ -50,7 +50,7 @@ The reviewers must have no conflict of interest with the authors of the reviewed
 
 Reviewers are obliged to mark their conflict of interest in the electronic review system before the papers are assigned. Paper are assigned with their authors visible. The reviewer remains anonymous to the author but the reviews can be seen by all other reviewers and members of the conference board that have no conflict of interest with the paper. Reviews remain stored in the electronic review system.
 
-The final decision on paper acceptance is with the conference board. The board may ask for additional reviews in unclear cases. The review score shall be the dominating factor for paper selection but the board may express its preferences in weighing between different topics. Board members are strictly obliged to abstain from any decision that conflicts their own interests.
+The final decision on paper acceptance is with the conference board. The board may ask for additional reviews in unclear cases. The result of the review shall be the dominating factor for paper selection but the board may express its preferences in weighing between different topics. Board members are strictly obliged to abstain from any decision that conflicts their own interests.
 
 Presentation material and slides are not subject to a peer-review process and may only be appended to the proceedings. This rules also holds true for other not peer-reviewed content such as industrial user presentations or invited keynote speaches.
 
@@ -85,11 +85,11 @@ The Editorial Board supervises the publication of the Modelica Conference Procee
 
 * [Prof. Martin Sjölund](https://www.ida.liu.se/~marsj/), Linköping University, Sweden.
 * [Prof. Francesco Casella](https://home.deib.polimi.it/casella/), Politecnico di Milano, Italy.
-* [Prof. Lars Mikelsons](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/imech/team/lars-mikelsons/), Augsburg University, Germany
+* [Prof. Lars Mikelsons](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/imech/team/lars-mikelsons/), University of Augsburg, Germany
 * [Prof. Luigi Vanfretti](https://faculty.rpi.edu/luigi-vanfretti), Rensselaer Polytechnic Institute, USA
 * [Prof. Yanfang Liu](https://www.researchgate.net/profile/Yf-Liu-3), Beihang University, China
-* [Prof. Arne Speerforck](https://www.tuhh.de/technische-thermodynamik/institut), Technical University Hamburg-Harburg, Germany
-* [Prof. Bernhard Bachmann](https://www.hsbi.de/personenverzeichnis/bernhard-bachmann), Universität Bielefeld, Germany
+* [Prof. Arne Speerforck](https://www.tuhh.de/technische-thermodynamik/institut), Technical University Hamburg, Germany
+* [Prof. Bernhard Bachmann](https://www.hsbi.de/personenverzeichnis/bernhard-bachmann), University of Applied Sciences and Art, Bielefeld, Germany
 * [Dr. Michael Wetter](https://eta.lbl.gov/people/michael-wetter), Lawrence Berkeley Lab, USA
 * [Dr. Dirk Zimmer](https://rmc.dlr.de/sr/de/staff/dirk.zimmer/), German Aerospace Center, Germany
 * [Dr. Rui Gao](https://www.linkedin.com/in/rui-gao-07b1151b/), Rigo Tech Co. Ltd, Japan
