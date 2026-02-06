@@ -25,4 +25,4 @@ Examples of both the vendor abstracts and ads can be found in the program for th
 The cost of these sponsorship levels is commensurate with the accompanying benefits: the price for the Gold sponsorship is $2250, while the cost of the Silver sponsorship is $1500.  
 Spnsors will be able to be purchase the sponsorship via a ticket on the conference website at Eventbrite, which will be up soon.
 
-We thank you for your continued support of the Modelica conferences and community in North America, and look forward to seeing you in Storrs, CT.
+We thank you for your continued support of the Modelica conferences and community in North America, and look forward to seeing you in Atlanta, GA.
