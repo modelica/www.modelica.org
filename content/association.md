@@ -136,7 +136,7 @@ The following licenses are used by the Modelica Association for material provide
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| Chairperson | [Dirk Zimmer](https://rmc.dlr.de/sr/en/staff/dirk.zimmer/) | [DLR-SR, Germany](https://www.dlr.de/) | [dirk.zimmer@dlr.de](mailto:dirk.zimmer@dlr.de) |
+| Chairperson | Dirk Zimmer | [DLR, Germany](https://www.dlr.de/) | [dirk.zimmer@dlr.de](mailto:dirk.zimmer@dlr.de) |
 | Vice-Chairperson | Martin Sjölund | Linköping University, Sweden | [martin.sjolund@liu.se](mailto:martin.sjolund@liu.se) |
 | Secretary | Rui Gao | [SimTek, China](https://en.simtek.cc/) | [rui.gao@simtek.cc](mailto:rui.gao@simtek.cc) |
 | Treasurer | Jonas Eborn | [Modelon, Sweden](http://www.modelon.com) | [jonas.eborn@modelon.com](mailto:jonas.eborn@modelon.com) |
@@ -147,7 +147,7 @@ The following licenses are used by the Modelica Association for material provide
 | --- | --- | --- | --- |
 | Marketing | Hubertus Tummescheit | [Model Based Innovation LLC, USA](https://modelbased.cloud) | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
 | Quality and Processes | [Francesco Casella](http://home.deib.polimi.it/casella/) | [Politecnico di Milano, Italy](https://www.polimi.it/) | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
-| Technology | [Martin Otter](https://martinotter.github.io/) | [DLR-SR, Germany](https://www.dlr.de/en/fk) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
+| Technology | [Martin Otter](https://martinotter.github.io/) | [DLR, Germany](https://www.dlr.de/en/fk) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
 | Project leader "Modelica Language"  | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
 | Project leader "Modelica Libraries" | [Francesco Casella](http://home.deib.polimi.it/casella/) | [Politecnico di Milano, Italy](https://www.polimi.it/) | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
 | Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haumer) | [OTH Regensburg, Germany](https://www.oth-regensburg.de/) | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de) |
