@@ -173,6 +173,7 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 - Prof. Francesco Casella, Politecnico di Milano, Italy
 - Prof. Lars Mikelsons, University of Augsburg, Germany
 - Dipl. Math. Christian Bertsch, Robert Bosch GmbH, Germany
+- Dr. Filip Ježek, First Faculty of Medicine, Charles University, Prague, Czech Republic
 - Dr. Hubertus Tummescheit, Model Based Innovation LLC, USA
 - Dr. Daeoh Kang, iVH, Korea
 - Prof. Martin Sjölund, Linköping University, Sweden
