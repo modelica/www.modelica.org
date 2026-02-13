@@ -182,10 +182,9 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 ## Local Organization
 - Ing. Milena Zeithamlová, [Action M Agency](https://web.action-m.com/?lang=en), Czech Republic
 - Bc. Eliáš Sýkora, DiS, Czech Republic
-- Contact for questions regarding local issues (accomodation, visa, etc): [modelica@action-m.com](mailto:modelica@action-m.com)
 
 ## Contacts
-Please contact the organizers on following emails regarding:
+Please do not hesitate to contact the organizers on following emails regarding:
 - local issues (registration, visa, etc.) [modelica@action-m.com](mailto:modelica@action-m.com) 
 - scientific issues   [modelica2027@modelica.org](mailto:modelica2027@modelica.org) 
 - partnership / sponsorship [partnersMC2027@modelica.org](mailto:partnersMC2027@modelica.org) 
