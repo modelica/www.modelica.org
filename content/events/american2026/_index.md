@@ -6,7 +6,7 @@ title: American Modelica and FMI Conference 2026
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/Modelica_and_FMI_Confernce_Logo-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="images/Modelica_and_FMI_Confernce_Logo-light.svg">
-  <img src="images/Modelica_and_FMI_Confernce_Logo-light.svg" alt="16th International Modelica & FMI Conference">
+  <img src="images/Modelica_and_FMI_Confernce_Logo-light.svg" alt="American Modelica and FMI Conference 2026">
 </picture>
 {{</rawhtml>}}
 
