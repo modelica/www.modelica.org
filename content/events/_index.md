@@ -3,20 +3,17 @@
 
 # Modelica and FMI Conference series
 
-
-
 ### Upcoming Conferences
 
- * The [**Asian Modelica Conference 2026**](asian2026)  will take place **Sept 21-22 2026** in **Hangzhou, China**. It is hosted by Beihang University and Nanjing Yuansi SimTek.
- * The [**American Modelica and FMI Conference 2026**](american2026) The conference will take place **Oct 12-14 2026** in **Atlanta, USA**. It is hosted by the Aerospace System Design Lab of Georgia Tech.
- * The [**17th International Modelica & FMI Conference**](modelica2027) will be held **Sept 20-22 2027 in Prague, Czech Republic**. It is co-hosted with [CSKI (Czech Society for Cybernetics and Informatics)](https://www.cski.cz/homepage/en). It is an in-person event held in English that is open for sponsorship positions.
+- [**American Modelica and FMI Conference 2026**](https://modelica.org/events/american2026/), Oct 12-14, 2026 in Atlanta, USA by [NAMUG](https://modelica.org) and [Modelica Association](https://modelica.org)
+- [**Asian Modelica & FMI Conference 2026**](https://modelica.org/events/asian2026/), Sep 21-22, 2026 in Hangzhou, China by [Beihang University](https://www.buaa.edu.cn/en/), [Nanjing Yuansi SimTek Co.](https://www.yuansi.com), and [Modelica Association](https://modelica.org)
+- [**17th International Modelica & FMI Conference**](https://modelica.org/events/modelica2027/), Sep 20-22, 2027 in Prague, Czech Republic by [CSKI](http://cski.cz) and [Modelica Association](https://modelica.org)
 
- ### Recent Conferences
+### Recent Conferences 
 
- * The [16th International Modelica & FMI Conference](/events/modelica2025/) took place in **Lucerne, Switzerland**, **Sep 8-10, 2025**. The event was organized by the [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch/en/) in cooperation with the [Modelica Association](https://modelica.org/association/). It was an in-person event held in English.
- * The [American Modelica Conference 2024](/events/american2024/) The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**.
- * The [Asian Modelica Conference 2024](/events/asian2024/) will take place at the **ICC Hotel in Jeju - Island** in South Korea from **December 12-13, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/).
-
+- [**American Modelica Conference 2024**](https://modelica.org/events/american2024/), Oct 14-16, 2024 in Storrs, USA by [University of Connecticut](https://www.uconn.edu)
+- [**Asian Modelica Conference 2024**](https://modelica.org/events/asian2024/), Dec 12-13, 2024 in Jeju Island, South Korea by [iVH](https://www.ivh-simulation.com) and [Modelica Association](https://www.modelica.org)
+- [**16th International Modelica & FMI Conference**](https://modelica.org/events/modelica2025/), Sep 8-10, 2025 in Lucerne, Switzerland by [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch) and [Modelica Association](https://www.modelica.org)
 
 ## Aim & Scope
 

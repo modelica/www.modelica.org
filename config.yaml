@@ -92,6 +92,13 @@ menu:
       parent: "events"
       weight: 3    
 
+    - pageRef: "related"
+      identifier: "related"
+      name: "Related Events"
+      url: "/events/related"
+      parent: "events"
+      weight: 4  
+
     - pageRef: "news"
       identifier: "news"
       name: "News"
