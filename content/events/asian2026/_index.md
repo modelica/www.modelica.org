@@ -181,7 +181,7 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
 We offer exhibition and sponsoring in 4 different options:
 
 |                                | Platinum (max 2)  |Gold          | Silver      | Logo(*)    |
-|-------------------------------:|:-----------------:|:------------:|------------:|:----------:|
+|-------------------------------:|:-----------------:|:------------:|:-----------:|:----------:|
 | Price in CNY                   | 150,000 CNY       | 100,000 CNY  | 50,000 CNY  | 38,000 CNY |
 | Exhibition booth               | 6m x 3m           | 3m x 2m      | 2m x 2m     | -          |
 | Speech (30min) at main hall    | Yes               | -            | -           | -          |
