@@ -3,7 +3,7 @@ title: New SSP Project Leader and Deputy
 date: 2025-11-20
 ---
 
-**New SSP Project Leader and Deputy of the SSP Project - Pierre Mai succeeds Jochen Köhler, and Robert Hällqvist is new deputy **
+## New SSP Project Leader and Deputy of the SSP Project - Pierre Mai succeeds Jochen Köhler, and Robert Hällqvist is new deputy
 
 The System Structure and Reparametrization (SSP) project members has elected Pierre Mai (PMSF IT Consulting Pierre R. Mai) as new project leader of the SSP project, and Robert Hällqvist (Saab) as his de deputy.
  
@@ -20,6 +20,6 @@ We want to thank him for his leadership and great contributions!
 
 Modelica Association Project System Structure and Parameterization (SSP)
 
-Website: [https://ssp-standard.org/)
+Website: [https://ssp-standard.org/](https://ssp-standard.org/)
 
-Email: [map-ssp_projectlead@googlegroups.com)
+Email: [map-ssp_projectlead@googlegroups.com](map-ssp_projectlead@googlegroups.com)
