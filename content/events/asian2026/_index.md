@@ -1,5 +1,5 @@
 ---
-title: Modelica and FMI Conference
+title: Asian Modelica & FMI Conference 2026
 ---
 
 {{<rawhtml>}}
