@@ -3,27 +3,17 @@
 
 # Modelica and FMI Conference series
 
-
-
 ### Upcoming Conferences
 
-| **Conference**                                          | **Date**              | **Location**               | **Organizers**                                                  | **Status**                |
-|-------------------------------------------------------|-----------------------|---------------------------|----------------------------------------------------------------|---------------------------|
-| [**American Modelica and FMI Conference 2026**](https://modelica.org/events/american2026/) | October 12-14, 2026   | Atlanta, USA              | [NAMUG](https://modelica.org), [Modelica Association](https://modelica.org) | Call for papers           |
-| [**Asian Modelica & FMI Conference 2026**](https://modelica.org/events/asian2026/)   | September 21-22, 2026 | Hangzhou, China           | [Beihang University](https://www.buaa.edu.cn/en/), [Nanjing Yuansi SimTek Co.](https://www.yuansi.com), [Modelica Association](https://modelica.org) | Call for papers           |
-| [**17th International Modelica & FMI Conference**](https://modelica.org/events/modelica2027/) | September 20-22, 2027 | Prague, Czech Republic    | [CSKI](http://cski.cz), [Modelica Association](https://modelica.org) | Call for sponsors         |
-
-
+- [**American Modelica and FMI Conference 2026**](https://modelica.org/events/american2026/), Oct 12-14, 2026 in Atlanta, USA by [NAMUG](https://modelica.org) and [Modelica Association](https://modelica.org)
+- [**Asian Modelica & FMI Conference 2026**](https://modelica.org/events/asian2026/), Sep 21-22, 2026 in Hangzhou, China by [Beihang University](https://www.buaa.edu.cn/en/), [Nanjing Yuansi SimTek Co.](https://www.yuansi.com), and [Modelica Association](https://modelica.org)
+- [**17th International Modelica & FMI Conference**](https://modelica.org/events/modelica2027/), Sep 20-22, 2027 in Prague, Czech Republic by [CSKI](http://cski.cz) and [Modelica Association](https://modelica.org)
 
 ### Recent Conferences 
 
-| **Conference**                                          | **Date**              | **Location**               | **Organizers**                                                  | **Status**                |
-|-------------------------------------------------------|-----------------------|---------------------------|----------------------------------------------------------------|---------------------------|
-| [**American Modelica Conference 2024**](https://modelica.org/events/american2024/) | October 14-16, 2024   | Storrs, USA               | [University of Connecticut](https://www.uconn.edu)            | Proceedings available      |
-| [**Asian Modelica Conference 2024**](https://modelica.org/events/asian2024/)   | December 12-13, 2024  | Jeju Island, South Korea   | [iVH](https://www.ivh-simulation.com), [Modelica Association](https://www.modelica.org) | Proceedings available      |
-| [**16th International Modelica & FMI Conference**](https://modelica.org/events/modelica2025/) | September 8-10, 2025  | Lucerne, Switzerland      | [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch), [Modelica Association](https://www.modelica.org) | Proceedings available      |
-
-
+- [**American Modelica Conference 2024**](https://modelica.org/events/american2024/), Oct 14-16, 2024 in Storrs, USA by [University of Connecticut](https://www.uconn.edu)
+- [**Asian Modelica Conference 2024**](https://modelica.org/events/asian2024/), Dec 12-13, 2024 in Jeju Island, South Korea by [iVH](https://www.ivh-simulation.com) and [Modelica Association](https://www.modelica.org)
+- [**16th International Modelica & FMI Conference**](https://modelica.org/events/modelica2025/), Sep 8-10, 2025 in Lucerne, Switzerland by [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch) and [Modelica Association](https://www.modelica.org)
 
 ## Aim & Scope
 
