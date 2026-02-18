@@ -17,8 +17,9 @@ It will take place at the high-tech city of **Hangzhou, China from September 21-
 It is organized by the [Beihang University (at Hangzhou campus)](https://zfaien.buaa.edu.cn/About_Us/Overview.htm) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
 This is the first visit of the conference series in China.
 
-<!-- {{< toc >}} -->
 ![Hangzhou West Lake](images/Westlake.png)
+
+{{< toc >}}
 
 <!--
 ## Sponsors
