@@ -455,25 +455,25 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
 
 ### Conference Board
 
-- Prof. Shichun Yang, Beihang University, Conference Co-Chair
-- Dr. Rui Gao, Nanjing Yuansi SimTek., Co., Ltd., Conference Co-Chair
-- Dr. Dirk Zimmer, German Aerospace Center (DLR), Germany, Conference Co-Chair
-- Prof. Martin Sjolund, Linköping University, Sweden, Editorial Chair
-- Prof. Haiying Lin, Beihang University, Local Arrangement Co-Chair
-- Dr. Jian Wang, Beihang University, Local Arrangement Co-Chair
-- Prof. Yanfang Liu, Beihang University, Program Chair
-- Prof. WeiLin Li, Northwestern Polytechnical University, Publicity Co-Chair
-- Dr. OU Haiying, China SAE Automobile Model Digital Engineering Branch, Publicity Co-Chair
-- Dr. Hong Lü, China General Nuclear Power Corporation(CGN), Publicity Co-Chair
+- **Prof. Shichun Yang**, Beihang University, Conference Co-Chair
+- **Dr. Rui Gao**, Nanjing Yuansi SimTek., Co., Ltd., Conference Co-Chair
+- **Dr. Dirk Zimmer**, German Aerospace Center (DLR), Germany, Conference Co-Chair
+- **Prof. Martin Sjolund**, Linköping University, Sweden, Editorial Chair
+- **Prof. Haiying Lin**, Beihang University, Local Arrangement Co-Chair
+- **Dr. Jian Wang**, Beihang University, Local Arrangement Co-Chair
+- **Prof. Yanfang Liu**, Beihang University, Program Chair
+- **Prof. WeiLin Li**, Northwestern Polytechnical University, Publicity Co-Chair
+- **Dr. OU Haiying**, China SAE Automobile Model Digital Engineering Branch, Publicity Co-Chair
+- **Dr. Hong Lü**, China General Nuclear Power Corporation(CGN), Publicity Co-Chair
 
 ### Conference Advisory Board
 
-- Prof. Lin Zhang, Beihang University, China
-- Dipl.-Math. Christian Bertsch, Robert Bosch GmbH, Germany
-- Dr. Yutaka Hirano, Hirano research Laboratory, Japan
-- Dr. Dai Araki, Toshiba Digital Solution, Japan
-- Dr. Daeoh Kang, iVH, Korea
-- Prof. Tielong Shen, Dalian Univ. of Technology & Emeritus Professor (Sophia Univ.)
+- **Prof. Lin Zhang**, Beihang University, China
+- **Dipl.-Math. Christian Bertsch**, Robert Bosch GmbH, Germany
+- **Dr. Yutaka Hirano**, Hirano research Laboratory, Japan
+- **Dr. Dai Araki**, Toshiba Digital Solution, Japan
+- **Dr. Daeoh Kang**, iVH, Korea
+- **Prof. Tielong Shen**, Dalian Univ. of Technology & Emeritus Professor (Sophia Univ.)
   
 <!--
 - Dr. Aiguo Xu, Nanjing Yuansi SimTek., Co., Ltd. China
