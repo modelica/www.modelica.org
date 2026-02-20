@@ -515,7 +515,7 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
   <div class="col">
     <a href="https://xrg-simulation.de/en" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
-        <img src="images/XRG_Logo 2015_4c.svg" alt="XRG"/>
+        <img src="images/XRG_Logo2015_4c.svg" alt="XRG"/>
       </div>
     </a>
   </div>
