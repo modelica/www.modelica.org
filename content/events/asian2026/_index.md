@@ -449,15 +449,15 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
 <div class="row row-cols-2 row-cols-md-4 g-4">
 
   <div class="col">
-    <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 5rem; padding: 1rem">
+    <a href="https://zfaien.buaa.edu.cn/About_Us/Overview.htm" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
             <img src="images/Beihang.png" alt="Beihang University"/>
       </div>
     </a>
   </div>
 
   <div class="col">
-    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
+    <a href="https://en.simtek.cc" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
         <img src="images/SIMTEK.png" alt="Simtek"/>
       </div>
@@ -473,8 +473,8 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
 <div class="row row-cols-2 row-cols-md-4 g-4">
 
   <div class="col">
-    <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 5rem; padding: 1rem">
+    <a href="https://www.cgnpc.com.cn/cgn/c100992/lm_tt_four.shtml" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
             <img src="images/StateLab_303_22.jpg" alt="Nuclear Safety State Lab"/>
       </div>
     </a>
@@ -529,7 +529,7 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
 <div class="row row-cols-2 row-cols-md-4 g-4">
 
   <div class="col">
-    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
+    <a href="https://www.tlk-thermo.com/en/" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
         <img src="images/TLK-Thermo_Logo.svg" alt="TLK Thermo"/>
       </div>
@@ -591,7 +591,7 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
 {{</rawhtml>}}
 -->
 
-### Conference Board
+## Conference Board
 
 - **Prof. Shichun Yang**, Beihang University, Conference Co-Chair
 - **Dr. Rui Gao**, Nanjing Yuansi SimTek., Co., Ltd., Conference Co-Chair
