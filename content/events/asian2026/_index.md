@@ -22,112 +22,6 @@ This is the first visit of the conference series in China.
 {{< toc >}}
 
 
-## Sponsors
-
-Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the conference organizers for more information.
-
-<!--
-### Platinum
-
-{{<rawhtml>}}
-<div class="row row-cols-2 row-cols-md-4 g-4">
-
-  <div class="col">
-    <a href="https://www.ltx.de/english.html" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
-        <img src="images/LTX.svg" alt="LTX"/>
-      </div>
-    </a>
-  </div>
-
-</div>
-{{</rawhtml>}}
--->
-
-### Gold
-
-{{<rawhtml>}}
-<div class="row row-cols-2 row-cols-md-4 g-4">
-
-  <div class="col">
-    <a href="https://xrg-simulation.de/en" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
-        <img src="images/XRG.png" alt="XRG"/>
-      </div>
-    </a>
-  </div>
-  
-</div>
-{{</rawhtml>}}
-
-### Silver
-
-{{<rawhtml>}}
-<div class="row row-cols-2 row-cols-md-4 g-4">
-
-  <div class="col">
-    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/TLK-Thermo_Logo.svg" alt="TLK Thermo"/>
-      </div>
-    </a>
-  </div>
-
-</div>
-
-{{</rawhtml>}}
-
-<!--
-### Bronze
-
-{{<rawhtml>}}
-<div class="row row-cols-2 row-cols-md-4 g-4">
-
-  <div class="col">
-    <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-            <img src="images/JuliaHub.svg" alt="JuliaHub"/>
-      </div>
-    </a>
-  </div>
-
-  <div class="col">
-    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/WolframResearch.svg" alt="Wolfram Research"/>
-      </div>
-    </a>
-  </div>
-
-  <div class="col">
-    <a href="https://openmodelica.org" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/OMlogo.svg" alt="Open Modelica"/>
-      </div>
-    </a>
-  </div>
-
-  <div class="col">
-    <a href="https://www.asam.net/" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/asam-logo.svg" alt="ASAM eV"/>
-      </div>
-    </a>      
-  </div>
-
-  <div class="col">
-    <a href="https://www.claytex.com/" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/Claytex-logo-RGB-blue-pos.svg" alt="CLAYTEX Services Ltd"/>
-      </div>
-    </a>      
-  </div>
-
-</div>
-
-{{</rawhtml>}}
--->
-
 ## About the Conference
 
 The Modelica & FMI conference will bring together people using Modelica and/or other Modelica Association standards for modeling, simulation, and control applications, such as Modelica language designers, tool vendors and library developers. The Modelica Conference provides Modelica users with the opportunity to stay informed about the latest language, library, and tool developments, and to get in touch with people working on similar modeling problems. 
@@ -589,6 +483,113 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
 </div>
 
 {{</rawhtml>}}
+
+
+## Sponsors
+
+Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the conference organizers for more information.
+
+<!--
+### Platinum
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://www.ltx.de/english.html" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+        <img src="images/LTX.svg" alt="LTX"/>
+      </div>
+    </a>
+  </div>
+
+</div>
+{{</rawhtml>}}
+-->
+
+### Gold
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://xrg-simulation.de/en" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+        <img src="images/XRG.png" alt="XRG"/>
+      </div>
+    </a>
+  </div>
+  
+</div>
+{{</rawhtml>}}
+
+### Silver
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/TLK-Thermo_Logo.svg" alt="TLK Thermo"/>
+      </div>
+    </a>
+  </div>
+
+</div>
+
+{{</rawhtml>}}
+
+<!--
+### Bronze
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+            <img src="images/JuliaHub.svg" alt="JuliaHub"/>
+      </div>
+    </a>
+  </div>
+
+  <div class="col">
+    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/WolframResearch.svg" alt="Wolfram Research"/>
+      </div>
+    </a>
+  </div>
+
+  <div class="col">
+    <a href="https://openmodelica.org" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/OMlogo.svg" alt="Open Modelica"/>
+      </div>
+    </a>
+  </div>
+
+  <div class="col">
+    <a href="https://www.asam.net/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/asam-logo.svg" alt="ASAM eV"/>
+      </div>
+    </a>      
+  </div>
+
+  <div class="col">
+    <a href="https://www.claytex.com/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/Claytex-logo-RGB-blue-pos.svg" alt="CLAYTEX Services Ltd"/>
+      </div>
+    </a>      
+  </div>
+
+</div>
+
+{{</rawhtml>}}
+-->
 
 ### Conference Board
 
