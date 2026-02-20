@@ -450,7 +450,7 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
 
   <div class="col">
     <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 5rem; padding: 1rem">
             <img src="images/Beihang.png" alt="Beihang University"/>
       </div>
     </a>
@@ -474,7 +474,7 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
 
   <div class="col">
     <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 5rem; padding: 1rem">
             <img src="images/StateLab_303_22.jpg" alt="Nuclear Safety State Lab"/>
       </div>
     </a>
