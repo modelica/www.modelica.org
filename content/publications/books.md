@@ -45,6 +45,15 @@ title: Books
 >}}
 
 {{< book 
+    name="Thinking in Systems, Not Code" 
+    author="Ankit Anurag Naik"
+    year="2026"
+    link="https://www.amazon.com/Thinking-Systems-Not-Code-Understand/dp/915318176X/"
+    image="/images/books/naik2026.png"
+    description="Thinking in Systems, Not Code: Using Modelica to Model and Understand Complex Systems presents Modelica as more than a programming language—it introduces a system-level way of thinking about modeling and simulation. Rather than focusing on syntax, the book explains how complex systems are framed through structure, boundaries, and physical relationships, and how behavior emerges from interacting components. Using examples from energy systems, electric vehicles, thermal and fluid systems, and system dynamics with stocks, flows, and feedback loops, it shows how equation-based, acausal modeling enables reusable, scalable, and domain-independent models. The book is suitable both for engineers new to Modelica who want to understand the underlying modeling philosophy, and for experienced users interested in a deeper perspective on model structure, abstraction, and how modern Modelica tools transform equations into executable simulations."
+>}}
+
+{{< book 
     name="Multi-physics Modeling of Technological Systems" 
     author="Marc Budinger, Ion Hazyuk, Clément Coïc"
     year="2018"
