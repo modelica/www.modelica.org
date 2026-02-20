@@ -180,25 +180,24 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
 
 We offer exhibition and sponsoring in 4 different options:
 
-|                                | Platinum (max 2)  |Gold          | Silver      | Logo(*)    |
+|                                | Platinum (max 2)  |Gold          | Silver      | Bronze     |
 |-------------------------------:|:-----------------:|:------------:|:-----------:|:----------:|
-| Price in CNY                   | 150,000 CNY       | 100,000 CNY  | 50,000 CNY  | 38,000 CNY |
-| Exhibition booth               | 6m x 3m           | 3m x 2m      | 2m x 2m     | -          |
+| Price in CNY                   | 150,000 CNY       | 100,000 CNY  | 50,000 CNY  | 25,000 CNY |
+| Exhibition booth               | 6m x 3m           | 4m x 3m      | 3m x 2m     | 2m x 2m    |
 | Speech (30min) at main hall    | Yes               | -            | -           | -          |
-| Vendor session (25min)         | Yes               | Yes          | -           | -          |
+| Vendor session (25min)         | Yes               | Yes          | *           | *          |
 | Workshop (120min on Sep 20)    | Yes               | Yes          | Yes         | -          |
-| Free Tickets                   | 6                 | 4            | 2           | 2          |
+| Free Tickets                   | 6                 | 4            | 2           | 1          |
 | Company logo on Web + Print    | Yes               | Yes          | Yes         | Yes        |
 | Banners in banquet hall        | 2                 | 1            | 1           | 1          |
 | VIP Speech (10 min) at banquet | Yes               | -            | -           | -          |
 
 Vendor presentation get the opportunity to present their products. Platinum and Gold sponsors qualify for a vendor presentation. Workshop shall have a tutorial character and are placed a day before the conference. The production of banners is up to the sponsor and not included in the sponsoring deal.
 
-<!--
-As stated in the sponsoring agreement, time slots for sponsoring/vendor presentations are reserved for Platinum and Gold sponsors, while Silver sponsors may receive a slot based on availability. Presentations are reviewed by the Conference Board to ensure they align with Modelica, FMI, and related standards (including tools, libraries, IDEs, and other supporting technologies).
+Time slots for sponsoring/vendor presentations are reserved for Platinum and Gold sponsors, while Silver sponsors and Bronze may receive a slot based on availability. Presentations are reviewed by the Conference Board to ensure they align with Modelica, FMI, and related standards (including tools, libraries, IDEs, and other supporting technologies).
 
-Sponsors eligible for a presentation slot can submit their proposals to modelica25@modelica.org.
--->
+Sponsors eligible for a presentation slot can submit their proposals to modelica26asia@modelica.org.
+
 
 <!--
 The 16th International Conference will be the first in Switzerland, which hosts a very interesting market for modeling and simulation tools. In recent years, the Swiss economy has re-focused on its production and engineering sector, which is highly specialized and export-oriented. Whereas many European states shrank their industrial production in the last decade, Switzerland maintained [healthy growth](https://www.focus-economics.com/country-indicator/switzerland/industry/) in this important metric. Its economy is one of the [freest world-wide](https://www.heritage.org/index/pages/country-pages/switzerland), and almost 99% of all enterprises represent SMEs, reflecting the specialized nature of its industry. Classic system modeling and simulation have now become increasingly important for many of these SMEs. 
