@@ -537,7 +537,7 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
   </div>
 
   <div class="col">
-    <a href="https://www.catarc-adc.com/" target="_blank" style="pointer-events: auto;">
+    <a href="https://www.catarc-adc.com/zyyw/gyrj" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
         <img src="images/CATARC.png" alt="CATARC"/>
       </div>
