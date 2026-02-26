@@ -481,7 +481,7 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
   </div>
 
     <div class="col">
-    <a href="https://en.sae-china.org/" target="_blank" style="pointer-events: auto;">
+    <a href="https://www.sae-china.org/branch/383" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
             <img src="images/ChinaSAE.jpg" alt="Nuclear Safety State Lab"/>
       </div>
