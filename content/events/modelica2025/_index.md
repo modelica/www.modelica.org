@@ -1,5 +1,5 @@
 ---
-title: Modelica and FMI Conference
+title: Modelica & FMI Conference 2025
 ---
 
 {{<rawhtml>}}

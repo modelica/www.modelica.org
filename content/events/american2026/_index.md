@@ -1,16 +1,16 @@
 ---
-title: American Modelica and FMI Conference 2026
+title: American Modelica & FMI Conference 2026
 ---
 
 {{<rawhtml>}}
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/american-2026-logo-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="images/american-2026-logo-light.svg">
-  <img src="images/american-2026-logo-light.svg" alt="American Modelica and FMI Conference 2026">
+  <img src="images/american-2026-logo-light.svg" alt="American Modelica & FMI Conference 2026">
 </picture>
 {{</rawhtml>}}
 
-The **American Modelica and FMI Conference 2026** will be an in-person conference event. 
+The **American Modelica & FMI Conference 2026** will be an in-person conference event. 
 The conference will take place at the **Georgia Institute of Technology** in the [Aerospace Design Laboratory](https://www.asdl.gatech.edu/) 
 from **October 12–14, 2026**. It is organized by [NAMUG](https://namug.org/), the North American Modelica Users Group, 
 in cooperation with the [Modelica Association](/association/). Join us in person in Atlanta!
@@ -21,7 +21,7 @@ in cooperation with the [Modelica Association](/association/). Join us in person
 
 ## About the Conference
 
-The Modelica and FMI Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and 
+The Modelica & FMI Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and 
 industrial progress related to [Modelica](/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), [eFMI](http://efmi-standard.org/), [DCP](https://dcp-standard.org/)
 and methods and tools for equation oriented languages. Please take a look at the [Call for Papers](cfp) if you are interested in submitting.
 
@@ -72,8 +72,8 @@ Development in the Modelica Association is organized in [Modelica Association Pr
 
 These projects collaborate to design and maintain a set of coordinated standards for modeling and simulation of complex physical systems.
 
-The Modelica and FMI conference will bring together people using Modelica and/or other Modelica Association standards for modeling, simulation, and control applications, 
-such as Modelica language designers, tool vendors and library developers. The Modelica and FMI Conference provides Modelica users with the opportunity to stay informed about the latest 
+The Modelica & FMI Conference will bring together people using Modelica and/or other Modelica Association standards for modeling, simulation, and control applications, 
+such as Modelica language designers, tool vendors and library developers. The Modelica & FMI Conference provides Modelica users with the opportunity to stay informed about the latest 
 language, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference will cover topics such as the following:
 
  *	Multi-engineering modeling and simulation with Modelica or other equation-oriented modeling languages (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, …)

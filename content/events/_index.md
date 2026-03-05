@@ -1,11 +1,11 @@
 ---
 ---
 
-# Modelica and FMI Conference series
+# Modelica & FMI Conference series
 
 ### Upcoming Conferences
 
-- [**American Modelica and FMI Conference 2026**](https://modelica.org/events/american2026/), Oct 12-14, 2026 in Atlanta, USA by [NAMUG](https://modelica.org) and [Modelica Association](https://modelica.org)
+- [**American Modelica & FMI Conference 2026**](https://modelica.org/events/american2026/), Oct 12-14, 2026 in Atlanta, USA by [NAMUG](https://modelica.org) and [Modelica Association](https://modelica.org)
 - [**Asian Modelica & FMI Conference 2026**](https://modelica.org/events/asian2026/), Sep 21-22, 2026 in Hangzhou, China by [Beihang University](https://www.buaa.edu.cn/en/), [Nanjing Yuansi SimTek Co.](https://www.yuansi.com), and [Modelica Association](https://modelica.org)
 - [**17th International Modelica & FMI Conference**](https://modelica.org/events/modelica2027/), Sep 20-22, 2027 in Prague, Czech Republic by [CSKI](http://cski.cz) and [Modelica Association](https://modelica.org)
 
@@ -17,11 +17,11 @@
 
 ## Aim & Scope
 
-The **International Modelica and FMI Conference series** explores the frontier of science and technology to model and simulate complex physical and cyber-physical systems for a wide range of research and industrial applications. It is the largest and main impacting event for application specialists, developers of model libraries and simulation software, as well as language designers of the [equation based modeling language Modelica](https://www.modelica.org/) and related technology such as the [Functional Mockup Interface](https://fmi-standard.org/) (to exchange or co-simulate dynamic models). In particular, the conference covers topics such as symbolic algorithms and numerical methods to simulate equation-based, object-oriented models for design optimization, real-time simulation, and model-based control, in automotive, aircraft, space, robotic, energy systems and other areas. The conference embraces also other standards of the Modelica Association such as [SSP](https://ssp-standard.org/) or [eFMI](https://www.efmi-standard.org/) as weel as the interaction of other tools with these standards.
+The **International Modelica & FMI Conference series** explores the frontier of science and technology to model and simulate complex physical and cyber-physical systems for a wide range of research and industrial applications. It is the largest and main impacting event for application specialists, developers of model libraries and simulation software, as well as language designers of the [equation based modeling language Modelica](https://www.modelica.org/) and related technology such as the [Functional Mockup Interface](https://fmi-standard.org/) (to exchange or co-simulate dynamic models). In particular, the conference covers topics such as symbolic algorithms and numerical methods to simulate equation-based, object-oriented models for design optimization, real-time simulation, and model-based control, in automotive, aircraft, space, robotic, energy systems and other areas. The conference embraces also other standards of the Modelica Association such as [SSP](https://ssp-standard.org/) or [eFMI](https://www.efmi-standard.org/) as weel as the interaction of other tools with these standards.
 
 ## Rules and Governing Body
 
-The Modelica and FMI Conferences are organized by the Modelica Association and a local organizer. The local organizer is selected by the board of the Modelica Association for each event. The Modelica Association has 50% ownership for the financial responsibilities. A steering committee from the Modelica Association (see below) supervises the conference organization and guarantees the high scientific level of the conference.
+The Modelica & FMI Conferences are organized by the Modelica Association and a local organizer. The local organizer is selected by the board of the Modelica Association for each event. The Modelica Association has 50% ownership for the financial responsibilities. A steering committee from the Modelica Association (see below) supervises the conference organization and guarantees the high scientific level of the conference.
 
 For each Modelica conference, a conference board is established. The conference board takes on the organizational duties of its specific conference and also serves editorial duties.
 
@@ -64,7 +64,7 @@ The authors of the papers keep their copyright and all rights on their paper and
 
 To be accepted for publication in the conference proceedings, the paper must have succesfully undergone the peer review process and must have been presented by a registered participant at the corresponding conference.
 
-Authors are not required to pay any fees for submitting or publishing their papers in the Modelica and FMI Conference Proceedings. The Modelica Association covers all publication costs to ensure that the proceedings are available as gold open access. This policy reflects the Association's commitment to supporting the dissemination of knowledge without financial barriers.
+Authors are not required to pay any fees for submitting or publishing their papers in the Modelica & FMI Conference Proceedings. The Modelica Association covers all publication costs to ensure that the proceedings are available as gold open access. This policy reflects the Association's commitment to supporting the dissemination of knowledge without financial barriers.
 
 ## Author Guidelines
 
