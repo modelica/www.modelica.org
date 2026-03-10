@@ -102,13 +102,16 @@ language, library, and tool developments, and to get in touch with people workin
 
 ## Call for papers, user presentations and tutorials
 
-Please see the [call for papers](cfp) for details about paper submissions, and the calls for [industrial user presentations](cfp), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
+Please see the [call for papers](cfp) for details about paper submissions, and the calls for [industrial user presentations](cfp) and [submission on Easychair](https://easychair.org/my2/conference?conf=namugamc2026), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:  
 
-- May 1, 2026 Submission of full papers
+- May 1, 2026 Submission of [full papers on Easychair](https://easychair.org/my2/conference?conf=namugamc2026)
 - June 1, 2026 Submission of extended abstracts for presentation-only contributions, [workshops and tutorials](https://docs.google.com/forms/d/e/1FAIpQLSelZCdRQzg8qHhTdjf_J39wCVQMR2H2WHQDR6GLfcur25gK7g/viewform?usp=header)
 <!-- - August 10, 2024 Notification of acceptance for papers and presentations 
 - August 30th, 2026 Submission of final papers and one-page abstracts
 - October 7th, 2026 Submission of final presentations -->
+
+## Registration
+Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registereing as spnosors and buying a sponsorship ticket. 
 
 ## Organization and Contact
 
