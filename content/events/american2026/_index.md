@@ -111,7 +111,7 @@ Please see the [call for papers](cfp) for details about paper submissions, and t
 - October 7th, 2026 Submission of final presentations -->
 
 ## Registration
-Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registereing as spnosors and buying a sponsorship ticket. 
+Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registereing as sponsors by buying a sponsorship ticket. 
 
 ## Organization and Contact
 
