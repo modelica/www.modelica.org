@@ -4,13 +4,11 @@ title: Asian Modelica & FMI Conference 2026
 
 {{<rawhtml>}}
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="images/asian-2026-logo-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="images/asian-2026-logo-dark.png">
-  <img src="images/asian-2026-logo-dark.png" alt="Asian Modelica & FMI Conference 2026">
+  <source media="(prefers-color-scheme: light)" srcset="images/asian-2026-logo-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/asian-2026-logo-dark.svg">
+  <img src="images/asian-2026-logo-light.svg" alt="Asian Modelica & FMI Conference 2026">
 </picture>
 {{</rawhtml>}}
-
-# Asian Modelica & FMI Conference 2026
 
 We announce the **Asian Modelica & FMI Conference 2026**.
 It will take place at the high-tech city of **Hangzhou, China from September 21-22, 2026** also famous of its stunning west lake scenery.
