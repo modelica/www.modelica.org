@@ -5,15 +5,15 @@
 
 ### Upcoming Conferences
 
-- [**American Modelica & FMI Conference 2026**](https://modelica.org/events/american2026/), Oct 12-14, 2026 in Atlanta, USA by [NAMUG](https://modelica.org) and [Modelica Association](https://modelica.org)
-- [**Asian Modelica & FMI Conference 2026**](https://modelica.org/events/asian2026/), Sep 21-22, 2026 in Hangzhou, China by [Beihang University](https://www.buaa.edu.cn/en/), [Nanjing Yuansi SimTek Co.](https://www.yuansi.com), and [Modelica Association](https://modelica.org)
-- [**17th International Modelica & FMI Conference**](https://modelica.org/events/modelica2027/), Sep 20-22, 2027 in Prague, Czech Republic by [CSKI](http://cski.cz) and [Modelica Association](https://modelica.org)
+- [**American Modelica & FMI Conference 2026**](/events/american2026/), Oct 12-14, 2026 in Atlanta, USA by [NAMUG](https://namug.org/) and [Modelica Association](/association/)
+- [**Asian Modelica & FMI Conference 2026**](/events/asian2026/), Sep 21-22, 2026 in Hangzhou, China by [Beihang University](https://www.buaa.edu.cn/en/), [Nanjing Yuansi SimTek Co.](https://www.yuansi.com), and [Modelica Association](https://modelica.org)
+- [**17th International Modelica & FMI Conference**](/events/modelica2027/), Sep 20-22, 2027 in Prague, Czech Republic by [CSKI](http://cski.cz) and [Modelica Association](https://modelica.org)
 
 ### Recent Conferences 
 
-- [**American Modelica Conference 2024**](https://modelica.org/events/american2024/), Oct 14-16, 2024 in Storrs, USA by [University of Connecticut](https://www.uconn.edu)
-- [**Asian Modelica Conference 2024**](https://modelica.org/events/asian2024/), Dec 12-13, 2024 in Jeju Island, South Korea by [iVH](https://www.ivh-simulation.com) and [Modelica Association](https://www.modelica.org)
-- [**16th International Modelica & FMI Conference**](https://modelica.org/events/modelica2025/), Sep 8-10, 2025 in Lucerne, Switzerland by [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch) and [Modelica Association](https://www.modelica.org)
+- [**American Modelica Conference 2024**](/events/american2024/), Oct 14-16, 2024 in Storrs, USA by [University of Connecticut](https://www.uconn.edu)
+- [**Asian Modelica Conference 2024**](/events/asian2024/), Dec 12-13, 2024 in Jeju Island, South Korea by [iVH](https://www.ivh-simulation.com) and [Modelica Association](https://www.modelica.org)
+- [**16th International Modelica & FMI Conference**](/events/modelica2025/), Sep 8-10, 2025 in Lucerne, Switzerland by [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch) and [Modelica Association](https://www.modelica.org)
 
 ## Aim & Scope
 
@@ -72,7 +72,7 @@ Authors shall use the [LaTeX template](https://github.com/modelica-association/c
 
 The Word template contains some wording specific to LaTeX packages; when drafting a document in Word, please make the contents look similar to what the LaTeX templates produce.
 
-Authors shall create their submission according to the [Modelica Formatting Guidelines](https://modelica.org/events/american2024/formatting/).
+Authors shall create their submission according to the [Modelica Formatting Guidelines](/events/american2024/formatting/).
 
 
 
@@ -102,7 +102,7 @@ In case of general inquiries for Modelica Conferences, send an email to the Mode
 ## All International Modelica & FMI Conference Proceedings
 
 Conference proceedings of the Modelica conference series (since year 2009, the conference proceedings are published by Linköping University Press; before they were published on the Modelica Association web).
-* [Proceedings](https://doi.org/10.3384/ecp218) of the [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/), Lucerne, Switzerland, September 8-19, 2025.
+* [Proceedings](https://doi.org/10.3384/ecp218) of the [16th International Modelica & FMI Conference](/events/modelica2025/), Lucerne, Switzerland, September 8-19, 2025.
 * [Proceedings](https://doi.org/10.3384/ecp204) of the [15th International Modelica Conference 2023](https://2023.international.conference.modelica.org/), Aachen, Germany, October 9-11, 2023.
 * [Proceedings](https://doi.org/10.3384/ecp21181) of the [14th International Modelica Conference 2021](https://2021.international.conference.modelica.org/), fully remote event, September 20–24, 2021.
 * [Proceedings](https://doi.org/10.3384/ecp19157) of the [13th International Modelica Conference 2019](https://2019.international.conference.modelica.org/), Regensburg, Germany, March 4-6, 2019.
