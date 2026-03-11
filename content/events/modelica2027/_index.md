@@ -4,14 +4,11 @@ title: Modelica & FMI Conference 2027
 
 {{<rawhtml>}}
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.modelicaprague.cz/images/logos/ModelicaAndFMI_darkScheme.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.modelicaprague.cz/images/logos/ModelicaAndFMI.svg">
-  <img src="https://www.modelicaprague.cz/images/logos/ModelicaAndFMI.svg" alt="17th International Modelica & FMI Conference">
-  
+  <source media="(prefers-color-scheme: light)" srcset="images/modelica-2027-logo-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/modelica-2027-logo-dark.svg">
+  <img src="images/modelica-2027-logo-light.svg" alt="17th International Modelica & FMI Conference">
 </picture>
-<h1 style="text-align:center; color: #cc173a;" class="mb-5">Prague, Czech Republic, September 20-22, 2027</h1>
 {{</rawhtml>}}
-
 
 We are glad to announce the **17th International Modelica & FMI Conference**.
 It will be held at **Clarion Congress Hotel Prague, Czech Republic, September 20–22, 2027**.
