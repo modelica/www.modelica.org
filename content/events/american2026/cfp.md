@@ -2,7 +2,7 @@
 
 American Modelica & FMI Conference **2026 - October 12-14, 2026**  - Submission Deadline **May 1, 2026**
 
-The Modelica and FMI Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to Modelica, FMI, SSP, eFMI and DCP. The program will cover processes and tools for the modeling of complex physical and cyber-physical systems as applied to a wide range of research and industrial applications. 
+The Modelica & FMI Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to Modelica, FMI, SSP, eFMI and DCP. The program will cover processes and tools for the modeling of complex physical and cyber-physical systems as applied to a wide range of research and industrial applications. 
 
 We invite you to participate in the 2026 American Modelica & FMI Conference, to be held in Atlanta, GA at the Aerospace Systems Design Laboratory. The event will feature both technical presentations of peer-reviewed papers and industrial user presentations without a paper that focus on application aspects interesting to the community. 
 

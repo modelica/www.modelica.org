@@ -1,5 +1,5 @@
  ---
-title: Modelica and FMI Conference 2027
+title: Modelica & FMI Conference 2027
 ---
 
 {{<rawhtml>}}
@@ -118,6 +118,7 @@ Please note that purely tool-related presentations are not permitted for these a
 ------------------------------------
 
 ## Call for Tutorials
+
 At the Modelica Conference, several tutorials will be held in parallel. Each tutorial will a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
 
 Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations which will be announced at a later date as a part of Call for Sponsors. The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
@@ -167,6 +168,7 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 ------------------------------------
 
 ### Conference Board
+
 - Doc. MUDr. Jiří Kofránek, CSc., Charles University, CSKI, Czech Republic (Honorary  Chair)
 - Mgr. Tomáš Kulhánek, Ph.D., VITO, Mol, Belgium (Local Conference Chair)
 - Dr. Dirk Zimmer, German Aerospace Center, Germany (Program Conference Chair)
@@ -180,12 +182,14 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 
 
 ## Local Organization
+
 - Ing. Milena Zeithamlová, [Action M Agency](https://web.action-m.com/?lang=en), Czech Republic
 - Bc. Eliáš Sýkora, DiS, Czech Republic
 
-## Contacts
-Please do not hesitate to contact the organizers on following emails regarding:
-- local issues (registration, visa, etc.) [modelica@action-m.com](mailto:modelica@action-m.com) 
-- scientific issues   [modelica2027@modelica.org](mailto:modelica2027@modelica.org) 
-- partnership / sponsorship [partnersMC2027@modelica.org](mailto:partnersMC2027@modelica.org) 
+## Contact
 
+Please do not hesitate to contact the organizers on following emails regarding:
+
+- local issues (registration, visa, etc.) [modelica@action-m.com](mailto:modelica@action-m.com) 
+- scientific issues [modelica2027@modelica.org](mailto:modelica2027@modelica.org) 
+- partnership / sponsorship [partnersMC2027@modelica.org](mailto:partnersMC2027@modelica.org) 
