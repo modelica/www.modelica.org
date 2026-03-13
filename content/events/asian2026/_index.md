@@ -67,6 +67,11 @@ You are encouraged to submit a full paper of at least 4 pages, with a maximum of
 - Real-time and hardware-in-the-loop applications; Code generation for embedded control systems
 - Use of Artificial Intelligence (AI) methods in simulation; SimToReal for AI training purposes
 - Applications of Modelica and FMI for optimization and control design
+- Modelica modeling, simulation and design tools
+- Symbolic algorithms and numerical methods for model transformation and simulation
+- Experimental language designs and implementations related to Modelica standards
+- Modelica in other application areas (mathematical programming, databases etc.)
+- Modelica for teaching and education
 
 Prospective authors of scientific presentations are encouraged to submit a full paper (minimum 4 pages, maximum 10 pages) addressing the aforementioned topics by April 30, 2026. Each submission will undergo peer review by no fewer than 3 independent reviewers.
 
