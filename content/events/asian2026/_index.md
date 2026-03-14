@@ -396,7 +396,7 @@ We recommend to book your room in the [Wyndham Garden Hotel Hangzhou Yuhang](htt
 
 - 2699 Yuhangtang Rd, Hangzhou, 311100, Zhejiang, China
 
-A welcome reception will be provided on the evening of September 20 and the conference banquet in the evening of September 21 will take place in this hotel. We also aim to provide a shuttle service to the conference venue.
+A welcome reception will be provided on the evening of September 20 and the conference banquet in the evening of September 21 will take place in this hotel. We also aim to provide a shuttle service to the conference venue. For international participants, there is no need to book or pay for rooms online. If you select the option "Need hotel reservation by organizer" in registration, the local organizing committee will arrange your accommodation in advance. You will only be required to settle the payment on-site upon check-in.
 
 Transportation directly to Hangzhou:
 - Flight: Hangzhou Xiaoshan International Airport (HGH), 57 Km
@@ -410,6 +410,10 @@ Most common International Travel:
 Further travel advice for international guests will follow soon.
 
 <!--
+## Technical Events in September 2026 at Hangzhou
+- The [5th Global Digital Trade Expo](https://www.gdte.org.cn/En/) (GDTE)	, September 23-27, 2026 at Hangzhou Grand Convention and Exhibition Center,	Co-hosted by Zhejiang Provincial Government and Ministry of Commerce; China's only national-level, global professional exhibition themed on digital trade. Expected 1,546+ exhibitors, 200,000+ visitors, 155,000 sqm exhibition space, with 100+ world premieres and new product launches. 
+- The [2nd ISSE International Smart Space Exhibition](https://www.isse-expo.com),	September 23-27, 2026	at Hangzhou Grand Convention and Exhibition Center,	co-hosted by Messe Frankfurt (HK) Ltd and Hangzhou Convention & Exhibition Group; held concurrently with GDTE, focusing on smart space technology and urban governance solutions.
+- Apsara Conference 2026 (Hangzhou Cloud Computing Expo),	September 1, 2026	at Hangzhou Cloud Town,hosted by Alibaba Cloud; China's annual flagship event for cloud computing and AI industry chain, featuring a 40,000 sqm intelligent technology exhibition area with three themed pavilions: AI+, Computing, and Frontier Applications, showcasing LLMs, autonomous driving, robotics and other cutting-edge technologies
 
 ## Registration and Accommodation
 
