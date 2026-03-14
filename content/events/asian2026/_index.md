@@ -51,6 +51,8 @@ In addition to paper presentations, the conference features several Modelica tut
 
 You are encouraged to submit a full paper of at least 4 pages, with a maximum of 10 pages, on the following topics:
 
+- Modelica modeling, simulation and design tools
+- Symbolic algorithms and numerical methods for model transformation and simulation
 - Multi-engineering modeling and simulation with free or commercial Modelica libraries
 - Applications and new tool developments for the Functional Mock-up Interface (FMI) and Layered Standards (LS)
 - Applications and new tool developments for the System Structure and Parameterization (SSP) standard
@@ -67,8 +69,6 @@ You are encouraged to submit a full paper of at least 4 pages, with a maximum of
 - Real-time and hardware-in-the-loop applications; Code generation for embedded control systems
 - Use of Artificial Intelligence (AI) methods in simulation; SimToReal for AI training purposes
 - Applications of Modelica and FMI for optimization and control design
-- Modelica modeling, simulation and design tools
-- Symbolic algorithms and numerical methods for model transformation and simulation
 - Experimental language designs and implementations related to Modelica standards
 - Modelica in other application areas (mathematical programming, databases etc.)
 - Modelica for teaching and education
@@ -134,12 +134,11 @@ Industrial user presentations are an excellent way to present recent results to 
 Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations. For more details on vendor presentations, please refer to the [call for sponsors](#call-for-sponsors).
 -->
 
-<!--
 ## Call for Tutorials
 
-At the Modelica Conference, several tutorials will be held in parallel. Each tutorial will a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
+Before the Modelica Conference, several tutorials will be held on the afternoon of September 20, 2026 at the conference venue. Each tutorial will be a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
 
-If you're interested in hosting a tutorial, please send the required information listed below to [modelica25@modelica.org ](mailto:modelica25@modelica.org). The application deadline is **June 1st, 2025**. As only a limited number of tutorials can be held in parallel, we encourage early submission and application.
+If you're interested in hosting a tutorial, please send the required information listed below to [modelica26asia@modelica.org ](mailto:modelica26asia@modelica.org). The application deadline is **June 30, 2026**. As only a limited number of tutorials can be held in parallel, we encourage early submission and application.
 
 Please include the following details in your submission:
 1. Title of the tutorial
@@ -150,8 +149,7 @@ Please include the following details in your submission:
 6. Software requirements  
 7. Link to further information
 
-Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations section in the [call for sponsors](#call-for-sponsors). The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
--->
+Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
 
 <!--
 ## Call for Libraries
