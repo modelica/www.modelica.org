@@ -1,34 +1,31 @@
 ---
 ---
 
-# Modelica and FMI Conference series
-
-
+# Modelica & FMI Conference series
 
 ### Upcoming Conferences
 
- * The [**Asian Modelica Conference 2026**](asian2026)  will take place **Sept 21-22 2026** in **Hangzhou, China**. It is hosted by Beihang University and Nanjing Yuansi SimTek.
- * The [**American Modelica and FMI Conference 2026**](american2026) The conference will take place **Oct 12-14 2026** in **Atlanta, USA**. It is hosted by the Aerospace System Design Lab of Georgia Tech.
- * The [**17th International Modelica & FMI Conference**](modelica2027) will be held **Sept 20-22 2027 in Prague, Czech Republic**. It is co-hosted with [CSKI (Czech Society for Cybernetics and Informatics)](https://www.cski.cz/homepage/en). It is an in-person event held in English that is open for sponsorship positions.
+- [**American Modelica & FMI Conference 2026**](/events/american2026/), Oct 12-14, 2026 in Atlanta, USA by [NAMUG](https://namug.org/) and [Modelica Association](/association/)
+- [**Asian Modelica & FMI Conference 2026**](/events/asian2026/), Sep 21-22, 2026 in Hangzhou, China by [Beihang University](https://www.buaa.edu.cn/en/), [Nanjing Yuansi SimTek Co.](https://www.yuansi.com), and [Modelica Association](https://modelica.org)
+- [**17th International Modelica & FMI Conference**](/events/modelica2027/), Sep 20-22, 2027 in Prague, Czech Republic by [CSKI](http://cski.cz) and [Modelica Association](https://modelica.org)
 
- ### Recent Conferences
+### Recent Conferences 
 
- * The [16th International Modelica & FMI Conference](/events/modelica2025/) took place in **Lucerne, Switzerland**, **Sep 8-10, 2025**. The event was organized by the [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch/en/) in cooperation with the [Modelica Association](https://modelica.org/association/). It was an in-person event held in English.
- * The [American Modelica Conference 2024](/events/american2024/) The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**.
- * The [Asian Modelica Conference 2024](/events/asian2024/) will take place at the **ICC Hotel in Jeju - Island** in South Korea from **December 12-13, 2024**. It is organized by [iVH](http://www.ivh.co.kr/) in cooperation with the [Modelica Association](https://modelica.org/association/).
-
+- [**American Modelica Conference 2024**](/events/american2024/), Oct 14-16, 2024 in Storrs, USA by [University of Connecticut](https://www.uconn.edu)
+- [**Asian Modelica Conference 2024**](/events/asian2024/), Dec 12-13, 2024 in Jeju Island, South Korea by [iVH](https://www.ivh-simulation.com) and [Modelica Association](https://www.modelica.org)
+- [**16th International Modelica & FMI Conference**](/events/modelica2025/), Sep 8-10, 2025 in Lucerne, Switzerland by [Lucerne University of Applied Sciences and Arts (HSLU)](https://www.hslu.ch) and [Modelica Association](https://www.modelica.org)
 
 ## Aim & Scope
 
-The **International Modelica and FMI Conference series** explores the frontier of science and technology to model and simulate complex physical and cyber-physical systems for a wide range of research and industrial applications. It is the largest and main impacting event for application specialists, developers of model libraries and simulation software, as well as language designers of the [equation based modeling language Modelica](https://www.modelica.org/) and related technology such as the [Functional Mockup Interface](https://fmi-standard.org/) (to exchange or co-simulate dynamic models). In particular, the conference covers topics such as symbolic algorithms and numerical methods to simulate equation-based, object-oriented models for design optimization, real-time simulation, and model-based control, in automotive, aircraft, space, robotic, energy systems and other areas. The conference embraces also other standards of the Modelica Association such as [SSP](https://ssp-standard.org/) or [eFMI](https://www.efmi-standard.org/) as weel as the interaction of other tools with these standards.
+The **International Modelica & FMI Conference series** explores the frontier of science and technology to model and simulate complex physical and cyber-physical systems for a wide range of research and industrial applications. It is the largest and main impacting event for application specialists, developers of model libraries and simulation software, as well as language designers of the [equation based modeling language Modelica](https://www.modelica.org/) and related technology such as the [Functional Mockup Interface](https://fmi-standard.org/) (to exchange or co-simulate dynamic models). In particular, the conference covers topics such as symbolic algorithms and numerical methods to simulate equation-based, object-oriented models for design optimization, real-time simulation, and model-based control, in automotive, aircraft, space, robotic, energy systems and other areas. The conference embraces also other standards of the Modelica Association such as [SSP](https://ssp-standard.org/) or [eFMI](https://www.efmi-standard.org/) as weel as the interaction of other tools with these standards.
 
 ## Rules and Governing Body
 
-The Modelica and FMI Conferences are organized by the Modelica Association and a local organizer. The local organizer is selected by the board of the Modelica Association for each event. The Modelica Association has 50% ownership for the financial responsibilities. A steering committee from the Modelica Association (see below) supervises the conference organization and guarantees the high scientific level of the conference.
+The Modelica & FMI Conferences are organized by the Modelica Association and a local organizer. The local organizer is selected by the board of the Modelica Association for each event. The Modelica Association has 50% ownership for the financial responsibilities. A steering committee from the Modelica Association (see below) supervises the conference organization and guarantees the high scientific level of the conference.
 
 For each Modelica conference, a conference board is established. The conference board takes on the organizational duties of its specific conference and also serves editorial duties.
 
-To ensure alignment with the editorial policies of the Modelica conference proceedings at least 4 members of the Editorial board must be members of the conference board. Furthermore, the complete editorial board is given access to all the reviews and the conference boards decisions in order to conduct oversight. This access is unrestricted with the exception of personal conflicts of interest. The editorial board (listed below) is given the power to overrule any editorial decisions of the conference board with a qualified majority of 66% and a quorum of six.
+To ensure alignment with the editorial policies of the Modelica conference proceedings at least 4 members of the Editorial board must be members of the international conference board. Furthermore, the complete editorial board is given access to all the reviews and the conference boards decisions in order to conduct oversight. This access is unrestricted with the exception of personal conflicts of interest. The editorial board (listed below) is given the power to overrule any editorial decisions of the conference board with a qualified majority of two thirds and a quorum of six.
 
 The proceedings are published electronically with gold open access in the series [Linköping Electronic Conference Proceedings](https://ecp.ep.liu.se/index.php/modelica/issue/archive) (ISSN: 1650-3686, eISSN: 1650-3740).
 
@@ -50,7 +47,7 @@ The reviewers must have no conflict of interest with the authors of the reviewed
 
 Reviewers are obliged to mark their conflict of interest in the electronic review system before the papers are assigned. Paper are assigned with their authors visible. The reviewer remains anonymous to the author but the reviews can be seen by all other reviewers and members of the conference board that have no conflict of interest with the paper. Reviews remain stored in the electronic review system.
 
-The final decision on paper acceptance is with the conference board. The board may ask for additional reviews in unclear cases. The review score shall be the dominating factor for paper selection but the board may express its preferences in weighing between different topics. Board members are strictly obliged to abstain from any decision that conflicts their own interests.
+The final decision on paper acceptance is with the conference board. The board may ask for additional reviews in unclear cases. The result of the review shall be the dominating factor for paper selection but the board may express its preferences in weighing between different topics. Board members are strictly obliged to abstain from any decision that conflicts their own interests.
 
 Presentation material and slides are not subject to a peer-review process and may only be appended to the proceedings. This rules also holds true for other not peer-reviewed content such as industrial user presentations or invited keynote speaches.
 
@@ -67,7 +64,7 @@ The authors of the papers keep their copyright and all rights on their paper and
 
 To be accepted for publication in the conference proceedings, the paper must have succesfully undergone the peer review process and must have been presented by a registered participant at the corresponding conference.
 
-Authors are not required to pay any fees for submitting or publishing their papers in the Modelica and FMI Conference Proceedings. The Modelica Association covers all publication costs to ensure that the proceedings are available as gold open access. This policy reflects the Association's commitment to supporting the dissemination of knowledge without financial barriers.
+Authors are not required to pay any fees for submitting or publishing their papers in the Modelica & FMI Conference Proceedings. The Modelica Association covers all publication costs to ensure that the proceedings are available as gold open access. This policy reflects the Association's commitment to supporting the dissemination of knowledge without financial barriers.
 
 ## Author Guidelines
 
@@ -75,7 +72,7 @@ Authors shall use the [LaTeX template](https://github.com/modelica-association/c
 
 The Word template contains some wording specific to LaTeX packages; when drafting a document in Word, please make the contents look similar to what the LaTeX templates produce.
 
-Authors shall create their submission according to the [Modelica Formatting Guidelines](https://modelica.org/events/american2024/formatting/).
+Authors shall create their submission according to the [Modelica Formatting Guidelines](/events/american2024/formatting/).
 
 
 
@@ -85,11 +82,11 @@ The Editorial Board supervises the publication of the Modelica Conference Procee
 
 * [Prof. Martin Sjölund](https://www.ida.liu.se/~marsj/), Linköping University, Sweden.
 * [Prof. Francesco Casella](https://home.deib.polimi.it/casella/), Politecnico di Milano, Italy.
-* [Prof. Lars Mikelsons](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/imech/team/lars-mikelsons/), Augsburg University, Germany
+* [Prof. Lars Mikelsons](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/imech/team/lars-mikelsons/), University of Augsburg, Germany
 * [Prof. Luigi Vanfretti](https://faculty.rpi.edu/luigi-vanfretti), Rensselaer Polytechnic Institute, USA
 * [Prof. Yanfang Liu](https://www.researchgate.net/profile/Yf-Liu-3), Beihang University, China
-* [Prof. Arne Speerforck](https://www.tuhh.de/technische-thermodynamik/institut), Technical University Hamburg-Harburg, Germany
-* [Prof. Bernhard Bachmann](https://www.hsbi.de/personenverzeichnis/bernhard-bachmann), Universität Bielefeld, Germany
+* [Prof. Arne Speerforck](https://www.tuhh.de/technische-thermodynamik/institut), Technical University Hamburg, Germany
+* [Prof. Bernhard Bachmann](https://www.hsbi.de/personenverzeichnis/bernhard-bachmann), University of Applied Sciences and Art, Bielefeld, Germany
 * [Dr. Michael Wetter](https://eta.lbl.gov/people/michael-wetter), Lawrence Berkeley Lab, USA
 * [Dr. Dirk Zimmer](https://rmc.dlr.de/sr/de/staff/dirk.zimmer/), German Aerospace Center, Germany
 * [Dr. Rui Gao](https://www.linkedin.com/in/rui-gao-07b1151b/), Rigo Tech Co. Ltd, Japan
@@ -105,7 +102,7 @@ In case of general inquiries for Modelica Conferences, send an email to the Mode
 ## All International Modelica & FMI Conference Proceedings
 
 Conference proceedings of the Modelica conference series (since year 2009, the conference proceedings are published by Linköping University Press; before they were published on the Modelica Association web).
-* [Proceedings](https://doi.org/10.3384/ecp218) of the [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/), Lucerne, Switzerland, September 8-19, 2025.
+* [Proceedings](https://doi.org/10.3384/ecp218) of the [16th International Modelica & FMI Conference](/events/modelica2025/), Lucerne, Switzerland, September 8-19, 2025.
 * [Proceedings](https://doi.org/10.3384/ecp204) of the [15th International Modelica Conference 2023](https://2023.international.conference.modelica.org/), Aachen, Germany, October 9-11, 2023.
 * [Proceedings](https://doi.org/10.3384/ecp21181) of the [14th International Modelica Conference 2021](https://2021.international.conference.modelica.org/), fully remote event, September 20–24, 2021.
 * [Proceedings](https://doi.org/10.3384/ecp19157) of the [13th International Modelica Conference 2019](https://2019.international.conference.modelica.org/), Regensburg, Germany, March 4-6, 2019.

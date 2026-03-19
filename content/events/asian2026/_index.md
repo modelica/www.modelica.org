@@ -1,23 +1,24 @@
 ---
-title: Modelica and FMI Conference
+title: Asian Modelica & FMI Conference 2026
 ---
-![Conference logo](images/logo1.png)
-# Asian Modelica & FMI Conference 2026
 
+{{<rawhtml>}}
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="images/asian-2026-logo-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/asian-2026-logo-dark.svg">
+  <img src="images/asian-2026-logo-light.svg" alt="Asian Modelica & FMI Conference 2026">
+</picture>
+{{</rawhtml>}}
 
 We announce the **Asian Modelica & FMI Conference 2026**.
 It will take place at the high-tech city of **Hangzhou, China from September 21-22, 2026** also famous of its stunning west lake scenery.
 It is organized by the [Beihang University (at Hangzhou campus)](https://zfaien.buaa.edu.cn/About_Us/Overview.htm) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
 This is the first visit of the conference series in China.
 
-<!-- {{< toc >}} -->
 ![Hangzhou West Lake](images/Westlake.png)
 
-<!--
-## Sponsors
+{{< toc >}}
 
-Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the conference organizers for more information.
--->
 
 ## About the Conference
 
@@ -50,6 +51,8 @@ In addition to paper presentations, the conference features several Modelica tut
 
 You are encouraged to submit a full paper of at least 4 pages, with a maximum of 10 pages, on the following topics:
 
+- Modelica modeling, simulation and design tools
+- Symbolic algorithms and numerical methods for model transformation and simulation
 - Multi-engineering modeling and simulation with free or commercial Modelica libraries
 - Applications and new tool developments for the Functional Mock-up Interface (FMI) and Layered Standards (LS)
 - Applications and new tool developments for the System Structure and Parameterization (SSP) standard
@@ -66,6 +69,9 @@ You are encouraged to submit a full paper of at least 4 pages, with a maximum of
 - Real-time and hardware-in-the-loop applications; Code generation for embedded control systems
 - Use of Artificial Intelligence (AI) methods in simulation; SimToReal for AI training purposes
 - Applications of Modelica and FMI for optimization and control design
+- Experimental language designs and implementations related to Modelica standards
+- Modelica in other application areas (mathematical programming, databases etc.)
+- Modelica for teaching and education
 
 Prospective authors of scientific presentations are encouraged to submit a full paper (minimum 4 pages, maximum 10 pages) addressing the aforementioned topics by April 30, 2026. Each submission will undergo peer review by no fewer than 3 independent reviewers.
 
@@ -128,12 +134,11 @@ Industrial user presentations are an excellent way to present recent results to 
 Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations. For more details on vendor presentations, please refer to the [call for sponsors](#call-for-sponsors).
 -->
 
-<!--
 ## Call for Tutorials
 
-At the Modelica Conference, several tutorials will be held in parallel. Each tutorial will a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
+Before the Modelica Conference, several tutorials will be held on the afternoon of September 20, 2026 at the conference venue. Each tutorial will be a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
 
-If you're interested in hosting a tutorial, please send the required information listed below to [modelica25@modelica.org ](mailto:modelica25@modelica.org). The application deadline is **June 1st, 2025**. As only a limited number of tutorials can be held in parallel, we encourage early submission and application.
+If you're interested in hosting a tutorial, please send the required information listed below to [modelica26asia@modelica.org ](mailto:modelica26asia@modelica.org). The application deadline is **June 30, 2026**. As only a limited number of tutorials can be held in parallel, we encourage early submission and application.
 
 Please include the following details in your submission:
 1. Title of the tutorial
@@ -144,8 +149,7 @@ Please include the following details in your submission:
 6. Software requirements  
 7. Link to further information
 
-Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations section in the [call for sponsors](#call-for-sponsors). The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
--->
+Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
 
 <!--
 ## Call for Libraries
@@ -172,25 +176,24 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
 
 We offer exhibition and sponsoring in 4 different options:
 
-|                                | Platinum (max 2)  |Gold          | Silver      | Logo(*)    |
-|-------------------------------:|:-----------------:|:------------:|------------:|:----------:|
-| Price in CNY                   | 150,000 CNY       | 100,000 CNY  | 50,000 CNY  | 38,000 CNY |
-| Exhibition booth               | 6m x 3m           | 3m x 2m      | 2m x 2m     | -          |
+|                                | Platinum (max 2)  |Gold          | Silver      | Bronze     |
+|-------------------------------:|:-----------------:|:------------:|:-----------:|:----------:|
+| Price in CNY                   | 150,000 CNY       | 100,000 CNY  | 50,000 CNY  | 25,000 CNY |
+| Exhibition booth               | 6m x 3m           | 4m x 3m      | 3m x 2m     | 2m x 2m    |
 | Speech (30min) at main hall    | Yes               | -            | -           | -          |
-| Vendor session (25min)         | Yes               | Yes          | -           | -          |
+| Vendor session (25min)         | Yes               | Yes          | *           | *          |
 | Workshop (120min on Sep 20)    | Yes               | Yes          | Yes         | -          |
-| Free Tickets                   | 6                 | 4            | 2           | 2          |
+| Free Tickets                   | 6                 | 4            | 2           | 1          |
 | Company logo on Web + Print    | Yes               | Yes          | Yes         | Yes        |
 | Banners in banquet hall        | 2                 | 1            | 1           | 1          |
 | VIP Speech (10 min) at banquet | Yes               | -            | -           | -          |
 
 Vendor presentation get the opportunity to present their products. Platinum and Gold sponsors qualify for a vendor presentation. Workshop shall have a tutorial character and are placed a day before the conference. The production of banners is up to the sponsor and not included in the sponsoring deal.
 
-<!--
-As stated in the sponsoring agreement, time slots for sponsoring/vendor presentations are reserved for Platinum and Gold sponsors, while Silver sponsors may receive a slot based on availability. Presentations are reviewed by the Conference Board to ensure they align with Modelica, FMI, and related standards (including tools, libraries, IDEs, and other supporting technologies).
+Time slots for sponsoring/vendor presentations are reserved for Platinum and Gold sponsors, while Silver and Bronze sponsors may receive a slot based on availability. Presentations are reviewed by the Conference Board to ensure they align with Modelica, FMI, and related standards (including tools, libraries, IDEs, and other supporting technologies).
 
-Sponsors eligible for a presentation slot can submit their proposals to modelica25@modelica.org.
--->
+Sponsors eligible for a presentation slot can submit their proposals to modelica26asia@modelica.org.
+
 
 <!--
 The 16th International Conference will be the first in Switzerland, which hosts a very interesting market for modeling and simulation tools. In recent years, the Swiss economy has re-focused on its production and engineering sector, which is highly specialized and export-oriented. Whereas many European states shrank their industrial production in the last decade, Switzerland maintained [healthy growth](https://www.focus-economics.com/country-indicator/switzerland/industry/) in this important metric. Its economy is one of the [freest world-wide](https://www.heritage.org/index/pages/country-pages/switzerland), and almost 99% of all enterprises represent SMEs, reflecting the specialized nature of its industry. Classic system modeling and simulation have now become increasingly important for many of these SMEs. 
@@ -393,7 +396,7 @@ We recommend to book your room in the [Wyndham Garden Hotel Hangzhou Yuhang](htt
 
 - 2699 Yuhangtang Rd, Hangzhou, 311100, Zhejiang, China
 
-A welcome reception will be provided on the evening of September 20 and the conference banquet in the evening of September 21 will take place in this hotel. We also aim to provide a shuttle service to the conference venue.
+A welcome reception will be provided on the evening of September 20 and the conference banquet in the evening of September 21 will take place in this hotel. We also aim to provide a shuttle service to the conference venue. For international participants, there is no need to book or pay for rooms online. If you select the option "Need hotel reservation by organizer" in registration, the local organizing committee will arrange your accommodation in advance. You will only be required to settle the payment on-site upon check-in.
 
 Transportation directly to Hangzhou:
 - Flight: Hangzhou Xiaoshan International Airport (HGH), 57 Km
@@ -407,6 +410,10 @@ Most common International Travel:
 Further travel advice for international guests will follow soon.
 
 <!--
+## Technical Events in September 2026 at Hangzhou
+- The [5th Global Digital Trade Expo](https://www.gdte.org.cn/En/) (GDTE)	, September 23-27, 2026 at Hangzhou Grand Convention and Exhibition Center,	Co-hosted by Zhejiang Provincial Government and Ministry of Commerce; China's only national-level, global professional exhibition themed on digital trade. Expected 1,546+ exhibitors, 200,000+ visitors, 155,000 sqm exhibition space, with 100+ world premieres and new product launches. 
+- The [2nd ISSE International Smart Space Exhibition](https://www.isse-expo.com),	September 23-27, 2026	at Hangzhou Grand Convention and Exhibition Center,	co-hosted by Messe Frankfurt (HK) Ltd and Hangzhou Convention & Exhibition Group; held concurrently with GDTE, focusing on smart space technology and urban governance solutions.
+- Apsara Conference 2026 (Hangzhou Cloud Computing Expo),	September 1, 2026	at Hangzhou Cloud Town,hosted by Alibaba Cloud; China's annual flagship event for cloud computing and AI industry chain, featuring a 40,000 sqm intelligent technology exhibition area with three themed pavilions: AI+, Computing, and Frontier Applications, showcasing LLMs, autonomous driving, robotics and other cutting-edge technologies
 
 ## Registration and Accommodation
 
@@ -435,37 +442,197 @@ The conference is organized by organized by the [Beihang University](https://glo
 
 For general questions, please contact [modelica26asia@modelica.org](mailto:modelica26asia@modelica.org).
 
-
+<!--
 {{<rawhtml>}}
 <img src="images/Beihang.png" alt="Beihang University" width="150"/>
 
 <img src="images/SIMTEK.png" alt="Simtek" width="180"/>   
 {{</rawhtml>}}
+-->
+### Organizers
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://zfaien.buaa.edu.cn/About_Us/Overview.htm" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+            <img src="images/Beihang.png" alt="Beihang University"/>
+      </div>
+    </a>
+  </div>
+
+  <div class="col">
+    <a href="https://en.simtek.cc" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/SIMTEK.png" alt="Simtek"/>
+      </div>
+    </a>
+  </div>
+
+</div>
+
+{{</rawhtml>}}
+
+### Supporters
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://www.cgnpc.com.cn/cgn/c100992/lm_tt_four.shtml" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+            <img src="images/StateLab_303_22.jpg" alt="Nuclear Safety State Lab"/>
+      </div>
+    </a>
+  </div>
+
+    <div class="col">
+    <a href="https://www.sae-china.org/branch/383" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+            <img src="images/ChinaSAE.jpg" alt="Nuclear Safety State Lab"/>
+      </div>
+    </a>
+  </div>
+
+</div>
+
+{{</rawhtml>}}
 
 
+## Sponsors
 
+Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the conference organizers for more information.
 
-### Conference Board
+<!--
+### Platinum
 
-- Prof. Shichun Yang, Beihang University, Conference Co-Chair
-- Dr. Rui Gao, Nanjing Yuansi SimTek., Co., Ltd., Conference Co-Chair
-- Dr. Dirk Zimmer, German Aerospace Center (DLR), Germany, Conference Co-Chair
-- Prof. Martin Sjolund, Linköping University, Sweden, Editorial Chair
-- Prof. Haiying Lin, Beihang University, Local Arrangement Co-Chair
-- Dr. Jian Wang, Beihang University, Local Arrangement Co-Chair
-- Prof. Yanfang Liu, Beihang University, Program Chair
-- Prof. WeiLin Li, Northwestern Polytechnical University, Publicity Co-Chair
-- Dr. OU Haiying, China SAE Automobile Model Digital Engineering Branch, Publicity Co-Chair
-- Dr. Hong Lü, China General Nuclear Power Corporation(CGN), Publicity Co-Chair
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://www.ltx.de/english.html" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+        <img src="images/LTX.svg" alt="LTX"/>
+      </div>
+    </a>
+  </div>
+
+</div>
+{{</rawhtml>}}
+-->
+
+### Gold
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://xrg-simulation.de/en" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+        <img src="images/XRG_Logo2015_4c.svg" alt="XRG"/>
+      </div>
+    </a>
+  </div>
+  
+</div>
+{{</rawhtml>}}
+
+### Silver
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://www.tlk-thermo.com/en/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/TLK-Thermo_Logo.svg" alt="TLK Thermo"/>
+      </div>
+    </a>
+  </div>
+
+  <div class="col">
+    <a href="https://www.catarc-adc.com/zyyw/gyrj" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/CATARC.png" alt="CATARC"/>
+      </div>
+    </a>
+  </div>
+  
+</div>
+
+{{</rawhtml>}}
+
+<!--
+### Bronze
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+            <img src="images/JuliaHub.svg" alt="JuliaHub"/>
+      </div>
+    </a>
+  </div>
+
+  <div class="col">
+    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/WolframResearch.svg" alt="Wolfram Research"/>
+      </div>
+    </a>
+  </div>
+
+  <div class="col">
+    <a href="https://openmodelica.org" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/OMlogo.svg" alt="Open Modelica"/>
+      </div>
+    </a>
+  </div>
+
+  <div class="col">
+    <a href="https://www.asam.net/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/asam-logo.svg" alt="ASAM eV"/>
+      </div>
+    </a>      
+  </div>
+
+  <div class="col">
+    <a href="https://www.claytex.com/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/Claytex-logo-RGB-blue-pos.svg" alt="CLAYTEX Services Ltd"/>
+      </div>
+    </a>      
+  </div>
+
+</div>
+
+{{</rawhtml>}}
+-->
+
+## Conference Board
+
+- **Prof. Shichun Yang**, Beihang University, Conference Co-Chair
+- **Dr. Rui Gao**, Nanjing Yuansi SimTek., Co., Ltd., Conference Co-Chair
+- **Dr. Dirk Zimmer**, German Aerospace Center (DLR), Germany, Conference Co-Chair
+- **Prof. Martin Sjolund**, Linköping University, Sweden, Editorial Chair
+- **Prof. Haiying Lin**, Beihang University, Local Arrangement Co-Chair
+- **Dr. Jian Wang**, Beihang University, Local Arrangement Co-Chair
+- **Prof. Yanfang Liu**, Beihang University, Program Chair
+- **Prof. WeiLin Li**, Northwestern Polytechnical University, Publicity Co-Chair
+- **Dr. OU Haiying**, China SAE Automobile Model Digital Engineering Branch, Publicity Co-Chair
+- **Dr. Hong Lü**, China General Nuclear Power Corporation(CGN), Publicity Co-Chair
 
 ### Conference Advisory Board
 
-- Prof. Lin Zhang, Beihang University, China
-- Dipl.-Math. Christian Bertsch, Robert Bosch GmbH, Germany
-- Dr. Yutaka Hirano, Hirano research Laboratory, Japan
-- Dr. Dai Araki, Toshiba Digital Solution, Japan
-- Dr. Daeoh Kang, iVH, Korea
-- Prof. Tielong Shen, Dalian Univ. of Technology & Emeritus Professor (Sophia Univ.)
+- **Prof. Lin Zhang**, Beihang University, China
+- **Dipl.-Math. Christian Bertsch**, Robert Bosch GmbH, Germany
+- **Dr. Yutaka Hirano**, Hirano research Laboratory, Japan
+- **Dr. Dai Araki**, Toshiba Digital Solution, Japan
+- **Dr. Daeoh Kang**, iVH, Korea
+- **Prof. Tielong Shen**, Dalian Univ. of Technology & Emeritus Professor (Sophia Univ.)
   
 <!--
 - Dr. Aiguo Xu, Nanjing Yuansi SimTek., Co., Ltd. China

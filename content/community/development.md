@@ -26,4 +26,5 @@ If you have any tool related issues, contact the support sites of the [tool vend
 
 ## Modelica Change Proposals (MCPs)
 
-Extensions to the Modelica Language can be proposed by everyone according to the process defined in the document [ModelicaSpecification_DevelopmentProcess.pdf](https://svn.modelica.org/projects/MCP/public/ModelicaSpecification_DevelopmentProcess.pdf). Use the [MCP\_Template\_Overview.dotx](https://svn.modelica.org/projects/MCP/public/MCP_Template_Overview.dotx) template to give an overview of your proposed improvement and the [MCP\_Template\_SpecChanges.doc](https://svn.modelica.org/projects/MCP/public/MCP_Template_SpecChanges.doc) document to give the precise changes to the Modelica Language Specification.
+Extensions to the Modelica Language can be proposed by everyone according to the process defined in the document [ModelicaSpecification_DevelopmentProcess](https://github.com/modelica/ModelicaSpecification/blob/master/RationaleMCP/DevelopmentProcess.md).
+Use the [MCP\_Template\_Overview](https://github.com/modelica/ModelicaSpecification/blob/master/RationaleMCP/MCPTemplate.MD) template to give an overview of your proposed improvement.

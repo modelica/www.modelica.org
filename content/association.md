@@ -32,6 +32,7 @@ It is encouraged to join at least one of the MA projects as a guest before becom
 
 If you are interested, simply contact the [Modelica board](mailto:board@modelica.org) and explain your motivation.
 The [individual application form](https://docs.google.com/forms/d/1AKymk2UfwDSJR4fuYXAyGJuvPw7YLiBFF76jqLSjzWM/edit) provides useful guidance. 
+To apply for membership as an organization please use the [organizational application form](https://docs.google.com/forms/d/e/1FAIpQLSfUpCe1fqVgcuib5WpfZh_tuDGoLcLdk0BjRqeMAFi3XtDZug/viewform).
 
 ## Modelica Association Projects
 
@@ -136,7 +137,7 @@ The following licenses are used by the Modelica Association for material provide
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| Chairperson | [Dirk Zimmer](https://rmc.dlr.de/sr/en/staff/dirk.zimmer/) | [DLR-SR, Germany](https://www.dlr.de/) | [dirk.zimmer@dlr.de](mailto:dirk.zimmer@dlr.de) |
+| Chairperson | Dirk Zimmer | [DLR, Germany](https://www.dlr.de/) | [dirk.zimmer@dlr.de](mailto:dirk.zimmer@dlr.de) |
 | Vice-Chairperson | Martin Sjölund | Linköping University, Sweden | [martin.sjolund@liu.se](mailto:martin.sjolund@liu.se) |
 | Secretary | Rui Gao | [SimTek, China](https://en.simtek.cc/) | [rui.gao@simtek.cc](mailto:rui.gao@simtek.cc) |
 | Treasurer | Jonas Eborn | [Modelon, Sweden](http://www.modelon.com) | [jonas.eborn@modelon.com](mailto:jonas.eborn@modelon.com) |
@@ -147,7 +148,7 @@ The following licenses are used by the Modelica Association for material provide
 | --- | --- | --- | --- |
 | Marketing | Hubertus Tummescheit | [Model Based Innovation LLC, USA](https://modelbased.cloud) | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
 | Quality and Processes | [Francesco Casella](http://home.deib.polimi.it/casella/) | [Politecnico di Milano, Italy](https://www.polimi.it/) | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
-| Technology | [Martin Otter](https://martinotter.github.io/) | [DLR-SR, Germany](https://www.dlr.de/en/fk) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
+| Technology | [Martin Otter](https://martinotter.github.io/) | [DLR, Germany](https://www.dlr.de/en/fk) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
 | Project leader "Modelica Language"  | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
 | Project leader "Modelica Libraries" | [Francesco Casella](http://home.deib.polimi.it/casella/) | [Politecnico di Milano, Italy](https://www.polimi.it/) | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
 | Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haumer) | [OTH Regensburg, Germany](https://www.oth-regensburg.de/) | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de) |
@@ -197,12 +198,12 @@ The following organizations are members of the Modelica Association:
 | [COMSOL AB](https://www.comsol.com/company)                                                         | Stockholm, Sweden                    |                                |
 | [Dassault Systèmes SA](http://www.3ds.com)                                                          | Paris, France                        | [Modelica.info@3ds.com](mailto:Modelica.info@3ds.com) |
 | [DLR - Institute of System Dynamics and Control](https://www.dlr.de/en/sr/about-us/institute)       | Oberpfaffenhofen, Germany            | [Martin.Otter@dlr.de](mailto:Martin.Otter@dlr.de)     |
-| [ESI Germany](https://www.simulationx.com/)                                                         | Dresden, Germany                     |                                |
 | [Global Crown Technology](http://www.globalcrown.com.cn/index_en.asp)                               | Beijing, China                       |                                |
 | [IDA PELAB](http://www.ida.liu.se/~pelab)                                                           | Linköping, Sweden                    | [peter.fritzson@liu.se](mailto:peter.fritzson@liu.se) |
 | [Institut für Thermodynamik, Universität Braunschweig](http://www.ift-bs.de/)                       | Braunschweig, Germany                | [ift@tu-bs.de](mailto:ift@tu-bs.de)                   |
 | [Institute of Engineering Thermodynamics, Hamburg University of Technology](https://www.tuhh.de/technische-thermodynamik/en/institute) | Hamburg, Germany                     | [arne.speerforck@tuhh.de](mailto:arne.speerforck@tuhh.de) |
 | [Institute of Vehicle Engineering (iVH)](http://www.ivh.co.kr)                                      | Seoul, Korea                         |                                |
+| [Keysight Technologies Deutschland](https://www.keysight.com/us/en/home.html)                       | Böblingen, Germany                     |                                |
 | [Liebherr Aerospace Toulouse](https://www.liebherr.com/en-fr/group/location/toulouse-profile-3752241)| Toulouse, France                     |                                |
 | [LTX Simulation](http://ltx.de)                                                                     | Munich, Germany                      | [info@ltx.de](mailto:info@ltx.de)                     |
 | [Maplesoft](http://www.maplesoft.com/)                                                              | Waterloo, ON, Canada                 | [modelica@maplesoft.com](mailto:modelica@maplesoft.com) |
@@ -318,7 +319,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Tummescheit, Hubertus |                                                                                   | LANG, LIB |
 | Uckun, Serdar       |                                                                                     |          |
 | [Vanfretti, Luigi](http://alsetlab.com)                             | [Rensselaer Polytechnic Institute](http://www.rpi.edu)                              | LANG     |
-| Vukovic, Vladimir   | [Teesside University - Technology Futures Institute](https://www.tees.ac.uk/)        |          |
+| Vukovic, Vladimir   | [V-LAB Ltd](https://v-lab.uk)        |          |
 | Wagner, Loïc        |                                                                                     |          |
 | Wernersson, Karl    | [Dassault Systèmes AB](http://www.3ds.com/)                                         | LANG     |
 | [Wetter, Michael](http://simulationresearch.lbl.gov/wetter/)       | [Lawrence Berkely National Laboratory](https://buildings.lbl.gov/)                  |          |

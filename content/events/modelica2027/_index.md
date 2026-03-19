@@ -1,27 +1,20 @@
  ---
-title: Modelica and FMI Conference 2027
+title: Modelica & FMI Conference 2027
 ---
 
 {{<rawhtml>}}
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.modelicaprague.cz/images/logos/ModelicaAndFMI_darkScheme.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.modelicaprague.cz/images/logos/ModelicaAndFMI.svg">
-  <img src="https://www.modelicaprague.cz/images/logos/ModelicaAndFMI.svg" alt="17th International Modelica & FMI Conference">
-  
+  <source media="(prefers-color-scheme: light)" srcset="images/modelica-2027-logo-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/modelica-2027-logo-dark.svg">
+  <img src="images/modelica-2027-logo-light.svg" alt="17th International Modelica & FMI Conference">
 </picture>
-<h1 style="text-align:center; color: #cc173a;" class="mb-5">Prague, Czech Republic, September 20-22, 2027</h1>
 {{</rawhtml>}}
-
 
 We are glad to announce the **17th International Modelica & FMI Conference**.
 It will be held at **Clarion Congress Hotel Prague, Czech Republic, September 20–22, 2027**.
 It is organized by  [Modelica Association](/association/), in cooperation with the [CSKI](https://www.cski.cz/) and a local organizer.  
 
-------------------------------------
-
 {{< toc >}}
-
-------------------------------------
 
 ## About the Conference
 
@@ -40,9 +33,6 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ![Conference Venue Prague 2027](images/Prague_venue.jpg)
 
-------------------------------------
-
-
 ## Important Dates
 
 | Date |  |
@@ -57,9 +47,6 @@ In addition to paper presentations, the conference features several Modelica tut
 |September 20-22, 2027| **17th International Modelica & FMI Conference**|
 |September 23, 2027 | Post Conference Meeting: Public Modelica & FMI Design and Advisory Meeting  (not included in conference registration)|
 |September 24, 2027 | Internal Post Conference Meeting: Modelica & FMI Design, Modelica Association and MAP members only |
-
-------------------------------------
-
 
 ## Call for Papers
 
@@ -93,12 +80,9 @@ If you plan to submit directly for a poster, then submit a (short) paper with a 
 The conference proceedings will be published by the Modelica Association on its website.
 Each paper will be individually referenced by a DOI. For selected papers we aim to enable a post-conference journal publication in [MCMDS](https://www.tandfonline.com/toc/nmcm20/current).
 
-------------------------------------
-
 ### Best Paper Award
-The 17th International Modelica & FMI Conference will recognize the authors of the best paper for their outstanding academic quality and relevance to the conference. All accepted papers are automatically considered for this honorary award.
 
-------------------------------------
+The 17th International Modelica & FMI Conference will recognize the authors of the best paper for their outstanding academic quality and relevance to the conference. All accepted papers are automatically considered for this honorary award.
 
 ## Call for Industrial User Presentations
 
@@ -115,14 +99,11 @@ Industrial user presentations are an excellent way to present recent results to 
 
 Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations.
 
-------------------------------------
-
 ## Call for Tutorials
+
 At the Modelica Conference, several tutorials will be held in parallel. Each tutorial will a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
 
 Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations which will be announced at a later date as a part of Call for Sponsors. The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
-
-------------------------------------
 
 ## Scope of the Conference
 
@@ -164,21 +145,28 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 - Modelica in other application areas (mathematical programming, databases etc.)
 - Modelica for teaching and education
 
-------------------------------------
-
 ### Conference Board
+
 - Doc. MUDr. Jiří Kofránek, CSc., Charles University, CSKI, Czech Republic (Honorary  Chair)
 - Mgr. Tomáš Kulhánek, Ph.D., VITO, Mol, Belgium (Local Conference Chair)
 - Dr. Dirk Zimmer, German Aerospace Center, Germany (Program Conference Chair)
 - Prof. Francesco Casella, Politecnico di Milano, Italy
 - Prof. Lars Mikelsons, University of Augsburg, Germany
 - Dipl. Math. Christian Bertsch, Robert Bosch GmbH, Germany
+- Dr. Filip Ježek, First Faculty of Medicine, Charles University, Prague, Czech Republic
 - Dr. Hubertus Tummescheit, Model Based Innovation LLC, USA
 - Dr. Daeoh Kang, iVH, Korea
 - Prof. Martin Sjölund, Linköping University, Sweden
 
-
 ## Local Organization
+
 - Ing. Milena Zeithamlová, [Action M Agency](https://web.action-m.com/?lang=en), Czech Republic
 - Bc. Eliáš Sýkora, DiS, Czech Republic
-- Contact for questions regarding local issues (accomodation, visa, etc): [modelica@action-m.com](mailto:modelica@action-m.com)
+
+## Contact
+
+Please do not hesitate to contact the organizers on following emails regarding:
+
+- local issues (registration, visa, etc.) [modelica@action-m.com](mailto:modelica@action-m.com) 
+- scientific issues [modelica2027@modelica.org](mailto:modelica2027@modelica.org) 
+- partnership / sponsorship [partnersMC2027@modelica.org](mailto:partnersMC2027@modelica.org) 
