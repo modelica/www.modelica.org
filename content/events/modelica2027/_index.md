@@ -14,6 +14,8 @@ We are glad to announce the **17th International Modelica & FMI Conference**.
 It will be held at **Clarion Congress Hotel Prague, Czech Republic, September 20–22, 2027**.
 It is organized by  [Modelica Association](/association/), in cooperation with the [CSKI](https://www.cski.cz/) and a local organizer.  
 
+![Prague 2027](images/Prague_2027.jpg)
+
 {{< toc >}}
 
 ## About the Conference
@@ -25,13 +27,12 @@ In addition to paper presentations, the conference features several Modelica tut
 
 **We are looking forward to seeing you in Prague!**
 
-![Prague 2027](images/Prague_2027.jpg)
 
 {{<rawhtml>}}<i class="fa-solid fa-map-location-dot me-2"></i>{{</rawhtml>}}[Clarion Congress Hotel Prague, Freyova 945/33, 190 00 Praha 9-Vysočany](https://maps.app.goo.gl/CgHTQQF9DgQDeTUN6)
 
 {{<rawhtml>}}<i class="fa-solid fa-bed me-2"></i>{{</rawhtml>}}[Conference Venue](https://modelicaprague.cz/venue.php)
 
-![Conference Venue Prague 2027](images/Prague_venue.jpg)
+![Conference Venue Prague 2027](images/Prague_Clarion_venue.jpg)
 
 ## Important Dates
 
