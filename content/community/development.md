@@ -6,9 +6,9 @@ title: Development
 
 ## Modelica Issue Tracking
 
-Issues (bugs, improvement suggestions, questions, etc.) to the Modelica Language can be reported by everyone using the [Modelica issue tracking system](https://trac.modelica.org/Modelica/).
+Issues (bugs, improvement suggestions, questions, etc.) to the Modelica Language can be reported by everyone using the [GitHub issue tracker](https://github.com/modelica/ModelicaSpecification/issues).
 
-Issues (bugs, improvement suggestions,) regarding the Modelica Standard Library can be reported using the [GitHub issue tracker](https://github.com/modelica/Modelica/issues)
+Issues (bugs, improvement suggestions,) regarding the Modelica Standard Library can be reported using the [GitHub issue tracker](https://github.com/modelica/ModelicaStandardLibrary/issues)
 
 If you have any tool related issues, contact the support sites of the [tool vendors](/tools/ "Tools").
 
@@ -26,4 +26,5 @@ If you have any tool related issues, contact the support sites of the [tool vend
 
 ## Modelica Change Proposals (MCPs)
 
-Extensions to the Modelica Language can be proposed by everyone according to the process defined in the document [ModelicaSpecification_DevelopmentProcess.pdf](https://svn.modelica.org/projects/MCP/public/ModelicaSpecification_DevelopmentProcess.pdf). Use the [MCP\_Template\_Overview.dotx](https://svn.modelica.org/projects/MCP/public/MCP_Template_Overview.dotx) template to give an overview of your proposed improvement and the [MCP\_Template\_SpecChanges.doc](https://svn.modelica.org/projects/MCP/public/MCP_Template_SpecChanges.doc) document to give the precise changes to the Modelica Language Specification.
+Extensions to the Modelica Language can be proposed by everyone according to the process defined in the document [ModelicaSpecification_DevelopmentProcess](https://github.com/modelica/ModelicaSpecification/blob/master/RationaleMCP/DevelopmentProcess.md).
+Use the [MCP\_Template\_Overview](https://github.com/modelica/ModelicaSpecification/blob/master/RationaleMCP/MCPTemplate.MD) template to give an overview of your proposed improvement.

@@ -16,7 +16,7 @@ The Modelica language has been designed to be readable and understandable by eng
 
 The classic free online language guides are:
 
-- [The Modelica 1.4 Tutorial](/documents/ModelicaTutorial14.pdf) by the Modelica Association
+- [The Modelica Tutorial](https://github.com/modelica/ModelicaSpecification/blob/master/Tutorial.md) by the Modelica Association
 - [Modelica by Example](https://mbe.modelica.university/) by Michael Tiller
 
 In addition to these language guides, a [collection of books](/publications/books/) provides further background material and exercises. 
