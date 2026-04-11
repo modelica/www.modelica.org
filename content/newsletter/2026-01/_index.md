@@ -30,7 +30,11 @@ issued on March 5, 2026
 
 ## Modelica Association
 
-### FMI News
+### FMI Project News
+
+#### FMI Project Leader and Deputy re-elected
+
+On March 17, 2026 the FMI Steering Committee has unanimously re-elected Christian Bertsch, BOSCH Research, as the project leader and Torsten Sommer, Dassault Systèmes, as the deputy for a two-years term.
 
 #### 280 tools supporting FMI listed on the FMI tools page
 
