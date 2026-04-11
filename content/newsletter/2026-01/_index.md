@@ -43,9 +43,11 @@ On March 17, 2026 the FMI Steering Committee has unanimously re-elected Christia
 
 Dassault Systems will host the next in-person FMI Design meeting. Please drop us a note to contact@fmi-stanard.org if you are interested in participating as a guest.
 
-#### 280 tools supporting FMI listed on the FMI tools page
+#### FMI Advisory Committee Meeting April 22 2026
 
-See: https://fmi-standard.org/tools/
+#### 280+ tools supporting FMI listed on the FMI tools page
+
+The number of tools supporting the FMI Standard is still growing! Now we have more than 280 tools listed on https://fmi-standard.org/tools/ !
 
 #### News on FMI Layered Standards
 
