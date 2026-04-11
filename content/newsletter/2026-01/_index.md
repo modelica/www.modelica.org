@@ -32,9 +32,12 @@ issued on March 5, 2026
 
 ### FMI Project News
 
+![FMI Standard](FMI-logo.png)
+
 #### FMI Project Leader and Deputy re-elected
 
 On March 17, 2026 the FMI Steering Committee has unanimously re-elected Christian Bertsch, BOSCH Research, as the project leader and Torsten Sommer, Dassault Systèmes, as the deputy for a two-years term.
+![FMI Project Leader and Deputy](Bertsch_Sommer.jpg 'FMI Project Leader and Deputy Christian Bertsch and Torsten Sommer')
 
 #### 280 tools supporting FMI listed on the FMI tools page
 
