@@ -39,6 +39,10 @@ issued on March 5, 2026
 On March 17, 2026 the FMI Steering Committee has unanimously re-elected Christian Bertsch, BOSCH Research, as the project leader and Torsten Sommer, Dassault Systèmes, as the deputy for a two-years term.
 ![FMI Project Leader and Deputy](Bertsch_Sommer.jpg 'FMI Project Leader and Deputy Christian Bertsch and Torsten Sommer')
 
+#### FMI Face-2-Face Design Meeting Munich June 8-10 2026
+
+Dassault Systems will host the next in-person FMI Design meeting. Please drop us a note to contact@fmi-stanard.org if you are interested in participating as a guest.
+
 #### 280 tools supporting FMI listed on the FMI tools page
 
 See: https://fmi-standard.org/tools/
