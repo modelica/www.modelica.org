@@ -41,7 +41,8 @@ On March 17, 2026 the FMI Steering Committee has unanimously re-elected Christia
 
 #### FMI Face-2-Face Design Meeting Munich June 8-10 2026
 
-Dassault Systems will host the next in-person FMI Design meeting. Please drop us a note to contact@fmi-stanard.org if you are interested in participating as a guest.
+Dassault Systems will host the next in-person FMI Design meeting.\
+Please drop us a note to contact@fmi-stanard.org if you are interested in participating as a guest.
 
 #### FMI Advisory Committee Meeting April 22 2026
 
@@ -51,10 +52,40 @@ The number of tools supporting the FMI Standard is still growing! Now we have mo
 
 #### News on FMI Layered Standards
 
-* FMI-LS-BUS Cross-Checking of v1.3-alpha.1 with CAN, Flexray, Ethernet and LIN Support intensified.
-* FMI-LS-STRUCT: pre-release of v1.0-beta.1 coming soon
-* FMI-LS-REF: pre-release of v1.0-alpha.1
-* FMI-LS-DAE: New working group for Differential-Algebraic Equations (DAE) support in FMI has been formed. You can follow the development on Github https://github.com/modelica/fmi-ls-dae.
+#####  Pre-Release of FMI Layered Standard References (FMI-LS-REF) v1.0.0-alpha.1
+
+The FMI Project is happy to announce the alpha pre-release of the FMI Layered Standard References (FMI-LS-REF), which allows the inclusion of related files into an FMU.
+Thanks to the FMI Project Team and especially to Pierre Mai (PMSF IT Consulting Pierre R. Mai) for the work!
+
+Summary: This layered standard provides the capability to clearly designate the roles of additional related files included in an FMU in a structured way. These files are described in the layered standard manifest file, which is part of the FMU archive. In this way, an FMU can be shipped together with related files that are helpful in understanding and correctly using the FMU in a recognizable way.
+Note that this layered standard does not mandate the inclusion of any related files with an FMU. It only provides a structured way to describe such files, if they are included. The included related files can be of arbitrary types, as long as their roles are described in the layered standard manifest file. This layered standard can be used in addition to other layered standards, and allows the central description of related files included with the FMU, independently of their use in other layered standards. Thus an implementation can treat the related files described in this layered standard in a uniform way, regardless of whether they are used in other layered standards or not, and regardless of whether the other layered standards are supported by the implementation or not.
+
+This supports the following use cases, among others:
+
+- Inclusion of requirements, specifications, model sources, and other related files that are helpful in understanding and correctly using the FMU in a recognizable way.
+- The ability to provide multiple parameter sets with an FMU as part of the FMU archive.
+- Inclusion of additional experiments that provide sufficient information to enable smoke test validation of an FMU in a new simulation environment.
+
+The pre-release note of v1.0.0-alpha.1 is available here: https://github.com/modelica/fmi-ls-ref/releases/tag/v1.0.0-alpha.1 \
+You can inspect the current development version of this Layered Standard here: https://lnkd.in/eNW-y46v](https://modelica.github.io/fmi-ls-ref/main/ \
+For the the general concept of Layered Standards to the FMI Standards see this paper: https://doi.org/10.3384/ecp204381 \
+Learn more [on the Release page on Github](https://github.com/modelica/fmi-ls-ref/releases/tag/v1.0.0-alpha.1).
+
+##### Pre-Release of FMI Layered Standard for Network Communication (FMI-LS-BUS) v1.3.0-alpha.1 with LIN support available
+
+The FMI Project is happy to announce we have just published the 1.3.0-alpha.1 version of the FMI-LS-BUS standard, that version that finally adds the long-awaited LIN support. 
+This version includes the common Physical Signal Abstraction, that fits for all bus types, and the Network Abstraction that currently supports CAN, CAN FD, CAN XL (from v1.0.0), FlexRay (from v1.1.0; currently in Beta state), Ethernet (from v1.2.0; currently in Alpha state) and LIN. 
+Check out our roadmap to get more information about the expansion plans of the FMI-LS-BUS.  \
+Learn more [on the Release page on Github](https://github.com/modelica/fmi-ls-bus/releases/tag/v1.3.0-alpha.1). \
+Currently intensive cross-checking of FMI-LS-BUS v1.3.0-alpha.1 is going on with prototype implementations from different tool vendors with the working group of the FMI project.
+
+##### FMI Layered Standard for Structures (FMI-LS-STRUCT)
+
+A pre-release v1.0-beta.1 of the MI Layered Standard for Structures (FMI-LS-STRUCT) will be coming soon! Stay tuned on https://github.com/modelica/fmi-ls-struct/.
+
+##### Differential ALgebraich Equations (DAE): New working group founded. 
+
+A new working group for support for Differential-Algebraic Equations (DAE) support (possibly as a layered standard) in FMI has been formed. You can follow the development on Github https://github.com/modelica/fmi-ls-dae.
 
 #### Asian and American Modelica _and FMI_ Conferences 2026
 
