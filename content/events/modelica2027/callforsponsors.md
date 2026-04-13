@@ -1,17 +1,16 @@
 ---
 title: Modelica & FMI Conference 2027 - Call for Sponsors
 ---
-
 {{<rawhtml>}}
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="images/modelica-2027-logo-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="images/modelica-2027-logo-dark.svg">
-  <img src="images/modelica-2027-logo-light.svg" alt="17th International Modelica & FMI Conference">
+  <source media="(prefers-color-scheme: light)" srcset="../images/modelica-2027-logo-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="../images/modelica-2027-logo-dark.svg">
+  <img src="../images/modelica-2027-logo-light.svg" alt="17th International Modelica & FMI Conference">
 </picture>
 {{</rawhtml>}}
 
-# Call for Sponsors: 17th International Modelica & FMI Conference
-**Prague, Clarion Congress Hotel, September 20–22, 2027**
+##  Call for Sponsors: 17th International Modelica & FMI Conference
+### Prague, Clarion Congress Hotel, September 20–22, 2027
 
 The Modelica Association and the local organizers invite you to support the 17th International Modelica & FMI Conference. This event is the premier meeting for the cyber-physical systems modeling community, attracting over 400 experts from industry and academia.
 
@@ -33,7 +32,7 @@ The Modelica Association and the local organizers invite you to support the 17th
   - Dedicated post on the conference **LinkedIn** and **X** accounts.
 - **Visibility:** Website visibility starts immediately upon receipt of payment.
 - **Special Benefits:** Up to 3-minute speech slot at the welcome reception or conference dinner. Opportunity to present an award at the conference awards ceremony.
- 
+
 ### Gold Partner — 11,000 EUR (excl. VAT)
 
 - **Exhibition Space: 8 m² (2x4 m)** reserved floor space. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
@@ -73,6 +72,7 @@ All exhibition areas are designed to maximize interaction. High attendee traffic
 - **Payment:** Immediate visibility on the conference website is triggered upon payment.
 ## Enrollment
 
+
 ## Important Dates
 
 | Date | Milestone |
@@ -87,6 +87,5 @@ All exhibition areas are designed to maximize interaction. High attendee traffic
 ---
 
 
-![Prague 2027](images/Prague_2027.jpg)
-
+![Prague 2027](../images/Prague_2027.jpg)
 
