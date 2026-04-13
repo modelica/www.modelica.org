@@ -1,3 +1,7 @@
+---
+title: Modelica & FMI Conference 2027 - Call for Sponsors
+---
+
 {{<rawhtml>}}
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="images/modelica-2027-logo-light.svg">
