@@ -42,7 +42,7 @@ On March 17, 2026 the FMI Steering Committee has unanimously re-elected Christia
 
 #### FMI Face-2-Face Design Meeting Munich June 8-10 2026
 
-Dassault Systems will host the next in-person FMI Design meeting.\
+Dassault Systems will host the next in-person FMI Design meeting.
 Please drop us a note to contact@fmi-stanard.org if you are interested in participating as a guest.
 
 #### 280+ tools supporting FMI listed on the FMI tools page´!
@@ -56,8 +56,10 @@ The number of tools supporting the FMI Standard is still growing! Now we have mo
 The FMI Project is happy to announce the alpha pre-release of the FMI Layered Standard References (FMI-LS-REF), which allows the inclusion of related files into an FMU.
 Thanks to the FMI Project Team and especially to Pierre Mai (PMSF IT Consulting Pierre R. Mai) for the work!
 
-This layered standard provides the capability to clearly designate the roles of additional related files included in an FMU in a structured way. These files are described in the layered standard manifest file, which is part of the FMU archive. In this way, an FMU can be shipped together with related files that are helpful in understanding and correctly using the FMU in a recognizable way.
-Note that this layered standard does not mandate the inclusion of any related files with an FMU. It only provides a structured way to describe such files, if they are included. The included related files can be of arbitrary types, as long as their roles are described in the layered standard manifest file. This layered standard can be used in addition to other layered standards, and allows the central description of related files included with the FMU, independently of their use in other layered standards. Thus an implementation can treat the related files described in this layered standard in a uniform way, regardless of whether they are used in other layered standards or not, and regardless of whether the other layered standards are supported by the implementation or not.
+This layered standard provides the capability to clearly designate the roles of additional related files included in an FMU in a structured way.
+These files are described in the layered standard manifest file, which is part of the FMU archive. In this way, an FMU can be shipped together with related files that are helpful in understanding and correctly using the FMU in a recognizable way.
+Note that this layered standard does not mandate the inclusion of any related files with an FMU. It only provides a structured way to describe such files, if they are included. The included related files can be of arbitrary types, as long as their roles are described in the layered standard manifest file. This layered standard can be used in addition to other layered standards, and allows the central description of related files included with the FMU, independently of their use in other layered standards.
+Thus an implementation can treat the related files described in this layered standard in a uniform way, regardless of whether they are used in other layered standards or not, and regardless of whether the other layered standards are supported by the implementation or not.
 
 This supports the following use cases, among others:
 
@@ -77,15 +79,20 @@ Currently intensive cross-checking of FMI-LS-BUS v1.3.0-alpha.1 is going on with
 
 ##### FMI Layered Standard for Structures (FMI-LS-STRUCT)
 
-For many use cases, the grouping of variables gives the user a better overview about the usage of variables. For certain groupings the importing tool might be able to provide a more user-friendly interface. FMUs might use maps/functions sampled on the vertices of a grid to calculate output values. The values at these sampling points and even the locations of the sampling points might get exposed as parameter variables of the FMU to allow calibrations. However, the FMI standard only defines n-dimensional array variable but doesn’t define any relation between these variables. This layered standard defines how to group variables to represent maps.
+For many use cases, the grouping of variables gives the user a better overview about the usage of variables. For certain groupings the importing tool might be able to provide a more user-friendly interface. FMUs might use maps/functions sampled on the vertices of a grid to calculate output values.
+The values at these sampling points and even the locations of the sampling points might get exposed as parameter variables of the FMU to allow calibrations.
+However, the FMI standard only defines n-dimensional array variable but doesn’t define any relation between these variables. This layered standard defines how to group variables to represent maps.
 
-This layered standard uses terminals of the FMI 3.0 standard to represent structures like maps by grouping variables in terminals. Terminals are used to group variables and already define means to connect its variables between FMUs. Such a connections could ensure that the same map values are used by different FMUs or allow one FMU to provide the map values to be used by other FMUs.
+This layered standard uses terminals of the FMI 3.0 standard to represent structures like maps by grouping variables in terminals.
+Terminals are used to group variables and already define means to connect its variables between FMUs. Such a connections could ensure that the same map values are used by different FMUs or allow one FMU to provide the map values to be used by other FMUs.
 
-A pre-release v1.0-beta.1 of the MI Layered Standard for Structures (FMI-LS-STRUCT) will be coming soon! Stay tuned on https://github.com/modelica/fmi-ls-struct/. Thanks to the FMI Project Team and especially to Klaus Schuch (AVL) for this work!
+A pre-release v1.0-beta.1 of the MI Layered Standard for Structures (FMI-LS-STRUCT) will be coming soon! Stay tuned on https://github.com/modelica/fmi-ls-struct/.
+Thanks to the FMI Project Team and especially to Klaus Schuch (AVL) for this work!
 
 ##### Differential Algebraic Equations (DAE): New working group founded. 
 
-A new working group for support for Differential-Algebraic Equations (DAE) support (possibly as a layered standard) in FMI has been formed and is working actively. It is lead by Joel Andersson (FMIOPT) and Andreas Heuermann (Santa Barabara Research Institute). A differential-algebraic system of equations (DAE) is a system of equations that either contains differential equations and algebraic equations, or is equivalent to such a system.
+A new working group for support for Differential-Algebraic Equations (DAE) support (possibly as a layered standard) in FMI has been formed and is working actively. It is lead by Joel Andersson (FMIOPT) and Andreas Heuermann (Santa Barabara Research Institute).
+A differential-algebraic system of equations (DAE) is a system of equations that either contains differential equations and algebraic equations, or is equivalent to such a system.
 
 The motivations of DAE support in FMI is to
 
@@ -98,7 +105,9 @@ You can follow the development on Github https://github.com/modelica/fmi-ls-dae.
 
 #### Asian and American Modelica _and FMI_ Conferences 2026
 
-FMI will be a hot topic and the Asian and American Modelida & FMI Conferences, which is reflected by now having "FMI" in the conference title. We see a lot of interest in FMI both in America and Asia, so this is a very attractive conference. FMI Project Leader Christian Bertsch will be giving a keynote and a tutorial on FMI at the Asian Conference.
+FMI will be a hot topic and the Asian and American Modelida & FMI Conferences, which is reflected by now having "FMI" in the conference title.
+We see a lot of interest in FMI both in America and Asia, so this is a very attractive conference.
+FMI Project Leader Christian Bertsch will be giving a keynote and a tutorial on FMI at the Asian Conference.
 
 #### Other Resources for FMI
 
