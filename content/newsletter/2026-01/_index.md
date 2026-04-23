@@ -163,6 +163,27 @@ For more information on **Simcenter&nbsp;Amesim**, please visit our [website](ht
 
 *This article is provided by Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))*
 
+### Introducing MLQT: A Modern Desktop Tool for Managing Modelica Libraries
+
+MLQT started from a familiar frustration: every time a Modelica tool saved a file, it would introduce a flurry of whitespace and formatting changes that cluttered commits, obscured the real edits in diffs, and made code review painful. The original goal was simple — put a layer between Modelica tools and the repository that applied consistent formatting to every `.mo` file before it was committed, so that Git and SVN diffs showed meaningful changes rather than stylistic churn. MLQT replaces your generic Git or SVN client with a Modelica-aware one: keep using whichever editor you prefer, and let MLQT sit between the editor and the repository, giving you a full VCS workflow — browse models, review pending changes, commit, pull updates, create and switch branches, merge, push — with the formatting noise filtered out.
+
+From that starting point, MLQT grew into a broader set of tools for working with Modelica code. The same parser that powers the formatter also drives configurable style checking, dependency impact analysis, and external resource tracking. When you modify a model, MLQT can show you exactly which other models are affected, helping you catch issues before they reach your team. It also integrates with Dymola and OpenModelica for model checking, so you can validate changes against your simulation tools directly from the same interface. MLQT is an open source project using the MIT license.
+
+**Key features and benefits:**
+
+- **Integrated revision control** — Full Git and SVN support including commit, update, branch, merge, and history browsing
+- **Modelica-aware code analysis** — Parses your code to understand model structure, dependencies, and relationships
+- **Impact analysis** — Interactive dependency graphs show the ripple effects of changes across your library
+- **Automatic code formatting** — Applies consistent formatting rules across your entire library on save
+- **Configurable style checking** — Enforces team coding standards with customizable rules for naming, documentation, structure, and more
+- **External resource tracking** — Monitors data files, C libraries, images, and other resources referenced by your models
+- **Simulation tool integration** — Connect to Dymola and OpenModelica for model checking without switching applications
+
+MLQT is available for Windows today, with a Linux version on the roadmap. To learn more, visit the open-source [repository on GitHub](https://github.com/mdempse1/MLQT).
+
+![](mlqt-code-review-sm.png)
+
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
