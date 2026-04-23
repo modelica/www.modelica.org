@@ -163,6 +163,18 @@ For more information on **Simcenter&nbsp;Amesim**, please visit our [website](ht
 
 *This article is provided by Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))*
 
+### Dymola Battery Library 2.9.0
+
+![Module structure in Battery 2.9.0](3DS-BatteryLib.png)
+
+Battery Library version 2.9.0 introduces two major functional extensions: **battery modules** and **failure modelling**.
+
+The new **battery modules** allow independent discretization of thermal and electrical behavior. They enable aggregation of the electric models of multiple cells, reducing electrical model complexity while maintaining simulation accuracy. This flexibility allows model resolutions to be adapted to the analysis objective and improves computational performance in simulations of large battery packs.
+
+The second feature is the introduction of **failure modelling**. The failure model is integrated into the cell model, enabling the simulation of failures on both cell and pack level. The Battery Library provides models for several failure mechanisms, including **thermal runaway** (three modelling approaches for onset and heat generation), **broken circuits** (interruption of current paths due to connector or tab failures) and **short circuits** (unintended low-resistance paths that lead to high currents and rapid heat generation).
+
+*This article is provided by Nils Modrow ([Dassault Systèmes AB](https://www.3ds.com/))*
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
