@@ -163,17 +163,7 @@ For more information on **Simcenter&nbsp;Amesim**, please visit our [website](ht
 
 *This article is provided by Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))*
 
-<!-- END Vendor news -->
-
-{{<rawhtml>}}
-<div class="masthead-followup-icon d-inline-block mt-5">
-    <i class="fa-solid fa-book" style="font-size:50px"></i>
-</div>
-{{</rawhtml>}}
-
-## News from libraries
-
-### Testing Library 2.0.0
+### Dymola Testing Library 2.0.0
 
 ![Package structure, toolbar and test visualization in Testing 2.0.0](3DS-Testing2.png)
 
@@ -195,6 +185,16 @@ See the release notes of the Testing library inside Dymola for the full list of 
 regarding the upgrade of some corner cases.
 
 *This article is provided by Marco Keßler ([Dassault Systèmes Austria GmbH](https://www.3ds.com/))*
+
+<!-- END Vendor news -->
+
+{{<rawhtml>}}
+<div class="masthead-followup-icon d-inline-block mt-5">
+    <i class="fa-solid fa-book" style="font-size:50px"></i>
+</div>
+{{</rawhtml>}}
+
+## News from libraries
 
 <!-- END News from libraries -->
 
