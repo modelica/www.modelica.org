@@ -127,7 +127,7 @@ FMI Project Leader Christian Bertsch will be giving a keynote and a tutorial on 
 
 ## ThermoSim 2026 – Conference for Thermal System Simulation
 
-![ThermoSim logo](Logo.png)
+![ThermoSim logo](ThermoSimLogo.png)
 
 **ThermoSim 2026** brings together engineers, researchers, and industry professionals working with system simulation, Modelica, and FMI.
 The conference focuses on practical applications, exchange of experience, and discussion of current developments in simulation technology.
