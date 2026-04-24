@@ -447,6 +447,64 @@ We are happy to welcome two new XRG product resellers in PR China and Japan:
 
 *This article is provided by Stefan Wischhusen ([XRG Simulation GmbH](https://xrg-simulation.de/en))*
 
+### Rumoca: Exploring Modelica Compilation for Algebraic Modeling Workflows
+
+![Rumoca_logo](Rumoca_logo.png)
+
+Rumoca is an open-source Modelica compiler project exploring how Modelica models can be translated into algebraic modeling and scientific computing environments such as CasADi, JAX, Julia, SymForce, and related toolchains. The project is intended to complement existing Modelica tools by focusing on compiler infrastructure for optimization, automatic differentiation, embedded code generation, advanced control, scientific machine learning, and portable web-based workflows.
+
+Rumoca was presented at the 16th International Modelica & FMI Conference in the paper “Rumoca: Towards a Translator from Modelica to Algebraic Modeling Languages” by Micah Condie, Abigaile Woodbury, James Goppert, and Joel Andersson.
+
+The central idea behind Rumoca is that Modelica can serve not only as a language for system simulation, but also as a universal symbolic frontend, that is, as a high-level source language for generating solver-friendly mathematical representations. Many modern engineering workflows require access to residual equations, Jacobians, sensitivities, constraints, and differentiable model representations. These are important for model predictive control, trajectory optimization, system identification, embedded autonomy, and physics-informed learning.
+Rumoca is written in Rust and is being developed as a modular compiler infrastructure. Current work focuses on parsing and semantic analysis, Modelica flattening, DAE-oriented intermediate representations, and code generation for algebraic modeling backends. Modelica-to-JAX, Modelica-to-CasADi, and Modelica-to-Julia workflows remain central goals of the project.
+
+A major development priority is improving compatibility with the Modelica Standard Library. The Rumoca team is actively working toward broad MSL coverage through a combination of expanded compiler support, extensive CI testing, specification-focused development, and carefully reviewed AI-assisted co-development practices. The team is also tracking Base Modelica closely. Since Base Modelica is expected to be a strict subset of Modelica, it provides a promising path for focused compiler support without requiring a separate parser. Rumoca’s roadmap includes Base Modelica support, and the team is interested in including high-quality Base Modelica test models in its CI suite.
+
+At Purdue University, Rumoca is being developed in connection with research on autonomous aerial systems, robust autonomy, embedded control, digital twins, and formal methods for safety. One research direction is the automatic construction of Lyapunov- and contraction-theory-based reachability and safety proofs using Lie group theory. This requires access to the compiler’s internal representation of rigid body kinematics, nonlinear force and moment models, and their coupling in the generated equations. For this reason, having a flexible compiler stack in Rust is especially useful as a research platform.
+
+Rumoca is also being used in embedded flight-control workflows. The Purdue team has already flown Modelica-to-Rumoca-to-CasADi-to-C generated code, as well as direct Modelica-to-Rumoca-to-C generated code, on a quadrotor vehicle running Zephyr RTOS through the CogniPilot Cerebri autopilot. The team is following eFMI developments closely and is interested in feedback from the community on embedded code generation, GALEC output, and related standardization efforts.
+
+Ease of use and portability are also major goals. Rumoca includes a VS Code extension that provides a convenient development environment for Modelica users. The project is also exploring WebAssembly deployment so that the compiler can run directly in the browser without requiring a backend server. This has proven useful for teaching, demonstrations, and lightweight experimentation. A web-based Rumoca demo is available at: https://rumoca.cognipilot.org/
+
+The team is also preparing control-engineering-focused teaching examples using WebAssembly and plans to submit a tutorial paper to the American Modelica Conference.
+Looking forward, Rumoca is interested in supporting digital twin workflows for Purdue’s autonomous vehicle competitions and experimental infrastructure, including the Purdue UAS Research and Test Facility. Longer term, the team is also exploring how Modelica could be used not only for plant models, but also for control algorithm descriptions. For example, model predictive control expressed in a Modelica-like workflow may eventually require extensions for nonlinear programming that can be passed to tools such as CasADi, JAX, or Julia-based optimization environments.
+
+Another active discussion concerns WebAssembly-based FMUs, which could provide an attractive path for portable, browser-friendly, and platform-independent simulation components. This direction may be especially useful for education, demonstrations, cloud deployment, and lightweight digital twin applications.
+
+The Rumoca team welcomes feedback and collaboration from the Modelica community, especially around:
+
+* Modelica Standard Library compatibility
+* Base Modelica test cases
+* compiler benchmarks and CI test models
+* JAX, CasADi, and Julia code generation
+* eFMI and embedded code generation workflows
+* WebAssembly-based compiler and FMU deployment
+* symbolic differentiation and scientific machine learning
+* language-server and editor support for Modelica
+  
+Further information:
+
+* Project repository: https://github.com/CogniPilot/rumoca
+* Web demo: https://rumoca.cognipilot.org/
+* Roadmap: https://github.com/orgs/CogniPilot/projects/7
+* Base Modelica issue: https://github.com/CogniPilot/rumoca/issues/146
+* WebAssembly FMU discussion: https://github.com/CogniPilot/rumoca/issues/34
+* Purdue UAS Research and Test Facility: https://engineering.purdue.edu/PURT
+
+![Rumoca](Rumoca.png)
+
+Supported backends for Rumoca currently include CasADi, Sympy, Jax, Julia, FMI, and C for embedded systems.
+
+![Rumoca_screenshot](Rumoca_screenshot.png)
+
+Modelica models can be edited, simulated, visualized, and exported to various backends within a modern IDE interface through both the VS code extension, and the playground (shown above.)
+
+![Rumoca_screenshot2](Rumoca_screenshot2.png)
+
+Rumoca also supports realtime, interactive simulation. Above is an example of a quadrotor simulation taking controls from a gamepad in order to test an autopilot in realtime.
+
+
+*This article is provided by Micah Condie and James Goppert, Purdue University.*
 ### Wolfram System Modeler User Conference 2026
 
 ![System Modeler Conference](system-modeler-conference.png)
