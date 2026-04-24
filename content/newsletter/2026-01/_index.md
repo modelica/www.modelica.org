@@ -32,21 +32,20 @@ issued on March 5, 2026
 
 ### FMI Project News
 
-![FMI Standard](FMI-logo.png)
+<img src="FMI-logo.png" width="50%">
 
 #### FMI Project Leader and Deputy re-elected
 
 On March 17, 2026 the FMI Steering Committee has unanimously re-elected Christian Bertsch, BOSCH Research, as the project leader and Torsten Sommer, Dassault Systèmes, as the deputy for a two-years term.
-![FMI Project Leader and Deputy](Bertsch_Sommer.jpg 'FMI Project Leader and Deputy Christian Bertsch and Torsten Sommer')
+
+<img src="Bertsch_Sommer.jpg" width="50%">
 
 #### FMI Face-2-Face Design Meeting Munich June 8-10 2026
 
-Dassault Systems will host the next in-person FMI Design meeting.\
+Dassault Systems will host the next in-person FMI Design meeting.
 Please drop us a note to contact@fmi-stanard.org if you are interested in participating as a guest.
 
-#### FMI Advisory Committee Meeting April 22 2026
-
-#### 280+ tools supporting FMI listed on the FMI tools page
+#### 280+ tools supporting FMI listed on the FMI tools page´!
 
 The number of tools supporting the FMI Standard is still growing! Now we have more than 280 tools listed on https://fmi-standard.org/tools/ !
 
@@ -57,8 +56,10 @@ The number of tools supporting the FMI Standard is still growing! Now we have mo
 The FMI Project is happy to announce the alpha pre-release of the FMI Layered Standard References (FMI-LS-REF), which allows the inclusion of related files into an FMU.
 Thanks to the FMI Project Team and especially to Pierre Mai (PMSF IT Consulting Pierre R. Mai) for the work!
 
-Summary: This layered standard provides the capability to clearly designate the roles of additional related files included in an FMU in a structured way. These files are described in the layered standard manifest file, which is part of the FMU archive. In this way, an FMU can be shipped together with related files that are helpful in understanding and correctly using the FMU in a recognizable way.
-Note that this layered standard does not mandate the inclusion of any related files with an FMU. It only provides a structured way to describe such files, if they are included. The included related files can be of arbitrary types, as long as their roles are described in the layered standard manifest file. This layered standard can be used in addition to other layered standards, and allows the central description of related files included with the FMU, independently of their use in other layered standards. Thus an implementation can treat the related files described in this layered standard in a uniform way, regardless of whether they are used in other layered standards or not, and regardless of whether the other layered standards are supported by the implementation or not.
+This layered standard provides the capability to clearly designate the roles of additional related files included in an FMU in a structured way.
+These files are described in the layered standard manifest file, which is part of the FMU archive. In this way, an FMU can be shipped together with related files that are helpful in understanding and correctly using the FMU in a recognizable way.
+Note that this layered standard does not mandate the inclusion of any related files with an FMU. It only provides a structured way to describe such files, if they are included. The included related files can be of arbitrary types, as long as their roles are described in the layered standard manifest file. This layered standard can be used in addition to other layered standards, and allows the central description of related files included with the FMU, independently of their use in other layered standards.
+Thus an implementation can treat the related files described in this layered standard in a uniform way, regardless of whether they are used in other layered standards or not, and regardless of whether the other layered standards are supported by the implementation or not.
 
 This supports the following use cases, among others:
 
@@ -66,14 +67,11 @@ This supports the following use cases, among others:
 - The ability to provide multiple parameter sets with an FMU as part of the FMU archive.
 - Inclusion of additional experiments that provide sufficient information to enable smoke test validation of an FMU in a new simulation environment.
 
-The pre-release note of v1.0.0-alpha.1 is available here: https://github.com/modelica/fmi-ls-ref/releases/tag/v1.0.0-alpha.1 \
-You can inspect the current development version of this Layered Standard here: https://lnkd.in/eNW-y46v](https://modelica.github.io/fmi-ls-ref/main/ \
-For the the general concept of Layered Standards to the FMI Standards see this paper: https://doi.org/10.3384/ecp204381 \
 Learn more [on the Release page on Github](https://github.com/modelica/fmi-ls-ref/releases/tag/v1.0.0-alpha.1).
 
 ##### Pre-Release of FMI Layered Standard for Network Communication (FMI-LS-BUS) v1.3.0-alpha.1 with LIN support available
 
-The FMI Project is happy to announce we have just published the 1.3.0-alpha.1 version of the FMI-LS-BUS standard, that version that finally adds the long-awaited LIN support. 
+The FMI Project is happy to announce that we have just published the 1.3.0-alpha.1 version of the FMI-LS-BUS standard, that version that finally adds the long-awaited LIN support. 
 This version includes the common Physical Signal Abstraction, that fits for all bus types, and the Network Abstraction that currently supports CAN, CAN FD, CAN XL (from v1.0.0), FlexRay (from v1.1.0; currently in Beta state), Ethernet (from v1.2.0; currently in Alpha state) and LIN. 
 Check out our roadmap to get more information about the expansion plans of the FMI-LS-BUS.  \
 Learn more [on the Release page on Github](https://github.com/modelica/fmi-ls-bus/releases/tag/v1.3.0-alpha.1). \
@@ -81,24 +79,41 @@ Currently intensive cross-checking of FMI-LS-BUS v1.3.0-alpha.1 is going on with
 
 ##### FMI Layered Standard for Structures (FMI-LS-STRUCT)
 
+For many use cases, the grouping of variables gives the user a better overview about the usage of variables. For certain groupings the importing tool might be able to provide a more user-friendly interface. FMUs might use maps/functions sampled on the vertices of a grid to calculate output values.
+The values at these sampling points and even the locations of the sampling points might get exposed as parameter variables of the FMU to allow calibrations.
+However, the FMI standard only defines n-dimensional array variable but doesn’t define any relation between these variables. This layered standard defines how to group variables to represent maps.
+
+This layered standard uses terminals of the FMI 3.0 standard to represent structures like maps by grouping variables in terminals.
+Terminals are used to group variables and already define means to connect its variables between FMUs. Such a connections could ensure that the same map values are used by different FMUs or allow one FMU to provide the map values to be used by other FMUs.
+
 A pre-release v1.0-beta.1 of the MI Layered Standard for Structures (FMI-LS-STRUCT) will be coming soon! Stay tuned on https://github.com/modelica/fmi-ls-struct/.
+Thanks to the FMI Project Team and especially to Klaus Schuch (AVL) for this work!
 
-##### Differential ALgebraich Equations (DAE): New working group founded. 
+##### Differential Algebraic Equations (DAE): New working group founded. 
 
-A new working group for support for Differential-Algebraic Equations (DAE) support (possibly as a layered standard) in FMI has been formed. You can follow the development on Github https://github.com/modelica/fmi-ls-dae.
+A new working group for support for Differential-Algebraic Equations (DAE) support (possibly as a layered standard) in FMI has been formed and is working actively. It is lead by Joel Andersson (FMIOPT) and Andreas Heuermann (Santa Barabara Research Institute).
+A differential-algebraic system of equations (DAE) is a system of equations that either contains differential equations and algebraic equations, or is equivalent to such a system.
+
+The motivations of DAE support in FMI is to
+
+* Avoid the requirement of index reduction inside of FMUs: This may improve accuracy due to better drift handling.
+* Avoid local nonlinear equation solvers inside of FMUs: This may improve accuracy and avoid problems with different local and global error tolerances.
+* Preserve the sparseness of DAE systems which is lost for the corresponding reduced ODE systems: This may improve the performance by usage of the sparseness.
+* Allow connections between constraint FMUs: Connecting reduced ODE FMUs may lead globally to a non-solvable (singular) system but not for unreduced DAE FMUs.
+
+You can follow the development on Github https://github.com/modelica/fmi-ls-dae.
 
 #### Asian and American Modelica _and FMI_ Conferences 2026
 
-FMI will be a hot topic and the Asian and American Modelida & FMI Conferences, which is reflected by now having "FMI" in the conference title. We see a lot of interest in FMI both in America and Asia, so this is a very attractive conference. FMI Project Leader Christian Bertsch will be giving a keynote and a tutorial on FMI at the Asian Conference.
+FMI will be a hot topic and the Asian and American Modelida & FMI Conferences, which is reflected by now having "FMI" in the conference title.
+We see a lot of interest in FMI both in America and Asia, so this is a very attractive conference.
+FMI Project Leader Christian Bertsch will be giving a keynote and a tutorial on FMI at the Asian Conference.
 
 #### Other Resources for FMI
 
-* Visit the [FMI tools page](https://fmi-standard.org/tools) listing 260 tools supporting FMI!
+* Visit the [FMI tools page](https://fmi-standard.org/tools) listing 280+ tools supporting FMI!
 * Join the [LinkedIn FMI community](https://www.linkedin.com/groups/7477473/) to get the latest news on FMI, FMI supporting tools and discussions within the user community.
 * Report problems of the standard itself or suggestions for new features in form of issues or discussions on [fmi-standard.org](https://github.com/modelica/fmi-standard)
-
-
-
 
 <!-- END Modelica Association -->
 
@@ -163,6 +178,7 @@ For more information on **Simcenter&nbsp;Amesim**, please visit our [website](ht
 
 *This article is provided by Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))*
 
+
 ### Introducing MLQT: A Modern Desktop Tool for Managing Modelica Libraries
 
 MLQT started from a familiar frustration: every time a Modelica tool saved a file, it would introduce a flurry of whitespace and formatting changes that cluttered commits, obscured the real edits in diffs, and made code review painful. The original goal was simple — put a layer between Modelica tools and the repository that applied consistent formatting to every `.mo` file before it was committed, so that Git and SVN diffs showed meaningful changes rather than stylistic churn. MLQT replaces your generic Git or SVN client with a Modelica-aware one: keep using whichever editor you prefer, and let MLQT sit between the editor and the repository, giving you a full VCS workflow — browse models, review pending changes, commit, pull updates, create and switch branches, merge, push — with the formatting noise filtered out.
@@ -183,18 +199,7 @@ MLQT is available for Windows today, with a Linux version on the roadmap. To lea
 
 ![](mlqt-code-review-sm.png)
 
-
-<!-- END Vendor news -->
-
-{{<rawhtml>}}
-<div class="masthead-followup-icon d-inline-block mt-5">
-    <i class="fa-solid fa-book" style="font-size:50px"></i>
-</div>
-{{</rawhtml>}}
-
-## News from libraries
-
-### Testing Library 2.0.0
+### Dymola Testing Library 2.0.0
 
 ![Package structure, toolbar and test visualization in Testing 2.0.0](3DS-Testing2.png)
 
@@ -216,6 +221,16 @@ See the release notes of the Testing library inside Dymola for the full list of 
 regarding the upgrade of some corner cases.
 
 *This article is provided by Marco Keßler ([Dassault Systèmes Austria GmbH](https://www.3ds.com/))*
+
+<!-- END Vendor news -->
+
+{{<rawhtml>}}
+<div class="masthead-followup-icon d-inline-block mt-5">
+    <i class="fa-solid fa-book" style="font-size:50px"></i>
+</div>
+{{</rawhtml>}}
+
+## News from libraries
 
 <!-- END News from libraries -->
 
