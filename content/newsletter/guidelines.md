@@ -9,11 +9,11 @@ Everyone is welcome to contribute a post to the Modelica newsletter, however the
 The scope of the newsletter includes all topics covered by the [Modelica Association](https://www.modelica.org) (Modelica language, libraries, FMI, SSP, DCP), related tools, and news in education (courses, books and related materials).
 If you have an item of interest that you would like to share with the Modelica community, for example:
 
-- a brief note on a Modelica related project,
-- information about Modelica libraries, tools or services (technical details only, no marketing or advertising content), or
-- upcoming Modelica related events.
+- a brief note on a Modelica and FMI related project,
+- information about Modelica and FMI related libraries, tools or services (technical details only, no marketing or advertising content), or
+- upcoming Modelica and FMI related events.
 
-Please consider submitting a brief write-up about it to the Modelica Newsletter.
+Please consider submitting a brief write-up about it to the Modelica Newsletter. If you want to get reminded ahead of the forthcoming issue, [register as a contributor](https://modelica.us12.list-manage.com/subscribe?u=0be901f875b69817eddd7e71b&id=0cb2cf5b72).
 
 Submission guidelines are as follows (exceptions are possible in justified cases):
 
