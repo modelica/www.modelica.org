@@ -451,6 +451,12 @@ We are happy to welcome two new XRG product resellers in PR China and Japan:
 
 Rumoca is an open-source Modelica compiler project exploring how Modelica models can be translated into algebraic modeling and scientific computing environments such as CasADi, JAX, Julia, SymForce, and related toolchains. The project is intended to complement existing Modelica tools by focusing on compiler infrastructure for optimization, automatic differentiation, embedded code generation, advanced control, scientific machine learning, and portable web-based workflows.
 
+![Rumoca](Rumoca.png)
+
+Supported backends for Rumoca currently include CasADi, Sympy, Jax, Julia, FMI, and C for embedded systems.
+
+![Rumoca_screenshot](Rumoca_screenshot.png)
+
 Rumoca was presented at the 16th International Modelica & FMI Conference in the paper “Rumoca: Towards a Translator from Modelica to Algebraic Modeling Languages” by Micah Condie, Abigaile Woodbury, James Goppert, and Joel Andersson.
 
 The central idea behind Rumoca is that Modelica can serve not only as a language for system simulation, but also as a universal symbolic frontend, that is, as a high-level source language for generating solver-friendly mathematical representations. Many modern engineering workflows require access to residual equations, Jacobians, sensitivities, constraints, and differentiable model representations. These are important for model predictive control, trajectory optimization, system identification, embedded autonomy, and physics-informed learning.
