@@ -28,14 +28,14 @@ In the year 2026, we put the focus on our regional events in America and Asia. T
 
 Deadline for the submission of scientific papers: **May 15**.
 
-- [Asian Modelica Conference](https://modelica.org/events/asian2026/) in Hangzhou, China, September 20-22
-- [American Modelica Conference](https://modelica.org/events/american2026/) in Atlanta, Georgia, USA, October 12-14
+- [Asian Modelica & FMI Conference](https://modelica.org/events/asian2026/) in Hangzhou, China, September 20-22
+- [American Modelica & FMI Conference](https://modelica.org/events/american2026/) in Atlanta, Georgia, USA, October 12-14
 
 Please note, that both conferences also offer industrial user presentations and tutorials. Please inform yourself at the corresponding conference website on the corresponding deadlines (approx. in June). Furthermore, both conferences are open for sponsors. Furthermore the sponsorship conditions for the international conference in Prague will soon be available.
 
-Having worked for many years in the field of aviation, I am very glad that Prof. Dimitri Marvis who is directing the highly renowned [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) is offering to host the American conference at the site of Georgia Tech. Modelica has been applied more and more in Aerospace and this event will further strengthen our presence in this domain.
+Having worked for many years in the field of aviation, I am very glad that Prof. Dimitri Marvis who is directing the highly renowned [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) is offering to host the American Modelica & FMI conference at the site of Georgia Tech. Modelica has been applied more and more in Aerospace and this event will further strengthen our presence in this domain.
 
-The Asian Modelica is already worth attending just for its impressive keynotes:
+The Asian Modelica & FMI Conference is already worth attending just for its impressive keynotes:
 - **Zhong Yilin**, Vice President of the **BYD** Automotive Engineering Research Institute will demonstrate what is needed Model-based Digital Engineering Practice in one of the most dynamic sectors of Chinas industry. 
 - **Prof. Xu Yangzeng** will show how to transfer the modeling expertise acquired for hydraulic system to the modern era of **Digitial Twins**.
 - **Dr. Hilding Elmqvist** (Mogram AB) formed the whole history Modelica from its very beginning and is eager to enter with his work into the era of **cloud technologies and intelligent automation**.
