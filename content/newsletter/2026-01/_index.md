@@ -153,6 +153,7 @@ Key new features and changes include:
   - Green ammonia with ammonia plant component
 
 This article is provided by Markus Andres ([Dassault Systemes Austria GmbH](https://www.3ds.com/))
+
 ### Siemens Digital Industries Software
 
 #### Simcenter Amesim 2604 released
@@ -251,13 +252,31 @@ regarding the upgrade of some corner cases.
 
 *This article is provided by Marco Keßler ([Dassault Systèmes Austria GmbH](https://www.3ds.com/))*
 
-<!-- END Vendor news -->
+### Dymola 2026x Refresh 1
 
-{{<rawhtml>}}
-<div class="masthead-followup-icon d-inline-block mt-5">
-    <i class="fa-solid fa-book" style="font-size:50px"></i>
-</div>
-{{</rawhtml>}}
+
+![Dymola 2026x Refresh 1](D2026xR1-small.png)
+
+We are pleased to announce that Dymola 2026x Refresh 1 has been released on Friday, 17 April 2026. Summary of key features:
+
+**Model development**
+- Icons in the variable browser. Makes browsing of the simulation result easier.
+- LEO virtual companion (AI) for model development and analysis, requires integration with 3DEXPERIENCE (Beta).
+
+**Simulation**
+- Integrated calibration of model parameters (new user interface).
+- Parameter sweep with grouping.
+- Dynamic optimization of FMUs using e.g. CasADi (Beta).
+
+**Other**
+- Library improvements.
+- Integrated eFMI production code generation. Code generation on cloud not needed.
+- Upgraded FLEXnet license server with recent security patches.
+
+
+See [latest release](https://www.3ds.com/products/catia/dymola/latest-release) for more details.
+
+*This article is provided by Dag Brück ([Dassault Systèmes](https://www.3ds.com/products/catia/dymola))*
 
 ### OpenModelica 1.26.3 and new developments
 
@@ -323,6 +342,14 @@ Your input now will directly shape what ships next.
 Download OpenModelica from: [https://openmodelica.org](https://openmodelica.org)
 
 *This article is provided by Adeel Asghar, Francesco Casella, Martin Sjölund ([Open Source Modelica Consortium](https://www.openmodelica.org/))*
+
+<!-- END Vendor news -->
+
+{{<rawhtml>}}
+<div class="masthead-followup-icon d-inline-block mt-5">
+    <i class="fa-solid fa-book" style="font-size:50px"></i>
+</div>
+{{</rawhtml>}}
 
 ## News from libraries
 
