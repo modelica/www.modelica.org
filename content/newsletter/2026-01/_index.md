@@ -229,6 +229,8 @@ MLQT is available for Windows today, with a Linux version on the roadmap. To lea
 
 ![](mlqt-code-review-sm.png)
 
+*This article is provided by Mike Dempsey ([M Dempsey Ltd](https://dempsey.me.uk/))*
+
 ### Dymola Testing Library 2.0.0
 
 ![Package structure, toolbar and test visualization in Testing 2.0.0](3DS-Testing2.png)
