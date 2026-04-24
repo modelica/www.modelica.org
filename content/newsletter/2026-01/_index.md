@@ -505,6 +505,25 @@ Rumoca also supports realtime, interactive simulation. Above is an example of a 
 
 
 *This article is provided by Micah Condie and James Goppert, Purdue University.*
+### Wolfram System Modeler User Conference 2026
+
+![System Modeler Conference](system-modeler-conference.png)
+
+This virtual conference showcased how industry leaders, researchers, and engineers use Wolfram System Modeler, Modelica, Wolfram Language, and FMI-based workflows to accelerate design, simulation, and digital-twin development across a wide range of engineering domains.
+
+The event brought together experts from SUEZ International, Saab Aircraft, Nidingen Engineering & Research, MWF Services, and Berkeley & Imperial to share real-world modeling workflows — from thermal management and energy optimization to full digital-twin architectures and real-time simulation. Wolfram developers also presented an overview of System Modeler, highlighting new capabilities and modern engineering workflows.
+
+**Featured presentations:**
+- **Wolfram:** System Modeler Overview
+- **Saab:** Aerospace Modeling Workflows for Advanced System Simulation
+- **Nidingen:** Thermal Management System Design for Battery-Electric Vehicles
+- **SUEZ Engineering & Construction:** Designing Optimal Solutions for Pumping Large Water Flows through Water Plant Pipe Networks
+- **Berkeley & Imperial:** Industrial Digital Twins Using System Modeler and OPC UA
+- **MWF Services:** Real-Time Simulator Architectures for RCP and HIL Workflows
+
+Watch [recordings](https://www.wolfram.com/wolfram-u/courses/modeling-simulation/system-modeler-user-conference-2026/).
+
+*This article is provided by Ankit Anurag Naik ([Wolfram System Modeler](https://www.wolfram.com/system-modeler/))*
 
 <!-- END Vendor news -->
 
@@ -547,5 +566,35 @@ Clem
 Artificial intelligence is accelerating engineering workflows, but its effectiveness depends on the structure and transparency of the underlying models. In this article, Modelon experts explore how Modelica naturally aligns with modern AI capabilities. The result is a more seamless path from engineering intent to actionable insight. [Read the post](https://modelon.com/blog/from-intent-to-insight-ai-driven-physics-based-modeling-with-modelica/). 
 
 *This article is provided by Lauren Caris ([Modelon](https://modelon.com))*
+
+### Thinking in Systems, Not Code
+
+![Thinking in Systems, Not Code](thinking-in-systems-cover.png)
+
+Most engineers are taught to solve problems by writing code, breaking behavior into steps and sequences. But physical systems don't work that way. Energy grids, electric vehicles, and industrial processes are interconnected, feedback-driven, and emergent.
+
+*Thinking in Systems, Not Code* introduces acausal, equation-based modeling through examples drawn from multiple engineering domains, showing not just how to use Modelica, but how to *think* in it. It is designed for engineers encountering Modelica for the first time and builds the intuition that makes the paradigm click.
+
+If you work with colleagues, students, or collaborators who keep reaching for Simulink or hand-written code when Modelica would serve them better, this book is worth passing on.
+
+[Available on Amazon](https://www.amazon.com/Thinking-Systems-Not-Code-Understand/dp/915318176X/)
+
+*This article is provided by Ankit Anurag Naik ([Wolfram System Modeler](https://www.wolfram.com/system-modeler/))*
+
+### Getting Started with Modelica
+
+![Getting Started with Modelica](getting-started-modelica-cover.png)
+
+Modelica is the language engineers reach for when a system crosses domain boundaries. But the learning curve can be steep without a structured guide.
+
+*Getting Started with Modelica* builds the language from scratch, one idea per chapter. Every concept is grounded in code you write yourself. By the end, you can read existing models, write new ones, diagnose problems, and know where to look when something does not behave as expected.
+
+The book covers the full progression: acausal modeling fundamentals, the Modelica Standard Library, arrays, events, hybrid models, inheritance, replaceable components, FMI, and solvers. A dedicated chapter makes the case for why Modelica is particularly well suited for LLM-assisted engineering workflows.
+
+If you know someone looking to get started with Modelica, this is the book to share.
+
+[Available on Amazon](https://www.amazon.com/Getting-Started-Modelica-Language-Modeling/dp/9199160803/)
+
+*This article is provided by Ankit Anurag Naik ([Wolfram System Modeler](https://www.wolfram.com/system-modeler/))*
 
 <!-- END Education news -->
