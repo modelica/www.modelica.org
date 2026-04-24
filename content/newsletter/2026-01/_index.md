@@ -343,7 +343,22 @@ Your input now will directly shape what ships next.
 
 Download OpenModelica from: [https://openmodelica.org](https://openmodelica.org)
 
-*This article is provided by Adeel Asghar, Francesco Casella, Martin Sjölund ([Open Source Modelica Consortium](https://www.openmodelica.org/))*
+*This article is provided by Adeel Asghar, Francesco Casella and Martin Sjölund ([Open Source Modelica Consortium](https://www.openmodelica.org/))*
+
+### Modelon Impact
+
+#### Modelon Impact Code Studio: Work with AI Through Powerful APIs
+Modelica development just got faster and more powerful. [Modelon Impact Code Studio](https://modelon.com/blog/introducing-modelon-impact-code-studio/) delivers a modern, cloud-native coding experience for Modelica developers, combining the power of VS Code with intelligent language support:
+- Al-assisted modeling with leading copilots
+- Real-time semantic error detection
+- Zero set up and seamless integration with Impact's graphical UI
+- Built on best-in-class Visual Studio Code 
+
+#### New AI Assistant and Data Center Library Expand Simulation in Modelon Impact
+Modelon is expanding the reach of physics-based system simulation with the launch of its new **Data Center Library**, arriving this spring for use with **Modelon Impact**. Built on Modelica, the library enables engineers to model and analyze complete data center cooling systems, including air, liquid, and emerging two-phase technologies, at the system level. 
+Alongside this release, Modelon is introducing an integrated [AI Assistant](https://modelon.com/blog/new-ai-assistant-in-modelon-impact/) that works across projects in all industries, helping users ramp up faster, navigate complex models, and explore design and control scenarios more efficiently. These new capabilities make it easier to move from early concept to validated system behavior, supporting scalable, simulation-driven workflows.
+
+*This article is provided by Lauren Caris ([Modelon](https://modelon.com))*
 
 <!-- END Vendor news -->
 
@@ -366,7 +381,6 @@ Download OpenModelica from: [https://openmodelica.org](https://openmodelica.org)
 
 ## Education news
 
----
 ### Dr. Clément Coïc | FMI 3.0 and FMPy cheat sheet
 
 ![Learn Modelica and FMI website logo](https://github.com/modelica/newsletter/blob/main/_2025-03/Newsletter_LearnModelica%26FMI.png)
@@ -380,5 +394,12 @@ While the newsletter is the perfect companion for your Saturday's morning cup of
 
 Hope this helps,     
 Clem
+*This article is provided by [Clément Coïc](https://www.linkedin.com/in/clementcoic/)*
+
+
+### From Intent to Insight: AI-Driven, Physics-Based Modeling with Modelica
+Artificial intelligence is accelerating engineering workflows, but its effectiveness depends on the structure and transparency of the underlying models. In this article, Modelon experts explore how Modelica naturally aligns with modern AI capabilities. The result is a more seamless path from engineering intent to actionable insight. [Read the post](https://modelon.com/blog/from-intent-to-insight-ai-driven-physics-based-modeling-with-modelica/). 
+
+*This article is provided by Lauren Caris ([Modelon](https://modelon.com))*
 
 <!-- END Education news -->
