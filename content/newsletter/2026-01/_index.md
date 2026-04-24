@@ -392,6 +392,61 @@ Alongside this release, Modelon is introducing an integrated [AI Assistant](http
 
 *This article is provided by Lauren Caris ([Modelon](https://modelon.com))*
 
+
+### XRG Simulation - Spring news
+
+![XRG Logo](XRG-Simulation-72dpi-Logo-with-20-years-lettering.jpg 'XRG Logo 20 years')
+
+#### Modelica & FMI helps to develop real-life system control on a 70 m yacht
+
+Building projects are always time-critical and usually take several years to be completed. Wouldn’t it be nice to save precious time by optimizing the system control with digital twins, before the system is installed?    
+
+Read more about how foundation° and XRG Simulation successfully demonstrated how to use Modelica and FMI for a completely new energy harvesting system on board of a 70 m yacht.  
+
+The final real-life control logic has been developed using an FMU containing the transient digital twin of the HVAC system. Engineers were able to design and tune the control before the hardware system was even installed.  
+
+A challenging aspect of this project is that the Modelica model must always provide robust and reliable outputs for all inputs during testing, and it needs to execute much faster than in real-time.
+
+For more details check out our [**paper**](https://doi.org/10.3384/ecp218801) on "Modelica driven development of the thermal management control system for a zero-emission yacht". It demonstrates how the exported FMU of the thermal energy system modelled with **HVAC Library** can be used to design the control logics outside of the Modelica tool (software in the loop simulation). Or visit the [**website of foundation°**](https://www.foundationzero.org/insights/modelica/).
+
+![Modelica DigitalTwin naval energy recovery system](NEW_F0_Modelica_blueprint_HEADER_1280.png 'Modelica digital twin of the energy recovery system')
+
+#### Modelica Library Announcements
+
+The following libraries provide important and valuable new features.
+
+**HVAC Library 3.6.0** for HVAC system simulation
+
+HVAC to MSL fluid adapter models (see package Basics.Adapter) can now also use **Buildings Library** media models for liquids and air. This feature enables coupling of Buildings Library models to HVAC Library models (see figure below). The idea is to merge complementary content of both libraries and enable the integration of open-source models into HVAC Library system models. In collaborative projects with suppliers or external partners these adapters help to facilitate exchange and creation of component models using license free Buildings Library and, e.g. **OpenModelica**. Two examples are shown in the figure below:
+- A borehole heat exchanger (BHX) model for **bidirectional** charging and discharging has been integrated into a HVAC water glycol cycle model. The Buildings Library BHX model bridges the missing bidirectional balances in HVAC Library.
+- A **discretized** air heat exchanger model has been integrated into a cooling water cycle. The missing feature in HVAC Library is the discretization of the air and liquid side for a detailed resolution of the fluid states.
+
+A demo use case package can be requested on demand. Please contact **hvac@xrg-simulation.de**. 
+![HVAC Library coupling to Buildings Library](BuildingsCouplingHVAC_new.png 'Buildings Library components are coupled with HVAC Library components')   
+
+Moreover, HVAC Library now also provides a **simple air zone model** for direct feedback of changing states. More detailed approaches for modelling air zones with modular finite volumes and partitions and much more are provided by the **HumanComfort and HumanComfort lite Library** which is also part of our new **XRG Suite**.     
+
+**HumanComfort Library 2.21.0** for detailed air-zone modelling of vehicles and buildings 
+
+- A new **air cavity model** within a partition model has been integrated (such as in window or wall models). This feature must be activated in the parameter dialog. The new model according to **ISO 15099:2003** takes more detailed heat transfer processes into account and, furthermore, a list of noble gases are provided in the material database.
+- The library provides a new moist air model **“SimpleMoistAir”** for faster simulations using constant cp (only valid for systems with narrow bandwidth of temperatures). This model is also available in HVAC Library for coupled simulations.  
+
+**ClaRa+ Library 1.9.0** for energy system simulation
+
+- The new version of ClaRa+ bundle (incl. ClaRa_Grid) comes with a battery model with aging feature to simulate battery energy storage in energy systems (see figure below).
+- The internal energy of solids is computed from the integral of the temperature-dependent heat capacity, ensuring a thermodynamically consistent transient heat equation.
+  ![Clara+ Aging Battery Model](BatteryAging.png 'Simulation of aging batteries in ClaRa+')   
+
+#### New XRG partners
+
+We are happy to welcome two new XRG product resellers in PR China and Japan:
+
+- RigoTech Co., Ltd. (Japan) represented by the secretary of the Modelica Association **Rui Gao**
+- Nanjing Yuansi SimTek Co., Ltd. (PR China)
+  ![XRG partners 2026 Q1](Reseller_2026Q1.png 'New XRG Resellers 2026 Q1')   
+
+*This article is provided by Stefan Wischhusen ([XRG Simulation GmbH](https://xrg-simulation.de/en))*
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
