@@ -125,6 +125,38 @@ FMI Project Leader Christian Bertsch will be giving a keynote and a tutorial on 
 
 ## Conferences and user meetings
 
+## ThermoSim 2026 – Conference for Thermal System Simulation
+
+![ThermoSim logo](Logo.png)
+
+**ThermoSim 2026** brings together engineers, researchers, and industry professionals working with system simulation, Modelica, and FMI.
+The conference focuses on practical applications, exchange of experience, and discussion of current developments in simulation technology.
+
+#### Event Details
+
+- **Date:** 22–23 September 2026  
+- **Location:** Aachen, Germany  
+- **Language:** Primarily German  
+  (support for English-speaking participants can be arranged)
+
+#### Topics include
+
+- Industrial applications of system simulation  
+- Modelica and FMI in engineering workflows  
+- Energy systems, thermal processes, and digital engineering  
+- Exchange of practical experience between users and developers  
+
+#### More Information
+
+Further details about the program, speakers, and registration are available on the official event website:
+https://tlk-energy.de/en/events/thermosim-conference-2026
+
+#### Registration
+
+To register or request further information, please contact **Email:** [thermosim@tlk-energy.de](mailto:thermosim@tlk-energy.de)
+
+*This article is provided Lina Rosenthal ([TLK Energy GmbH](tlk-energy.de))*
+
 <!-- END Conferences and user meetings -->
 
 {{<rawhtml>}}
