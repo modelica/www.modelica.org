@@ -18,6 +18,15 @@ title: Books
 >}}
 
 {{< book 
+    name="Getting Started with Modelica" 
+    author="Ankit Anurag Naik"
+    year="2026"
+    link="https://www.amazon.com/Getting-Started-Modelica-Language-Modeling/dp/9199160803/"
+    image="/images/books/NaikModelica2026.png"
+    description="A hands-on introduction to Modelica from a practitioner's perspective. Starting from a blank canvas and building chapter by chapter, the book covers the essentials a reader needs to read existing models, write new ones from scratch in text, and diagnose problems when they arise. It emphasises good modeling practices drawn from real-world use rather than exhaustive language coverage."
+>}}
+
+{{< book 
     name="Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach" 
     author="Peter Fritzson"
     year="2014"
