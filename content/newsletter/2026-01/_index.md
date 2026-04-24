@@ -22,6 +22,37 @@ issued on March 5, 2026
 
 ## Letter from the Board
 
+
+Dear Modelica, FMI, SSP, DCP, eFMI interested,
+
+In the year 2026, we put the focus on our regional events in America and Asia. The paper deadline for both conferences is approaching fast: 
+
+Deadline for the submission of scientific papers May 15:
+
+- Asian Modelica Conference in Hangzhou, China, September 20-22
+- American Modelica Conference in Atlanta, Georgia, USA, October 12-14
+
+Please note, that both conferences also offer industrial user presentations and tutorials. Please inform yourself at the corresponding conference website on the corresponding deadlines (approx. in June). Furthermore, both conferences are open for sponsors. Furthermore the sponsorship conditions for the international conference in Prague will soon be available.
+
+Having worked for many years in the field of aviation, I am very glad that Prof. Dimitri Marvis who is directing the highly renowned Aerospace Systems Design Laboratory is offering to host the American conference at the site of Georgia Tech. Modelica has been applied more and more in Aerospace and this event will further strengthen our presence in this domain.
+
+The Asian Modelica is already worth attending just for its impressive keynotes:
+- Zhong Yilin, Vice President of BYD Automotive Engineering Research Institute will demonstrate what is needed Model-based Digital Engineering Practice in one of the most dynamic sectors of Chinas industry. 
+- Prof. Xu Yangzeng will show how to transfer the modeling expertise acquired for hydraulic system to the modern era of Digitial Twins.
+- Dr. Hilding Elmqvist (Mogram AB) knows of course the whole history Modelica and is eager to enter with his work into the era of cloud technologies and intelligent automation.
+- Christian Bertsch form Bosch Research, who is leading the FMI development can give an equally exciting story on the development of FMI, its enormous world-wide success and also on the upcoming future developments.
+
+The next event for me personally is however close by: I am looking forward to speak at the Community Meetup of Modelica in Process Engineering. 
+
+In addition to the conference, the Modelica Association is also driving things forward internally, getting ready for this years assembly meeting on May 19. The Modelica Language Group has just met in Lund, Sweden in order to prepare two new release versions of the Language Specification, the FMI Group is planning its next physical meeting at the beginning of June in Munich. We have organized an inaugural meeting on the topic of Visualization, particularly 3D Visualization and feedback from 3D environments. Since this topic is interesting for FMI and Modelica, this working group shall become part of a new effort dedicated for cross-standard coordination. This will be one of the topics of our assembly meeting.
+
+Regarding the technical development, I am getting increasingly optimistic and excited. I have seen the simulation of very large Modelica models enabled by refined modeling techniques and different compilation approaches. Many of these upcoming improvements are supported by the ITEA project OpenScaling. Also, I have noticed an increasing demand for Modelica in robotics and we all recognize that Agentic AI tools get more and more applicable for Modelica & FMI tasks.
+
+Exciting times ahead!
+
+Dirk Zimmer on April 24, 2026 \
+*Chair of the Modelica Association*
+
 {{<rawhtml>}}
 <div class="masthead-followup-icon d-inline-block mt-5">
     <i class="fa-solid fa-building-columns" style="font-size:50px"></i>
