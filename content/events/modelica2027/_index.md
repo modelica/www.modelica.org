@@ -102,9 +102,13 @@ Please note that purely tool-related presentations are not permitted for these a
 
 ## Call for Tutorials
 
-At the Modelica Conference, several tutorials will be held in parallel. Each tutorial will a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
+At the Modelica Conference, several tutorials will be held in parallel. Each tutorial will be a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
 
-Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations which will be announced at a later date as a part of Call for Sponsors. The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
+Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations which are a part of [Call for Sponsors](callforsponsors). The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
+
+## Call for Sponsors
+
+The Modelica Association and the local organizers [invite you to support the 17th International Modelica & FMI Conference](callforsponsors). This event is the premier meeting for the cyber-physical systems modeling community, attracting over 400 experts from industry and academia. Your early commitment is valuable during the preparations — sponsor visibility begins as soon as your partnership is confirmed.
 
 ## Scope of the Conference
 

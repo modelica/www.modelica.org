@@ -12,7 +12,7 @@ title: Modelica & FMI Conference 2027 - Call for Sponsors
 ##  Call for Sponsors: 17th International Modelica & FMI Conference
 ### Prague, Clarion Congress Hotel, September 20–22, 2027
 
-The Modelica Association and the local organizers invite you to support the 17th International Modelica & FMI Conference. This event is the premier meeting for the cyber-physical systems modeling community, attracting over 400 experts from industry and academia.
+The Modelica Association and the local organizers invite you to support the 17th International Modelica & FMI Conference. This event is the premier meeting for the cyber-physical systems modeling community, attracting over 400 experts from industry and academia. Your early commitment is valuable during the preparations — sponsor visibility begins as soon as your partnership is confirmed.
 
 ---
 
@@ -22,14 +22,14 @@ The Modelica Association and the local organizers invite you to support the 17th
 
 - **Exhibition Space: 8 m² (2x4 m)** reserved floor space. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
 - **Placement:** Option for placement in the **limited conference lobby** (first-come, first-served) or the exhibition hall.
-- **Vendor Presentation:** Guaranteed **20-minute slot** in the vendor presentation block (2 parallel tracks, grouped by topic; slot may be extended if the schedule allows).
+- **Vendor Presentation:** Guaranteed **15-minute slot** in the vendor presentation block (2 parallel tracks, grouped by topic; slot may be extended if the schedule allows).
 - **Registrations: 3 full conference registrations** (including conference dinner).
 - **Marketing & Branding:**
   - Partner logo on all attendee **lanyards** (shared if multiple Platinums).
   - **1 full-page** advertisement in the printed programme.
   - **1x bag insert** (A4 leaflet or item) in the conference bag.
   - Largest logo placement on website, programme, and signage.
-  - Dedicated post on the conference **LinkedIn** and **X** accounts.
+  - Dedicated post on the Modelica Association **LinkedIn** account.
 - **Visibility:** Website visibility starts immediately upon receipt of payment.
 - **Special Benefits:** Up to 3-minute speech slot at the welcome reception or conference dinner. Opportunity to present an award at the conference awards ceremony.
 
@@ -37,19 +37,19 @@ The Modelica Association and the local organizers invite you to support the 17th
 
 - **Exhibition Space: 8 m² (2x4 m)** reserved floor space. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
 - **Placement:** Option for placement in the **limited conference lobby** (first-come, first-served) or the exhibition hall.
-- **Vendor Presentation:** Guaranteed **15-minute slot** in the vendor presentation block (2 parallel tracks, grouped by topic; slot may be extended if the schedule allows).
+- **Vendor Presentation:** Guaranteed **10-minute slot** in the vendor presentation block (2 parallel tracks, grouped by topic; slot may be extended if the schedule allows).
 - **Registrations: 3 full conference registrations** (including conference dinner).
 - **Marketing & Branding:**
   - **1/2-page** advertisement in the printed programme.
   - **1x bag insert** (A4/A5 leaflet) in the conference bag.
   - Prominent logo placement on website and programme.
-  - Dedicated post on the conference **LinkedIn** and **X** accounts.
+- Dedicated post on the Modelica Association **LinkedIn** account.
 - **Visibility:** Website visibility starts immediately upon receipt of payment.
 - **Special Benefit:** Opportunity to present an award at the conference awards ceremony.
 
 ###  Silver Partner — 6,000 EUR (excl. VAT)
 - **Exhibition Space: 4 m² (2x2 m)** in the general exhibition hall. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
-- **Vendor Presentation:** Guaranteed **10-minute** slot in the vendor presentation block (2 parallel tracks, grouped by topic; slot may be extended if the schedule allows).
+- **Vendor Presentation:** Guaranteed **5-minute** slot in the vendor presentation block (2 parallel tracks, grouped by topic; slot may be extended if the schedule allows).
 - **Registrations: 1 full conference registration** (including conference dinner).
 - **Marketing & Branding:**
   - **1/3-page** advertisement in the printed programme (3 partners per page).
@@ -58,7 +58,7 @@ The Modelica Association and the local organizers invite you to support the 17th
 - **Visibility:** Website visibility starts immediately upon receipt of payment.
 
 ### Bronze Partner — 4,000 EUR (excl. VAT)
-- **Exhibition Space:** 4 m² (2x2 m) in the general exhibition hall.
+- **Exhibition Space: 4 m² (2x2 m)** in the general exhibition hall. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
 - **Registrations: 1 full conference registration** (including conference dinner).
 - **Marketing & Branding:**
   - Logo listed on website and programme.
