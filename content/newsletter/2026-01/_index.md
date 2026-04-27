@@ -10,7 +10,7 @@ title: Newsletter 2026-01
 
 # Modelica Association Newsletter 2026-01
 
-issued on March 5, 2026
+issued on April 27, 2026
 
 {{<toc>}}
 
@@ -155,7 +155,7 @@ FMI Project Leader Christian Bertsch will be giving a keynote and a tutorial on 
 
 ## Conferences and user meetings
 
-## ThermoSim 2026 – Conference for Thermal System Simulation
+### ThermoSim 2026 – Conference for Thermal System Simulation
 
 ![ThermoSim logo](ThermoSimLogo.png)
 
@@ -187,6 +187,28 @@ To register or request further information, please contact **Email:** [thermosim
 
 *This article is provided Lina Rosenthal ([TLK Energy GmbH](tlk-energy.de))*
 
+
+### Wolfram System Modeler User Conference 2026
+
+![System Modeler Conference](system-modeler-conference.png)
+
+This virtual conference showcased how industry leaders, researchers, and engineers use Wolfram System Modeler, Modelica, Wolfram Language, and FMI-based workflows to accelerate design, simulation, and digital-twin development across a wide range of engineering domains.
+
+The event brought together experts from SUEZ International, Saab Aircraft, Nidingen Engineering & Research, MWF Services, and Berkeley & Imperial to share real-world modeling workflows — from thermal management and energy optimization to full digital-twin architectures and real-time simulation. Wolfram developers also presented an overview of System Modeler, highlighting new capabilities and modern engineering workflows.
+
+**Featured presentations:**
+- **Wolfram:** System Modeler Overview
+- **Saab:** Aerospace Modeling Workflows for Advanced System Simulation
+- **Nidingen:** Thermal Management System Design for Battery-Electric Vehicles
+- **SUEZ Engineering & Construction:** Designing Optimal Solutions for Pumping Large Water Flows through Water Plant Pipe Networks
+- **Berkeley & Imperial:** Industrial Digital Twins Using System Modeler and OPC UA
+- **MWF Services:** Real-Time Simulator Architectures for RCP and HIL Workflows
+
+Watch [recordings](https://www.wolfram.com/wolfram-u/courses/modeling-simulation/system-modeler-user-conference-2026/).
+
+*This article is provided by Ankit Anurag Naik ([Wolfram System Modeler](https://www.wolfram.com/system-modeler/))*
+
+
 <!-- END Conferences and user meetings -->
 
 {{<rawhtml>}}
@@ -196,6 +218,7 @@ To register or request further information, please contact **Email:** [thermosim
 {{</rawhtml>}}
 
 ## Vendor news
+
 ### Dymola Sustainable Supply Systems Library Update
 
 ![Screenshot of "ElectricityAndFuelPriceTracking"](./3DS_Susy110.png)
@@ -216,49 +239,6 @@ Key new features and changes include:
 
 This article is provided by Markus Andres ([Dassault Systemes Austria GmbH](https://www.3ds.com/))
 
-### Siemens Digital Industries Software
-
-#### Simcenter Amesim 2604 released
-[Siemens Digital Industries Software](https://www.sw.siemens.com/) is pleased to announce the recent release of **Simcenter&nbsp;Amesim&nbsp;2604** as part of its [system simulation solutions](https://blogs.sw.siemens.com/simcenter/simcenter-systems-release-2604/). This release introduces key updates, notably:
-
-* Major enhancements to the so-called **Battery Pack Assistant**, to further support electrification (modeling capabilities and workflow).
-* Expanded **gas system simulation capabilities**, serving applications like pneumatic controls in industrial automation, compressors in HVAC systems, or specialized gas handling in extreme environments.
-
-More detail can be found [here](https://blogs.sw.siemens.com/simcenter/simcenter-systems-release-2604/ ). Several changes have also been specifically applied to **exported&nbsp;FMUs**, in terms of <i>licensing policy</i> as well as <i>integration and collaboration capabilities</i>. These specific updates as described hereafter.  
-
-![](amesim_banner_2604.png)
-
-#### Export of full-featured standalone (license-free) FMUs
-
-The previous restriction on the specific export option allowing to create license-free (standalone) FMUs for Windows or Linux standard platforms has been removed. 
-
-Prior to release 2604, such FMUs were limited to models without a solver (model exchange) or those using only a fixed-step solver (co-simulation). Now, this highly requested licensing policy change brings several key benefits:
-* **Avoided rework**: users can now avoid the need to rework models or tune third-party solvers, which is especially useful for Model-in-the-Loop (MiL) applications.
-* **Reliable deployment**: deploy validated **Simcenter&nbsp;Amesim** models with their native solver embedded, ensuring repeatable results.
-* **Standalone apps**: create and share standalone applications leveraging **Simcenter&nbsp;Amesim**'s modeling and solving capabilities.
-
-This means even large, sophisticated models with their native &mdash;&nbsp;best-adapted&nbsp;&mdash; solver can be deployed as lightweight FMUs (a few megabytes) with no external dependencies, which greatly facilitates model reuse and collaboration with partners, suppliers, or other departments.
-
-#### Unified FMU export for real-time
-
-To address the challenge of exporting, validating, and deploying FMUs for real-time simulation while avoiding fragmented workflows and/or late issue discovery, **Simcenter&nbsp;Amesim&nbsp;2604** now adds binaries for standard platforms (Windows and Linux), in addition to the source code for the chosen real-time target, within the exported &ldquo;FMUs for real-time&rdquo;. The compilation of these binaries is similar to that of the real-time target's toolchain. The expected concrete benefits for users are:
-* **Easier pre-checks** (on Windows or Linux) before sharing FMUs to real-time target users.
-* **Built-in continuity, consistency and traceability** (same FMU used <i>offline</i> and <i>online</i>).
-* **No need for any external compiler** for generating/compiling these FMUs. 
-* **Flexible deployment**: offline tests possible on machines with no **Simcenter&nbsp;Amesim** license or installation.
-
-Each of these FMUs can be seen as a **unified model container** now also usable for offline tests in any FMI compatible software. This feature avoids the need to export multiple FMUs and represents a step towards unification of FMI based and Simulink based model export workflows of real-time capable **Simcenter&nbsp;Amesim** models. 
-
-#### Export of 3.0 FMUs with arrays to represent vectors
-
-With **Simcenter&nbsp;Amesim&nbsp;2604**, exporting 3.0 FMUs now includes support for fixed-size arrays. This enhancement allows users to easily create arrays by simply connecting vectored signals directly to and/or from export interface blocks. Arrays are a cornerstone feature of FMI 3.0, offering significantly simpler and more usable model layouts by reducing the need for numerous individual connections. For instance, the automotive application example below demonstrates two **Simcenter&nbsp;Amesim** 3.0 FMUs co-simulated within [**Simcenter&nbsp;Twin&nbsp;Activate**](https://altair.com/twin-activate ). Here, arrays conveniently group the vehicle's wheel speeds and brake forces as vectors, streamlining the connections between the FMUs.
-
-![](Amesim_FMU3_Arrays.gif)
-
-For more information on **Simcenter&nbsp;Amesim**, please visit our [website](https://www.siemens.com/en-us/products/simcenter/systems-simulation/amesim/ ).
-
-*This article is provided by Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))*
-
 ### Dymola Battery Library 2.9.0
 
 ![Module structure in Battery 2.9.0](3DS-BatteryLib.png)
@@ -270,28 +250,6 @@ The new **battery modules** allow independent discretization of thermal and elec
 The second feature is the introduction of **failure modelling**. The failure model is integrated into the cell model, enabling the simulation of failures on both cell and pack level. The Battery Library provides models for several failure mechanisms, including **thermal runaway** (three modelling approaches for onset and heat generation), **broken circuits** (interruption of current paths due to connector or tab failures) and **short circuits** (unintended low-resistance paths that lead to high currents and rapid heat generation).
 
 *This article is provided by Nils Modrow ([Dassault Systèmes AB](https://www.3ds.com/))*
-
-### Introducing MLQT: A Modern Desktop Tool for Managing Modelica Libraries
-
-MLQT started from a familiar frustration: every time a Modelica tool saved a file, it would introduce a flurry of whitespace and formatting changes that cluttered commits, obscured the real edits in diffs, and made code review painful. The original goal was simple — put a layer between Modelica tools and the repository that applied consistent formatting to every `.mo` file before it was committed, so that Git and SVN diffs showed meaningful changes rather than stylistic churn. MLQT replaces your generic Git or SVN client with a Modelica-aware one: keep using whichever editor you prefer, and let MLQT sit between the editor and the repository, giving you a full VCS workflow — browse models, review pending changes, commit, pull updates, create and switch branches, merge, push — with the formatting noise filtered out.
-
-From that starting point, MLQT grew into a broader set of tools for working with Modelica code. The same parser that powers the formatter also drives configurable style checking, dependency impact analysis, and external resource tracking. When you modify a model, MLQT can show you exactly which other models are affected, helping you catch issues before they reach your team. It also integrates with Dymola and OpenModelica for model checking, so you can validate changes against your simulation tools directly from the same interface. MLQT is an open source project using the MIT license.
-
-**Key features and benefits:**
-
-- **Integrated revision control** — Full Git and SVN support including commit, update, branch, merge, and history browsing
-- **Modelica-aware code analysis** — Parses your code to understand model structure, dependencies, and relationships
-- **Impact analysis** — Interactive dependency graphs show the ripple effects of changes across your library
-- **Automatic code formatting** — Applies consistent formatting rules across your entire library on save
-- **Configurable style checking** — Enforces team coding standards with customizable rules for naming, documentation, structure, and more
-- **External resource tracking** — Monitors data files, C libraries, images, and other resources referenced by your models
-- **Simulation tool integration** — Connect to Dymola and OpenModelica for model checking without switching applications
-
-MLQT is available for Windows today, with a Linux version on the roadmap. To learn more, visit the open-source [repository on GitHub](https://github.com/mdempse1/MLQT).
-
-![](mlqt-code-review-sm.png)
-
-*This article is provided by Mike Dempsey ([M Dempsey Ltd](https://dempsey.me.uk/))*
 
 ### Dymola Testing Library 2.0.0
 
@@ -341,6 +299,71 @@ We are pleased to announce that Dymola 2026x Refresh 1 has been released on Frid
 See [latest release](https://www.3ds.com/products/catia/dymola/latest-release) for more details.
 
 *This article is provided by Dag Brück ([Dassault Systèmes](https://www.3ds.com/products/catia/dymola))*
+
+### Siemens Digital Industries Software
+
+#### Simcenter Amesim 2604 released
+[Siemens Digital Industries Software](https://www.sw.siemens.com/) is pleased to announce the recent release of **Simcenter&nbsp;Amesim&nbsp;2604** as part of its [system simulation solutions](https://blogs.sw.siemens.com/simcenter/simcenter-systems-release-2604/). This release introduces key updates, notably:
+
+* Major enhancements to the so-called **Battery Pack Assistant**, to further support electrification (modeling capabilities and workflow).
+* Expanded **gas system simulation capabilities**, serving applications like pneumatic controls in industrial automation, compressors in HVAC systems, or specialized gas handling in extreme environments.
+
+More detail can be found [here](https://blogs.sw.siemens.com/simcenter/simcenter-systems-release-2604/ ). Several changes have also been specifically applied to **exported&nbsp;FMUs**, in terms of <i>licensing policy</i> as well as <i>integration and collaboration capabilities</i>. These specific updates as described hereafter.  
+
+![](amesim_banner_2604.png)
+
+#### Export of full-featured standalone (license-free) FMUs
+
+The previous restriction on the specific export option allowing to create license-free (standalone) FMUs for Windows or Linux standard platforms has been removed. 
+
+Prior to release 2604, such FMUs were limited to models without a solver (model exchange) or those using only a fixed-step solver (co-simulation). Now, this highly requested licensing policy change brings several key benefits:
+* **Avoided rework**: users can now avoid the need to rework models or tune third-party solvers, which is especially useful for Model-in-the-Loop (MiL) applications.
+* **Reliable deployment**: deploy validated **Simcenter&nbsp;Amesim** models with their native solver embedded, ensuring repeatable results.
+* **Standalone apps**: create and share standalone applications leveraging **Simcenter&nbsp;Amesim**'s modeling and solving capabilities.
+
+This means even large, sophisticated models with their native &mdash;&nbsp;best-adapted&nbsp;&mdash; solver can be deployed as lightweight FMUs (a few megabytes) with no external dependencies, which greatly facilitates model reuse and collaboration with partners, suppliers, or other departments.
+
+#### Unified FMU export for real-time
+
+To address the challenge of exporting, validating, and deploying FMUs for real-time simulation while avoiding fragmented workflows and/or late issue discovery, **Simcenter&nbsp;Amesim&nbsp;2604** now adds binaries for standard platforms (Windows and Linux), in addition to the source code for the chosen real-time target, within the exported &ldquo;FMUs for real-time&rdquo;. The compilation of these binaries is similar to that of the real-time target's toolchain. The expected concrete benefits for users are:
+* **Easier pre-checks** (on Windows or Linux) before sharing FMUs to real-time target users.
+* **Built-in continuity, consistency and traceability** (same FMU used <i>offline</i> and <i>online</i>).
+* **No need for any external compiler** for generating/compiling these FMUs. 
+* **Flexible deployment**: offline tests possible on machines with no **Simcenter&nbsp;Amesim** license or installation.
+
+Each of these FMUs can be seen as a **unified model container** now also usable for offline tests in any FMI compatible software. This feature avoids the need to export multiple FMUs and represents a step towards unification of FMI based and Simulink based model export workflows of real-time capable **Simcenter&nbsp;Amesim** models. 
+
+#### Export of 3.0 FMUs with arrays to represent vectors
+
+With **Simcenter&nbsp;Amesim&nbsp;2604**, exporting 3.0 FMUs now includes support for fixed-size arrays. This enhancement allows users to easily create arrays by simply connecting vectored signals directly to and/or from export interface blocks. Arrays are a cornerstone feature of FMI 3.0, offering significantly simpler and more usable model layouts by reducing the need for numerous individual connections. For instance, the automotive application example below demonstrates two **Simcenter&nbsp;Amesim** 3.0 FMUs co-simulated within [**Simcenter&nbsp;Twin&nbsp;Activate**](https://altair.com/twin-activate ). Here, arrays conveniently group the vehicle's wheel speeds and brake forces as vectors, streamlining the connections between the FMUs.
+
+![](Amesim_FMU3_Arrays.gif)
+
+For more information on **Simcenter&nbsp;Amesim**, please visit our [website](https://www.siemens.com/en-us/products/simcenter/systems-simulation/amesim/ ).
+
+*This article is provided by Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))*
+
+### Introducing MLQT: A Modern Desktop Tool for Managing Modelica Libraries
+
+MLQT started from a familiar frustration: every time a Modelica tool saved a file, it would introduce a flurry of whitespace and formatting changes that cluttered commits, obscured the real edits in diffs, and made code review painful. The original goal was simple — put a layer between Modelica tools and the repository that applied consistent formatting to every `.mo` file before it was committed, so that Git and SVN diffs showed meaningful changes rather than stylistic churn. MLQT replaces your generic Git or SVN client with a Modelica-aware one: keep using whichever editor you prefer, and let MLQT sit between the editor and the repository, giving you a full VCS workflow — browse models, review pending changes, commit, pull updates, create and switch branches, merge, push — with the formatting noise filtered out.
+
+From that starting point, MLQT grew into a broader set of tools for working with Modelica code. The same parser that powers the formatter also drives configurable style checking, dependency impact analysis, and external resource tracking. When you modify a model, MLQT can show you exactly which other models are affected, helping you catch issues before they reach your team. It also integrates with Dymola and OpenModelica for model checking, so you can validate changes against your simulation tools directly from the same interface. MLQT is an open source project using the MIT license.
+
+**Key features and benefits:**
+
+- **Integrated revision control** — Full Git and SVN support including commit, update, branch, merge, and history browsing
+- **Modelica-aware code analysis** — Parses your code to understand model structure, dependencies, and relationships
+- **Impact analysis** — Interactive dependency graphs show the ripple effects of changes across your library
+- **Automatic code formatting** — Applies consistent formatting rules across your entire library on save
+- **Configurable style checking** — Enforces team coding standards with customizable rules for naming, documentation, structure, and more
+- **External resource tracking** — Monitors data files, C libraries, images, and other resources referenced by your models
+- **Simulation tool integration** — Connect to Dymola and OpenModelica for model checking without switching applications
+
+MLQT is available for Windows today, with a Linux version on the roadmap. To learn more, visit the open-source [repository on GitHub](https://github.com/mdempse1/MLQT).
+
+![](mlqt-code-review-sm.png)
+
+*This article is provided by Mike Dempsey ([M Dempsey Ltd](https://dempsey.me.uk/))*
 
 ### OpenModelica 1.26.3 and new developments
 
@@ -535,25 +558,6 @@ Rumoca also supports realtime, interactive simulation. Above is an example of a 
 
 
 *This article is provided by Micah Condie and James Goppert, Purdue University.*
-### Wolfram System Modeler User Conference 2026
-
-![System Modeler Conference](system-modeler-conference.png)
-
-This virtual conference showcased how industry leaders, researchers, and engineers use Wolfram System Modeler, Modelica, Wolfram Language, and FMI-based workflows to accelerate design, simulation, and digital-twin development across a wide range of engineering domains.
-
-The event brought together experts from SUEZ International, Saab Aircraft, Nidingen Engineering & Research, MWF Services, and Berkeley & Imperial to share real-world modeling workflows — from thermal management and energy optimization to full digital-twin architectures and real-time simulation. Wolfram developers also presented an overview of System Modeler, highlighting new capabilities and modern engineering workflows.
-
-**Featured presentations:**
-- **Wolfram:** System Modeler Overview
-- **Saab:** Aerospace Modeling Workflows for Advanced System Simulation
-- **Nidingen:** Thermal Management System Design for Battery-Electric Vehicles
-- **SUEZ Engineering & Construction:** Designing Optimal Solutions for Pumping Large Water Flows through Water Plant Pipe Networks
-- **Berkeley & Imperial:** Industrial Digital Twins Using System Modeler and OPC UA
-- **MWF Services:** Real-Time Simulator Architectures for RCP and HIL Workflows
-
-Watch [recordings](https://www.wolfram.com/wolfram-u/courses/modeling-simulation/system-modeler-user-conference-2026/).
-
-*This article is provided by Ankit Anurag Naik ([Wolfram System Modeler](https://www.wolfram.com/system-modeler/))*
 
 <!-- END Vendor news -->
 
@@ -627,9 +631,9 @@ If you know someone looking to get started with Modelica, this is the book to sh
 
 *This article is provided by Ankit Anurag Naik ([Wolfram System Modeler](https://www.wolfram.com/system-modeler/))*
 
-### FMI Users Guide Ver.2.0.2 by JSAE(Society of Automotive Engineers of Japan), Technical Committee of Vehicle Control and Model Research, Working Group of FMI Utilization and Expansion 
+### FMI Users Guide Ver.2.0.2
 
-Japanese Automotive Engineers issued a FMI Users Guide for the practical usage of FMI in the industries. Now, English version is available from the following URLs.
+Japanese Automotive Engineers (Society of Automotive Engineers of Japan(JSAE), Technical Committee of Vehicle Control and Model Research, Working Group of FMI Utilization and Expansion ) issued a FMI Users Guide for the practical usage of FMI in the industries. Now, English version is available from the following URLs.
 
 https://www.jsae.or.jp/files/co/page/katsudou/FMI_ApplicationGuide_Ver.2.0.2_20260312(sec).pdf
 https://www.jsae.or.jp/files/co/page/katsudou/FMI_ApplicationGuide_Appendix_Ver.2.0.2_20260312(sec).pdf?language_edit=1
