@@ -597,4 +597,16 @@ If you know someone looking to get started with Modelica, this is the book to sh
 
 *This article is provided by Ankit Anurag Naik ([Wolfram System Modeler](https://www.wolfram.com/system-modeler/))*
 
+### FMI Users Guide Ver.2.0.2 by JSAE(Society of Automotive Engineers of Japan), Technical Committee of Vehicle Control and Model Research, Working Group of FMI Utilization and Expansion 
+
+Japanese Automotive Engineers issued a FMI Users Guide for the practical usage of FMI in the industries. Now, English version is available from the following URLs.
+
+https://www.jsae.or.jp/files/co/page/katsudou/FMI_ApplicationGuide_Ver.2.0.2_20260312(sec).pdf
+https://www.jsae.or.jp/files/co/page/katsudou/FMI_ApplicationGuide_Appendix_Ver.2.0.2_20260312(sec).pdf?language_edit=1
+
+Current version is for FMI 2.0.2, but the future version coming soon will cover also FMI 3.0. Please feel free to utilize this guide book and also send feedbacks to the authors.
+
+*This article is provided by Yutaka Hirano ([JSAE, Technical Committee of Vehicle Control and Model Research] https://en.jsae.or.jp/assoc/activitie/tech/page37/, e-mail: yutaka.hirano.wild7@gmail.com)*
+
+
 <!-- END Education news -->
