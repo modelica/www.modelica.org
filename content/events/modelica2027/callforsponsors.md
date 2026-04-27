@@ -67,11 +67,13 @@ The Modelica Association and the local organizers invite you to support the 17th
 
 ## Exhibition & Traffic
 All exhibition areas are designed to maximize interaction. High attendee traffic is ensured by holding all **coffee breaks and poster sessions** directly within the exhibition hall and lobby areas.
+
 ## Terms
 - **VAT:** Reverse charge for EU VAT-registered partners. Otherwise, +21% Czech VAT.
 - **Payment:** Immediate visibility on the conference website is triggered upon payment.
-## Enrollment
 
+## Enrollment
+Please contact us at [partnersMC2027@modelica.org](mailto:partnersMC2027@modelica.org) to proceed with the sponsorship enrollment.
 
 ## Important Dates
 

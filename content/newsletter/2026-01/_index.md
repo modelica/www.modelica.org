@@ -31,7 +31,7 @@ Deadline for the submission of scientific papers: **May 15**.
 - [Asian Modelica & FMI Conference](https://modelica.org/events/asian2026/) in Hangzhou, China, September 20-22
 - [American Modelica & FMI Conference](https://modelica.org/events/american2026/) in Atlanta, Georgia, USA, October 12-14
 
-Please note, that both conferences also offer industrial user presentations and tutorials. Please inform yourself at the corresponding conference website on the corresponding deadlines (approx. in June). Furthermore, both conferences are open for sponsors. The next International Modelica & FMI Conference will take place in Prague in September 2027 and has just [published a call for sponsors](/events/modelica2027/callforsponsors/).
+Please note, that both conferences also offer industrial user presentations and tutorials. Please inform yourself at the corresponding conference website on the corresponding deadlines (approx. in June). Furthermore, both conferences are open for sponsors. The next International Modelica & FMI Conference will take place in Prague in September 2027 and has just [published a call for sponsors](/events/modelica2027/#call-for-sponsors).
 
 Having worked for many years in the field of aviation, I am very glad that Prof. Dimitri Marvis who is directing the highly renowned [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) is offering to host the American Modelica & FMI conference at the site of Georgia Tech. Modelica has been applied more and more in Aerospace and this event will further strengthen our presence in this domain.
 
