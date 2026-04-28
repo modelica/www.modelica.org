@@ -10,7 +10,7 @@ For the 2026 conference we will include a new track on the structure and applica
 
 For scientific presentations, you are encouraged to submit a full paper until May 1, 2026. Every submitted paper will be reviewed by at least 3 reviewers. If you would like to submit an industrial user group presentation, you are encouraged to submit an abstract only (no paper submission) until June 1, 2026.
 
-Prospective authors of scientific presentations are encouraged to submit a full paper of at least 4 pages, with a maximum of 10 pages, on the following topics:
+Prospective authors of scientific presentations are encouraged to submit a full paper of at least 4 pages, with a recommended maximum of 10 pages, on the following topics:
 
  *	Multi-engineering modeling and simulation with Modelica or other equation-oriented modeling languages (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, …)
  *	Automotive applications
@@ -32,7 +32,7 @@ Prospective authors of scientific presentations are encouraged to submit a full 
  *	FMI applications and tools
  *	Applications and tools related to Modelica Association standards, including FMI, eFMI, SSP, and DCP
  
-The papers presented will be published by LiU Electronic Press and be available at no cost to interested readers. 
+The papers presented will be published by LiU Electronic Press and be available at no cost to interested readers. Papers with more than 10 pages can be accepted if they contain long appendices or large scale images that contribute to the scientific content. 
 
 ## Call for Industrial User Presentations
 
