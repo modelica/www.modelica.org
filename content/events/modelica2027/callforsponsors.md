@@ -20,7 +20,7 @@ The Modelica Association and the local organizers invite you to support the 17th
 
 ### Platinum Partner — 14,000 EUR (excl. VAT)
 
-- **Exhibition Space: 8 m² (2x4 m)** reserved floor space. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
+- **Exhibition Space: 10 m² (2x5 m)** reserved floor space. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
 - **Placement:** Option for placement in the **limited conference lobby** (first-come, first-served) or the exhibition hall.
 - **Vendor Presentation:** Guaranteed **15-minute slot** in the vendor presentation block (2 parallel tracks, grouped by topic; slot may be extended if the schedule allows).
 - **Registrations: 3 full conference registrations** (including conference dinner).
@@ -30,7 +30,7 @@ The Modelica Association and the local organizers invite you to support the 17th
   - **1x bag insert** (A4 leaflet or item) in the conference bag.
   - Largest logo placement on website, programme, and signage.
   - Dedicated post on the Modelica Association **LinkedIn** account.
-- **Visibility:** Website visibility starts immediately upon receipt of payment.
+- **Visibility:** Website visibility starts immediately upon receipt of payment, including a short paragraph about the partner (up to 100 words).
 - **Special Benefits:** Up to 3-minute speech slot at the welcome reception or conference dinner. Opportunity to present an award at the conference awards ceremony.
 
 ### Gold Partner — 11,000 EUR (excl. VAT)
@@ -38,13 +38,13 @@ The Modelica Association and the local organizers invite you to support the 17th
 - **Exhibition Space: 8 m² (2x4 m)** reserved floor space. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
 - **Placement:** Option for placement in the **limited conference lobby** (first-come, first-served) or the exhibition hall.
 - **Vendor Presentation:** Guaranteed **10-minute slot** in the vendor presentation block (2 parallel tracks, grouped by topic; slot may be extended if the schedule allows).
-- **Registrations: 3 full conference registrations** (including conference dinner).
+- **Registrations: 2 full conference registrations** (including conference dinner).
 - **Marketing & Branding:**
   - **1/2-page** advertisement in the printed programme.
   - **1x bag insert** (A4/A5 leaflet) in the conference bag.
   - Prominent logo placement on website and programme.
 - Dedicated post on the Modelica Association **LinkedIn** account.
-- **Visibility:** Website visibility starts immediately upon receipt of payment.
+- **Visibility:** Website visibility starts immediately upon receipt of payment, including a short paragraph about the partner (up to 100 words).
 - **Special Benefit:** Opportunity to present an award at the conference awards ceremony.
 
 ###  Silver Partner — 6,000 EUR (excl. VAT)
@@ -72,18 +72,17 @@ All exhibition areas are designed to maximize interaction. High attendee traffic
 - **VAT:** Reverse charge for EU VAT-registered partners. Otherwise, +21% Czech VAT.
 - **Payment:** Immediate visibility on the conference website is triggered upon payment.
 
-## Enrollment
-Please contact us at [partnersMC2027@modelica.org](mailto:partnersMC2027@modelica.org) to proceed with the sponsorship enrollment.
+## Registration
+Please contact us at [partnersMC2027@modelica.org](mailto:partnersMC2027@modelica.org) to proceed with the partner enrollment.
 
 ## Important Dates
 
 | Date | Milestone |
 | ------------- | ------------- | 
-| 15th June 2027 | Latest notification of acceptance for Vendor Sessions and Tutorials |
-| 1st August 2027 | End of enrollment |
-| 1st September 2027 | All logos and print data needs to be handled. |
-| 20 September 2027 | Preparation day |
-| 20–22 September 2027 | Conference |
+| June 15 2027 | Latest notification of acceptance for Vendor Sessions and Tutorials |
+| August 1 2027 | End of enrollment. All logos and print data needs to be handled by then.|
+| September 20 2027 | Preparation day |
+| September 20–22 2027 | Conference |
 
 
 ---
