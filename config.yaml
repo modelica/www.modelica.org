@@ -91,12 +91,19 @@ menu:
       parent: "events"
       weight: 3    
 
+    - pageRef: "modelica2027"
+      identifier: "modelica2027"
+      name: "International Modelica & FMI Conference 2027"
+      url: "/events/modelica2027"
+      parent: "events"
+      weight: 4    
+
     - pageRef: "related"
       identifier: "related"
       name: "Related Events"
       url: "/events/related"
       parent: "events"
-      weight: 4  
+      weight: 5  
 
     - pageRef: "news"
       identifier: "news"
