@@ -241,7 +241,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Bertsch, Christian  | [Robert Bosch GmbH](http://www.bosch.com/)                                         |          |
 | Beuter, Volker      | [VI-Grade GmbH](http://www.vi-grade.com)                                            |          |
 | Beutlich, Thomas    |                                                                                     | LANG, LIB |
-| [Blochwitz, Torsten](http://www.SimulationX.com)                      | [ESI ITI GmbH](http://www.esi-group.com)                                            | LANG     |
+| [Blochwitz, Torsten](http://www.SimulationX.com)                      | [Keysight Technologies Deutschland](https://www.keysight.com/us/en/home.html)                                            | LANG     |
 | Bödrich, Thomas     |                                                                                     | LIB      |
 | Bolognese, Michele      | [Fondazione Bruno Kessler](https://energy.fbk.eu/)                              | LIB      |
 | Bouskela, Daniel    |                                                                                     |          |
@@ -286,7 +286,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | [Kral, Christian](https://christiankral.net/)                      | [Mechatroniker für Elektromaschinenbau und Automatisierung](https://christiankral.net/)| LANG, LIB |
 | Krammer, Martin     | [Knorr-Bremse](http://www.knorr-bremse.com)                                         |          |
 | [Kulhánek, Tomáš](https://tomaskulhanek.github.io/)   | [VITO](https://vito.be/en)                                   | LIB |
-| Kurzbach, Gerd      | [ESI ITI GmbH](https://www.simulationx.com/)                                        | LANG     |
+| Kurzbach, Gerd      | [Keysight Technologies Deutschland](https://www.keysight.com/us/en/home.html)                                  | LANG     |
 | Lambert, Quentin    |                                                                                     | LANG     |
 | Landgren, Ben       | [PerformanSea](https://performansea.com/)                                           | LANG     |
 | Link, Kilian        |                                                                                     | LANG     |
