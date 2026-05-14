@@ -35,7 +35,7 @@ since we see many similarities that will enrich a conversation centered on princ
 We invite users of these other modeling languages to submit their technical publications to this conference, and hope 
 that the broader scope will benefit the growth of equation-oriented modeling.   
 
-In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.  
+In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as user presentations, vendor sessions, and an exhibition.  
 <!-- The previous [American Modelica conference in 2024](https://2022.american.conference.modelica.org/) was also streamed, giving many Modelicans in Europe the opportunity to watch presentations on the latest updates on Modelica-related research and innovation.  
 In this version of the conference, we want to combine the ease of attendance by remote participants from other continents with the stimulating environment of an in person event with lively discussions in the breaks and an in-person conference dinner! 
 Please note that **full paper presentations are required to be in person**, while industrial user presentations can be given remotely.-->
