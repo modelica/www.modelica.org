@@ -1,6 +1,6 @@
 ## CALL FOR PAPERS 
 
-American Modelica & FMI Conference **2026 - October 12-14, 2026**  - Submission Deadline **May 15, 2026**
+American Modelica & FMI Conference **2026 - October 12-14, 2026**  - Extended Submission Deadline **May 31, 2026**
 
 The Modelica & FMI Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to Modelica, FMI, SSP, eFMI and DCP. The program will cover processes and tools for the modeling of complex physical and cyber-physical systems as applied to a wide range of research and industrial applications. 
 
