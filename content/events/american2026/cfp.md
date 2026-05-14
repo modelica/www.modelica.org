@@ -4,11 +4,11 @@ American Modelica & FMI Conference **2026 - October 12-14, 2026**  - Extended Su
 
 The Modelica & FMI Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to Modelica, FMI, SSP, eFMI and DCP. The program will cover processes and tools for the modeling of complex physical and cyber-physical systems as applied to a wide range of research and industrial applications. 
 
-We invite you to participate in the 2026 American Modelica & FMI Conference, to be held in Atlanta, GA at the Aerospace Systems Design Laboratory. The event will feature both technical presentations of peer-reviewed papers and industrial user presentations without a paper that focus on application aspects interesting to the community. 
+We invite you to participate in the 2026 American Modelica & FMI Conference, to be held in Atlanta, GA at the Aerospace Systems Design Laboratory. The event will feature both technical presentations of peer-reviewed papers and user presentations without a paper that focus on application aspects interesting to the community. 
 
 For the 2026 conference we will include a new track on the structure and application of equation-oriented modeling languages other than Modelica into the program, since we see many similarities that will enrich a conversation centered on principles of equation-oriented modeling.  We invite users of these other modeling languages to submit their technical publications to this conference. We hope that the broader scope will benefit the growth of equation-oriented modeling.  
 
-For scientific presentations, you are encouraged to submit a full paper until May 31, 2026. Every submitted paper will be reviewed by at least 3 reviewers. If you would like to submit an industrial user group presentation, you are encouraged to submit an abstract only (no paper submission) until June 1, 2026.
+For scientific presentations, you are encouraged to submit a full paper until May 31, 2026. Every submitted paper will be reviewed by at least 3 reviewers. If you would like to submit a user group presentation, you are encouraged to submit an abstract only (no paper submission) until June 1, 2026.
 
 Prospective authors of scientific presentations are encouraged to submit a full paper of at least 4 pages, with a recommended maximum of 10 pages, on the following topics:
 
@@ -46,7 +46,7 @@ You are encouraged to submit an  **extended abstract**  of 1-2 pages, related to
 -   DCP - Distributed Co-Simulation Protocol
 
 
-The extended abstract in PDF or MS Word format of about 500 words should be submitted through the  [EasyChair Conference Management System](https://www.easychair.org/conferences/?conf=namugamc2026) before **June 1st, 2026**. Please note this link only works properly if you 1) Have an account on [Easychair](https://www.easychair.org) and 2) are logged into the account when you click the link. Industrial user presentations are an excellent way to present recent results to the Modelica community with less effort and overhead than a full paper submission. Please indicate whether you plan to give your presentation on-site or remotely in the submission form. These industrial user presentations differ from paper presentations, which we expect to be in-person. 
+The extended abstract in PDF or MS Word format of about 500 words should be submitted through the  [EasyChair Conference Management System](https://www.easychair.org/conferences/?conf=namugamc2026) before **June 1st, 2026**. Please note this link only works properly if you 1) Have an account on [Easychair](https://www.easychair.org) and 2) are logged into the account when you click the link. User presentations are an excellent way to present recent results to the Modelica community with less effort and overhead than a full paper submission. Please indicate whether you plan to give your presentation on-site or remotely in the submission form. These user presentations differ from paper presentations, which we expect to be in-person. 
 
 These abstracts will be peer-reviewed by experts, but no corresponding papers will be published in the conference proceedings.
 
