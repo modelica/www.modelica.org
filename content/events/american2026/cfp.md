@@ -34,7 +34,7 @@ Prospective authors of scientific presentations are encouraged to submit a full 
  
 The papers presented will be published by LiU Electronic Press and be available at no cost to interested readers. Papers with more than 10 pages can be accepted if they contain long appendices or large scale images that contribute to the scientific content. 
 
-## Call for Industrial User Presentations
+## Call for User Presentations
 
 You are encouraged to submit an  **extended abstract**  of 1-2 pages, related to one of the existing or possibly new  [Modelica Association Projects](https://modelica.org/projects):
 
