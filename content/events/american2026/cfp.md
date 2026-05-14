@@ -13,6 +13,7 @@ For scientific presentations, you are encouraged to submit a full paper until Ma
 Prospective authors of scientific presentations are encouraged to submit a full paper of at least 4 pages, with a recommended maximum of 10 pages, on the following topics:
 
  *	Multi-engineering modeling and simulation with Modelica or other equation-oriented modeling languages (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, …)
+ *	Applications of AI to equation-based modeling and use of the Modelica Association standards
  *	Automotive applications
  *	Thermodynamic and energy systems applications
  *	Mechatronics and robotics applications
