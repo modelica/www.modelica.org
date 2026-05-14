@@ -8,7 +8,7 @@ We invite you to participate in the 2026 American Modelica & FMI Conference, to 
 
 For the 2026 conference we will include a new track on the structure and application of equation-oriented modeling languages other than Modelica into the program, since we see many similarities that will enrich a conversation centered on principles of equation-oriented modeling.  We invite users of these other modeling languages to submit their technical publications to this conference. We hope that the broader scope will benefit the growth of equation-oriented modeling.  
 
-For scientific presentations, you are encouraged to submit a full paper until May 1, 2026. Every submitted paper will be reviewed by at least 3 reviewers. If you would like to submit an industrial user group presentation, you are encouraged to submit an abstract only (no paper submission) until June 1, 2026.
+For scientific presentations, you are encouraged to submit a full paper until May 31, 2026. Every submitted paper will be reviewed by at least 3 reviewers. If you would like to submit an industrial user group presentation, you are encouraged to submit an abstract only (no paper submission) until June 1, 2026.
 
 Prospective authors of scientific presentations are encouraged to submit a full paper of at least 4 pages, with a recommended maximum of 10 pages, on the following topics:
 
