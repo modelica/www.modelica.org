@@ -57,6 +57,54 @@ The **American Modelica Conference 2026** relies heavily on sponsors to maintain
 please check out the conditions at in our [call for sponsors](https://modelica.org/events/american2026/callforsponsors) and contact us as soon as possible at 
 **[modelicaNA2026@groups.liu.se](mailto:modelicaNA2026@groups.liu.se)**. 
 
+## Keynotes
+
+### Pushing the Limits by Open Standards: Enabling Larger, Faster, and More Credible System Simulations
+
+{{<rawhtml>}}
+<img src="images/OliverLenord.jpg" alt="Oliver Lenord" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Oliver Lenord**, Research and Development Engineer at Bosch Corporate Research, Project leader of OpenScaling project.
+
+Scalability of virtual engineering has become an increasingly critical demand driven by the innovation pressure towards carbon neutral, energy-efficient and cost-effective solutions. 
+Open standards like Modelica, FMI, eFMI and SSP play a major role in making system simulation accessible to a broad user base, fostering a rich ecosystem of research and technology deOvelopment across academia and industry.
+The European publicly funded project OpenSCALING (Open Standards for SCALable Virual EngineerING) has further strengthened this ecosystem through standard enhancements and new methods, enabling simulation and credible processes to scale to the next level.
+This talk will highlight key project achievements in the fields of:
+
+ * Modelica compiler enhancements
+ * Integration of scientific machine learning with Modelica
+ * Uncertainty quantification and credible workflows
+ 
+
+Reference to newly developed methods and standard enhancements are given including array-preserving compilation, pre-compiled components, and 
+improved support of sensitivities in FMI. In addition the newly proposed layered standards ls-sa (for sensitivity analysis) and ls-uq (for uncertainty quantification) are briefly introduced.
+
+Benchmarks and examples will illustrate these advances, demonstrating the ability to:
+
+ * Increase maximum model size by orders of magnitude
+ * Drastically reduce compile and simulation start-up times
+ * Accelerate simulations by orders of magnitude using surrogate modeling and machine learning
+ * Integrate and efficiently process Artificial Neural Networks within Modelica
+ * Leverage FMI in diverse machine learning environments for robust model training
+ * Enable traceable credibility workflows through standardized metadata in FMI and SSP
+ * The practical relevance of these advances will be demonstrated referring to selected industrial use cases from different application domains.
+
+Finally, an outlook will be given on the future potential of agentic AI for Modelica and the proposed Base Modelica language.
+
+### Nuclear System Modeling for Integrated Energy Systems Analyses
+
+{{<rawhtml>}}
+<img src="images/DanielMikkelson.jpg" alt="Daniel Mark Mikkelson" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Dr. Daniel Mikkelson** is an integrated energy modeling and simulation engineer at Idaho National Laboratory. 
+
+The HYBRID modeling repository has been developed to analyze the control, dispatch, and feedback of integrated energy systems that leverage nuclear power for thermal and electrical applications. 
+As global priorities endorse nuclear energy, enabling rapid, open-source, dynamic evaluation of potential nuclear applications can enable faster development of integrated systems that will improve 
+the utilization of nuclear energy in diverse applications for both brownfield and greenfield integrations. An overview of the nuclear approach to modeling and simulation will present areas where 
+Modelica presents an ideal tool to investigate configuration viability in dynamic deployment scenarios.
+
 ## Scope of the Conference
 
 [Modelica](/) is a freely available, equation-based, object-oriented language for convenient and efficient modeling of complex, multi-domain cyber-physical systems described by ordinary differential, difference and algebraic equations. The Modelica language and the companion Modelica Standard Library have been utilized in a variety of demanding industrial applications, including full vehicle dynamics, power systems, robotics, buildings and district energy systems, hardware-in-the-loop simulations and embedded control systems. The [Functional Mock-up Interface (FMI)](https://www.fmi-standard.org/) is an open standard for the tool-independent exchange of models and for co-simulation. It is supported by many [Modelica and non-Modelica tools](/tools/) and is the key to utilizing Modelica models in non-Modelica environments.
