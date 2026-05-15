@@ -14,9 +14,9 @@ We announce the **Asian Modelica & FMI Conference 2026**.
 It will take place at the high-tech city of **Hangzhou, China from September 21-22, 2026** also famous of its stunning west lake scenery.
 It is organized by the [Beihang University (at Hangzhou campus)](https://zfaien.buaa.edu.cn/About_Us/Overview.htm) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
 This is the first visit of the conference series in China.
-<!--
-![Hangzhou West Lake](images/Westlake.png)
--->
+
+![Conference venue](images/RC.jpg)
+
 {{< toc >}}
 
 
