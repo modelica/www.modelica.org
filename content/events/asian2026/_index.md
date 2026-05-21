@@ -599,6 +599,14 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
       </div>
     </a>
   </div>
+
+    <div class="col">
+    <a href="https://www.toshiba.com.cn/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/Toshiba.png" alt="Toshiba"/>
+      </div>
+    </a>
+  </div>
   
 </div>
 
