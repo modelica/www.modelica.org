@@ -148,8 +148,9 @@ The following licenses are used by the Modelica Association for material provide
 | --- | --- | --- | --- |
 | Marketing | Hubertus Tummescheit | [Model Based Innovation LLC, USA](https://modelbased.cloud) | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
 | Quality and Processes | [Francesco Casella](http://home.deib.polimi.it/casella/) | [Politecnico di Milano, Italy](https://www.polimi.it/) | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
-| Technology | [Martin Otter](https://martinotter.github.io/) | [DLR, Germany](https://www.dlr.de/en/fk) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
+| Technology | [Clément Coïc](https://www.linkedin.com/in/clementcoic/) |||
 | Project leader "Modelica Language"  | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
+| Deputy Project leader "Modelica Language"  | Henrik Tidefelt | [Wolfram Mathcore, Sweden](https://www.wolframmathcore.com/) | |
 | Project leader "Modelica Libraries" | [Francesco Casella](http://home.deib.polimi.it/casella/) | [Politecnico di Milano, Italy](https://www.polimi.it/) | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
 | Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haumer) | [OTH Regensburg, Germany](https://www.oth-regensburg.de/) | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de) |
 | Project leader "FMI" | Christian Bertsch | [Bosch, Germany](https://www.bosch.com) | [christian.bertsch@de.bosch.com](mailto:christian.bertsch@de.bosch.com) |
@@ -160,6 +161,7 @@ The following licenses are used by the Modelica Association for material provide
 | Deputy Project leader "DCP" | Klaus Schuch | [AVL, Austria](https://www.avl.com/) | [klaus.schuch@avl.com](mailto:klaus.schuch@avl.com) |
 | Project leader "eFMI" | Christoff Bürger | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [christoff.buerger@3ds.com](mailto:christoff.buerger@3ds.com) |
 | Deputy Project leader "eFMI" | Daeoh Kang | [iVH, Korea](https://www.ivh.co.kr/) | [bigfive@ivh.co.kr](mailto:bigfive@ivh.co.kr) |
+| Project leader "COORD" | Hubertus Tummescheit | [Model Based Innovation LLC, USA](https://modelbased.cloud) | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
 
 ## Members of the Modelica Association with Specific Duties
 
