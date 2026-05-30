@@ -152,9 +152,9 @@ Please see the [call for papers](cfp) for details about paper submissions, and t
 - May 31, 2026 Submission of [full papers on Easychair](https://easychair.org/my/conference?conf=namugamc2026)
 - June 15, 2026 Submission of extended abstracts for presentation-only contributions, [Extended Abstracts on Easychair](https://easychair.org/my/conference?conf=namugamc2026)
 - June 15, 2026, Submission of [workshop and tutorial abstracts](https://docs.google.com/forms/d/e/1FAIpQLSelZCdRQzg8qHhTdjf_J39wCVQMR2H2WHQDR6GLfcur25gK7g/viewform?usp=header)
-<!-- - August 10, 2026 Notification of acceptance for papers and presentations 
-- August 30th, 2026 Submission of final papers and one-page abstracts
-- October 7th, 2026 Submission of final presentations -->
+- August 14, 2026 Notification of acceptance for papers and presentations 
+- September 4th, 2026 Submission of final papers and one-page abstracts
+- October 7th, 2026 Submission of final presentations
 
 ## Registration
 Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registereing as sponsors by buying a sponsorship ticket. 
