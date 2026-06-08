@@ -612,20 +612,21 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
 
 {{</rawhtml>}}
 
-<!--
+
 ### Bronze
 
 {{<rawhtml>}}
 <div class="row row-cols-2 row-cols-md-4 g-4">
 
   <div class="col">
-    <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
+    <a href="https://www.maplesoft.com.cn/products/maplesim/index.shtml" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-            <img src="images/JuliaHub.svg" alt="JuliaHub"/>
+            <img src="images/Maplesoft.png" alt="Maplesoft"/>
       </div>
     </a>
   </div>
-
+  
+<!--
   <div class="col">
     <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
@@ -657,11 +658,11 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
       </div>
     </a>      
   </div>
-
+-->
 </div>
 
 {{</rawhtml>}}
--->
+
 
 ## Conference Board
 
