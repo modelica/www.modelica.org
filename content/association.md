@@ -210,6 +210,7 @@ The following organizations are members of the Modelica Association:
 | [Maplesoft](http://www.maplesoft.com/)                                                              | Waterloo, ON, Canada                 | [modelica@maplesoft.com](mailto:modelica@maplesoft.com) |
 | [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/)                            | Cambridge, MA, USA                  | [bortoff@merl.com](mailto:bortoff@merl.com)           |
 | [Modelon AB](http://www.modelon.com)                                                                | Lund, Sweden                         | [info@modelon.com](mailto:info@modelon.com)           |
+| [Open Source Modelica Consortium](https://www.openmodelica.org)                                     |                                      | [OpenModelica@ida.liu.se](mailto:OpenModelica@ida.liu.se)|
 | [orthogonal supersystems](https://plus.orthogonal.dev/)                                             | Munich, Germany                      |                                |
 | [Robert Bosch](https://www.bosch.com/company/)                                                      | Stuttgart, Germany                   |                                |
 | [Shanghai Formal-Tech Information Technology](http://www.formal-tech.com/)                          | Shanghai, China                      | yang.yang@formal-tech.com      |
