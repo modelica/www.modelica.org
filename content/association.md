@@ -191,7 +191,6 @@ The following organizations are members of the Modelica Association:
 | Organization                                                                                        | Headquarter                          | Contact                        |
 |-----------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------|
 | [ADC Automotive Data of China (Tianjing)](http://www.catarc.info/)                                  | Tianjin, China                       |                                |
-| [Altair](http://www.altair.com)                                                                     | Troy, MI, USA                        |                                |
 | [Ansys, Inc](http://ansys.com/)                                                                     | Canonsburg, PA, USA                  |                                |
 | [Austrian Institute of Technology](http://www.ait.ac.at/)                                           | Vienna, Austria                      |                                |
 | [Beckhoff Automation](https://www.beckhoff.com)                                                     | Verl, Germany                        | modelica@beckhoff.com          |
