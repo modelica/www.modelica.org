@@ -204,15 +204,16 @@ The following organizations are members of the Modelica Association:
 | [Institut für Thermodynamik, Universität Braunschweig](http://www.ift-bs.de/)                       | Braunschweig, Germany                | [ift@tu-bs.de](mailto:ift@tu-bs.de)                   |
 | [Institute of Engineering Thermodynamics, Hamburg University of Technology](https://www.tuhh.de/technische-thermodynamik/en/institute) | Hamburg, Germany                     | [arne.speerforck@tuhh.de](mailto:arne.speerforck@tuhh.de) |
 | [Institute of Vehicle Engineering (iVH)](http://www.ivh.co.kr)                                      | Seoul, Korea                         |                                |
-| [Keysight Technologies Deutschland](https://www.keysight.com/us/en/home.html)                       | Böblingen, Germany                     |                                |
+| [Keysight Technologies Deutschland](https://www.keysight.com/us/en/home.html)                       | Böblingen, Germany                   |                                |
 | [Liebherr Aerospace Toulouse](https://www.liebherr.com/en-fr/group/location/toulouse-profile-3752241)| Toulouse, France                     |                                |
 | [LTX Simulation](http://ltx.de)                                                                     | Munich, Germany                      | [info@ltx.de](mailto:info@ltx.de)                     |
 | [Maplesoft](http://www.maplesoft.com/)                                                              | Waterloo, ON, Canada                 | [modelica@maplesoft.com](mailto:modelica@maplesoft.com) |
-| [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/)                            | Cambridge, MA, USA                   | [bortoff@merl.com](mailto:bortoff@merl.com)           |
+| [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/)                            | Cambridge, MA, USA                  | [bortoff@merl.com](mailto:bortoff@merl.com)           |
 | [Modelon AB](http://www.modelon.com)                                                                | Lund, Sweden                         | [info@modelon.com](mailto:info@modelon.com)           |
 | [orthogonal supersystems](https://plus.orthogonal.dev/)                                             | Munich, Germany                      |                                |
 | [Robert Bosch](https://www.bosch.com/company/)                                                      | Stuttgart, Germany                   |                                |
 | [Shanghai Formal-Tech Information Technology](http://www.formal-tech.com/)                          | Shanghai, China                      | yang.yang@formal-tech.com      |
+| [Shanghai YISU Information Technologies](https://www.yisuworld.com/)                                | Shanghai, China                      |                                |
 | [Siemens Digital Industry Software](http://www.siemens.com/plm)                                     | Lyon, France                         |                                |
 | [Suzhou Tongyuan Software & Control Technology](http://en.tongyuan.cc/)                             | Suzhou, China                        | [zhoufl@tongyuan.cc](mailto:zhoufl@tongyuan.cc)       |
 | [Virtual Vehicle Research](https://www.v2c2.at/)                                                    | Graz, Austria                        | [info@v2c2.at](mailto:info@v2c2.at)                   |
