@@ -151,7 +151,8 @@ Please see the [call for papers](cfp) for details about paper submissions, and t
 
 - May 31, 2026 Submission of [full papers on Easychair](https://easychair.org/my/conference?conf=namugamc2026)
 - June 15, 2026 Submission of extended abstracts for presentation-only contributions, [Extended Abstracts on Easychair](https://easychair.org/my/conference?conf=namugamc2026)
-- June 15, 2026, Submission of [workshop and tutorial abstracts](https://docs.google.com/forms/d/e/1FAIpQLSelZCdRQzg8qHhTdjf_J39wCVQMR2H2WHQDR6GLfcur25gK7g/viewform?usp=header)
+- June 15, 2026 Submission of [workshop and tutorial abstracts](https://docs.google.com/forms/d/e/1FAIpQLSelZCdRQzg8qHhTdjf_J39wCVQMR2H2WHQDR6GLfcur25gK7g/viewform?usp=header)
+- July 20, 2026 Reviews for full paper submissions
 - August 14, 2026 Notification of acceptance for papers and presentations 
 - September 4th, 2026 Submission of final papers and one-page abstracts
 - October 7th, 2026 Submission of final presentations
