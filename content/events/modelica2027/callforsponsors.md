@@ -67,7 +67,7 @@ The Modelica Association and the local organizers invite you to support the 17th
 
 ## Exhibition & Traffic
 All exhibition areas are designed to maximize interaction. High attendee traffic is ensured by holding all **coffee breaks and poster sessions** directly within the exhibition hall and lobby areas. 
-- [Conference Floor Plan](images/venue/2027_Conference%20floorPlan.pdf)
+- [Conference Floor Plan](https://modelica.org/events/modelica2027/images/venue/2027_Conference%20floorPlan.pdf)
 
 
 ## Terms
