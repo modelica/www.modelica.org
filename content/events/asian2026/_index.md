@@ -38,7 +38,7 @@ In addition to paper presentations, the conference features several Modelica tut
 |---|---|
 |December 12, 2025 |Call for papers |
 |May 31, 2026 |Deadline for scientific paper submissions (extended)|
-|June 30, 2026 | Notification of acceptance for scientific papers |
+|~~June 30~~ **July 15,** 2026 | Notification of acceptance for scientific papers |
 |June 30, 2026 | Deadline for submission of industrial user presentations|
 |June 30, 2026  | Deadline for submission of vendor presentations  |
 |July 15, 2026  | Notification of acceptance for industrial user presentations  |
