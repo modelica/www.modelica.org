@@ -42,7 +42,7 @@ Website: https://modelica.org/language/
 
 Email: [board@modelica.org](mailto:board@modelica.org)
 
-Project Leader: Hans Olsson, 3ds
+Project Leader: Hans Olsson, Dassault Systèmes
 
 Deputy Project Leader: Henrik Tidefelt, Wolfram Mathcore
 
@@ -50,6 +50,4 @@ Deputy Project Leader: Henrik Tidefelt, Wolfram Mathcore
 
 [Full Document](https://specification.modelica.org/maint/3.7/MLS.pdf)
 
-[Release notes on Github](
-
-[Detailed Release Notes](
+[Release notes on Github](https://github.com/modelica/ModelicaSpecification/blob/master/RationaleMCP/Changes/3_7/Readme.md)
