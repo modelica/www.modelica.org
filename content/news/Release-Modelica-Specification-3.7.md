@@ -13,14 +13,12 @@ The [Modelica Association](https://modelica.org/) and the [Modelica Language Pro
 
 ##Key Highlights of Modelica Specification 3.7
 
-<ul>
-<li>Clearer variability for improved diagnostics to reduce debugging time.</li>
-<li>Better license handling for generated FMUs.</li>
-<li>Improved graphics, documentation, and diagnostics to reliably build models faster.</li>
-<li>Better unit handling.</li>
-<li>Backward compatibility (seamless integration with existing models). </li>
-<li>Many minor readability improvements.</li>
-</ul>
+- Clearer variability for improved diagnostics to reduce debugging time.
+- Better license handling for generated FMUs.
+- Improved graphics, documentation, and diagnostics to reliably build models faster.
+- Better unit handling.
+- Backward compatibility (seamless integration with existing models).
+- Many minor readability improvements.
 
 Tools have already implemented most of these features, so teams working in automotive, energy, or aerospace, will quickly get access to these benefits.
 
