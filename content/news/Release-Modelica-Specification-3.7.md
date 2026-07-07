@@ -11,7 +11,7 @@ The [Modelica Association](https://modelica.org/) and the [Modelica Language Pro
 ![](/images/Modelica_Language.svg)
 
 
-##Key Highlights of Modelica Specification 3.7
+## Key Highlights of Modelica Specification 3.7
 
 - Clearer variability for improved diagnostics to reduce debugging time.
 - Better license handling for generated FMUs.
