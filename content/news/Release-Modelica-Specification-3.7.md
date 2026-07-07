@@ -8,7 +8,7 @@ date: 2026-07-07
 
 The [Modelica Association](https://modelica.org/) and the [Modelica Language Project](https://modelica.org/language/) are proud to announce the release of version 3.7 of the [Modelica Language Specification (MLS)](https://specification.modelica.org/maint/3.7/MLS.pdf) and would like you to share this information via your channels.
 
-![](/images/Modelica_Lanugage.svg)
+![](/images/Modelica_Language.svg)
 
 
 ##Key Highlights of Modelica Specification 3.7
