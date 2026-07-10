@@ -47,6 +47,32 @@ Additional details are available in the [call for papers](cfp).
 
 <!-- We are looking forward to seeing you in Dallas. As a first for a Modelica conference, we are planning to organize a **Modelica-oriented job fair** at the in-person event in Dallas that gives a unique opportunity for employers, students about to graduate, and Modelica practitioners to get to know each other. More details will be forthcoming at this site as the conference date comes closer.   -->
 
+## Our Sponsors
+
+{{<rawhtml>}}
+<table>
+    <tr>
+        <td><b>Platinum</b></td>
+        <td colspan="2" align="center"><img src="images/juliahub.png" width="400" alt="Julia Hub"></td>
+    </tr>
+    <tr>
+        <td><b>Gold</b></td>
+        <td><img src="images/3DS_Corp_Logotype_Blue_RGB.png" width="250" alt="Dassault Systemes"></td>
+        <td><img src="images/modelon.png" width="250" alt="Modelon"></td>
+    </tr>
+    <tr>     
+        <td><b>Gold</b></td>
+        <td><img src="images/TechniaLogo.png" width="250" alt="ESI"></td>
+        <td><img src="images/XRGlogo.webp" width="250" alt="Julia Hub"></td>
+    </tr>
+    <tr>
+        <td><b>Silver</b></td>
+        <td  colspan="2" align="center"><img src="images/SmithGrouplogo.jpg" width="200" alt="Smithgroup"></td>
+    </tr>
+</table>
+{{</rawhtml>}}
+
+
 ## Sponsorship opportunities
 
 The American Modelica conference will be your opportunity to meet your customers again in a personal setting, at a great location. Please stay tuned for details about our sponsorship opportunities, we will post them here in the near future. 
