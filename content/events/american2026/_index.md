@@ -58,7 +58,7 @@ Additional details are available in the [call for papers](cfp).
     <tr>
         <td><b>Gold</b></td>
         <td><img src="images/3DS_Corp_Logotype_Blue_RGB.png" width="250" alt="Dassault Systemes"></td>
-        <td><img src="images/modelon.png" width="250" alt="Modelon"></td>
+        <td><img src="images/Modelon.png" width="250" alt="Modelon"></td>
     </tr>
     <tr>     
         <td><b>Gold</b></td>
