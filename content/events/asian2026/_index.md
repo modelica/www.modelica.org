@@ -376,7 +376,7 @@ As in most previous Modelica conferences, the [EasyChair](https://easychair.org/
 Please note, this link only works properly if you 1) Have an account on Easychair and 2) are logged into the account when you click the link. If you don't already have an easychair account, you first have to create one [here](https://easychair.org/account2/create).
 Make sure that you use an email address for registering that remains valid until the conference. Please choose wether your submission is going to be a full, peer-reviewed paper, or an industrial user presentation.
 Industrial user presentations require only an abstract and a presentation, and will be reviewed by the conference board.
-Authors of accepted papers and user presentations will have to submit a **signed Copyright License** [(Word document)](CopyrightLicense2025.docx) or [(PDF)](CopyrightLicense2025.pdf) to EasyChair.
+Authors of accepted papers and user presentations will have to submit a **signed Copyright License** [(Word document)](CopyrightLicenseAsian2026.docx) or [(PDF)](CopyrightLicenseAsian2026.pdf) to EasyChair.
 
 ### Preparation of full papers and Extended Abstracts for Industrial User Presentations
 
