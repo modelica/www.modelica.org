@@ -132,15 +132,15 @@ In addition to paper presentations, the conference features several Modelica tut
     </a>
   </div>
   
-<!--
   <div class="col">
-    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
+    <a href="https://www.hagongxinou.com" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/WolframResearch.svg" alt="Wolfram Research"/>
+        <img src="images/XinOu.png" alt="XinOu Mechanics"/>
       </div>
     </a>
   </div>
-
+  
+<!--
   <div class="col">
     <a href="https://openmodelica.org" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
