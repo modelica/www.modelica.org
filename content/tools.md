@@ -77,6 +77,7 @@ Modelica models are usually graphically constructed with one of the schematic ed
    * Online Version:[http://www.maplesoft.com/products/maplesim/modelicachecker](http://www.maplesoft.com/products/maplesim/modelicachecker)
 * **[Trimming of trailing white spaces (and other code clean-up)](https://github.com/simulatino/trimtrailingwhitespaces)**: This script will recursively remove all trailing white spaces in all text files in a given directory. Binary files and files residing in version control specific directories are skipped. As an addition, one can also let it clean out obsolete or empty/superfluous Modelica annotations from Modelica files and more.
 * **[PMD](https://github.com/pmd/pmd)**: An extensible multilanguage static code analyzer with support for Modelica language.
+* **[MLQT](https://github.com/mdempse1/MLQT)**: An open-source desktop application and set of libraries for managing, analyzing, and reviewing Modelica libraries stored in version control systems (Git or SVN). The project also provides an MCP server focused on creating and editing Modelica models and libraries.
 
 ## Other free tools
 
