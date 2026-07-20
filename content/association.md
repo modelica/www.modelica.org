@@ -205,6 +205,7 @@ The following organizations are members of the Modelica Association:
 | [Institute of Engineering Thermodynamics, Hamburg University of Technology](https://www.tuhh.de/technische-thermodynamik/en/institute) | Hamburg, Germany                     | [arne.speerforck@tuhh.de](mailto:arne.speerforck@tuhh.de) |
 | [Institute of Vehicle Engineering (iVH)](http://www.ivh.co.kr)                                      | Seoul, Korea                         |                                |
 | [Keysight Technologies Deutschland](https://www.keysight.com/us/en/home.html)                       | Böblingen, Germany                   |                                |
+| [Lamerton Simulation](https://www.lamertonsimulation.com/)                                    | St. Austell, United Kingdom | [info@lamertonsimulation.com](mailto:info@lamertonsimulation.com)|
 | [Liebherr Aerospace Toulouse](https://www.liebherr.com/en-fr/group/location/toulouse-profile-3752241)| Toulouse, France                     |                                |
 | [LTX Simulation](http://ltx.de)                                                                     | Munich, Germany                      | [info@ltx.de](mailto:info@ltx.de)                     |
 | [Maplesoft](http://www.maplesoft.com/)                                                              | Waterloo, ON, Canada                 | [modelica@maplesoft.com](mailto:modelica@maplesoft.com) |
