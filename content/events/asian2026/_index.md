@@ -46,6 +46,10 @@ In addition to paper presentations, the conference features several Modelica tut
 |September 21-22, 2026| Asian Modelica & FMI Conference 2026 |
 
 
+## Preliminary Program
+
+You are welcome to study the [Preliminary Program of the Asian Modelica Conference 2026](prelprogram) for your conference planning. 
+
 ## Our Sponsors
 
 
