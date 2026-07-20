@@ -146,14 +146,3 @@ markup:
   tableOfContents:
     startLevel: 2
     endLevel: 3
-  goldmark:
-    renderer:
-      # Allow raw HTML in Markdown content (used widely across this site).
-      unsafe: true
-
-# Hugo v0.162+ blocks text/html content by default (XSS hardening).
-# Allow only the content formats this site uses (see content/ and theme content/).
-security:
-  allowContent:
-    - '^text/markdown$'
-    - '^text/html$'
