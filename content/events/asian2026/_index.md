@@ -443,24 +443,8 @@ Detailed formatting instructions are included in the [paper templates](https://g
 
 ## Keynotes 
 
-### Modelica and the Future of Model Based Design - From Foundations to Agentic AI Workflows
 
-{{<rawhtml>}}
-<img src="images/HildingElmqvist.jpg" alt="Hilding Elmqvist" style="margin-left: 0; max-width: 150px"/>
-{{</rawhtml>}}
 
-**Dr Hilding Elmqvist,** Mogram AB, Lund, Sweden
-<!--
-[{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Siddhartha_Mishra.pdf)
--->
-
-Since its conception in 1996, Modelica has evolved into a global standard for multi-domain, equation-based modeling and simulation. Its foundation rests on key principles—acausal declarative modeling, symbolic manipulation, and object-oriented reuse—that enable engineers and scientists to describe complex physical systems in a unified form. Over the years, these principles have fostered a rich ecosystem of tools, open and proprietary model libraries, and industrial cooperation.
-The Modelica community now enters an exciting new era shaped by web and cloud technologies and intelligent automation. Browser-based simulation environments provide instant access to modeling, execution, and visualization—removing installation barriers and opening new opportunities in education, research, and rapid prototyping. Emerging modeling challenges, including the modelling, simulation and control of humanoid and quadruped robots operating in complex and dynamic environments, push the boundaries of what multi-domain modeling must represent. 
-The convergence of Modelica-based simulation servers with agentic AI creates a powerful paradigm: AI-driven simulations in the loop. Intelligent agents can autonomously generate models, simulate, test, and refine designs from simulated results. 
-This keynote will reflect on Modelica’s evolution and principles, highlight ongoing innovations, and explore how web-enabled simulation and AI-assisted modeling and design exploration are transforming model-based design.
-
-**Biography**
-Elmqvist initiated the international standardization effort to design the next generation object-oriented language for physical modelling, Modelica in 1996. Elmqvist’s Ph.D. thesis from 1978 from the Department of Automatic Control, Lund Institute of Technology, Lund, Sweden contains the design of a novel object-oriented and equation- based modelling language, Dymola, and algorithms for symbolic model manipulation. Elmqvist founded Dynasim AB in 1992, which was acquired by Dassault Systèmes in 2006 and is a cofounder of Modelon AB. 
 
 ### 15 Years Functional Mock-up Interface – a Journey from FMI 1.0 to 3.0 and the Road Ahead
 
@@ -505,6 +489,22 @@ The Xu's Modeling Method, originating from foundational research for the HyPneu 
 The method enables model construction directly from hydraulic schematics by applying Kirchhoff's law at junctions, reducing all components to two fundamental sub-models: hydraulic resistance (throttle) and hydraulic capacitance (cylinder). This yields an implicit state equation (a DAE). The Xu's Algorithm solves this via a unified dynamic-static simulation approach, using the Newton-Raphson method iteratively to compute static states and dynamic derivatives over time steps.
 In the Digital Twin era, the method finds new relevance. Its implicit state equation serves as a potential mechanism model for digital twins, contingent on solving the inverse problem—a current research focus that may incorporate Artificial Intelligence. Additionally, the method offers a theoretical basis for creating "Hydraulic Intelligent Components," guiding the design of simpler, more efficient constructions from first principles. This positions it as an advancement over the classic Hydraulic Resistance Systematic Theory.
 Practically, the method is being applied to develop dedicated simulation and digital twin software for a hydraulic robot system manufactured in Shenzhen, demonstrating its ongoing industrial applicability.
+
+### The Rise of Computer Intelligence and what it means for System Simulation
+
+
+{{<rawhtml>}}
+<img src="images/DirkZimmer.jpeg" alt="Dirk Zimmer" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Dr Dirk Zimmer** DLR, Institute of Robotics and Mechatronics, Oberpfaffenhofen, Germany
+<!--
+[{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Siddhartha_Mishra.pdf)
+-->
+
+We are undergoing a transition period where computer intelligence is rising to dominance. It will become widely available to everyone at an unprecedented level of intelligence and also at low cost. Such transition periods are often highly chaotic and short-term predictions may hence be rather inaccurate. Based on first principles, however, we can predict what ultimately will prevail after the transition has taken place. This keynote shall provide such an analysis to answer the most relevant questions from the perspective of system simulation: Will the use of simulation rise or fall? Will there be a need for system simulation? What will be the use of Modelica in the future? Will mathematical modeling still be a thing for humans and for computers? The keynote will also explain why it uses the term computer intelligence rather than artificial intelligence. 
+
+
 
 <!--
 ## Panel Discussion
