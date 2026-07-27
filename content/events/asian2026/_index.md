@@ -382,7 +382,7 @@ Make sure that you use an email address for registering that remains valid until
 Industrial user presentations require only an abstract and a presentation, and will be reviewed by the conference board.
 Authors of accepted papers and user presentations will have to submit a **signed Copyright License** [(Word document)](CopyrightLicenseAsian2026.docx) or [(PDF)](CopyrightLicenseAsian2026.pdf) to EasyChair.
 
-### Preparation of full papers and Extended Abstracts for Industrial User Presentations
+### Preparation of full papers
 
 The template has been updated for the 2021 conference, so do not use older versions of the template. Note that a nearly finished **draft paper** is the expected minimum for the submission deadline, papers with only an abstract, or only promised results, will be rejected. 
 Please use the [LaTeX template](https://github.com/modelica-association/conference-templates/tree/master/LaTeX) for the creation of full papers.
@@ -396,9 +396,12 @@ For the final submission, there will also be the possibility to submit Modelica 
 
 To announce your presentation, we encourage all presenters to post on social media with a nice picture. You may use [this template](images/SpeakerSocialMediaTemplate.pptx).
 
-### Preparation of Industrial User Presentations. 
+### Preparation of Industrial User Presentations and corresponding One-Pagers. 
 
-There are no specific templates for industrial user presentations. The presentations follow the same guidelines as for full papers.
+There are no specific templates for industrial user presentations itself. The presentations follow the same guidelines as for full papers.
+
+To inform all participants about your presentation, a one page abstract of your presentation shall be included in the program. To enable a uniform look, please follow [this example format](https://github.com/dzimmer/conference-templates/blob/master/LaTeX/example-user-presentation.pdf). The Word or Latex Template files are found in the [corresponding repository](https://github.com/dzimmer/conference-templates).
+
 
 ### Technical equipment for presentations
 
