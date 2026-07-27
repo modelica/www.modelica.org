@@ -13,6 +13,7 @@ Contributions are open to everyone, please see the submission [guidelines](guide
 
 Issues
 
+- [2026-02](2026-02) issued on August 3, 2026
 - [2026-01](2026-01) issued on April 27, 2026
 - [2025-03](2025-03) issued on Dec 8, 2025
 - [2025-02](2025-02) issued on Jul 21, 2025

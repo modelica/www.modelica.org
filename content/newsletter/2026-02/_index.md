@@ -10,7 +10,7 @@ title: Newsletter 2026-02
 
 # Modelica Association Newsletter 2026-02
 
-issued on <!-- TODO: issue date -->
+issued on August 3, 2026
 
 {{<toc>}}
 
@@ -129,26 +129,6 @@ Comments and feedback is very welcome - or become a contributor! (For that it is
 
 <!-- TODO: other vendor submissions -->
 
-### Keysight Technologies: SimulationX 2026 Released
-Keysight is pleased to announce the release of SimulationX 2026, introducing new capabilities that improve engineering productivity, model fidelity, and multi-domain system simulation across automotive, energy, industrial, and aerospace applications.
-
-Highlights of this release include:
-* **Vehicle Dynamics enhancements**, including automated road configuration, trajectory generation, regenerative braking examples, and standardized ISO 4138 validation workflows.
-* **Advanced Heat Exchanger modeling**, featuring improved numerical robustness, enhanced boiling and condensation correlations, support for transcritical processes, and updated CoolProp integration.
-* **Hydraulics library enhancements**, including new proportional solenoid models, improved density calculations, and enhanced graphical animations for easier model interpretation.
-* **Enhanced FEM import and visualization** with support for VPS Structural Mechanics HDF5 files, rigid bodies, and improved computation.
-* **Enhanced Modelica support** with Modelica Standard Library 4.1, SVG graphics, and improved unit handling.
-* **Performance and usability improvements** delivering faster simulations, improved workflows, and a more streamlined user experience.
-
-SimulationX continues to embrace open standards, supporting Modelica, the Functional Mock-up Interface (FMI), and co-simulation workflows that enable engineers to integrate multi-domain system models into larger engineering toolchains.
-
-SimulationX 2026 also expands its extensive Modelica-based libraries for mechanical, electrical, thermal, hydraulics, pneumatics, controls, and vehicle systems, enabling engineers to build high-fidelity digital twins while maintaining an open and reusable modeling approach.
-
-Learn more about **SimulationX 2026 release** [here](https://www.keysight.com/blogs/en/tech/sim-des/simulationx-2026-less-time-building-models-more-time-engineering-better-products).
-
-*This article is provided by Majid Aziz ([Keysight](https://www.keysight.com/in/en/products/design-engineering-software/computer-aided-engineering-software/multi-domain-system.html))*
-
-
 ### Model Based Innovation (MBI) Updates
 
 ![MBI Logo](MBI-LLC.svg)
@@ -163,7 +143,7 @@ As a **[Modelon Impact](https://www.modelon.com/modelon-impact/) Reseller**, MBI
 ![Sobol sweep (dynamic) trajectories for inertia1.w in Modelica.Blocks.Examples.PID_Controller](SobolSweep-PID-inertia1w.png 'Sobol sweep (dynamic) — inertia1.w, Modelica.Blocks.Examples.PID_Controller (16 samples, 0.0–5.0 s)')
 
 {{<rawhtml>}}
-<p style="text-align:center"><em>Sobol-sweep for PID controller response for varying plant parameters, generated with Modelon Imapct MCP server</em></p>
+<p style="text-align:center"><em>Sobol-sweep for PID controller response for varying plant parameters, generated with Modelon Impact MCP server</em></p>
 {{</rawhtml>}}
 
 #### [Libraries](https://modelbased.cloud/libraries/)
@@ -202,8 +182,29 @@ The latest release of the MLQT project also brings new features to the Modelica 
 
 MLQT is available for Windows today, with a Linux version on the roadmap. To learn more, visit the open-source [repository on GitHub](https://github.com/mdempse1/MLQT).
 
-* This article is provided by Mike Dempsey ([M Dempsey Ltd](https://dempsey.me.uk/))*
-  
+*This article is provided by Mike Dempsey ([M Dempsey Ltd](https://dempsey.me.uk/))*
+
+### Keysight Technologies: SimulationX 2026 Released
+
+Keysight is pleased to announce the release of SimulationX 2026, introducing new capabilities that improve engineering productivity, model fidelity, and multi-domain system simulation across automotive, energy, industrial, and aerospace applications.
+
+Highlights of this release include:
+
+* **Vehicle Dynamics enhancements**, including automated road configuration, trajectory generation, regenerative braking examples, and standardized ISO 4138 validation workflows.
+* **Advanced Heat Exchanger modeling**, featuring improved numerical robustness, enhanced boiling and condensation correlations, support for transcritical processes, and updated CoolProp integration.
+* **Hydraulics library enhancements**, including new proportional solenoid models, improved density calculations, and enhanced graphical animations for easier model interpretation.
+* **Enhanced FEM import and visualization** with support for VPS Structural Mechanics HDF5 files, rigid bodies, and improved computation.
+* **Enhanced Modelica support** with Modelica Standard Library 4.1, SVG graphics, and improved unit handling.
+* **Performance and usability improvements** delivering faster simulations, improved workflows, and a more streamlined user experience.
+
+SimulationX continues to embrace open standards, supporting Modelica, the Functional Mock-up Interface (FMI), and co-simulation workflows that enable engineers to integrate multi-domain system models into larger engineering toolchains.
+
+SimulationX 2026 also expands its extensive Modelica-based libraries for mechanical, electrical, thermal, hydraulics, pneumatics, controls, and vehicle systems, enabling engineers to build high-fidelity digital twins while maintaining an open and reusable modeling approach.
+
+Learn more about **SimulationX 2026 release** [here](https://www.keysight.com/blogs/en/tech/sim-des/simulationx-2026-less-time-building-models-more-time-engineering-better-products).
+
+*This article is provided by Majid Aziz ([Keysight](https://www.keysight.com/in/en/products/design-engineering-software/computer-aided-engineering-software/multi-domain-system.html))*
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
@@ -260,6 +261,7 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 ## Education news
 
 <!-- TODO: Education news -->
+
 ### FMI 3.0 Co-Simulation FMU with FMI-LS-BUS CAN and Ethernet — built from scratch on Windows
 
 An open-source walkthrough of building a complete SIL (Software-in-the-Loop) ECU virtualization 
@@ -282,7 +284,9 @@ upstream, and resolved by the Vector maintainer.
 
 Source code, build instructions, and documented fixes: 
 [github.com/KBARMAN11/sil-ecu-virtualization](https://github.com/KBARMAN11/sil-ecu-virtualization)
-<img width="594" height="420" alt="karan-barman-fmi-ls-bus-vecu" src="https://github.com/user-attachments/assets/2fb50b0c-d888-4b6c-b891-8f23ab837ee1" />
+
+![SIL ECU virtualization stack with FMI-LS-BUS CAN and Ethernet](fmi-ls-bus-vecu-sil-stack.png)
 
 *This article is provided by Karan Barman*
+
 <!-- END Education news -->
