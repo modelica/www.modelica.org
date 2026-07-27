@@ -128,5 +128,29 @@ Please [contact us](https://modelbased.cloud/company/) with your requests!
 ## Education news
 
 <!-- TODO: Education news -->
+### FMI 3.0 Co-Simulation FMU with FMI-LS-BUS CAN and Ethernet — built from scratch on Windows
 
+An open-source walkthrough of building a complete SIL (Software-in-the-Loop) ECU virtualization 
+stack on Windows using only open-source tooling — GCC (MinGW-w64), FreeRTOS, Vector SIL Kit, 
+and the FMI 3.0 and FMI-LS-BUS headers from GitHub.
+
+The project progresses through seven stages without changing the underlying application software 
+(SpeedController, BrakeController, ActuatorSWC): from a Level 1 FreeRTOS vECU with a stubbed RTE, 
+through Level 3 virtual CAN via SIL Kit, to validated FMI 3.0 Co-Simulation FMUs with 
+FMI-LS-BUS CAN Low-Cut and Ethernet Low-Cut (v1.3-beta) terminals. A custom C FMI master 
+algorithm orchestrates two-FMU closed-loop co-simulation, converging to 80 km/h without any 
+commercial orchestrator.
+
+Practical findings are documented for Windows/MinGW builds — including correct struct 
+initialization for the SIL Kit C API (`SilKit_Struct_Init` vs `memset`), Binary variable 
+`<Start value=""/>` syntax, FMU packaging with `jar cf` instead of PowerShell 
+`Compress-Archive`, and FMI-LS-BUS Ethernet frame construction. A SIL Kit Coordinated 
+lifecycle bug encountered during development was isolated to a minimal C repro, filed 
+upstream, and resolved by the Vector maintainer.
+
+Source code, build instructions, and documented fixes: 
+[github.com/KBARMAN11/sil-ecu-virtualization](https://github.com/KBARMAN11/sil-ecu-virtualization)
+<img width="594" height="420" alt="karan-barman-fmi-ls-bus-vecu" src="https://github.com/user-attachments/assets/2fb50b0c-d888-4b6c-b891-8f23ab837ee1" />
+
+*This article is provided by Karan Barman*
 <!-- END Education news -->
