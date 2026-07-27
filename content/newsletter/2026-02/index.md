@@ -113,6 +113,39 @@ Please [contact us](https://modelbased.cloud/company/) with your requests!
 </div>
 {{</rawhtml>}}
 
+### FMU Manipulation Toolbox
+
+**FMU Manipulation Toolbox** is an open-source Python package (BSD-2 license) for analyzing, modifying, and combining
+Functional Mock-up Units (FMUs) without recompiling them. Both FMI-2.0 and FMI-3.0 are supported, currently limited
+to Co-Simulation mode.
+
+![](launcher-gui.png 'GUI Launcher')
+
+#### 🖥️ What's new?
+
+Version 1.9.3 introduced 3 dedicated graphical interfaces:
+
+- FMU Tool — Load an FMU, inspect its ports, batch rename variables, remove hierarchy levels, add
+  [remoting interfaces](https://grouperenault.github.io/fmu_manipulation_toolbox/user-guide/fmutool/remoting/)
+  (e.g. run a 32-bit FMU on a 64-bit host, or vice versa), and check FMI compliance — all with a few clicks.
+
+- FMU Variable Editor — A spreadsheet-like interface to rename variables, edit descriptions, and adjust simulation
+  experiment settings (start/stop time). Modified cells are highlighted in real-time.
+
+- FMU Container Builder — A visual node-graph editor to assemble multiple FMUs into a single FMU Container.
+  Drag & drop FMUs, draw wires between ports, configure connections, set start values, organize nested
+  sub-containers — and export as FMU or JSON. It can also create an FMU Container from an existing SSP file.
+  ![](fmu-container-builder.png 'FMU Container Builder')
+
+All three tools are accessible from a single launcher: just type `fmutoolbox` in your terminal.
+
+📦 Install in one line: `pip install fmu-manipulation-toolbox`
+
+Try it out, and let us know what you build with it! Bug reports or feature requests are also welcome.
+
+*This article is provided by [Nicolas LAURENT](https://github.com/nl78), [Renault Group](https://www.renaultgroup.com/)*
+
+
 ## News from libraries
 
 <!-- TODO: News from libraries -->
