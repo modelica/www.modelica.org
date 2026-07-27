@@ -105,6 +105,16 @@ Please [contact us](https://modelbased.cloud/company/) with your requests!
 
 *This article is provided by Hubertus Tummescheit, [Model Based Innovation LLC](https://modelbased.cloud/)*
 
+### Modelica MCP server from MLQT project
+
+The MLQT 2026.3 release includes a new Modelica MCP server for creating, editing and checking Modelica models and libraries. The MCP server provides powerful and surgical Modelica editing tools that any AI agent that supports the MCP standard can utilise. The MCP server loads your Modelica libraries and provides the AI agent with efficient access to the information it needs dramatically reducing token usage when creating and editing Modelica models. To fully close the loop and empower your AI agent to simulate and verify models, you will also need an MCP server for your Modelica simulation tool of choice.
+
+The latest release of the MLQT project also brings new features to the Modelica aware Git and SVN interface to improve the capabilities for checking and enforcing your coding style guidelines.  For example, spelling mistakes can be corrected through the MLQT tool without needing to return to your Modelica editor.
+
+MLQT is available for Windows today, with a Linux version on the roadmap. To learn more, visit the open-source [repository on GitHub](https://github.com/mdempse1/MLQT).
+
+* This article is provided by Mike Dempsey ([M Dempsey Ltd](https://dempsey.me.uk/))*
+  
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
