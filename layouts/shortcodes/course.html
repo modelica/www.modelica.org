@@ -1,0 +1,48 @@
+{{- $name := .Get "name" -}}
+{{- $provider := .Get "provider" -}}
+{{- $link := .Get "link" -}}
+{{- $description := .Get "description" -}}
+{{- $language := .Get "language" -}}
+{{- $domain := .Get "domain" -}}
+{{- $format := .Get "format" -}}
+{{- $access := .Get "access" | default "Open" -}}
+{{- $tool := .Get "tool" -}}
+<div class="col-12 col-lg-6 mb-4 d-flex">
+    <div class="card course h-100 w-100">
+        <div class="card-body d-flex flex-column">
+            <div class="d-flex justify-content-between align-items-start gap-2 mb-1">
+                <div class="title">
+                    <a href="{{ $link }}" rel="noopener noreferrer">{{ $name }}</a>
+                </div>
+                {{- if $access -}}
+                <span class="badge text-bg-success course-access flex-shrink-0">{{ $access }}</span>
+                {{- end -}}
+            </div>
+            {{- if $provider -}}
+            <div class="provider text-body-secondary">
+                {{ $provider }}
+            </div>
+            {{- end -}}
+            <div class="description flex-grow-1">
+                {{ $description }}
+            </div>
+            <div class="course-meta mt-3">
+                {{- if $language -}}
+                <span class="badge text-bg-secondary">{{ $language }}</span>
+                {{- end -}}
+                {{- if $domain -}}
+                <span class="badge text-bg-secondary">{{ $domain }}</span>
+                {{- end -}}
+                {{- if $format -}}
+                <span class="badge text-bg-secondary">{{ $format }}</span>
+                {{- end -}}
+                {{- if $tool -}}
+                <span class="badge text-bg-secondary">{{ $tool }}</span>
+                {{- end -}}
+            </div>
+            <div class="mt-3">
+                <a class="course-cta" href="{{ $link }}" rel="noopener noreferrer">Open materials →</a>
+            </div>
+        </div>
+    </div>
+</div>
