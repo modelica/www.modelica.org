@@ -60,6 +60,26 @@ issued on <!-- TODO: issue date -->
 
 <!-- TODO: other vendor submissions -->
 
+### Keysight Technologies: SimulationX 2026 Released
+Keysight is pleased to announce the release of SimulationX 2026, introducing new capabilities that improve engineering productivity, model fidelity, and multi-domain system simulation across automotive, energy, industrial, and aerospace applications.
+
+Highlights of this release include:
+* **Vehicle Dynamics enhancements**, including automated road configuration, trajectory generation, regenerative braking examples, and standardized ISO 4138 validation workflows.
+* **Advanced Heat Exchanger modeling**, featuring improved numerical robustness, enhanced boiling and condensation correlations, support for transcritical processes, and updated CoolProp integration.
+* **Hydraulics library enhancements**, including new proportional solenoid models, improved density calculations, and enhanced graphical animations for easier model interpretation.
+* **Enhanced FEM import and visualization** with support for VPS Structural Mechanics HDF5 files, rigid bodies, and improved computation.
+* **Enhanced Modelica support** with Modelica Standard Library 4.1, SVG graphics, and improved unit handling.
+* **Performance and usability improvements** delivering faster simulations, improved workflows, and a more streamlined user experience.
+
+SimulationX continues to embrace open standards, supporting Modelica, the Functional Mock-up Interface (FMI), and co-simulation workflows that enable engineers to integrate multi-domain system models into larger engineering toolchains.
+
+SimulationX 2026 also expands its extensive Modelica-based libraries for mechanical, electrical, thermal, hydraulics, pneumatics, controls, and vehicle systems, enabling engineers to build high-fidelity digital twins while maintaining an open and reusable modeling approach.
+
+Learn more about **SimulationX 2026 release** [here](https://www.keysight.com/blogs/en/tech/sim-des/simulationx-2026-less-time-building-models-more-time-engineering-better-products).
+
+*This article is provided by Majid Aziz ([Keysight](https://www.keysight.com/in/en/products/design-engineering-software/computer-aided-engineering-software/multi-domain-system.html))*
+
+
 ### Model Based Innovation (MBI) Updates
 
 ![MBI Logo](MBI-LLC.svg)
