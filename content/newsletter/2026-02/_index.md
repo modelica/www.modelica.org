@@ -34,11 +34,11 @@ issued on August 3, 2026
 
 ### FMI Project News
 
-<img src="FMI-logo.png" width="50%">
+![FMI logo](FMI-logo.png)
 
 #### FMI Face-2-Face Design Meeting Munich June 8-10 2026
 
-<img src="fmi-design-meeting-munich.jpg">
+![Participants of the FMI Design Meeting in Munich, June 2026](fmi-design-meeting-munich.jpg)
 
 The FMI Project had a very productive in-person FMI Design meeting in Munich. Thanks to Torsten Sommer and Dassault Systèmes for hosting us - and to all participants from Akkodis, Bosch, Dassault Systèmes, German Aerospace Center (DLR), Keysight Technologies, PMSF IT Consulting Pierre R. Mai, Santa Anna IT Research Institute, Synopsys Inc and the participants in online sessions!
 
