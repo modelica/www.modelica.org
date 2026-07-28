@@ -40,7 +40,7 @@ issued on <!-- TODO: issue date -->
 
 <img src="1781097487215.jpg">
 
-The FMI Projedct had a very productive  in-person FMI Design meeting in Munich. Thanks to Torsten Sommer and Dassault Systèmes for hosting us - and to all participants from Akkodis, Bosch, Dassault Systèmes, German Aerospace Center (DLR), Keysight Technologies, PMSF IT Consulting Pierre R. Mai, Santa Anna IT Research Institute, Synopsys Inc and the participants in online sessions!
+The FMI Project had a very productive  in-person FMI Design meeting in Munich. Thanks to Torsten Sommer and Dassault Systèmes for hosting us - and to all participants from Akkodis, Bosch, Dassault Systèmes, German Aerospace Center (DLR), Keysight Technologies, PMSF IT Consulting Pierre R. Mai, Santa Anna IT Research Institute, Synopsys Inc and the participants in online sessions!
 
 We made very good progress on 
 - the coming FMI 3.0.3 with important clarifications especially for clocks usage (that become important as many tools support them now, many of them in the context of the FMI-LS-BUS)
