@@ -38,7 +38,7 @@ issued on August 3, 2026
 
 #### FMI Face-2-Face Design Meeting Munich June 8-10 2026
 
-<img src="1781097487215.jpg">
+<img src="fmi-design-meeting-munich.jpg">
 
 The FMI Project had a very productive  in-person FMI Design meeting in Munich. Thanks to Torsten Sommer and Dassault Systèmes for hosting us - and to all participants from Akkodis, Bosch, Dassault Systèmes, German Aerospace Center (DLR), Keysight Technologies, PMSF IT Consulting Pierre R. Mai, Santa Anna IT Research Institute, Synopsys Inc and the participants in online sessions!
 
@@ -116,6 +116,20 @@ Comments and feedback is very welcome - or become a contributor! (For that it is
 ## Conferences and user meetings
 
 <!-- TODO: Conferences and user meetings -->
+
+### American Modelica & FMI Conference 2026
+
+The **American Modelica & FMI Conference 2026** will be held in person at the [Georgia Institute of Technology](https://www.asdl.gatech.edu/) in Atlanta, in the Aerospace Systems Design Laboratory, from **October 12–14, 2026**. It is organized by [NAMUG](https://namug.org/), the North American Modelica Users Group, in cooperation with the [Modelica Association](https://modelica.org/association/). The conference brings together users, library developers, tool vendors, and language designers to share the latest work on Modelica, FMI, SSP, eFMI, DCP, and equation-oriented modeling more broadly.
+
+For 2026 the program features **two tracks**: the established Modelica program alongside a new track covering the structure and application of equation-oriented modeling languages other than Modelica, broadening the conversation around shared modeling principles.
+
+Workshops and tutorials for beginners and advanced users will be given on the afternoon of **October 12**, with keynotes, paper presentations, vendor sessions, and an exhibition on **October 13–14**.
+
+Two keynotes are confirmed: **Oliver Lenord** (Bosch Corporate Research), on pushing the limits of system simulation through open standards, and **Dr. Daniel Mikkelson** (Idaho National Laboratory), on nuclear system modeling for integrated energy systems analyses.
+
+Registration is open; full details are on the [conference page](https://modelica.org/events/american2026/).
+
+*This article is provided by the American Modelica & FMI Conference 2026 organizing committee.*
 
 <!-- END Conferences and user meetings -->
 
@@ -205,21 +219,13 @@ Learn more about **SimulationX 2026 release** [here](https://www.keysight.com/bl
 
 *This article is provided by Majid Aziz ([Keysight](https://www.keysight.com/in/en/products/design-engineering-software/computer-aided-engineering-software/multi-domain-system.html))*
 
-<!-- END Vendor news -->
-
-{{<rawhtml>}}
-<div class="masthead-followup-icon d-inline-block mt-5">
-    <i class="fa-solid fa-book" style="font-size:50px"></i>
-</div>
-{{</rawhtml>}}
-
 ### FMU Manipulation Toolbox
 
 **FMU Manipulation Toolbox** is an open-source Python package (BSD-2 license) for analyzing, modifying, and combining
 Functional Mock-up Units (FMUs) without recompiling them. Both FMI-2.0 and FMI-3.0 are supported, currently limited
 to Co-Simulation mode.
 
-![](launcher-gui.png 'GUI Launcher')
+![FMU Manipulation Toolbox launcher](launcher-gui.png 'GUI Launcher')
 
 #### 🖥️ What's new?
 
@@ -235,7 +241,8 @@ Version 1.9.3 introduced 3 dedicated graphical interfaces:
 - FMU Container Builder — A visual node-graph editor to assemble multiple FMUs into a single FMU Container.
   Drag & drop FMUs, draw wires between ports, configure connections, set start values, organize nested
   sub-containers — and export as FMU or JSON. It can also create an FMU Container from an existing SSP file.
-  ![](fmu-container-builder.png 'FMU Container Builder')
+
+![FMU Container Builder node-graph editor](fmu-container-builder.png 'FMU Container Builder')
 
 All three tools are accessible from a single launcher: just type `fmutoolbox` in your terminal.
 
@@ -245,6 +252,13 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 
 *This article is provided by [Nicolas LAURENT](https://github.com/nl78), [Renault Group](https://www.renaultgroup.com/)*
 
+<!-- END Vendor news -->
+
+{{<rawhtml>}}
+<div class="masthead-followup-icon d-inline-block mt-5">
+    <i class="fa-solid fa-book" style="font-size:50px"></i>
+</div>
+{{</rawhtml>}}
 
 ## News from libraries
 
