@@ -34,10 +34,30 @@ issued on <!-- TODO: issue date -->
 
 ### FMI Project News
 
-<!-- TODO: FMI project news -->
+<img src="FMI-logo.png" width="50%">
+
+#### FMI Face-2-Face Design Meeting Munich June 8-10 2026
+
+<img src="1781097487215.jpg">
+
+The FMI Projedct had a very productive  in-person FMI Design meeting in Munich. Thanks to Torsten Sommer and Dassault Systèmes for hosting us - and to all participants from Akkodis, Bosch, Dassault Systèmes, German Aerospace Center (DLR), Keysight Technologies, PMSF IT Consulting Pierre R. Mai, Santa Anna IT Research Institute, Synopsys Inc and the participants in online sessions!
+
+We made very good progress on 
+- the coming FMI 3.0.3 with important clarifications especially for clocks usage (that become important as many tools support them now, many of them in the context of the FMI-LS-BUS)
+- efficiency improvements for large FMI3.0-based simulation systems
+- the FMI Layered Standards for 
+ * References (FMI-LS-REF)
+ * Network Communication (FMI-LS-REF), especially cross-checking the coming v1.3 with Flexray, Ethernet, LIN support
+ * Differential Algebraic Equations (FMI-LS-DAE)
+- Web Assembly Support in FMI (creating a first prototype and forming a working group)
+And we had a lot of fun!
+
+#### 280+ tools supporting FMI listed on the FMI tools page´!
+
+The number of tools supporting the FMI Standard is still growing! Now we have 286 tools listed on https://fmi-standard.org/tools/ !
+If you know of any additional tools missing please encourage the tool vendors or authors to add them!
 
 #### News on FMI Layered Standards
-
 
 ##### FMI Layered Standard for Network Communication (FMI-LS-BUS) 
 
