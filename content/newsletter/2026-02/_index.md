@@ -47,15 +47,22 @@ We made very good progress on
 - efficiency improvements for large FMI3.0-based simulation systems
 - the FMI Layered Standards for 
  * References (FMI-LS-REF)
- * Network Communication (FMI-LS-REF), especially cross-checking the coming v1.3 with Flexray, Ethernet, LIN support
+ * Network Communication (FMI-LS-BUS), especially cross-checking the coming v1.3 with Flexray, Ethernet, LIN support
  * Differential Algebraic Equations (FMI-LS-DAE)
 - Web Assembly Support in FMI (creating a first prototype and forming a working group)
 And we had a lot of fun!
 
-#### 280+ tools supporting FMI listed on the FMI tools page´!
+#### 280+ tools supporting FMI listed on the FMI tools page!
 
 The number of tools supporting the FMI Standard is still growing! Now we have 286 tools listed on https://fmi-standard.org/tools/ !
 If you know of any additional tools missing please encourage the tool vendors or authors to add them!
+
+#### fmusim re-implemented in Rust and separated out from the Reference FMUs repository
+
+fmusim is a command line tool to inspect, validate, and simulate FMUs that creates plots, logs FMI calls, and builds platform binaries. 
+Compared to the preview implementation in C which was part of the Reference FMUs (https://github.com/modelica/reference-fmus), the new fmusim is is now based on the open source fmi-rs library ([https://lnkd.in/edgT27ka](https://github.com/CATIA-Systems/fmi-rs), a completely new FMI library for FMI support implemented in Rust by Torsten Sommer (Dassault Systèmes), and provided open source (https://github.com/modelica/fmusim) by the FMI Project within Modelica Association. Many Thanks, Torsten!!!
+
+fmusim is one of the recommended validation tools for FMUs, but can also be used as a simple simulator for single FMUs.
 
 #### News on FMI Layered Standards
 
@@ -73,7 +80,6 @@ Learn more here: https://github.com/modelica/fmi-ls-bus/ and https://github.com/
 
 
 ##### FMI Layered Standard References (FMI-LS-REF)
-
 
 The FMI Project is happy to announce the Pre-Release v1.0.0-beta.1 of the FMI Layered Standard References (FMI-LS-REF)! Many thanks to the FMI Project - especially to the working group leader Pierre R. Mai - for their contributions!
 
