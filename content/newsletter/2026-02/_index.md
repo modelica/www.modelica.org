@@ -40,7 +40,7 @@ issued on August 3, 2026
 
 <img src="fmi-design-meeting-munich.jpg">
 
-The FMI Project had a very productive  in-person FMI Design meeting in Munich. Thanks to Torsten Sommer and Dassault Systèmes for hosting us - and to all participants from Akkodis, Bosch, Dassault Systèmes, German Aerospace Center (DLR), Keysight Technologies, PMSF IT Consulting Pierre R. Mai, Santa Anna IT Research Institute, Synopsys Inc and the participants in online sessions!
+The FMI Project had a very productive in-person FMI Design meeting in Munich. Thanks to Torsten Sommer and Dassault Systèmes for hosting us - and to all participants from Akkodis, Bosch, Dassault Systèmes, German Aerospace Center (DLR), Keysight Technologies, PMSF IT Consulting Pierre R. Mai, Santa Anna IT Research Institute, Synopsys Inc and the participants in online sessions!
 
 We made very good progress on 
 - the coming FMI 3.0.3 with important clarifications especially for clocks usage (that become important as many tools support them now, many of them in the context of the FMI-LS-BUS)
@@ -96,14 +96,14 @@ You can follow the development on [GitHub](https://github.com/modelica/fmi-ls-da
 *This article is provided by Andreas Heuermann, [Santa Anna IT Research Institute](https://www.santa-anna.se/)*
 
 
-##### FMI Layered Standard WebAsssembly (FMI-LS-WASM)
+##### FMI Layered Standard WebAssembly (FMI-LS-WASM)
 
 The FMI Project started working on supporting Web Assembly (WASM) as new "platform" besides platform specific binaries or source code.
 WASM has several benefits w.r.t. portability and cyber-security (through inherent sandboxing).
 We intend to support this in the form of a Layered Standard (FMI-LS-WASM), and created already a first prototype using the WebAssembly Component Model interface description language (WIT). (Many thanks to Pierre Mai!)
 
 You can find the first prototype here: https://github.com/modelica/fmi-ls-wasm
-Comments and feedback is very welcome - or become a contributor! (For that it is necessary that your organization signs the Contributor Liccense Agreement 
+Comments and feedback is very welcome - or become a contributor! (For that it is necessary that your organization signs the Contributor License Agreement). 
 
 <!-- END Modelica Association -->
 
