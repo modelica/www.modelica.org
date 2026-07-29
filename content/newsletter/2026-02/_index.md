@@ -259,7 +259,7 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 
 As computing power continues to grow, data center cooling is becoming a key challenge for efficiency, reliability and sustainability. As conventional air-cooling approaches reach their limits in managing growing heat loads, liquid cooling is emerging as an increasingly important solution. An exemplary system model of liquid-cooled CPU racks, implemented in **[TIL Suite 2026.1](https://www.tlk-thermo.com/en/software/til-suite)**, demonstrates how modern data center cooling systems can be modeled and simulated in Modelica. The example provides insights into the thermal behavior of complex cooling architectures and illustrates how simulation can support the design and optimization of next-generation data center infrastructure. This topic will also be presented at **[ThermoSim 2026](https://tlk-energy.de/en/events/thermosim-conference-2026)** in Aachen (22-23 September) by our Modelica and TIL Suite expert Ingo Frohböse.
 
-![TIL Data Center Cooling Example](TIL_Examples_DataCenterCoolingSystem.png 'TIL System Model Example for Data Center Cooling')
+![TIL Data Center Cooling Example](TIL_DataCenterCooling.png 'TIL System Model Example for Data Center Cooling')
 
 #### Accelerating BTMS Development Through Fast 3D Modelica Simulation
 
