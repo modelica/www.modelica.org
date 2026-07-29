@@ -111,6 +111,8 @@ We intend to support this in the form of a Layered Standard (FMI-LS-WASM), and c
 You can find the first prototype here: https://github.com/modelica/fmi-ls-wasm
 Comments and feedback is very welcome - or become a contributor! (For that it is necessary that your organization signs the Contributor License Agreement). 
 
+*This article is provided by the FMI Project*
+
 <!-- END Modelica Association -->
 
 {{<rawhtml>}}
