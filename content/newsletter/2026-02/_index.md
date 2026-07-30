@@ -252,6 +252,39 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 
 *This article is provided by [Nicolas LAURENT](https://github.com/nl78), [Renault Group](https://www.renaultgroup.com/)*
 
+### Agent Skills: Let Your AI Assistant Build, Simulate and Analyze System Modeler Models
+
+Wolfram has released a free set of agent skills that teach AI coding assistants — Claude Code, Codex
+or any agent with command-line access — to work with [Wolfram System Modeler](https://www.wolfram.com/system-modeler/).
+
+With the skills installed, your assistant can:
+
+- **Create** — Build a Modelica model or a full library from a plain-language description,
+  validated at every step.
+
+- **Simulate & Plot** — Compile and run the model, then plot the trajectories you ask for.
+
+- **Diagnose** — Look inside a slow or failing model — equation blocks, initialization,
+  the flattened code — to pinpoint what is wrong and why.
+
+- **Answer Questions** — Answer Modelica and System Modeler questions with citations from the
+  Modelica Language Specification, the Modelica Standard Library documentation and the
+  System Modeler documentation.
+
+- **Post-Process** — Hand off to Wolfram Language via the Wolfram MCP server for parameter
+  sweeps, calibration and machine learning on simulation results.
+
+![Agent skills for Wolfram System Modeler](wolfram-agent-skills.png 'Agent skills for Wolfram System Modeler')
+
+Short videos demonstrating each capability are available on the
+[System Modeler LinkedIn page](https://www.linkedin.com/showcase/wolfram-system-modeler/), and an
+overview of all AI capabilities is at
+[Augment AI with System Modeler](https://www.wolfram.com/system-modeler/features/feature-ai.php).
+
+📦 [Get the skills and setup instructions](https://github.com/WolframResearch/system-modeler-ai-toolkit) — free to use with any AI assistant.
+
+*This article is provided by [Ankit Naik](https://www.wolfram.com/), [Wolfram](https://www.wolfram.com/)*
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
