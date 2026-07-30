@@ -252,6 +252,98 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 
 *This article is provided by [Nicolas LAURENT](https://github.com/nl78), [Renault Group](https://www.renaultgroup.com/)*
 
+### OpenModelica 1.27.0
+
+#### Main highlights:
+- Experimental MCP server in OMEdit for interaction with AI agents.
+- OMEdit now uses Qt6 instead of Qt5, better rendering on high-resolution monitors.
+- State machines are now supported by the new frontend.
+- Reverse model lookup.
+- The Modifiers tab in the parameter dialog now collects all the modifiers applied to a component instance that were not previously displayed in the Parameters dialog.
+- Improved formatting of parameter input dialogs.
+- More responsive editing of diagrams in OMEdit.
+- 60 Hz framerate animations of Multibody systems.
+- Improved simulation of systems with implicit equations including if clauses.
+- Previously compiled models can be re-simulated in a new session.
+- Declarative equation-based debugger now handles models with more than 10.000 equations efficiently.
+- FMU memory leaks fixed.
+- Applying library conversion scripts preserves the original formatting.
+
+For more details, see the full [1.27.0 release notes](https://github.com/OpenModelica/OpenModelica/releases/tag/v1.27.0).
+
+#### OpenModelica Compiler (OMC)
+
+##### Frontend
+
+The new front end has been further improved with [29 issues resolved](https://github.com/OpenModelica/OpenModelica/issues?q=is%3Aissue%20milestone%3A1.27.0%20label%3ACOMP%2FOMC%2FFrontend%20state%3Aclosed%20-reason%3Anot-planned%20-reason%3Aduplicate%20). 
+
+State machines ar now supported by the new frontend, see [#8162](https://github.com/OpenModelica/OpenModelica/issues/8162); since there are basically no open-source libraries using them for testing, the implementation may still be buggy or incomplete, testing by OpenModelica users is very welcome. 
+
+Base Modelica export was improved, including alias simplification of flow variables in stream connectors for efficient mixed-integer optimization of thermo-fluid system models, [-d=flowAliasElimination](https://openmodelica.org/doc/OpenModelicaUsersGuide/latest/omchelptext.html#omcflag-debug-flowaliaselimination). 
+
+The use of equality among Reals outside functions, which is prohibited by the Modelica Language Specification for good numerical reasons, is now deprecated, see #14940. It will not be accepted by future versions of the compiler, unless specifically required by a `--allowNonStandardModelica` flag.
+
+##### Backend and Code Generation
+
+A bug in the resolveLoops module causing completely wrong results to be computed was fixed, see #13292. Overall, [8 issues](https://github.com/OpenModelica/OpenModelica/issues?q=is%3Aissue%20state%3Aclosed%20milestone%3A1.27.0%20label%3A%22COMP%2FOMC%2FBackend%22%20-reason%3Anot-planned) were fixed in the currently used backend.
+
+The work on the development of the new backend continued, with substantial improvements and over 80 [pull requests](https://github.com/OpenModelica/OpenModelica/issues?q=is%3Apr%20merged%3A2025-12-19..2026-06-06%20NB). 41% of the Modelica Standard Library and 48% of the models of the Buildings library are now simulated successfully. [11 issues](https://github.com/OpenModelica/OpenModelica/issues?q=is%3Aissue%20state%3Aclosed%20milestone%3A1.27.0%20label%3A%22COMP%2FOMC%2FNew%20Backend%22%20-reason%3Anot-planned%20-reason%3Aduplicate) were closed. 
+
+Recall that the new backend, which is a lot more efficient than the currently used one, in particular when handling arrays, is still under development and experimentally available with the [`--newBackend`](https://openmodelica.org/doc/OpenModelicaUersGuide/latest/omchelptext.html#omcflag-newbackend) compiler flag. 
+
+The experimental `initialSimplified()` operator was introduced in the new backend, see #11272. Its use and rationale are described in a paper submitted to the 2026 Asian Modelica Conference.
+
+[5 issues](https://github.com/OpenModelica/OpenModelica/issues?q=is%3Aissue%20state%3Aclosed%20milestone%3A1.27.0%20-reason%3Anot-planned%20label%3ACOMP%2FOMC%2FCodegen) regarding code generation were also fixed.
+
+##### C runtime
+
+[Several improvements](https://github.com/OpenModelica/OpenModelica/issues?q=is%3Apr%20merged%3A2025-12-19..2026-06-20%20gbnls) were added to the internal nonlinear solver of GBODE, further improving its efficiency, which now can exceed multi-step methods such as DASSL and IDA for systems with many events. This can be activated with flags `-gbnls=internal`, `-gberr=embedded`.
+
+A bug in the implementation of nonlinear solvers for systems including if-equations was fixed, drastically improving the speed and robustness of the solution for such systems, in particular piecewise-linear electrical circuit models, see #15718 for more details.
+
+Overall [12 issues](https://github.com/OpenModelica/OpenModelica/issues?q=is%3Aissue%20milestone%3A1.27.0%20label%3ACOMP%2FSimRT%2FC%20state%3Aclosed%20-reason%3Anot-planned%20) regarding the runtime were addressed. 
+
+#### Graphical Editor OMEdit
+
+OMEdit 1.27.0 provides many new features and improvements:
+- Qt6 is used instead of Qt5, leading to improved graphical rendering on wide high-resolution displays.
+- Reverse model lookup: by right-clicking on a class in the Libraries Browser and selecting Find Usage, it is possible to get a list of all usages of that class in all the loaded model, see [#12915](https://github.com/OpenModelica/OpenModelica/issues/12915).
+- The whole list of modifiers added to an instantiated model which are not already represented in the General and custom parameter tabs are now visible in the Modifiers tab, see [#14372](https://github.com/OpenModelica/OpenModelica/issues/14372). This includes:
+  - binding equations for variables and input variables;
+  - min/max/nominal attribute modifiers;
+  - modifiers and redeclares applied to sub-components, possibly by the Show Element feature, which are now visible in the parameter dialog, tab Modifiers, of the top-level component.
+- The formatting of input and text fields of parameter input dialogs was further improved.
+- Many diagram editing operations that were previously very slow are now much faster, see [#14804](https://github.com/OpenModelica/OpenModelica/issues/14804).
+- It is now possible to re-simulate a model that fails when simulating for the first time; previously, one had to recompile it, see [#5472](https://github.com/OpenModelica/OpenModelica/issues/5472).
+- It is now possible to re-simulate a model that was compiled in a previous session, see [#14111](https://github.com/OpenModelica/OpenModelica/issues/14111).
+- Multibody animations now run at 60 Hz framerate, see [#14851](https://github.com/OpenModelica/OpenModelica/issues/14851).
+- The declarative equation-based debugger can now handle large models over 10,000 equations, see [#9977](https://github.com/OpenModelica/OpenModelica/issues/9977).
+- Applying conversion scripts for newer versions of the used libraries preserves the original formatting, see [#13447](https://github.com/OpenModelica/OpenModelica/issues/13447).
+
+Many OMEdit bugs were also fixed in this release. Overall, [52 issues](https://github.com/OpenModelica/OpenModelica/issues?q=milestone%3A1.27.0%20state%3Aclosed%20label%3ACOMP%2FGUI%2FOMEdit%20-reason%3Anot-planned%20is%3Aissue%20-reason%3Aduplicate) were addressed.
+
+#### FMI export
+
+Some bugs causing FMU memory leaks and eventually leading to out-of-memory errors were fixed, see [#12225](https://github.com/OpenModelica/OpenModelica/issues/12225), [#13488](https://github.com/OpenModelica/OpenModelica/issues/13488), and [#14509](https://github.com/OpenModelica/OpenModelica/issues/14509). A bug causing failure when exporting FMUs with directional derivatives was also fixed, see [#15537](https://github.com/OpenModelica/OpenModelica/issues/15537). 
+
+Overall, [12  issues](https://github.com/OpenModelica/OpenModelica/issues?q=milestone%3A1.27.0%20label%3ACOMP%2FFMI%20state%3Aclosed%20-reason%3Anot-planned) regarding FMI export were addressed.
+
+#### Experimental MCP server in OMEdit for interaction with AI agents
+
+An experimental MCP server was implemented in OMEdit to allow AI agents to interact with OMEdit by writing, modifying, and running models, and then by analyzing the plotted results. See [#15385](https://github.com/OpenModelica/OpenModelica/issues/15385) and follow up [#15854](https://github.com/OpenModelica/OpenModelica/issues/15854). This server is switched off by default and can be activated by following [these instructions](https://github.com/OpenModelica/OpenModelica/blob/master/OMEdit/OMEditLIB/MCP/README.md). You are welcome to contribute to the discussion proposing ideas and requesting features in [#15854](https://github.com/OpenModelica/OpenModelica/issues/15854).
+
+#### Next releases
+
+The next release 1.28.0 is planned to be released at the end of 2026.
+
+A major milestone in 1.28.0 will be FMI3 support. We are also planning to include much improved handling of conditional connectors and further improvements to the GUI such as a restructured Simulation Setup dialog, faster editing of large models in OMEdit, better plotting of clocked variables, support of the Figure annotation, etc.
+
+We are also actively experimenting the option of running OMEdit in the browser, using local hardware resources through [Wasm](https://en.wikipedia.org/wiki/WebAssembly) technology. A mature enough version should become available when 1.28.0 is released.
+
+Download OpenModelica from: [https://openmodelica.org](https://openmodelica.org)
+
+*This article is provided by Adeel Asghar, Francesco Casella and Martin Sjölund ([Open Source Modelica Consortium](https://www.openmodelica.org/))*
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
