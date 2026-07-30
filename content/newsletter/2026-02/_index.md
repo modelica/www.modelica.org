@@ -60,7 +60,7 @@ If you know of any additional tools missing please encourage the tool vendors or
 #### fmusim re-implemented in Rust and separated out from the Reference FMUs repository
 
 fmusim is a command line tool to inspect, validate, and simulate FMUs that creates plots, logs FMI calls, and builds platform binaries. 
-Compared to the preview implementation in C which was part of the Reference FMUs (https://github.com/modelica/reference-fmus), the new fmusim is is now based on the open source fmi-rs library ([https://lnkd.in/edgT27ka](https://github.com/CATIA-Systems/fmi-rs), a completely new FMI library for FMI support implemented in Rust by Torsten Sommer (Dassault Systèmes), and provided open source (https://github.com/modelica/fmusim) by the FMI Project within Modelica Association. Many Thanks, Torsten!!!
+Compared to the previous implementation in C which was part of the Reference FMUs (https://github.com/modelica/reference-fmus), the new fmusim is is now based on the open source [fmi-rs library](https://github.com/CATIA-Systems/fmi-rs), a completely new FMI library for FMI support implemented in Rust by Torsten Sommer (Dassault Systèmes), and provided open source (https://github.com/modelica/fmusim) by the FMI Project within Modelica Association. Many Thanks, Torsten!!!
 
 fmusim is one of the recommended validation tools for FMUs, but can also be used as a simple simulator for single FMUs.
 
