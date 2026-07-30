@@ -338,7 +338,7 @@ The next release 1.28.0 is planned to be released at the end of 2026.
 
 A major milestone in 1.28.0 will be FMI3 support. We are also planning to include much improved handling of conditional connectors and further improvements to the GUI such as a restructured Simulation Setup dialog, faster editing of large models in OMEdit, better plotting of clocked variables, support of the Figure annotation, etc.
 
-We are also actively experimenting the option of running OMEdit in the browser, using local hardware resources through [Wasm](https://en.wikipedia.org/wiki/WebAssembly) technology. A mature enough version should become available when 1.28.0 is released.
+We are also actively experimenting the option of running OMEdit in the browser, using local hardware resources through [Wasm](https://en.wikipedia.org/wiki/WebAssembly) technology. A mature enough version should become available when 1.28.0 is released. Until then, you can try the in-development version https://playground.openmodelica.org/latest/.
 
 Download OpenModelica from: [https://openmodelica.org](https://openmodelica.org)
 
