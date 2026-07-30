@@ -10,7 +10,7 @@ The template has been updated for the 2021 conference, so do not use older versi
 Please use the [LaTeX template](https://github.com/modelica-association/conference-templates/tree/master/LaTeX) for the creation of full papers.
 There is also a [Word template](https://github.com/modelica-association/conference-templates/tree/master/MSWord) that is based on the LaTeX template.
 The Word template contains some wording specific to LaTeX packages; when drafting a document in Word, please make the contents look similar to what the LaTeX templates produce.
-For draft paper submissions, you may also use other templates (but include an extra page at the end stating you will use the correct template for the final submission).
+For draft paper submissions, you may also use other templates (but include an extra page at the end stating you will use the correct template for the final submission). Submission is on [EasyChair](https://easychair.org/my/conference?conf=namugamc2026)
 
 Please make sure that your submission has been created according to the [Modelica Formatting Guidelines](https://modelica.org/events/american2024/formatting/).
 

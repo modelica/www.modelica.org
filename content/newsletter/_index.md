@@ -7,11 +7,18 @@ title: Newsletter
 {{<rawhtml>}}
 <a class="btn btn-primary btn-lg my-5" href="https://modelica.us12.list-manage.com/subscribe?u=0be901f875b69817eddd7e71b&id=0cb2cf5b72" role="button"><i class="fa-regular fa-envelope me-3"></i>Subscribe</a>
 {{</rawhtml>}}
+You can select to subscribe for the newsletter, for specific topics and as a contributor.
 
 Contributions are open to everyone, please see the submission [guidelines](guidelines) for details.
 
+**Currently collecting contributions: issue 2026-02.** Please add your post to
+[`content/newsletter/2026-02/_index.md`](https://github.com/modelica/www.modelica.org/blob/main/content/newsletter/2026-02/_index.md)
+and not to any other issue.
+
 Issues
 
+- [2026-02](2026-02) issued on August 3, 2026
+- [2026-01](2026-01) issued on April 27, 2026
 - [2025-03](2025-03) issued on Dec 8, 2025
 - [2025-02](2025-02) issued on Jul 21, 2025
 - [2025-01](2025-01) issued on Mar 15, 2025

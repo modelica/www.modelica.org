@@ -1,0 +1,53 @@
+name: Merge Newsletter PRs
+
+# Manually triggered by the editor when ready to integrate contributions.
+# It fetches all open PRs that touch the specified newsletter issue folder,
+# sorts them oldest-first, and merges them one by one into main.
+# When two PRs conflict in the issue page (i.e. both appended to the same section),
+# the conflict is auto-resolved by keeping content from both sides.
+# The editor then does a final pass to reorder posts within sections if desired.
+
+on:
+  workflow_dispatch:
+    inputs:
+      issue:
+        description: 'Newsletter issue folder (e.g. 2026-01)'
+        required: true
+        type: string
+
+jobs:
+  merge-prs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Git identity
+        run: |
+          git config user.name  "Newsletter Bot"
+          git config user.email "newsletter-bot@modelica.org"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install PyGithub
+
+      - name: Merge PRs sequentially
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE:        ${{ inputs.issue }}
+          REPO:         ${{ github.repository }}
+        run: python .github/scripts/merge_newsletter_prs.py
+
+      - name: Push merged result
+        run: git push origin main

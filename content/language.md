@@ -38,6 +38,6 @@ When learning the language with a tool, please take into account that most tools
 
 ## Modelica Language Specification
 
-Modelica Specification 3.6 (March 2023, current) [[PDF]](https://specification.modelica.org/maint/3.6/MLS.pdf) [[HTML]](https://specification.modelica.org/maint/3.6/MLS.html)
+Modelica Specification 3.7 (May 2026, current) [[PDF]](https://specification.modelica.org/maint/3.7/MLS.pdf) [[HTML]](https://specification.modelica.org/maint/3.7/MLS.html)
 
 All versions are available at [specification.modelica.org](https://specification.modelica.org/) based on the [development work](https://github.com/modelica/ModelicaSpecification/).

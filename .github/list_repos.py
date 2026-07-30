@@ -123,7 +123,7 @@ def main(args):
         fout.write(TAIL.rstrip())
 
     except HTTPException as exc:
-        sys.stderr.write("ERROR: %s\n" % exc.message)
+        sys.stderr.write("ERROR: %s\n" % exc)
         return False
 
     return True
@@ -132,10 +132,16 @@ def main(args):
 def get_repo_details(username, clientId, clientSecret, whitelist=None):
     uri_template_pattern = re.compile(r"{.*?}")
     pager = "?per_page=100"
-    req = _get("https://api.github.com/users/%s/repos" %
-                username, clientId, clientSecret, pager)
+    url = "https://api.github.com/users/%s/repos" % username
+    all_repo_json = []
+    while url:
+        req = _get(url, clientId, clientSecret, pager)
+        all_repo_json.extend(req.json())
+        pager = ""
+        next_link = req.links.get("next", {}).get("url")
+        url = next_link
     repos = []
-    for repo in req.json():
+    for repo in all_repo_json:
         if whitelist is not None:
             if repo["name"] not in whitelist:
                 continue

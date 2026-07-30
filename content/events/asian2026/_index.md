@@ -4,22 +4,19 @@ title: Asian Modelica & FMI Conference 2026
 
 {{<rawhtml>}}
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="images/asian-2026-logo-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="images/asian-2026-logo-dark.png">
-  <img src="images/asian-2026-logo-dark.png" alt="Asian Modelica & FMI Conference 2026">
+  <source media="(prefers-color-scheme: light)" srcset="images/asian-2026-logo-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/asian-2026-logo-dark.svg">
+  <img src="images/asian-2026-logo-light.svg" alt="Asian Modelica & FMI Conference 2026">
 </picture>
 {{</rawhtml>}}
-
-# Asian Modelica & FMI Conference 2026
 
 We announce the **Asian Modelica & FMI Conference 2026**.
 It will take place at the high-tech city of **Hangzhou, China from September 21-22, 2026** also famous of its stunning west lake scenery.
 It is organized by the [Beihang University (at Hangzhou campus)](https://zfaien.buaa.edu.cn/About_Us/Overview.htm) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
 This is the first visit of the conference series in China.
 
-![Hangzhou West Lake](images/Westlake.png)
+![Conference venue](images/RC.jpg)
 
-{{< toc >}}
 
 
 ## About the Conference
@@ -39,20 +36,156 @@ In addition to paper presentations, the conference features several Modelica tut
 |   |   |
 |---|---|
 |December 12, 2025 |Call for papers |
-|April 30, 2026 |Deadline for scientific paper submissions|
-|June 15, 2026 | Notification of acceptance for scientific papers and presentations |
+|May 31, 2026 |Deadline for scientific paper submissions (extended)|
+|~~June 30~~ **July 15,** 2026 | Notification of acceptance for scientific papers |
 |June 30, 2026 | Deadline for submission of industrial user presentations|
 |June 30, 2026  | Deadline for submission of vendor presentations  |
 |July 15, 2026  | Notification of acceptance for industrial user presentations  |
 |July 31, 2026   | Deadline for early registration|
-|August 1, 2026| Submission of final papers, presentations, and one-page abstracts|
+|~~August 1~~ **August 16**, 2026| Submission of final papers, presentations, and one-page abstracts|
 |September 21-22, 2026| Asian Modelica & FMI Conference 2026 |
+
+
+## Preliminary Program
+
+You are welcome to study the [Preliminary Program of the Asian Modelica Conference 2026](prelprogram) for your conference planning. 
+
+## Our Sponsors
+
+
+<!--
+### Platinum
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://www.ltx.de/english.html" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+        <img src="images/LTX.svg" alt="LTX"/>
+      </div>
+    </a>
+  </div>
+
+</div>
+{{</rawhtml>}}
+-->
+
+### Gold
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://xrg-simulation.de/en" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
+        <img src="images/XRG_Logo2015_4c.svg" alt="XRG"/>
+      </div>
+    </a>
+  </div>
+  
+</div>
+{{</rawhtml>}}
+
+### Silver
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://www.tlk-thermo.com/en/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/TLK-Thermo_Logo.svg" alt="TLK Thermo"/>
+      </div>
+    </a>
+  </div>
+
+  <div class="col">
+    <a href="https://www.catarc-adc.com/zyyw/gyrj" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/CATARC.png" alt="CATARC"/>
+      </div>
+    </a>
+  </div>
+
+    <div class="col">
+    <a href="https://www.toshiba.com.cn/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/Toshiba.png" alt="Toshiba"/>
+      </div>
+    </a>
+  </div>
+  
+</div>
+
+{{</rawhtml>}}
+
+
+
+
+### Bronze
+
+{{<rawhtml>}}
+<div class="row row-cols-2 row-cols-md-4 g-4">
+
+  <div class="col">
+    <a href="https://www.maplesoft.com.cn/products/maplesim/index.shtml" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+            <img src="images/Maplesoft.png" alt="Maplesoft"/>
+      </div>
+    </a>
+  </div>
+  
+  <div class="col">
+    <a href="https://www.hagongxinou.com" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/XinOu.png" alt="XinOu Mechanics"/>
+      </div>
+    </a>
+  </div>
+  
+<!--
+  <div class="col">
+    <a href="https://openmodelica.org" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/OMlogo.svg" alt="Open Modelica"/>
+      </div>
+    </a>
+  </div>
+
+  <div class="col">
+    <a href="https://www.asam.net/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/asam-logo.svg" alt="ASAM eV"/>
+      </div>
+    </a>      
+  </div>
+
+  <div class="col">
+    <a href="https://www.claytex.com/" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/Claytex-logo-RGB-blue-pos.svg" alt="CLAYTEX Services Ltd"/>
+      </div>
+    </a>      
+  </div>
+-->
+</div>
+
+{{</rawhtml>}}
+
+
+To become a sponsor of the Asian Modelica & FMI Conference 2026, please contact the conference organizers for more information.
+
+
+{{< toc >}}
 
 
 ## Call for Papers
 
 You are encouraged to submit a full paper of at least 4 pages, with a maximum of 10 pages, on the following topics:
 
+- Modelica modeling, simulation and design tools
+- Symbolic algorithms and numerical methods for model transformation and simulation
 - Multi-engineering modeling and simulation with free or commercial Modelica libraries
 - Applications and new tool developments for the Functional Mock-up Interface (FMI) and Layered Standards (LS)
 - Applications and new tool developments for the System Structure and Parameterization (SSP) standard
@@ -69,6 +202,9 @@ You are encouraged to submit a full paper of at least 4 pages, with a maximum of
 - Real-time and hardware-in-the-loop applications; Code generation for embedded control systems
 - Use of Artificial Intelligence (AI) methods in simulation; SimToReal for AI training purposes
 - Applications of Modelica and FMI for optimization and control design
+- Experimental language designs and implementations related to Modelica standards
+- Modelica in other application areas (mathematical programming, databases etc.)
+- Modelica for teaching and education
 
 Prospective authors of scientific presentations are encouraged to submit a full paper (minimum 4 pages, maximum 10 pages) addressing the aforementioned topics by April 30, 2026. Each submission will undergo peer review by no fewer than 3 independent reviewers.
 
@@ -77,8 +213,11 @@ In line with conference tradition, the proceedings will be published by [Linköp
 Recommended authors are required to revise and restructure their manuscripts to comply with IJMSSC’s specific formatting guidelines and complete the journal’s subsequent peer review process. All associated publication costs shall be borne by the authors.
 
 For industrial participants, in addition to submitting scientific papers, you may opt to present an industrial case study/presentation. For this category, only an abstract is required, with submissions due by June 30, 2026. Please note that these industrial presentations will not be included in the conference proceedings nor considered for the IJMSSC Special Issue.
-
-You can also [download the Call for papers](CfP_Asian_2026.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System. Paper submission is open on [EasyChair](https://easychair.org/conferences/?conf=amfc2026) 
+<!--
+You can also download the [Call for papers](CFP-Asian_2026rev1.pdf) and post it in your organization. 
+ -->
+The submission of your paper will be handled through the EasyChair Conference Management System. 
+Paper submission is open on [EasyChair](https://easychair.org/conferences/?conf=amfc2026) 
 
 <!--
  Please see the  [Authors' Guide](#authors-guide) for further information.
@@ -131,12 +270,11 @@ Industrial user presentations are an excellent way to present recent results to 
 Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations. For more details on vendor presentations, please refer to the [call for sponsors](#call-for-sponsors).
 -->
 
-<!--
 ## Call for Tutorials
 
-At the Modelica Conference, several tutorials will be held in parallel. Each tutorial will a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
+Before the Modelica Conference, several tutorials will be held on the afternoon of September 20, 2026 at the conference venue. Each tutorial will be a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
 
-If you're interested in hosting a tutorial, please send the required information listed below to [modelica25@modelica.org ](mailto:modelica25@modelica.org). The application deadline is **June 1st, 2025**. As only a limited number of tutorials can be held in parallel, we encourage early submission and application.
+If you're interested in hosting a tutorial, please send the required information listed below to [modelica26asia@modelica.org ](mailto:modelica26asia@modelica.org). The application deadline is **June 30, 2026**. As only a limited number of tutorials can be held in parallel, we encourage early submission and application.
 
 Please include the following details in your submission:
 1. Title of the tutorial
@@ -147,8 +285,7 @@ Please include the following details in your submission:
 6. Software requirements  
 7. Link to further information
 
-Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations section in the [call for sponsors](#call-for-sponsors). The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
--->
+Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
 
 <!--
 ## Call for Libraries
@@ -243,9 +380,9 @@ As in most previous Modelica conferences, the [EasyChair](https://easychair.org/
 Please note, this link only works properly if you 1) Have an account on Easychair and 2) are logged into the account when you click the link. If you don't already have an easychair account, you first have to create one [here](https://easychair.org/account2/create).
 Make sure that you use an email address for registering that remains valid until the conference. Please choose wether your submission is going to be a full, peer-reviewed paper, or an industrial user presentation.
 Industrial user presentations require only an abstract and a presentation, and will be reviewed by the conference board.
-Authors of accepted papers and user presentations will have to submit a **signed Copyright License** [(Word document)](CopyrightLicense2025.docx) or [(PDF)](CopyrightLicense2025.pdf) to EasyChair.
+Authors of accepted papers and user presentations will have to submit a **signed Copyright License** [(Word document)](CopyrightLicenseAsian2026.docx) or [(PDF)](CopyrightLicenseAsian2026.pdf) to EasyChair.
 
-### Preparation of full papers and Extended Abstracts for Industrial User Presentations
+### Preparation of full papers
 
 The template has been updated for the 2021 conference, so do not use older versions of the template. Note that a nearly finished **draft paper** is the expected minimum for the submission deadline, papers with only an abstract, or only promised results, will be rejected. 
 Please use the [LaTeX template](https://github.com/modelica-association/conference-templates/tree/master/LaTeX) for the creation of full papers.
@@ -257,11 +394,14 @@ Please make sure that your submission has been created according to the [Modelic
 
 For the final submission, there will also be the possibility to submit Modelica example model files that correspond to your publication. These files will then be attached to your paper in the Modelica Association copy of the proceedings (but not the LiU e-press copy to which  the DOI points).
 
-To announce your presentation, we encourage all presenters to post on social media with a nice picture. You may use [this template](images/SpeakerSocialMediaTemplate.pptx).
+To announce your presentation, we encourage all presenters to post on social media with a nice picture. You may use [this template](SpeakerSocialMediaTemplate.pptx).
 
-### Preparation of Industrial User Presentations. 
+### Preparation of Industrial User Presentations and corresponding One-Pagers. 
 
-There are no specific templates for industrial user presentations. The presentations follow the same guidelines as for full papers.
+There are no specific templates for industrial user presentations itself. The presentations follow the same guidelines as for full papers.
+
+To inform all participants about your presentation, a one page abstract of your presentation shall be included in the program. To enable a uniform look, please follow [this example format](https://github.com/dzimmer/conference-templates/blob/master/LaTeX/example-user-presentation.pdf). The Word or Latex Template files are found in the [corresponding repository](https://github.com/dzimmer/conference-templates).
+
 
 ### Technical equipment for presentations
 
@@ -302,34 +442,74 @@ Detailed formatting instructions are included in the [paper templates](https://g
 
 
 
-<!--
+
 
 ## Keynotes 
 
-### Physics-Informed AI, Tuesday, September 9th
+
+
+
+### 15 Years Functional Mock-up Interface – a Journey from FMI 1.0 to 3.0 and the Road Ahead
 
 {{<rawhtml>}}
-<img src="images/ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra Siddhartha" style="margin-left: 0; max-width: 150px"/>
+<img src="images/BertschChristian.png" alt="Bertsch Christian" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
-**Mishra Siddhartha,** Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich
-
-[{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Siddhartha_Mishra.pdf)
-
-AI is increasingly being used in the fast and accurate simulation of physical systems. In this keynote, we will discuss how knowledge of the underlying physics can be explicitly incorporated into AI systems for physical simulations. Key examples will highlight the potential gains as well as the involved challenges.
-
-### Opportunities and Challenges in Design and Operation of Integrated Energy Systems, Wednesday, September 10th
-
-{{<rawhtml>}}
-<img src="images/JohanAkesson.jpeg" alt="Johan Akesson" style="margin-left: 0; max-width: 150px"/>
-{{</rawhtml>}}
-
-**Johan R Åkesson,** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB
-
+**Christian Bertsch,** Bosch Research, FMI Project Leader and Modelica Association Board Member
+<!--
 [{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Johan_Akesson.pdf)
+-->
+Over the last fifteen years, the Functional Mock-up Interface (FMI) has evolved by addressing real industrial needs for simulation interoperability. What began as a solution mainly for the automotive industry has now firmly established itself as the de-facto industrial standard for tool-independent model exchange and co-simulation across numerous domains. This keynote will trace the journey of FMI from its initial concepts in version 1.0 to the powerful ecosystem of today.
+The release of FMI 3.0 marks a pivotal milestone in this journey, enabling major improvements that redefine the boundaries of system simulation. This new version introduces advanced co-simulation capabilities, facilitates the development and deployment of virtual ECUs, and seamlessly integrates FMI models into complex optimization and machine learning workflows. These enhancements empower engineers to tackle new challenges in digitalization and automation with greater efficiency and fidelity.
+Looking to the road ahead, the FMI standard continues to expand through the development of Layered Standards. These domain-specific extensions, built on top of the core FMI framework, enable further improvements and unlock entirely new use cases for virtual engineering. This talk will provide a comprehensive look at FMI’s past, present, and future, celebrating its role as a cornerstone of modern model-based development.
 
-The complexity of modern integrated energy systems demands the systematic use of systems engineering methods and tools to address key challenges across product lifecycle. This keynote will explore three related and critical areas: 1) the demand for diverse model fidelities and analysis, 2) maintaining consistency across design layers, and 3) the importance of seamless tooling and integration. Real-world, HVAC-specific examples will highlight how these challenges are being tackled in practice and the opportunities they present. For over two decades, Carrier has relied on Modelica as a cornerstone technology for model-based product design. The journey began with the development of control systems for transportation refrigeration, where transient simulations allowed for rapid control function development and verification. Today, while controls development remains a vital application, Carrier has expanded Modelica's use across the entire product lifecycle—from conceptual design, through testing and verification, to business sales tools, and into operation with monitoring and diagnostics. Design and operation of highly integrated energy systems such as data centers and district heating systems also calls for new methods and tools. Differentiated applications has driven diversified analysis with Modelica models. Modelica-based steady-state simulation has emerged as a back-bone in product design, sales tools, as well as in field diagnostics. Steady-state and transient optimization is also a necessary element across the product life cycle. The need for diversified analysis and computation is further amplified by application of systems engineering methods where requirements, design space exploration, and validation and verification are key elements.
+### Model-based Digital Engineering Practice for Automobiles
 
+{{<rawhtml>}}
+<img src="images/ZhongYilin.jpg" alt="Zhong Yilin" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Zhong Yilin,** Vice President of BYD Automotive Engineering Research Institute
+<!--
+[{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Johan_Akesson.pdf)
+-->
+Leveraging its full-industry-chain advantages, vertical integration, and massive proprietary R&D, BYD has achieved global leadership in new energy vehicle sales. To address the growing complexity of vehicle systems while sustaining this leadership, systematic application of systems engineering methods has become essential across the product lifecycle. This keynote focuses on digital engineering practices with Modelica, exploring three interrelated areas: 1) co-simulation design and validation methodologies for highly integrated vehicle systems; 2) high-fidelity and computationally efficient modeling approaches for diverse R&D scenarios; and 3) engineering implementation of toolchain integration and virtual validation. We are currently advancing Modelica-based digital engineering practices across multiple domains: developing a whole-vehicle digital engineering co-simulation platform that integrates powertrain, thermal management, and chassis control models, realizing seamless cross-system collaborative optimization of power performance, energy efficiency, and handling stability; creating digital models for HVAC thermal management systems that accurately predict cabin thermal load and system power consumption and energy flows, significantly enhancing both energy efficiency and cabin comfort; implementing digital development processes for seat systems that enable early-stage validation of control strategies, vibration-noise characteristics, and comfort attributes through model-driven design and simulation, substantially reducing physical prototype development-cycles; and pioneering AI-Modelica integration that leverages data-driven methods to accelerate model generation, parameter identification, and calibration, substantially improving the intelligence level of complex system modeling. These practices collectively validate Modelica's critical role in complex multidisciplinary system modeling, offering a new paradigm for enhancing research and development efficiency in intelligent vehicle development.
+
+### Xu's Modeling Method: A Foundation for Hydraulic Digital Twins and Intelligent Components
+
+{{<rawhtml>}}
+<img src="images/XuYangzeng.png" alt="Xu Yangzeng" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Xu Yangzeng,** Professor, Expert with Special Allowance from the State Council,
+Editor-in-Chief of "Modern Hydraulic and Pneumatic Handbook",
+Consultant of the Expert Committee of China Hydraulic, Pneumatic and Sealing Components Industry Association
+
+<!--
+[{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Johan_Akesson.pdf)
+-->
+The Xu's Modeling Method, originating from foundational research for the HyPneu software at Oklahoma State University in the 1980s, provides an intuitive framework for hydraulic system modeling. Its core premise is to align the modeling process with engineers' cognitive paradigms. A key breakthrough was its algorithmic solution to Differential-Algebraic Equation (DAE) problems, validated through the PERSIM software developed under China's "Seventh Five-Year Plan" national project.
+The method enables model construction directly from hydraulic schematics by applying Kirchhoff's law at junctions, reducing all components to two fundamental sub-models: hydraulic resistance (throttle) and hydraulic capacitance (cylinder). This yields an implicit state equation (a DAE). The Xu's Algorithm solves this via a unified dynamic-static simulation approach, using the Newton-Raphson method iteratively to compute static states and dynamic derivatives over time steps.
+In the Digital Twin era, the method finds new relevance. Its implicit state equation serves as a potential mechanism model for digital twins, contingent on solving the inverse problem—a current research focus that may incorporate Artificial Intelligence. Additionally, the method offers a theoretical basis for creating "Hydraulic Intelligent Components," guiding the design of simpler, more efficient constructions from first principles. This positions it as an advancement over the classic Hydraulic Resistance Systematic Theory.
+Practically, the method is being applied to develop dedicated simulation and digital twin software for a hydraulic robot system manufactured in Shenzhen, demonstrating its ongoing industrial applicability.
+
+### The Rise of Computer Intelligence and what it means for System Simulation
+
+
+{{<rawhtml>}}
+<img src="images/DirkZimmer.jpeg" alt="Dirk Zimmer" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Dr Dirk Zimmer** DLR, Institute of Robotics and Mechatronics, Oberpfaffenhofen, Germany
+<!--
+[{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Siddhartha_Mishra.pdf)
+-->
+
+We are undergoing a transition period where computer intelligence is rising to dominance. It will become widely available to everyone at an unprecedented level of intelligence and also at low cost. Such transition periods are often highly chaotic and short-term predictions may hence be rather inaccurate. Based on first principles, however, we can predict what ultimately will prevail after the transition has taken place. This keynote shall provide such an analysis to answer the most relevant questions from the perspective of system simulation: Will the use of simulation rise or fall? Will there be a need for system simulation? What will be the use of Modelica in the future? Will mathematical modeling still be a thing for humans and for computers? The keynote will also explain why it uses the term computer intelligence rather than artificial intelligence. 
+
+
+
+<!--
 ## Panel Discussion
 
 For the first time at the International Modelica Conference, we will have a Penel discussion. The topic is: **Open Standards vs. Open source, Collaboration or Conflict?**.
@@ -395,7 +575,7 @@ We recommend to book your room in the [Wyndham Garden Hotel Hangzhou Yuhang](htt
 
 - 2699 Yuhangtang Rd, Hangzhou, 311100, Zhejiang, China
 
-A welcome reception will be provided on the evening of September 20 and the conference banquet in the evening of September 21 will take place in this hotel. We also aim to provide a shuttle service to the conference venue.
+A welcome reception will be provided on the evening of September 20 and the conference banquet in the evening of September 21 will take place in this hotel. We also aim to provide a shuttle service to the conference venue. For international participants, there is no need to book or pay for rooms online. If you select the option "Need hotel reservation by organizer" in registration, the local organizing committee will arrange your accommodation in advance. You will only be required to settle the payment on-site upon check-in.
 
 Transportation directly to Hangzhou:
 - Flight: Hangzhou Xiaoshan International Airport (HGH), 57 Km
@@ -408,21 +588,25 @@ Most common International Travel:
 
 Further travel advice for international guests will follow soon.
 
-<!--
 
-## Registration and Accommodation
+## Hangzhou Attractions
+As a renowned historical and cultural city with a history spanning over 2,000 years, Hangzhou boasts abundant [historical heritages and profound cultural traditions](https://www.chinahighlights.com/hangzhou/attraction/). We hope this site helps you arrange your trip for the conference. Additionally, there are several technical events following the conference that are worth visiting.
 
-**[Registration is now open at Eventfrog](https://eventfrog.ch/en/p/fairs/congress-conference/the-16th-international-modelica-fmi-conference-7297164051792011009.html)**. Please register soon to make planning easy for us. Early Bird tickets will be available until July 7th. The conference registration is offered at the following conditions.
+- The [5th Global Digital Trade Expo](https://www.gdte.org.cn/En/) (GDTE)	, September 23-27, 2026 at Hangzhou Grand Convention and Exhibition Center,	Co-hosted by Zhejiang Provincial Government and Ministry of Commerce; China's only national-level, global professional exhibition themed on digital trade. Expected 1,546+ exhibitors, 200,000+ visitors, 155,000 sqm exhibition space, with 100+ world premieres and new product launches. [EXPO Headline](https://www.gdte.org.cn/En/content/content_9206914.html).
+- The [2nd ISSE International Smart Space Exhibition](https://www.isse-expo.com),	September 23-27, 2026	at Hangzhou Grand Convention and Exhibition Center,	co-hosted by Messe Frankfurt (HK) Ltd and Hangzhou Convention & Exhibition Group; held concurrently with GDTE, focusing on smart space technology and urban governance solutions.
+
+
+## Registration
+
+**[Registration is now open at Bageventfrog](https://www.bagevent.com/event/9178303)**. Please register soon to make planning easy for us. Early Bird tickets will be available until July 31. The conference registration is offered at the following conditions.
 
 | Registration                 | Valid        | incl. Dinner | Early-Price | Price   |
 |------------------------------|--------------|:------------:|------------:|--------:|
-| Standard                     | Mon-Wed      | yes          | 750 CHF     | 900 CHF |
-| PhD-Candidate                | Mon-Wed      | no           | 400 CHF     | 500 CHF |
-| Non-PhD-Student              | Mon-Wed      | no           | 200 CHF     | 250 CHF |
-| Conference Dinner            | Dinner       | yes          | 150 CHF     | 150 CHF |
+| Standard                     | Mon-Tue      | yes          | 1875 CNY    | 2500 CNY|
+| Student                      | Mon-Tue      | yes          |  750 CNY    |  750 CNY|
+| Conference Dinner            | Dinner       | yes          |  225 CNY    |  300 CNY|
 
-The conference will take place at the [Rotkreuz campus](https://dock.hslu.ch/rundgang/index.html?startscene=i)  of Lucerne University of Applied Sciences and Arts, which can be reached in as little as 13 minutes by train from Lucerne railroad station. We recommend taking the train to the campus, as the campus is located directly at Rotkreuz station. The university cannot provide parking spaces in Rotkreuz. There are parking spaces in the vicinity of the campus whose availability and prices are not subject to the university. 
-
+<!--
 Under the following link, conference participants will find a **[limited contingent of hotels in Lucerne and Rotkreuz at discounted rates.](https://regis.buchertravel.ch/event/International_Modelica_Conference2025)** Please use the search window to view all available hotels and prices. We would like to point out that Lucerne offers significantly more tourist attractions than Rotkreuz. However, Lucerne is in high season during the conference, so accommodation costs may be higher. Cheaper alternatives can be found, for example, in youth hostels in the city of Lucerne, Airbnbs, or hotels in the vicinity of Lucerne and Rotkreuz with good rail connections.
 
 -->
@@ -449,15 +633,15 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
 <div class="row row-cols-2 row-cols-md-4 g-4">
 
   <div class="col">
-    <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+    <a href="https://zfaien.buaa.edu.cn/About_Us/Overview.htm" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
             <img src="images/Beihang.png" alt="Beihang University"/>
       </div>
     </a>
   </div>
 
   <div class="col">
-    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
+    <a href="https://en.simtek.cc" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
         <img src="images/SIMTEK.png" alt="Simtek"/>
       </div>
@@ -473,65 +657,17 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
 <div class="row row-cols-2 row-cols-md-4 g-4">
 
   <div class="col">
-    <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+    <a href="https://www.cgnpc.com.cn/cgn/c100992/lm_tt_four.shtml" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
             <img src="images/StateLab_303_22.jpg" alt="Nuclear Safety State Lab"/>
       </div>
     </a>
   </div>
 
-</div>
-
-{{</rawhtml>}}
-
-
-## Sponsors
-
-Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the conference organizers for more information.
-
-<!--
-### Platinum
-
-{{<rawhtml>}}
-<div class="row row-cols-2 row-cols-md-4 g-4">
-
-  <div class="col">
-    <a href="https://www.ltx.de/english.html" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
-        <img src="images/LTX.svg" alt="LTX"/>
-      </div>
-    </a>
-  </div>
-
-</div>
-{{</rawhtml>}}
--->
-
-### Gold
-
-{{<rawhtml>}}
-<div class="row row-cols-2 row-cols-md-4 g-4">
-
-  <div class="col">
-    <a href="https://xrg-simulation.de/en" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 3rem">
-        <img src="images/XRG_Logo2015_4c.svg" alt="XRG"/>
-      </div>
-    </a>
-  </div>
-  
-</div>
-{{</rawhtml>}}
-
-### Silver
-
-{{<rawhtml>}}
-<div class="row row-cols-2 row-cols-md-4 g-4">
-
-  <div class="col">
-    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
+    <div class="col">
+    <a href="https://www.sae-china.org/branch/383" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/TLK-Thermo_Logo.svg" alt="TLK Thermo"/>
+            <img src="images/ChinaSAE.jpg" alt="Nuclear Safety State Lab"/>
       </div>
     </a>
   </div>
@@ -540,58 +676,11 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
 
 {{</rawhtml>}}
 
-<!--
-### Bronze
 
-{{<rawhtml>}}
-<div class="row row-cols-2 row-cols-md-4 g-4">
 
-  <div class="col">
-    <a href="https://juliahub.com" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-            <img src="images/JuliaHub.svg" alt="JuliaHub"/>
-      </div>
-    </a>
-  </div>
 
-  <div class="col">
-    <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/WolframResearch.svg" alt="Wolfram Research"/>
-      </div>
-    </a>
-  </div>
 
-  <div class="col">
-    <a href="https://openmodelica.org" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/OMlogo.svg" alt="Open Modelica"/>
-      </div>
-    </a>
-  </div>
-
-  <div class="col">
-    <a href="https://www.asam.net/" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/asam-logo.svg" alt="ASAM eV"/>
-      </div>
-    </a>      
-  </div>
-
-  <div class="col">
-    <a href="https://www.claytex.com/" target="_blank" style="pointer-events: auto;">
-      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/Claytex-logo-RGB-blue-pos.svg" alt="CLAYTEX Services Ltd"/>
-      </div>
-    </a>      
-  </div>
-
-</div>
-
-{{</rawhtml>}}
--->
-
-### Conference Board
+## Conference Board
 
 - **Prof. Shichun Yang**, Beihang University, Conference Co-Chair
 - **Dr. Rui Gao**, Nanjing Yuansi SimTek., Co., Ltd., Conference Co-Chair
@@ -602,7 +691,7 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
 - **Prof. Yanfang Liu**, Beihang University, Program Chair
 - **Prof. WeiLin Li**, Northwestern Polytechnical University, Publicity Co-Chair
 - **Dr. OU Haiying**, China SAE Automobile Model Digital Engineering Branch, Publicity Co-Chair
-- **Dr. Hong Lü**, China General Nuclear Power Corporation(CGN), Publicity Co-Chair
+- **Dr. Hong Lü**, State Key Laboratory of Nuclear Power Safety Technology and Equipment, Publicity Co-Chair
 
 ### Conference Advisory Board
 

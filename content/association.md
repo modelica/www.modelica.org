@@ -32,6 +32,7 @@ It is encouraged to join at least one of the MA projects as a guest before becom
 
 If you are interested, simply contact the [Modelica board](mailto:board@modelica.org) and explain your motivation.
 The [individual application form](https://docs.google.com/forms/d/1AKymk2UfwDSJR4fuYXAyGJuvPw7YLiBFF76jqLSjzWM/edit) provides useful guidance. 
+To apply for membership as an organization please use the [organizational application form](https://docs.google.com/forms/d/e/1FAIpQLSfUpCe1fqVgcuib5WpfZh_tuDGoLcLdk0BjRqeMAFi3XtDZug/viewform).
 
 ## Modelica Association Projects
 
@@ -147,8 +148,9 @@ The following licenses are used by the Modelica Association for material provide
 | --- | --- | --- | --- |
 | Marketing | Hubertus Tummescheit | [Model Based Innovation LLC, USA](https://modelbased.cloud) | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
 | Quality and Processes | [Francesco Casella](http://home.deib.polimi.it/casella/) | [Politecnico di Milano, Italy](https://www.polimi.it/) | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
-| Technology | [Martin Otter](https://martinotter.github.io/) | [DLR, Germany](https://www.dlr.de/en/fk) | [martin.otter@dlr.de](mailto:Martin.Otter@dlr.de) |
+| Technology | [Clément Coïc](https://www.linkedin.com/in/clementcoic/) |||
 | Project leader "Modelica Language"  | Hans Olsson | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [hans.olsson@3ds.com](mailto:Hans.OLSSON@3ds.com) |
+| Deputy Project leader "Modelica Language"  | Henrik Tidefelt | [Wolfram Mathcore, Sweden](https://www.wolframmathcore.com/) | |
 | Project leader "Modelica Libraries" | [Francesco Casella](http://home.deib.polimi.it/casella/) | [Politecnico di Milano, Italy](https://www.polimi.it/) | [francesco.casella@polimi.it](mailto:francesco.casella@polimi.it) |
 | Deputy Project leader "Modelica Libraries" | [Anton Haumer](https://www.oth-regensburg.de/personen/detailansicht/anton-haumer) | [OTH Regensburg, Germany](https://www.oth-regensburg.de/) | [anton.haumer@oth-regensburg.de](mailto:anton.haumer@oth-regensburg.de) |
 | Project leader "FMI" | Christian Bertsch | [Bosch, Germany](https://www.bosch.com) | [christian.bertsch@de.bosch.com](mailto:christian.bertsch@de.bosch.com) |
@@ -159,6 +161,7 @@ The following licenses are used by the Modelica Association for material provide
 | Deputy Project leader "DCP" | Klaus Schuch | [AVL, Austria](https://www.avl.com/) | [klaus.schuch@avl.com](mailto:klaus.schuch@avl.com) |
 | Project leader "eFMI" | Christoff Bürger | [Dassault Systèmes, Sweden](http://www.3ds.com/products-services/catia/products/dymola) | [christoff.buerger@3ds.com](mailto:christoff.buerger@3ds.com) |
 | Deputy Project leader "eFMI" | Daeoh Kang | [iVH, Korea](https://www.ivh.co.kr/) | [bigfive@ivh.co.kr](mailto:bigfive@ivh.co.kr) |
+| Project leader "COORD" | Hubertus Tummescheit | [Model Based Innovation LLC, USA](https://modelbased.cloud) | [hubertus.tummescheit@modelbased.cloud](mailto:hubertus.tummescheit@modelbased.cloud) |
 
 ## Members of the Modelica Association with Specific Duties
 
@@ -188,7 +191,6 @@ The following organizations are members of the Modelica Association:
 | Organization                                                                                        | Headquarter                          | Contact                        |
 |-----------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------|
 | [ADC Automotive Data of China (Tianjing)](http://www.catarc.info/)                                  | Tianjin, China                       |                                |
-| [Altair](http://www.altair.com)                                                                     | Troy, MI, USA                        |                                |
 | [Ansys, Inc](http://ansys.com/)                                                                     | Canonsburg, PA, USA                  |                                |
 | [Austrian Institute of Technology](http://www.ait.ac.at/)                                           | Vienna, Austria                      |                                |
 | [Beckhoff Automation](https://www.beckhoff.com)                                                     | Verl, Germany                        | modelica@beckhoff.com          |
@@ -197,20 +199,23 @@ The following organizations are members of the Modelica Association:
 | [COMSOL AB](https://www.comsol.com/company)                                                         | Stockholm, Sweden                    |                                |
 | [Dassault Systèmes SA](http://www.3ds.com)                                                          | Paris, France                        | [Modelica.info@3ds.com](mailto:Modelica.info@3ds.com) |
 | [DLR - Institute of System Dynamics and Control](https://www.dlr.de/en/sr/about-us/institute)       | Oberpfaffenhofen, Germany            | [Martin.Otter@dlr.de](mailto:Martin.Otter@dlr.de)     |
-| [ESI Germany](https://www.simulationx.com/)                                                         | Dresden, Germany                     |                                |
 | [Global Crown Technology](http://www.globalcrown.com.cn/index_en.asp)                               | Beijing, China                       |                                |
 | [IDA PELAB](http://www.ida.liu.se/~pelab)                                                           | Linköping, Sweden                    | [peter.fritzson@liu.se](mailto:peter.fritzson@liu.se) |
 | [Institut für Thermodynamik, Universität Braunschweig](http://www.ift-bs.de/)                       | Braunschweig, Germany                | [ift@tu-bs.de](mailto:ift@tu-bs.de)                   |
 | [Institute of Engineering Thermodynamics, Hamburg University of Technology](https://www.tuhh.de/technische-thermodynamik/en/institute) | Hamburg, Germany                     | [arne.speerforck@tuhh.de](mailto:arne.speerforck@tuhh.de) |
 | [Institute of Vehicle Engineering (iVH)](http://www.ivh.co.kr)                                      | Seoul, Korea                         |                                |
+| [Keysight Technologies Deutschland](https://www.keysight.com/us/en/home.html)                       | Böblingen, Germany                   |                                |
+| [Lamerton Simulation](https://www.lamertonsimulation.com/)                                    | St. Austell, United Kingdom | [info@lamertonsimulation.com](mailto:info@lamertonsimulation.com)|
 | [Liebherr Aerospace Toulouse](https://www.liebherr.com/en-fr/group/location/toulouse-profile-3752241)| Toulouse, France                     |                                |
 | [LTX Simulation](http://ltx.de)                                                                     | Munich, Germany                      | [info@ltx.de](mailto:info@ltx.de)                     |
 | [Maplesoft](http://www.maplesoft.com/)                                                              | Waterloo, ON, Canada                 | [modelica@maplesoft.com](mailto:modelica@maplesoft.com) |
-| [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/)                            | Cambridge, MA, USA                   | [bortoff@merl.com](mailto:bortoff@merl.com)           |
+| [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/)                            | Cambridge, MA, USA                  | [bortoff@merl.com](mailto:bortoff@merl.com)           |
 | [Modelon AB](http://www.modelon.com)                                                                | Lund, Sweden                         | [info@modelon.com](mailto:info@modelon.com)           |
+| [Open Source Modelica Consortium](https://www.openmodelica.org)                                     |                                      | [OpenModelica@ida.liu.se](mailto:OpenModelica@ida.liu.se)|
 | [orthogonal supersystems](https://plus.orthogonal.dev/)                                             | Munich, Germany                      |                                |
 | [Robert Bosch](https://www.bosch.com/company/)                                                      | Stuttgart, Germany                   |                                |
 | [Shanghai Formal-Tech Information Technology](http://www.formal-tech.com/)                          | Shanghai, China                      | yang.yang@formal-tech.com      |
+| [Shanghai YISU Information Technologies](https://www.yisuworld.com/)                                | Shanghai, China                      |                                |
 | [Siemens Digital Industry Software](http://www.siemens.com/plm)                                     | Lyon, France                         |                                |
 | [Suzhou Tongyuan Software & Control Technology](http://en.tongyuan.cc/)                             | Suzhou, China                        | [zhoufl@tongyuan.cc](mailto:zhoufl@tongyuan.cc)       |
 | [Virtual Vehicle Research](https://www.v2c2.at/)                                                    | Graz, Austria                        | [info@v2c2.at](mailto:info@v2c2.at)                   |
@@ -222,7 +227,7 @@ The following organizations are members of the Modelica Association:
 
 ## Individual Members of the Modelica Association
 
-Currently the Modelica Association has 130 individual members.
+Currently the Modelica Association has 131 individual members.
 
 The following members have given the consent to appear publicly.
 
@@ -235,11 +240,12 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | [Asghar, Adeel](https://www.ida.liu.se/~adeas31/)                | [PELAB, IDA, Linköping University](https://openmodelica.org/)                       | LANG     |
 | [Bachmann, Bernhard](https://www.fh-bielefeld.de/personenverzeichnis/bernhard-bachmann) | [Hochschule Bielefeld](http://www.fh-bielefeld.de/)                                 | LANG     |
 | Bäuml, Thomas       | [AIT Austrian Institute of Technology](http://www.ait.ac.at/)                       |          |
+| Bellmann, Tobias       | [DLR](https://www.dlr.de/)                       |          |
 | [Bernardin, Laurent](https://www.linkedin.com/in/bernardin/)          | [Maplesoft](http://www.maplesoft.com)                                              |          |
 | Bertsch, Christian  | [Robert Bosch GmbH](http://www.bosch.com/)                                         |          |
 | Beuter, Volker      | [VI-Grade GmbH](http://www.vi-grade.com)                                            |          |
 | Beutlich, Thomas    |                                                                                     | LANG, LIB |
-| [Blochwitz, Torsten](http://www.SimulationX.com)                      | [ESI ITI GmbH](http://www.esi-group.com)                                            | LANG     |
+| [Blochwitz, Torsten](http://www.SimulationX.com)                      | [Keysight Technologies Deutschland](https://www.keysight.com/us/en/home.html)                                            | LANG     |
 | Bödrich, Thomas     |                                                                                     | LIB      |
 | Bolognese, Michele      | [Fondazione Bruno Kessler](https://energy.fbk.eu/)                              | LIB      |
 | Bouskela, Daniel    |                                                                                     |          |
@@ -248,7 +254,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Brück, Dag          | [Dassault Systèmes AB](http://www.3ds.com/dymola)                                   | LANG, LIB |
 | Bürger, Christoff   | [Dassault Systèmes AB](https://www.3ds.com/)                                       | LANG, LIB |
 | [Casella, Francesco](https://www.deib.polimi.it/ita/personale/dettagli/129954) | [Politecnico di Milano](http://www.polimi.it)                                      | LANG, LIB |
-| Chen, Zhipeng       | [Tongyuan](https://en.tongyuan.cc/)                                                  |          |
+| Chen, Zhipeng       | [Tongyuan](https://en.tongyuan.cc/)                                                  |   LANG       |
 | Clauß, Christoph    |                                                                                     | LANG, LIB |
 | [Coïc, Clement](https://www.linkedin.com/in/clementcoic) |                                                |           |
 | Dempsey, Mike       | [Claytex Service Limited](http://www.claytex.com/)                                 | LANG     |
@@ -283,8 +289,8 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Köhler, Jochen      | [ZF Friedrichshafen AG](http://www.zf.com)                                          |          |
 | [Kral, Christian](https://christiankral.net/)                      | [Mechatroniker für Elektromaschinenbau und Automatisierung](https://christiankral.net/)| LANG, LIB |
 | Krammer, Martin     | [Knorr-Bremse](http://www.knorr-bremse.com)                                         |          |
-| [Kulhánek, Tomáš](https://tomaskulhanek.github.io/)   | [VITO](https://vito.be/en)                                   |  |
-| Kurzbach, Gerd      | [ESI ITI GmbH](https://www.simulationx.com/)                                        | LANG     |
+| [Kulhánek, Tomáš](https://tomaskulhanek.github.io/)   | [VITO](https://vito.be/en)                                   | LIB |
+| Kurzbach, Gerd      | [Keysight Technologies Deutschland](https://www.keysight.com/us/en/home.html)                                  | LANG     |
 | Lambert, Quentin    |                                                                                     | LANG     |
 | Landgren, Ben       | [PerformanSea](https://performansea.com/)                                           | LANG     |
 | Link, Kilian        |                                                                                     | LANG     |
