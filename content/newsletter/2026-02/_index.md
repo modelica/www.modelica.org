@@ -277,7 +277,7 @@ With the skills installed, your assistant can:
 ![Agent skills for Wolfram System Modeler](wolfram-agent-skills.png 'Agent skills for Wolfram System Modeler')
 
 Short videos demonstrating each capability are available on the
-[System Modeler LinkedIn page](https://www.linkedin.com/showcase/wolfram-system-modeler/), and an
+[System Modeler LinkedIn page](https://www.linkedin.com/showcase/wolfram-systemmodeler/), and an
 overview of all AI capabilities is at
 [Augment AI with System Modeler](https://www.wolfram.com/system-modeler/features/feature-ai.php).
 
