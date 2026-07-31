@@ -131,6 +131,22 @@ Registration is open; full details are on the [conference page](https://modelica
 
 *This article is provided by the American Modelica & FMI Conference 2026 organizing committee.*
 
+### Modelon Innovate 2027
+![Modelon Innovate 2027](Modelon Innovate 2027.png)
+**Physics-Driven. Agent-Powered.**
+**April 21-22, 2027 | Clarion Malmö Live | Malmö, Sweden**
+
+Modelon Innovate returns in 2027 bringing together Modelon customers, partners, and industry experts for two in-person days of insight, education, and connection. 
+
+The event will feature industry-focused presentations, customer success stories, partner perspectives, product updates, and keynote insights exploring the future of simulation and AI-enabled engineering. 
+
+Participants will also experience applied, real-world training led by Modelon experts, with sessions focused on practical workflows in Modelon Impact, Modelica-based skills, troubleshooting, and ways to apply new capabilities to complex engineering challenges.
+
+Learn more on the [Modelon Innovate website.](https://www.modelon.com/innovate-2027/) 
+
+*This article is provided by Lauren Caris at Modelon.*
+
+
 <!-- END Conferences and user meetings -->
 
 {{<rawhtml>}}
@@ -252,6 +268,23 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 
 *This article is provided by [Nicolas LAURENT](https://github.com/nl78), [Renault Group](https://www.renaultgroup.com/)*
 
+
+ ![Modelon Logo](https://github.com/modelica/www.modelica.org/blob/a0d305b6145c9e9bc6172771a7aa3746df3f4905/content/newsletter/2025-01/Modelon_Flat_RGB_300.png)
+
+### Introducing the Data Center Library for Modelon Impact
+Modelon has launched the **Data Center Library for Modelon Impact**, a new Modelica-based library that helps engineers design, simulate, and optimize data center cooling systems in response to the growing demands of AI-driven infrastructure. The library provides a system-level approach, enabling users to evaluate interactions between cooling plants, distribution systems, rack-level cooling, and controls within a single simulation environment. 
+
+The library includes configurable models for chillers, cooling towers, pumps, heat exchangers, CDUs, CRAHs, and air-, liquid-, and hybrid-cooled racks, along with reference system designs and calibrated vendor components. Engineers can compare cooling strategies, assess energy and water efficiency, validate control logic, and reduce design risk earlier in the development process more quickly with confidence in simulation results. 
+
+Available exclusively in Modelon Impact, the Data Center Library also supports future digital twin initiatives by providing reusable, physics-based models that can be connected with operational data to improve long-term performance and optimization. [Learn more about the Data Center Library.](https://www.modelon.com/blog/introducing-the-data-center-library-for-modelon-impact/)
+
+### Modelon Advances AI-Assisted Engineering with Agentic Simulation
+Modelon has enhanced its [AI Assistant in Modelon Impact](https://www.modelon.com/blog/from-ai-guidance-to-agentic-simulation-in-modelon-impact/) with new agentic simulation capabilities, allowing engineers to interact directly with models using natural language. Users can explore model structures, analyze Modelica code, identify modeling issues, launch saved simulation experiments, and monitor simulation progress, all without navigating complex workflows manually. 
+
+The updated assistant also introduces drag-and-drop functionality for creating plots from simulation results and adding recommended components directly to model diagrams. Built on a modular, context-aware architecture with support for Model Context Protocols (MCP), the technology is designed to streamline simulation workflows, reduce time spent on repetitive tasks, and help engineers move more quickly from questions to actionable insights while maintaining control over the engineering process.
+
+*This article is provided by Lauren Caris, [Modelon](https://modelon.com/)*
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
@@ -300,7 +333,14 @@ Source code, build instructions, and documented fixes:
 [github.com/KBARMAN11/sil-ecu-virtualization](https://github.com/KBARMAN11/sil-ecu-virtualization)
 
 ![SIL ECU virtualization stack with FMI-LS-BUS CAN and Ethernet](fmi-ls-bus-vecu-sil-stack.png)
-
 *This article is provided by Karan Barman*
+
+
+### Why Two-Phase Direct-to-Chip Cooling is Reaching a Tipping Point
+
+As AI data centers push cooling systems to new limits, **Modelon** and researchers from the **University of Maryland** are using Modelica-based, system-level simulation to evaluate the potential of two-phase direct-to-chip cooling. Their research highlights why transient simulation is essential for understanding dynamic behavior, control strategies, and system stability in next-generation cooling architectures. The article also demonstrates how physics-based modeling helps bridge experimental research and industrial decision-making, enabling engineers to explore complex interactions before hardware is built. Read the [full article](https://www.modelon.com/blog/why-two-phase-direct-to-chip-cooling-is-reaching-a-tipping-point/) for insights into an emerging application area where Modelica and system simulation are helping shape the future of AI infrastructure.
+
+*This article is provided by Lauren Caris, [Modelon](https://modelon.com/)*
+
 
 <!-- END Education news -->
