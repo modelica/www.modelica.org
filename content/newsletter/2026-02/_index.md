@@ -287,7 +287,7 @@ The August 2026 release of **ODE+ Component** adds support for the **DLR PowerTr
 <p style="text-align:center"><img src="ODESeries.svg" alt="ODE+ logo" style="max-width:320px;height:auto"></p>
 {{</rawhtml>}}
 
-The product family is renamed to **ODE+**, with a new logo and landing page. From August 2026, products are reached at [ode.plus](https://www.ode.plus) instead of [orthogonal.dev](https://www.orthogonal.dev).
+The product family is renamed to **ODE Plus**, with a new logo and landing page. From August 2026, products are reached at [ode.plus](https://www.ode.plus) instead of [orthogonal.dev](https://www.orthogonal.dev).
 
 *This article is provided by Dr. Yang Ji ([orthogonal GmbH](https://www.orthogonal.dev))*
 
