@@ -303,4 +303,18 @@ Source code, build instructions, and documented fixes:
 
 *This article is provided by Karan Barman*
 
+### Time Series Explorer: browser-based analysis of Modelica simulation results
+
+![Time Series Explorer state-space visualization](time-series-explorer-state-space.png)
+
+[Time Series Explorer](https://ferrucci-franco.github.io/timeseries-explorer/) is a free, open-source, MIT-licensed application that opens OpenModelica `.mat` results and Dymola `dsres.mat` files directly. It runs entirely in the browser: parsing and visualization occur locally, and files are not uploaded. Desktop versions support fully offline work.
+
+Developed as a teaching tool for dynamical systems, its state-space view animates a state vector **x** alongside its derivative **ẋ** in 2D or 3D. This helps connect equations such as **ẋ = f(x,t)** with the system's geometric evolution.
+
+After resimulation, exactly the same result file can be reopened as a new run while its previous version remains in memory. This preserves comparisons when OpenModelica or Dymola overwrites the result file. A toolbar button locates and plots the same variables or curves in every open file, simplifying comparisons after parameter changes and repeated simulations.
+
+The application also provides time plots, phase portraits, Fourier analysis, histograms, heatmaps, derived variables, and signal transformations. [Source code and issue tracking are available on GitHub](https://github.com/ferrucci-franco/timeseries-explorer).
+
+*This article is provided by Franco Ferrucci, University of French Polynesia.*
+
 <!-- END Education news -->
