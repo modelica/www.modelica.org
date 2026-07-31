@@ -90,18 +90,6 @@ The experiments format that was formerly part of this layered standard can be us
 
 Learn more here: https://github.com/modelica/fmi-ls-ref/ and https://github.com/modelica/fmi-ls-ref/releases/tag/v1.0.0-beta.1
 
-##### FMI Layered Standard for Differential-Algebraic Equations (FMI-LS-DAE)
-
-The working group on support for **Differential-Algebraic Equations (DAE)** in FMI, led by **Joel Andersson (FMIOPT)** and **Andreas Heuermann (Santa Anna IT Research Institute)**, is actively working on a layered standard FMI-LS-DAE. A first pre-release of the standard (v1.0.0-alpha.1) is planned for 2026.
-
-The working group will present its progress in the paper *"Towards an FMI Layered Standard for DAE: Applications for Simulation and Optimization"* at the [American Modelica & FMI Conference 2026](https://modelica.org/events/american2026/).
-A preprint is already available on [arXiv](https://arxiv.org/abs/2606.22544).
-
-You can follow the development on [GitHub](https://github.com/modelica/fmi-ls-dae) and read the [current draft of the specification](https://modelica.github.io/fmi-ls-dae/main/).
-
-*This article is provided by Andreas Heuermann, [Santa Anna IT Research Institute](https://www.santa-anna.se/)*
-
-
 ##### FMI Layered Standard WebAssembly (FMI-LS-WASM)
 
 The FMI Project started working on supporting **WebAssembly (WASM)** as new "platform" besides platform specific binaries or source code.
@@ -112,6 +100,17 @@ You can find the first **prototype** here: https://github.com/modelica/fmi-ls-wa
 Comments and feedback is very welcome - or become a contributor! (For that it is necessary that your organization signs the Contributor License Agreement). 
 
 *This article is provided by the FMI Project*
+
+##### FMI Layered Standard for Differential-Algebraic Equations (FMI-LS-DAE)
+
+The working group on support for **Differential-Algebraic Equations (DAE)** in FMI, led by **Joel Andersson (FMIOPT)** and **Andreas Heuermann (Santa Anna IT Research Institute)**, is actively working on a layered standard FMI-LS-DAE. A first pre-release of the standard (v1.0.0-alpha.1) is planned for 2026.
+
+The working group will present its progress in the paper *"Towards an FMI Layered Standard for DAE: Applications for Simulation and Optimization"* at the [American Modelica & FMI Conference 2026](https://modelica.org/events/american2026/).
+A preprint is already available on [arXiv](https://arxiv.org/abs/2606.22544).
+
+You can follow the development on [GitHub](https://github.com/modelica/fmi-ls-dae) and read the [current draft of the specification](https://modelica.github.io/fmi-ls-dae/main/).
+
+*This article is provided by Andreas Heuermann, [Santa Anna IT Research Institute](https://www.santa-anna.se/)*
 
 <!-- END Modelica Association -->
 
