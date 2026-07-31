@@ -22,7 +22,18 @@ issued on August 3, 2026
 
 ## Letter from the Board
 
-<!-- TODO: Letter from the Board -->
+Dear Modelica, FMI, SSP, DCP, eFMI interested,
+
+With a clear, unanimous vote at this year’s assembly meeting, we highly welcome [Dr. Clément Coïc](https://dr-clementcoic.github.io/LearnModelicaFMI/about.html) as new member of the board. He takes the lead for Technology. With his strong expertise in artificial intelligence, there will be a special focus on the interaction of Modelica & FMI standards and agentic AI.  His name will probably be already familiar to most readers of this newsletter. After all Clément Coïc is hosting his own very popular newsletter series [“Learn Modelica & FMI”](https://www.linkedin.com/newsletters/learn-modelica-fmi-7373084674463719424/). Of course, he will continue his efforts to proliferate his knowledge about modeling and simulation, not only in this form. We are very glad to have gained Clément as member of our board and are sure he will provide us with fresh impetus.
+
+Many new contributions are also issued by our community form all over the world. We had an overall record number of submissions for our two regional conferences. Almost a hundred submissions have been submitted in total for the [American Modelica & FMI Conference](https://modelica.org/events/american2026/) and the [Asian Modelica & FMI Conference](https://modelica.org/events/asian2026/). We are thrilled to see this amount of content being generated between our large international conferences.
+
+The [preliminary program](https://modelica.org/events/asian2026/prelprogram/) of the Asian Conference is already available. As you can see, it is a true Modelica & FMI conference offering separate tracks for both communities. Another remarkable point is the strong presence of Modelica in the application field of nuclear power generation. The American conference will offer very strong technical highlights: the [RuMoCa](https://github.com/CogniPilot/rumoca) Modelica compiler will be presented with an official paper and also the development of the [layered FMI standard for DAE representation](https://modelica.github.io/fmi-ls-dae/main/) will be prominently discussed. These are just two examples of many.
+
+We from the board hope to meet you at one of these events!
+
+Dirk Zimmer on July 30, 2026 \
+*Chair of the Modelica Association*
 
 {{<rawhtml>}}
 <div class="masthead-followup-icon d-inline-block mt-5">
@@ -138,6 +149,20 @@ Registration is open; full details are on the [conference page](https://modelica
 
 *This article is provided by the American Modelica & FMI Conference 2026 organizing committee.*
 
+
+### Asian Modelica & FMI Conference 2026
+
+the **Asian Modelica & FMI Conference 2026**.
+It will take place at the high-tech city of **Hangzhou, China from September 21-22, 2026** also famous of its stunning west lake scenery.
+It is organized by the [Beihang University (at Hangzhou campus)](https://zfaien.buaa.edu.cn/About_Us/Overview.htm) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
+This is the first visit of the conference series in China.
+
+The [preliminary program](https://modelica.org/events/asian2026/prelprogram/) of the conference is already available and features **four parallel tracks**. Two methods-oriented tracks on Modelica & FMI as well as agentic AI Usage and two application-oriented tracks with a strong focus on (nuclear) energy, buildings and (electric) automotive systems.
+
+The program is further enriched by four prominent keynote speakers.
+
+Registration for the conference is open! All details on the [conference page](https://modelica.org/events/asian2026/)
+  
 ### Modelon Innovate 2027
 ![Modelon Innovate 2027](Modelon Innovate 2027.png)
 **Physics-Driven. Agent-Powered.**
