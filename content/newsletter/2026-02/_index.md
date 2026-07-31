@@ -164,8 +164,9 @@ The program is further enriched by four prominent keynote speakers.
 Registration for the conference is open! All details on the [conference page](https://modelica.org/events/asian2026/)
   
 ### Modelon Innovate 2027
-![Modelon Innovate 2027](Modelon Innovate 2027.png)
-**Physics-Driven. Agent-Powered.**
+![Modelon Innovate 2027](https://github.com/modelica/www.modelica.org/blob/99804e66d423bb12ab505bd0228ae5d7b63c2da0/content/newsletter/2026-02/Modelon%20Innovate%202027.png)
+
+**Physics-Driven. Agent-Powered.**\
 **April 21-22, 2027 | Clarion Malmö Live | Malmö, Sweden**
 
 Modelon Innovate returns in 2027 bringing together Modelon customers, partners, and industry experts for two in-person days of insight, education, and connection. 
