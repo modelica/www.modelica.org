@@ -275,6 +275,28 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 
 *This article is provided by [Nicolas LAURENT](https://github.com/nl78), [Renault Group](https://www.renaultgroup.com/)*
 
+### TLK-Thermo News
+![TLK-Thermo Logo](TLK-Thermo_Logo.svg)
+
+#### Modeling Modern Liquid-Cooled Data Centers
+
+As computing power continues to grow, data center cooling is becoming a key challenge for efficiency, reliability and sustainability. As conventional air-cooling approaches reach their limits in managing growing heat loads, liquid cooling is emerging as an increasingly important solution. An exemplary system model of liquid-cooled CPU racks, implemented in **[TIL Suite 2026.1](https://www.tlk-thermo.com/en/software/til-suite)**, demonstrates how modern data center cooling systems can be modeled and simulated in Modelica. The example provides insights into the thermal behavior of complex cooling architectures and illustrates how simulation can support the design and optimization of next-generation data center infrastructure. This topic will also be presented at **[ThermoSim 2026](https://tlk-energy.de/en/events/thermosim-conference-2026)** in Aachen (22-23 September) by our Modelica and TIL Suite expert Ingo Frohböse.
+
+![TIL Data Center Cooling Example](TIL_DataCenterCooling.png 'TIL System Model Example for Data Center Cooling')
+
+#### Accelerating BTMS Development Through Fast 3D Modelica Simulation
+
+Evaluating battery thermal management system (BTMS) concepts often requires computationally expensive CFD analyses, especially when dynamic operating conditions must be considered. The new **[TIL Add-On Battery](https://www.tlk-thermo.com/fileadmin/user_upload/SoftwareFiles/TILSuite/OnePager_AddOnBattery.pdf)** addresses this challenge by combining fast 1D methods with 3D-resolved battery models, enabling rapid simulation of temperatures, voltages, SoC, currents, and heat dissipation in battery stacks and complete systems, including their integration into cooling and refrigeration cycles. This approach supports rapid assessment of BTMS topologies and operating scenarios while reducing the effort associated with traditional CFD-based design iterations.
+
+![TIL AddOn Battery](TIL_AddOn_Battery_BTMS.png 'Battery Thermal Management System Development with the TIL AddOn Battery')
+
+#### Meet Our Experts
+
+Visit us at the [Asian Modelica & FMI Conference 2026](https://modelica.org/events/asian2026/) in Hangzhou, China (21-22 September), where our Head of Software Development, Christian Schulze, will be available at our booth to discuss our latest developments in Modelica-based simulation and software tools.
+
+In addition, we will be exhibiting together with our partner TLK Energy at [Chillventa 2026](https://www.chillventa.de/en/exhibitors/tlk-thermo-gmbh-2557518), where we will showcase how simulation and testing can help address technical challenges in the development of refrigeration, HVAC and heat pump systems. Visitors can learn more about our software solutions and engineering services for efficient system development, validation and optimization.
+
+*This article is provided by Lisa Busche, [TLK-Thermo GmbH](https://www.tlk-thermo.com/en/)*
 
  ![Modelon Logo](https://github.com/modelica/www.modelica.org/blob/a0d305b6145c9e9bc6172771a7aa3746df3f4905/content/newsletter/2025-01/Modelon_Flat_RGB_300.png)
 
