@@ -258,11 +258,11 @@ author: "Stefan Wischhusen [XRG Simulation GmbH](https://xrg-simulation.de/en)"
 category: "vendor"
 ---
 
-![XRG Logo](XRG_Logo 2015_4c_212.png 'XRG Logo')
+![XRG Logo](XRG_Logo_2015_4c_212.png 'XRG Logo')
 
-#### Upcoming Events
+### Upcoming Events
 
-### Asian Modelica & FMI Conference 2026 (Hangzhou, PR China)
+#### Asian Modelica & FMI Conference 2026 (Hangzhou, PR China)
 
 The event will take place at the high-tech city of Hangzhou, PR of China from **September 20-22, 2026**. XRG Simulation is happy to be Gold sponsor of the conference and will be present with a booth and an exciting tutorial about AI-driven surrogate modelling using XRG's **SMArtInt and SMArtInt+ Library**:
 
@@ -274,7 +274,7 @@ The 3-hours workshop on Sunday afternoon will be conducted by Tim Hanke. If you 
 
 Please also visit the [**Conference Website**](https://modelica.org/events/asian2026/) for more information.
 
-### ThermoSim2026 Aachen (Germany)
+#### ThermoSim2026 Aachen (Germany)
 
 On **September 22 and 23, 2026**, the fourth ThermoSim will take place in Aachen – the expert conference on thermal system simulation with a focus on Modelica and FMI. The conference language will be German, with optional English translation available. XRG Simulation is one of the four organizers of **ThermoSim 2026** and will also be present as an exhibitor. We will be happy to welcome you at our booth and discuss our workflow for **whole-year building and building systems simulation**.
 
@@ -286,13 +286,13 @@ For more details, please visit the [**ThermoSim Conference Website**](https://tl
 
 ![ThermoSim XRG](ThermoSimXRG.jpg 'ThermoSim XRG')
 
-### American Modelica & FMI Conference 2026 (Atlanta, Georgia, USA)
+#### American Modelica & FMI Conference 2026 (Atlanta, Georgia, USA)
 
 This in-person conference event will take place at the Georgia Institute of Technology in the Aerospace Systems Design Laboratory from **October 12–14, 2026** and is sponsored by XRG Simulation GmbH. We will be present with a booth in the exhibition area and will be happy to discuss our software solutions (e.g., HVAC simulations and AI-driven surrogate modelling) with you.
 
 For more information visit the [**conference website**](https://modelica.org/events/american2026/).  
 
-#### New Research
+### New Research
 
 ![EVEREST](LOGO_EVEREST_POSITIVEHD.png 'EVEREST LOGO')
 
