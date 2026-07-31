@@ -132,6 +132,7 @@ Registration is open; full details are on the [conference page](https://modelica
 *This article is provided by the American Modelica & FMI Conference 2026 organizing committee.*
 
 ### Modelon Innovate 2027
+![Modelon Innovate 2027](Modelon Innovate 2027.png)
 **Physics-Driven. Agent-Powered.**
 **April 21-22, 2027 | Clarion Malmö Live | Malmö, Sweden**
 
