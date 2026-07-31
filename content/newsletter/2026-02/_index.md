@@ -51,53 +51,70 @@ Dirk Zimmer on July 30, 2026 \
 
 <img src="fmi-design-meeting-munich.jpg">
 
-The FMI Project had a very productive in-person FMI Design meeting in Munich. Thanks to Torsten Sommer and Dassault Systèmes for hosting us - and to all participants from Akkodis, Bosch, Dassault Systèmes, German Aerospace Center (DLR), Keysight Technologies, PMSF IT Consulting Pierre R. Mai, Santa Anna IT Research Institute, Synopsys Inc and the participants in online sessions!
+The FMI Project had a very productive in-person FMI Design meeting in Munich. Thanks to **Torsten Sommer** and **Dassault Systèmes** for hosting us - and to all participants from **Akkodis, Bosch, Dassault Systèmes, German Aerospace Center (DLR), Keysight Technologies, PMSF IT Consulting Pierre R. Mai, Santa Anna IT Research Institute, Synopsys Inc** and the participants in online sessions!
 
 We made very good progress on 
-- the coming FMI 3.0.3 with important clarifications especially for clocks usage (that become important as many tools support them now, many of them in the context of the FMI-LS-BUS)
-- efficiency improvements for large FMI3.0-based simulation systems
-- the FMI Layered Standards for 
- * References (FMI-LS-REF)
- * Network Communication (FMI-LS-REF), especially cross-checking the coming v1.3 with Flexray, Ethernet, LIN support
- * Differential Algebraic Equations (FMI-LS-DAE)
-- Web Assembly Support in FMI (creating a first prototype and forming a working group)
+- the coming **FMI 3.0.3** with important clarifications especially for clocks usage (that become important as many tools support them now, many of them in the context of the FMI-LS-BUS)
+- **efficiency improvements** for large FMI3.0-based simulation systems
+- the **FMI Layered Standards** for 
+ * References (**FMI-LS-REF**)
+ * Network Communication (**FMI-LS-BUS**), especially cross-checking the coming v1.3 with Flexray, Ethernet, LIN support
+ * Differential Algebraic Equations (**FMI-LS-DAE**)
+- Web Assembly (**WASM**) support in FMI (creating a first prototype and forming a working group)
 And we had a lot of fun!
 
-#### 280+ tools supporting FMI listed on the FMI tools page´!
+#### 286 tools supporting FMI listed on the FMI tools page!
 
 The number of tools supporting the FMI Standard is still growing! Now we have 286 tools listed on https://fmi-standard.org/tools/ !
 If you know of any additional tools missing please encourage the tool vendors or authors to add them!
+
+#### fmusim re-implemented in Rust and separated out from the Reference FMUs repository
+
+fmusim is a command line tool to inspect, validate, and simulate FMUs that creates plots, logs FMI calls, and builds platform binaries. 
+Compared to the previous implementation in C which was part of the **Reference FMUs** (https://github.com/modelica/reference-fmus), the new fmusim is is now based on the **open source** [fmi-rs library](https://github.com/CATIA-Systems/fmi-rs), a completely new FMI library for FMI support implemented in **Rust** by **Torsten Sommer (Dassault Systèmes)**, and provided open source (https://github.com/modelica/fmusim) by the FMI Project within Modelica Association. Many Thanks, Torsten!!!
+
+**fmusim is one of the recommended validation tools for FMUs, but can also be used as a simple simulator for single FMUs.**
 
 #### News on FMI Layered Standards
 
 ##### FMI Layered Standard for Network Communication (FMI-LS-BUS) 
 
-The FMI Project is happy to announce the Pre-Release v1.3-beta.1 of the FMI Layered Standard for Network Communication!
+<img src="roadmap.svg">
 
-In this release FMI-LS-BUS: Ethernet and FMI-LS-BUS: LIN are going from Alpha to Beta state. Additionally it contains smaller adoptions for FMI-LS-BUS: FlexRay.
+The FMI Project is happy to announce the **Pre-Release v1.3-beta.1** of the FMI Layered Standard for Network Communication (**FMI-LS-BUS**)!
 
-Summarized this version includes the common Physical Signal Abstraction, that fits for all bus types, and the Network Abstraction that currently supports CAN, CAN FD, CAN XL (from v1.0.0), FlexRay (from v1.1.0; currently in Beta state), Ethernet (from v1.2.0; now in Beta state) and LIN (from v1.3.0; now in Beta state). Check out our roadmap to get more information about the expansion plans of the FMI-LS-BUS.
+In this release **Ethernet** and **LIN** support are going from Alpha to Beta state. Additionally it contains smaller adoptions for **FlexRay**.
 
-Many thanks to the whole FMI-LS-BUS working group (with members from Akkodis, Altair, AVL, Beckhoff Automation, Bosch, dSPACE, PMSF IT Consulting Pierre R. Mai, Siemens Digital Industries Software, Synopsys Inc, VECTOR Informatik)! And especially to Benedikt Menne for the release preparation!
+Summarized this version includes the common **Physical Signal Abstraction**, that fits for all bus types, and the Network Abstraction that currently supports CAN, CAN FD, CAN XL (from v1.0.0), FlexRay (from v1.1.0; currently in Beta state), Ethernet (from v1.2.0; now in Beta state) and LIN (from v1.3.0; now in Beta state). Check out our roadmap to get more information about the expansion plans of the FMI-LS-BUS.
+
+Many thanks to the whole FMI-LS-BUS **working group** (with members from **Akkodis, Altair, AVL, Beckhoff Automation, Bosch, dSPACE, PMSF IT Consulting Pierre R. Mai, Siemens Digital Industries Software, Synopsys Inc, VECTOR Informatik**)! And especially to Benedikt Menne for the release preparation!
 
 Learn more here: https://github.com/modelica/fmi-ls-bus/ and https://github.com/modelica/fmi-ls-bus/releases/tag/v1.3.0-beta.1
 
-
 ##### FMI Layered Standard References (FMI-LS-REF)
 
+The FMI Project is happy to announce the **Pre-Release v1.0.0-beta.1** of the FMI Layered Standard References (FMI-LS-REF)! Many thanks to the FMI Project - especially to the working group leader **Pierre R. Mai** - for their contributions!
 
-The FMI Project is happy to announce the Pre-Release v1.0.0-beta.1 of the FMI Layered Standard References (FMI-LS-REF)! Many thanks to the FMI Project - especially to the working group leader Pierre R. Mai - for their contributions!
+This layered standard provides the capability to clearly designate the roles of additional **related files** included in an FMU in a structured way. These files are described in the layered standard manifest file, which is part of the FMU archive. In this way, an FMU can be shipped together with related files that are helpful in understanding and correctly using the FMU in a recognizable way. Note that this layered standard does not mandate the inclusion of any related files with an FMU. It only provides a structured way to describe such files, if they are included. The included related files can be of arbitrary types, as long as their roles are described in the layered standard manifest file. This layered standard can be used in addition to other layered standards, and allows the central description of related files included with the FMU, independently of their use in other layered standards. Thus an implementation can treat the related files described in this layered standard in a uniform way, regardless of whether they are used in other layered standards or not, and regardless of whether the other layered standards are supported by the implementation or not.
 
-This layered standard provides the capability to clearly designate the roles of additional related files included in an FMU in a structured way. These files are described in the layered standard manifest file, which is part of the FMU archive. In this way, an FMU can be shipped together with related files that are helpful in understanding and correctly using the FMU in a recognizable way. Note that this layered standard does not mandate the inclusion of any related files with an FMU. It only provides a structured way to describe such files, if they are included. The included related files can be of arbitrary types, as long as their roles are described in the layered standard manifest file. This layered standard can be used in addition to other layered standards, and allows the central description of related files included with the FMU, independently of their use in other layered standards. Thus an implementation can treat the related files described in this layered standard in a uniform way, regardless of whether they are used in other layered standards or not, and regardless of whether the other layered standards are supported by the implementation or not.
-
-The experiments format that was formerly part of this layered standard can be used beyond FMI and will therefore be defined in the “harmonized specification” ma-hs-experiments developed by the new Coordination Project within Modelica Association, see https://github.com/modelica/ma-hs-experiments.
+The experiments format that was formerly part of this layered standard can be used beyond FMI and will therefore be defined in the “harmonized specification” **ma-hs-experiments** developed by the new Coordination Project within Modelica Association, see https://github.com/modelica/ma-hs-experiments.
 
 Learn more here: https://github.com/modelica/fmi-ls-ref/ and https://github.com/modelica/fmi-ls-ref/releases/tag/v1.0.0-beta.1
 
+##### FMI Layered Standard WebAssembly (FMI-LS-WASM)
+
+The FMI Project started working on supporting **WebAssembly (WASM)** as new "platform" besides platform specific binaries or source code.
+WASM has several benefits w.r.t. **portability** and **cyber-security** (through inherent sandboxing).
+We intend to support this in the form of a Layered Standard (FMI-LS-WASM), and created already a first prototype using the WebAssembly Component Model interface description language (WIT). (Many thanks to **Pierre Mai**!)
+
+You can find the first **prototype** here: https://github.com/modelica/fmi-ls-wasm
+Comments and feedback is very welcome - or become a contributor! (For that it is necessary that your organization signs the Contributor License Agreement). 
+
+*This article is provided by the FMI Project*
+
 ##### FMI Layered Standard for Differential-Algebraic Equations (FMI-LS-DAE)
 
-The working group on support for Differential-Algebraic Equations (DAE) in FMI, led by Joel Andersson (FMIOPT) and Andreas Heuermann (Santa Anna IT Research Institute), is actively working on a layered standard FMI-LS-DAE.
-A first pre-release of the standard (v1.0.0-alpha.1) is planned for 2026.
+The working group on support for **Differential-Algebraic Equations (DAE)** in FMI, led by **Joel Andersson (FMIOPT)** and **Andreas Heuermann (Santa Anna IT Research Institute)**, is actively working on a layered standard FMI-LS-DAE. A first pre-release of the standard (v1.0.0-alpha.1) is planned for 2026.
 
 The working group will present its progress in the paper *"Towards an FMI Layered Standard for DAE: Applications for Simulation and Optimization"* at the [American Modelica & FMI Conference 2026](https://modelica.org/events/american2026/).
 A preprint is already available on [arXiv](https://arxiv.org/abs/2606.22544).
@@ -105,16 +122,6 @@ A preprint is already available on [arXiv](https://arxiv.org/abs/2606.22544).
 You can follow the development on [GitHub](https://github.com/modelica/fmi-ls-dae) and read the [current draft of the specification](https://modelica.github.io/fmi-ls-dae/main/).
 
 *This article is provided by Andreas Heuermann, [Santa Anna IT Research Institute](https://www.santa-anna.se/)*
-
-
-##### FMI Layered Standard WebAssembly (FMI-LS-WASM)
-
-The FMI Project started working on supporting Web Assembly (WASM) as new "platform" besides platform specific binaries or source code.
-WASM has several benefits w.r.t. portability and cyber-security (through inherent sandboxing).
-We intend to support this in the form of a Layered Standard (FMI-LS-WASM), and created already a first prototype using the WebAssembly Component Model interface description language (WIT). (Many thanks to Pierre Mai!)
-
-You can find the first prototype here: https://github.com/modelica/fmi-ls-wasm
-Comments and feedback is very welcome - or become a contributor! (For that it is necessary that your organization signs the Contributor License Agreement). 
 
 <!-- END Modelica Association -->
 
@@ -155,6 +162,21 @@ The [preliminary program](https://modelica.org/events/asian2026/prelprogram/) of
 The program is further enriched by four prominent keynote speakers.
 
 Registration for the conference is open! All details on the [conference page](https://modelica.org/events/asian2026/)
+  
+### Modelon Innovate 2027
+![Modelon Innovate 2027](Modelon Innovate 2027.png)
+**Physics-Driven. Agent-Powered.**
+**April 21-22, 2027 | Clarion Malmö Live | Malmö, Sweden**
+
+Modelon Innovate returns in 2027 bringing together Modelon customers, partners, and industry experts for two in-person days of insight, education, and connection. 
+
+The event will feature industry-focused presentations, customer success stories, partner perspectives, product updates, and keynote insights exploring the future of simulation and AI-enabled engineering. 
+
+Participants will also experience applied, real-world training led by Modelon experts, with sessions focused on practical workflows in Modelon Impact, Modelica-based skills, troubleshooting, and ways to apply new capabilities to complex engineering challenges.
+
+Learn more on the [Modelon Innovate website.](https://www.modelon.com/innovate-2027/) 
+
+*This article is provided by Lauren Caris at Modelon.*
 
 
 <!-- END Conferences and user meetings -->
@@ -278,6 +300,45 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 
 *This article is provided by [Nicolas LAURENT](https://github.com/nl78), [Renault Group](https://www.renaultgroup.com/)*
 
+### TLK-Thermo News
+![TLK-Thermo Logo](TLK-Thermo_Logo.svg)
+
+#### Modeling Modern Liquid-Cooled Data Centers
+
+As computing power continues to grow, data center cooling is becoming a key challenge for efficiency, reliability and sustainability. As conventional air-cooling approaches reach their limits in managing growing heat loads, liquid cooling is emerging as an increasingly important solution. An exemplary system model of liquid-cooled CPU racks, implemented in **[TIL Suite 2026.1](https://www.tlk-thermo.com/en/software/til-suite)**, demonstrates how modern data center cooling systems can be modeled and simulated in Modelica. The example provides insights into the thermal behavior of complex cooling architectures and illustrates how simulation can support the design and optimization of next-generation data center infrastructure. This topic will also be presented at **[ThermoSim 2026](https://tlk-energy.de/en/events/thermosim-conference-2026)** in Aachen (22-23 September) by our Modelica and TIL Suite expert Ingo Frohböse.
+
+![TIL Data Center Cooling Example](TIL_DataCenterCooling.png 'TIL System Model Example for Data Center Cooling')
+
+#### Accelerating BTMS Development Through Fast 3D Modelica Simulation
+
+Evaluating battery thermal management system (BTMS) concepts often requires computationally expensive CFD analyses, especially when dynamic operating conditions must be considered. The new **[TIL Add-On Battery](https://www.tlk-thermo.com/fileadmin/user_upload/SoftwareFiles/TILSuite/OnePager_AddOnBattery.pdf)** addresses this challenge by combining fast 1D methods with 3D-resolved battery models, enabling rapid simulation of temperatures, voltages, SoC, currents, and heat dissipation in battery stacks and complete systems, including their integration into cooling and refrigeration cycles. This approach supports rapid assessment of BTMS topologies and operating scenarios while reducing the effort associated with traditional CFD-based design iterations.
+
+![TIL AddOn Battery](TIL_AddOn_Battery_BTMS.png 'Battery Thermal Management System Development with the TIL AddOn Battery')
+
+#### Meet Our Experts
+
+Visit us at the [Asian Modelica & FMI Conference 2026](https://modelica.org/events/asian2026/) in Hangzhou, China (21-22 September), where our Head of Software Development, Christian Schulze, will be available at our booth to discuss our latest developments in Modelica-based simulation and software tools.
+
+In addition, we will be exhibiting together with our partner TLK Energy at [Chillventa 2026](https://www.chillventa.de/en/exhibitors/tlk-thermo-gmbh-2557518), where we will showcase how simulation and testing can help address technical challenges in the development of refrigeration, HVAC and heat pump systems. Visitors can learn more about our software solutions and engineering services for efficient system development, validation and optimization.
+
+*This article is provided by Lisa Busche, [TLK-Thermo GmbH](https://www.tlk-thermo.com/en/)*
+
+ ![Modelon Logo](https://github.com/modelica/www.modelica.org/blob/a0d305b6145c9e9bc6172771a7aa3746df3f4905/content/newsletter/2025-01/Modelon_Flat_RGB_300.png)
+
+### Introducing the Data Center Library for Modelon Impact
+Modelon has launched the **Data Center Library for Modelon Impact**, a new Modelica-based library that helps engineers design, simulate, and optimize data center cooling systems in response to the growing demands of AI-driven infrastructure. The library provides a system-level approach, enabling users to evaluate interactions between cooling plants, distribution systems, rack-level cooling, and controls within a single simulation environment. 
+
+The library includes configurable models for chillers, cooling towers, pumps, heat exchangers, CDUs, CRAHs, and air-, liquid-, and hybrid-cooled racks, along with reference system designs and calibrated vendor components. Engineers can compare cooling strategies, assess energy and water efficiency, validate control logic, and reduce design risk earlier in the development process more quickly with confidence in simulation results. 
+
+Available exclusively in Modelon Impact, the Data Center Library also supports future digital twin initiatives by providing reusable, physics-based models that can be connected with operational data to improve long-term performance and optimization. [Learn more about the Data Center Library.](https://www.modelon.com/blog/introducing-the-data-center-library-for-modelon-impact/)
+
+### Modelon Advances AI-Assisted Engineering with Agentic Simulation
+Modelon has enhanced its [AI Assistant in Modelon Impact](https://www.modelon.com/blog/from-ai-guidance-to-agentic-simulation-in-modelon-impact/) with new agentic simulation capabilities, allowing engineers to interact directly with models using natural language. Users can explore model structures, analyze Modelica code, identify modeling issues, launch saved simulation experiments, and monitor simulation progress, all without navigating complex workflows manually. 
+
+The updated assistant also introduces drag-and-drop functionality for creating plots from simulation results and adding recommended components directly to model diagrams. Built on a modular, context-aware architecture with support for Model Context Protocols (MCP), the technology is designed to streamline simulation workflows, reduce time spent on repetitive tasks, and help engineers move more quickly from questions to actionable insights while maintaining control over the engineering process.
+
+*This article is provided by Lauren Caris, [Modelon](https://modelon.com/)*
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
@@ -326,7 +387,14 @@ Source code, build instructions, and documented fixes:
 [github.com/KBARMAN11/sil-ecu-virtualization](https://github.com/KBARMAN11/sil-ecu-virtualization)
 
 ![SIL ECU virtualization stack with FMI-LS-BUS CAN and Ethernet](fmi-ls-bus-vecu-sil-stack.png)
-
 *This article is provided by Karan Barman*
+
+
+### Why Two-Phase Direct-to-Chip Cooling is Reaching a Tipping Point
+
+As AI data centers push cooling systems to new limits, **Modelon** and researchers from the **University of Maryland** are using Modelica-based, system-level simulation to evaluate the potential of two-phase direct-to-chip cooling. Their research highlights why transient simulation is essential for understanding dynamic behavior, control strategies, and system stability in next-generation cooling architectures. The article also demonstrates how physics-based modeling helps bridge experimental research and industrial decision-making, enabling engineers to explore complex interactions before hardware is built. Read the [full article](https://www.modelon.com/blog/why-two-phase-direct-to-chip-cooling-is-reaching-a-tipping-point/) for insights into an emerging application area where Modelica and system simulation are helping shape the future of AI infrastructure.
+
+*This article is provided by Lauren Caris, [Modelon](https://modelon.com/)*
+
 
 <!-- END Education news -->
