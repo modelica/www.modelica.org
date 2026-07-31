@@ -507,7 +507,7 @@ Practically, the method is being applied to develop dedicated simulation and dig
 
 We are undergoing a transition period where computer intelligence is rising to dominance. It will become widely available to everyone at an unprecedented level of intelligence and also at low cost. Such transition periods are often highly chaotic and short-term predictions may hence be rather inaccurate. Based on first principles, however, we can predict what ultimately will prevail after the transition has taken place. This keynote shall provide such an analysis to answer the most relevant questions from the perspective of system simulation: Will the use of simulation rise or fall? Will there be a need for system simulation? What will be the use of Modelica in the future? Will mathematical modeling still be a thing for humans and for computers? The keynote will also explain why it uses the term computer intelligence rather than artificial intelligence. 
 
-### AI Safety and Development Tools for Autonomous Driving
+### Reflections on AI Safety and R&D Tools for Intelligent Vehicles
 
 
 {{<rawhtml>}}
