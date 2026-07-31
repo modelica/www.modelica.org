@@ -300,6 +300,44 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 
 *This article is provided by [Nicolas LAURENT](https://github.com/nl78), [Renault Group](https://www.renaultgroup.com/)*
 
+### ODE+: DLR PowerTrain, AI-native Component, and Exploration
+
+#### Commercial Modelica libraries: DLR PowerTrain added
+
+The August 2026 release of **ODE+ Component** adds support for the **DLR PowerTrain** library. Total-vehicle examples load, translate and simulate with diagram annotations, control bus and variant selection preserved. Support for further commercial DLR libraries, such as the Actuator Library, is in preparation.
+
+{{<rawhtml>}}
+<p style="text-align:center"><img src="powertrain.svg" alt="ODE+ Component running the DLR PowerTrain CarPerformance example" style="max-width:100%;height:auto"></p>
+{{</rawhtml>}}
+
+#### Component: a rebuilt Modelica IDE
+
+- **AI-assisted modeling** — the assistant builds a model from a natural-language description: selecting and connecting components, generating documentation and icons, and helping locate translation and simulation errors. Generated Modelica code stays editable at every step.
+- **Teams** — users create and administer teams in the application. A team space holds shared component libraries and result data, with computing hours pooled across the team.
+- **Elastic compute** — studies run on a scalable compute cluster rather than a fixed local machine. GPU instances will follow later.
+- **Interactive canvas** — dials, switches, charts and 3D animation sit on the diagram and bind to simulation variables, so a model can be operated and read out in place.
+
+{{<rawhtml>}}
+<p style="text-align:center"><img src="ode-component-1486x779.svg" alt="ODE+ Component assistant building and tuning a PI speed controller" style="max-width:100%;height:auto"></p>
+{{</rawhtml>}}
+
+#### Exploration: optimisation with AI-assisted setup
+
+**ODE+ Exploration**, also available from August 2026, solves single- and multi-objective problems over an analytic expression or a Modelica model. Tuners, objectives and constraints are defined in the interface; Pareto-front and parallel-coordinate views update while the study runs. Objectives that depend on a simulation result — overshoot, settling time, or an integral over a trajectory — can be generated from natural language as editable expressions; after a study completes, AI summarises the Pareto front and trade-offs. The optimisation engine is developed with [Empower Operations](https://empowerops.com).
+
+{{<rawhtml>}}
+<p style="text-align:center"><img src="ode-exploration-1486x779.svg" alt="ODE+ Exploration multi-objective study with Pareto front and parallel coordinates" style="max-width:100%;height:auto"></p>
+{{</rawhtml>}}
+
+#### New brand and website
+
+{{<rawhtml>}}
+<p style="text-align:center"><img src="ODESeries.svg" alt="ODE+ logo" style="max-width:320px;height:auto"></p>
+{{</rawhtml>}}
+
+The product family is renamed to **ODE Plus**, with a new logo and landing page. From August 2026, products are reached at [ode.plus](https://www.ode.plus) instead of [orthogonal.dev](https://www.orthogonal.dev).
+
+*This article is provided by Dr. Yang Ji ([orthogonal GmbH](https://www.orthogonal.dev))*
 ### XRG Simulation - Summer news
 
 ![XRG Logo](XRG_Logo_2015_4c_212.png 'XRG Logo')
