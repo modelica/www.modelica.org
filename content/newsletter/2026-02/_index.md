@@ -252,11 +252,7 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 
 *This article is provided by [Nicolas LAURENT](https://github.com/nl78), [Renault Group](https://www.renaultgroup.com/)*
 
----
-title: XRG Simulation - Summer news
-author: "Stefan Wischhusen [XRG Simulation GmbH](https://xrg-simulation.de/en)"
-category: "vendor"
----
+## XRG Simulation - Summer news
 
 ![XRG Logo](XRG_Logo_2015_4c_212.png 'XRG Logo')
 
@@ -307,9 +303,7 @@ For more information about the research project, which is kindly funded through 
  - Open-source SMArtInt version on [**SMArtInt Github**](https://github.com/xrg-simulation/SMArtInt)
  - [**SMArtInt paper**](https://doi.org/10.3384/ecp218459) "Status of the SMArtInt Library" 
 
-
-
-
+*This article is provided by Stefan Wischhusen ([XRG Simulation GmbH](https://www.xrg-simulation.de/en))*
 
 
 
