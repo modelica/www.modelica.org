@@ -259,7 +259,7 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 The August 2026 release of **ODE+ Component** adds support for the **DLR PowerTrain** library. Total-vehicle examples load, translate and simulate with diagram annotations, control bus and variant selection preserved. Support for further commercial DLR libraries, such as the Actuator Library, is in preparation.
 
 {{<rawhtml>}}
-<p style="text-align:center"><img src="powertrain.png" alt="ODE+ Component running the DLR PowerTrain CarPerformance example" style="max-width:100%;height:auto"></p>
+<p style="text-align:center"><img src="powertrain.svg" alt="ODE+ Component running the DLR PowerTrain CarPerformance example" style="max-width:100%;height:auto"></p>
 {{</rawhtml>}}
 
 #### Component: a rebuilt Modelica IDE
