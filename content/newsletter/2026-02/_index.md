@@ -300,6 +300,60 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 
 *This article is provided by [Nicolas LAURENT](https://github.com/nl78), [Renault Group](https://www.renaultgroup.com/)*
 
+### XRG Simulation - Summer news
+
+![XRG Logo](XRG_Logo_2015_4c_212.png 'XRG Logo')
+
+#### Upcoming Events
+
+##### Asian Modelica & FMI Conference 2026 (Hangzhou, PR China)
+
+The event will take place at the high-tech city of Hangzhou, PR of China from **September 20-22, 2026**. XRG Simulation is happy to be Gold sponsor of the conference and will be present with a booth and an exciting tutorial about AI-driven surrogate modelling using XRG's **SMArtInt and SMArtInt+ Library**:
+
+![SMArtInt+ Logo](xrg-SMArtInt+-library.png 'SMArtInt+ Logo')
+
+**SMArtInt+ - Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica**
+
+The 3-hours workshop on Sunday afternoon will be conducted by Tim Hanke. If you intend to participate, please register through the conference registration platform in advance since some parts of the workshop require licensed software for an optimal user experience. The following simulation tools may be used in recent versions: **Dymola**, **OpenModelica** and **MWorks Sysplorer**.
+
+Please also visit the [**Conference Website**](https://modelica.org/events/asian2026/) for more information.
+
+##### ThermoSim2026 Aachen (Germany)
+
+On **September 22 and 23, 2026**, the fourth ThermoSim will take place in Aachen – the expert conference on thermal system simulation with a focus on Modelica and FMI. The conference language will be German, with optional English translation available. XRG Simulation is one of the four organizers of **ThermoSim 2026** and will also be present as an exhibitor. We will be happy to welcome you at our booth and discuss our workflow for **whole-year building and building systems simulation**.
+
+Furthermore, our colleagues Annika Kuhlmann and Jon Babst will give a talk about coupling HVAC Library models with the well-known **Buildings Library**:
+
+**Best of Both Worlds – Integrating HVAC Library Heating and Cooling Systems with Models from the Buildings Library**
+
+For more details, please visit the [**ThermoSim Conference Website**](https://tlk-energy.de/en/events/thermosim-conference-2026). 
+
+![ThermoSim XRG](ThermoSimXRG.jpg 'ThermoSim XRG')
+
+##### American Modelica & FMI Conference 2026 (Atlanta, Georgia, USA)
+
+This in-person conference event will take place at the Georgia Institute of Technology in the Aerospace Systems Design Laboratory from **October 12–14, 2026** and is sponsored by XRG Simulation GmbH. We will be present with a booth in the exhibition area and will be happy to discuss our software solutions (e.g., HVAC simulations and AI-driven surrogate modelling) with you.
+
+For more information visit the [**Conference Website**](https://modelica.org/events/american2026/).  
+
+#### New Research
+
+![EVEREST](LOGO_EVEREST_POSITIVEHD.png 'EVEREST LOGO')
+
+XRG has joined the EU funded Horizon project **EVEREST** with 12 european partners from industry and research. EVEREST stands for: **Energy-efficient VEhicle Range Enhancement through Smart Thermal design and user-centric solutions**. The objective of EVEREST is to develop and demonstrate innovative, user-centric, and cost-effective thermal and energy management solutions for battery-electric light duty vehicles (LDVs) and light commercial vehicles (LCVs) 
+that maintain driving range under extreme weather conditions while accounting for personalised thresholds of thermal 
+comfort. This includes identifying and validating user requirements and acceptance thresholds, reducing climate related range loss by at least 30% compared to the state of the art, and achieving a 10% improvement in overall energy demand through intelligent, predictive- and AI-based control strategies integrated with future smart city standards. Technical solutions are developed with **virtual demonstrators** (simulation models), implemented in **real-world vehicle demonstrators**, and evaluated on test rigs.   
+
+For more information about the research project, which is kindly funded through the EU grant agreement Horizon-CL5-2025-04-D5-05, visit the official [**Project Website**](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2025-04-D5-05?order=DESC&pageNumber=1&pageSize=50&sortBy=relevance&keywords=HORIZON-CL5-2025-04-D5-05&isExactMatch=true&status=31094501,31094502,31094503&frameworkProgramme=43108390&callIdentifier=HORIZON-CL5-2025-04)
+
+#### References
+
+ - Open-source SMArtInt version on [**SMArtInt Github**](https://github.com/xrg-simulation/SMArtInt)
+ - [**SMArtInt paper**](https://doi.org/10.3384/ecp218459) "Status of the SMArtInt Library" 
+
+*This article is provided by Stefan Wischhusen ([XRG Simulation GmbH](https://www.xrg-simulation.de/en))*
+
+
 ### OpenModelica 1.27.0
 
 #### Main highlights:
