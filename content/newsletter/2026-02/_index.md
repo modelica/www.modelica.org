@@ -286,7 +286,7 @@ For more details, please visit the [**ThermoSim Conference Website**](https://tl
 
 This in-person conference event will take place at the Georgia Institute of Technology in the Aerospace Systems Design Laboratory from **October 12–14, 2026** and is sponsored by XRG Simulation GmbH. We will be present with a booth in the exhibition area and will be happy to discuss our software solutions (e.g., HVAC simulations and AI-driven surrogate modelling) with you.
 
-For more information visit the [**conference website**](https://modelica.org/events/american2026/).  
+For more information visit the [**Conference Website**](https://modelica.org/events/american2026/).  
 
 ### New Research
 
