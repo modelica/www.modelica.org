@@ -258,7 +258,9 @@ Try it out, and let us know what you build with it! Bug reports or feature reque
 
 The August 2026 release of **ODE+ Component** adds support for the **DLR PowerTrain** library. Total-vehicle examples load, translate and simulate with diagram annotations, control bus and variant selection preserved. Support for further commercial DLR libraries, such as the Actuator Library, is in preparation.
 
-![ODE+ Component running the DLR PowerTrain CarPerformance example](ode-component-dlr-powertrain.png)
+{{<rawhtml>}}
+<p style="text-align:center"><img src="ode-component-dlr-powertrain.png" alt="ODE+ Component running the DLR PowerTrain CarPerformance example" width="620"></p>
+{{</rawhtml>}}
 
 #### Component: a rebuilt Modelica IDE
 
@@ -267,17 +269,23 @@ The August 2026 release of **ODE+ Component** adds support for the **DLR PowerTr
 - **Elastic compute** — studies run on a scalable compute cluster rather than a fixed local machine. GPU instances will follow later.
 - **Interactive canvas** — dials, switches, charts and 3D animation sit on the diagram and bind to simulation variables, so a model can be operated and read out in place.
 
-![ODE+ Component assistant building and tuning a PI speed controller](ode-component-assistant.png)
+{{<rawhtml>}}
+<p style="text-align:center"><img src="ode-component-assistant.png" alt="ODE+ Component assistant building and tuning a PI speed controller" width="620"></p>
+{{</rawhtml>}}
 
 #### Exploration: optimisation with AI-assisted setup
 
 **ODE+ Exploration**, also available from August 2026, solves single- and multi-objective problems over an analytic expression or a Modelica model. Tuners, objectives and constraints are defined in the interface; Pareto-front and parallel-coordinate views update while the study runs. Objectives that depend on a simulation result — overshoot, settling time, or an integral over a trajectory — can be generated from natural language as editable expressions; after a study completes, AI summarises the Pareto front and trade-offs. The optimisation engine is developed with [Empower Operations](https://empowerops.com).
 
-![ODE+ Exploration multi-objective study with Pareto front and parallel coordinates](ode-exploration.png)
+{{<rawhtml>}}
+<p style="text-align:center"><img src="ode-exploration.png" alt="ODE+ Exploration multi-objective study with Pareto front and parallel coordinates" width="620"></p>
+{{</rawhtml>}}
 
 #### New brand and website
 
-![ODE+ logo](ode-brand-logo.png)
+{{<rawhtml>}}
+<p style="text-align:center"><img src="ode-brand-logo.png" alt="ODE+ logo" width="320"></p>
+{{</rawhtml>}}
 
 The product family is renamed to **ODE+**, with a new logo and landing page. From August 2026, products are reached at [ode.plus](https://www.ode.plus) instead of [orthogonal.dev](https://www.orthogonal.dev).
 
