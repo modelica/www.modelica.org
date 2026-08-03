@@ -569,6 +569,22 @@ Future work will expand the supported language profiles and strengthen verificat
 
 *This article is provided by Pradyunn Kale, Micah Condie, and James Goppert, [Purdue University](https://engineering.purdue.edu/PURT)*
 
+### LunCoSim: Modelica models projected from OpenUSD assemblies
+
+![LunCo](luncosim-logo.png 'LunCo')
+
+LunCoSim is an open-source, Rust-based simulator for lunar and orbital mission engineering. The multi-physics behaviour of its spacecraft and rovers — electrical, thermal, propulsion, comms, GNC — is described in Modelica and compiled in-process by the [rumoca](https://github.com/CogniPilot/rumoca) compiler.
+
+Models are not written per scene. Each reusable part is an [OpenUSD](https://openusd.org) prim naming a Modelica class, exposing its acausal members as `connectors:` and its causal boundary as `inputs:`/`outputs:`; ordinary USD property connections author the topology. At runtime LunCoSim walks that graph and projects the included components into one generated Modelica model — `connect()` equations for the acausal members, port wires for the causal blocks — then compiles and simulates it. Editing the assembly regenerates and recompiles the model without restarting the session.
+
+![A rover assembled in OpenUSD and the Modelica model projected from it](luncosim-usd-modelica-projection.png 'Rover assembly and its projected Modelica model')
+
+The split exists because USD is good at assembly and poor at physics. Keeping every equation in Modelica means the conservation laws are enforced by the language rather than by us: a `flow` variable on an electrical `Pin` is what makes Kirchhoff's current law hold, whatever else is bolted onto the bus. That keeps the work on mission-level systems engineering.
+
+The Modelica-based subsystem models are now entering integrated testing. Source and documentation: [github.com/LunCoSim/lunco-sim](https://github.com/LunCoSim/lunco-sim).
+
+*This article is provided by [Rod Mamin](https://github.com/0xIonRod), [Rina Faber](https://github.com/CatRinaFaber) and Aleksa Djurdjevic ([LunCo](https://lunco.space/))*
+  
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
