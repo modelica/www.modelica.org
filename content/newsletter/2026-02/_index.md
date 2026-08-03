@@ -218,23 +218,12 @@ For Libraries, our main Modelica platform is Modelon Impact, but we work with ot
 
 #### [Services and Training](https://modelbased.cloud/services/)
 
-<!-- TODO: add images -->
-
-MBI offers **open enrollment Modelica courses** to help your team level up fast:
-
-- **Modelica Basics** — build a solid foundation in acausal, equation-based modeling from day one.
-- **Advanced Modelica** — sharpen your skills for tackling complex, multi-domain systems.
-- **Modelica for Controls Development** — bridge system simulation and controls engineering with hands-on, practical techniques.
-- **Agentic AI for Modelica Modeling and Simulation** — learn to accelerate your modeling workflow with curated skills files and purpose-built MCP integrations.
+MBI offers **open enrollment Modelica courses** to help your team level up fast: **Modelica Basics** (a solid foundation in acausal, equation-based modeling), **Advanced Modelica** (complex, multi-domain systems), **Modelica for Controls Development** (bridging system simulation and controls engineering), and **Agentic AI for Modelica Modeling and Simulation** (curated skills files and purpose-built MCP integrations).
 
 In collaboration with **eXXcellent Solutions GmbH**, MBI also offers a dedicated training course on implementing the **Credible Simulation Process** with **SSP** and **SSP-Traceability** in [easySSP](https://www.easy-ssp.com/) — bringing rigor and traceability to every simulation result.
 
-![orchideo | easySSP - simulations you can trust](EasySSP.png 'easySSP credible simulation process: analysis, requirements, design, implementation, execution, evaluation, fulfillment')
+For organizations ready to scale, MBI offers a course on building a **flexible, scalable governance structure for system simulation**, driven by automated, agentic-AI-based checking of process requirements. Governance depth and verification rigor are tailored to your needs through a simulation risk assessment based on the **NAFEMS ASSESS Engineering Simulation Risk model**, updated to the latest **NASA Modeling and Simulation Handbook 7009B** (2026 edition). [Contact us](mailto:hubertus.tummescheit@modelbased.cloud) to learn more.
 
-For organizations ready to scale, MBI offers a course on building a **flexible, scalable governance structure for system simulation**, driven by automated, agentic-AI-based checking of process requirements. Governance depth and verification rigor are tailored to your needs through a simulation risk assessment based on the **NAFEMS ASSESS Engineering Simulation Risk model**, updated to the latest **NASA Modelica and Simulation Handbook 7009B** (2026 edition). [Contact us](mailto:hubertus.tummescheit@modelbased.cloud) to learn more.
-{{<rawhtml>}}
- <img src="RiskModel.png" width="523" alt="NAFEMS ASSESS Engineering Simulation Risk model" title="Simulation risk assessment matrix: Decision Consequence vs. Simulation Result Influence">
-{{</rawhtml>}}
 With the above portfolio, [MBI LLC](https://modelbased.cloud/) will select the right solution for you, no matter where you are on your journey to standards-based system simulation!
 Please [contact us](https://modelbased.cloud/company/) with your requests!
 
@@ -345,37 +334,11 @@ The product family is renamed to **ODE Plus**, with a new logo and landing page.
 
 ![XRG Logo](XRG_Logo_2015_4c_212.png 'XRG Logo')
 
-#### Upcoming Events
+#### Where to meet us
 
-##### Asian Modelica & FMI Conference 2026 (Hangzhou, PR China)
-
-The event will take place at the high-tech city of Hangzhou, PR of China from **September 20-22, 2026**. XRG Simulation is happy to be Gold sponsor of the conference and will be present with a booth and an exciting tutorial about AI-driven surrogate modelling using XRG's **SMArtInt and SMArtInt+ Library**:
-
-![SMArtInt+ Logo](xrg-SMArtInt+-library.png 'SMArtInt+ Logo')
-
-**SMArtInt+ - Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica**
-
-The 3-hours workshop on Sunday afternoon will be conducted by Tim Hanke. If you intend to participate, please register through the conference registration platform in advance since some parts of the workshop require licensed software for an optimal user experience. The following simulation tools may be used in recent versions: **Dymola**, **OpenModelica** and **MWorks Sysplorer**.
-
-Please also visit the [**Conference Website**](https://modelica.org/events/asian2026/) for more information.
-
-##### ThermoSim2026 Aachen (Germany)
-
-On **September 22 and 23, 2026**, the fourth ThermoSim will take place in Aachen – the expert conference on thermal system simulation with a focus on Modelica and FMI. The conference language will be German, with optional English translation available. XRG Simulation is one of the four organizers of **ThermoSim 2026** and will also be present as an exhibitor. We will be happy to welcome you at our booth and discuss our workflow for **whole-year building and building systems simulation**.
-
-Furthermore, our colleagues Annika Kuhlmann and Jon Babst will give a talk about coupling HVAC Library models with the well-known **Buildings Library**:
-
-**Best of Both Worlds – Integrating HVAC Library Heating and Cooling Systems with Models from the Buildings Library**
-
-For more details, please visit the [**ThermoSim Conference Website**](https://tlk-energy.de/en/events/thermosim-conference-2026). 
-
-![ThermoSim XRG](ThermoSimXRG.jpg 'ThermoSim XRG')
-
-##### American Modelica & FMI Conference 2026 (Atlanta, Georgia, USA)
-
-This in-person conference event will take place at the Georgia Institute of Technology in the Aerospace Systems Design Laboratory from **October 12–14, 2026** and is sponsored by XRG Simulation GmbH. We will be present with a booth in the exhibition area and will be happy to discuss our software solutions (e.g., HVAC simulations and AI-driven surrogate modelling) with you.
-
-For more information visit the [**Conference Website**](https://modelica.org/events/american2026/).  
+- **[Asian Modelica & FMI Conference 2026](https://modelica.org/events/asian2026/)** (Hangzhou, September 20-22) — XRG is Gold sponsor and will be present with a booth. Tim Hanke will conduct the 3-hour Sunday afternoon tutorial *SMArtInt+ – Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica*. Please register through the conference platform in advance, as parts of the workshop require licensed software (**Dymola**, **OpenModelica** or **MWorks Sysplorer**).
+- **[ThermoSim 2026](https://tlk-energy.de/en/events/thermosim-conference-2026)** (Aachen, September 22-23) — the expert conference on thermal system simulation with a focus on Modelica and FMI, held in German with optional English translation. XRG is one of the four organizers and will exhibit. Annika Kuhlmann and Jon Babst will present *Best of Both Worlds – Integrating HVAC Library Heating and Cooling Systems with Models from the Buildings Library*.
+- **[American Modelica & FMI Conference 2026](https://modelica.org/events/american2026/)** (Atlanta, October 12-14) — XRG is a sponsor and will be present with a booth in the exhibition area, discussing HVAC simulation and AI-driven surrogate modelling.
 
 #### New Research
 
