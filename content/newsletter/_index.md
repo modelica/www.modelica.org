@@ -11,9 +11,10 @@ You can select to subscribe for the newsletter, for specific topics and as a con
 
 Contributions are open to everyone, please see the submission [guidelines](guidelines) for details.
 
-**Currently collecting contributions: issue 2026-02.** Please add your post to
+<!-- **Currently collecting contributions: issue 2026-02.** Please add your post to
 [`content/newsletter/2026-02/_index.md`](https://github.com/modelica/www.modelica.org/blob/main/content/newsletter/2026-02/_index.md)
 and not to any other issue.
+-->
 
 Issues
 
