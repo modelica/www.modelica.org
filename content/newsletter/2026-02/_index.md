@@ -554,6 +554,18 @@ The updated assistant also introduces drag-and-drop functionality for creating p
 
 *This article is provided by Lauren Caris, [Modelon](https://modelon.com/)*
 
+### Rumoca: From a Modelica Controller to Fixed-Wing Flight with eFMI
+
+[Rumoca](https://rumoca.cognipilot.org/) is an open-source Modelica compiler that generates code for CasADi, JAX, Julia, SymForce, and other scientific-computing environments. Recent work extends Rumoca with an [eFMI](https://www.efmi-standard.org/) workflow for deploying sampled control algorithms on embedded systems: a controller authored in Modelica is translated into an eFMI Algorithm Code representation in GALEC, from which Rumoca generates C Production Code and packages both into an embedded FMU. Models outside the supported profile of deterministic, fixed-period sampled controllers are rejected with compiler diagnostics.
+
+The workflow was demonstrated on the outer-loop controller of a small autonomous fixed-wing aircraft. The Modelica controller, covering state estimation, waypoint guidance, a TECS-style outer loop, saturation, anti-windup, and fail-safe logic, was compiled by Rumoca and integrated into [Cerebri](https://github.com/CogniPilot/cerebri_cubs2), the Zephyr-RTOS flight software of the CogniPilot ecosystem, running at 50 Hz with Qualisys motion-capture feedback. After software-in-the-loop validation, the aircraft completed autonomous waypoint flight, demonstrating an end-to-end path from Modelica source to real-time embedded execution.
+
+![Real-world trajectory of the fixed-wing aircraft using the Rumoca-generated eFMI controller, and the HobbyZone Sport Cub S2 aircraft equipped with a Qualisys motion-capture active-marker board](rumoca-flight-demo.png 'Left: real-world trajectory flown with the Rumoca-generated eFMI controller. Right: HobbyZone Sport Cub S2 with Qualisys motion-capture active-marker board.')
+
+Future work will expand the supported language profiles and strengthen verification between the Modelica source, generated GALEC, and C code. The team welcomes collaboration; see the [Rumoca repository](https://github.com/CogniPilot/rumoca) and the [fixed-wing WebAssembly demo](https://cognipilot.github.io/rumoca_fixed_wing/).
+
+*This article is provided by Pradyunn Kale, Micah Condie, and James Goppert, [Purdue University](https://engineering.purdue.edu/PURT)*
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
