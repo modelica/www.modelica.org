@@ -616,7 +616,7 @@ As a renowned historical and cultural city with a history spanning over 2,000 ye
 | Registration                 | Valid        | incl. Dinner | Early-Price | Price   |
 |------------------------------|--------------|:------------:|------------:|--------:|
 | Standard                     | Mon-Tue      | yes          | 1875 CNY    | 2500 CNY|
-| Student                      | Mon-Tue      | yes          |  750 CNY    |  750 CNY|
+| Student                      | Mon-Tue      | yes          |  750 CNY    |  1000 CNY|
 | Conference Dinner            | Dinner       | yes          |  225 CNY    |  300 CNY|
 
 <!--
