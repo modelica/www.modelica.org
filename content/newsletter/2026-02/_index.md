@@ -164,8 +164,9 @@ The program is further enriched by four prominent keynote speakers.
 Registration for the conference is open! All details on the [conference page](https://modelica.org/events/asian2026/)
   
 ### Modelon Innovate 2027
-![Modelon Innovate 2027](Modelon Innovate 2027.png)
-**Physics-Driven. Agent-Powered.**
+![Modelon Innovate 2027](https://github.com/modelica/www.modelica.org/blob/99804e66d423bb12ab505bd0228ae5d7b63c2da0/content/newsletter/2026-02/Modelon%20Innovate%202027.png)
+
+**Physics-Driven. Agent-Powered.**\
 **April 21-22, 2027 | Clarion Malmö Live | Malmö, Sweden**
 
 Modelon Innovate returns in 2027 bringing together Modelon customers, partners, and industry experts for two in-person days of insight, education, and connection. 
@@ -316,6 +317,8 @@ The August 2026 release of **ODE+ Component** adds support for the **DLR PowerTr
 - **Teams** — users create and administer teams in the application. A team space holds shared component libraries and result data, with computing hours pooled across the team.
 - **Elastic compute** — studies run on a scalable compute cluster rather than a fixed local machine. GPU instances will follow later.
 - **Interactive canvas** — dials, switches, charts and 3D animation sit on the diagram and bind to simulation variables, so a model can be operated and read out in place.
+- **Modelica Standard Library 4.1** — MSL 4.1 is supported for load, translate and simulate workflows.
+- **Modelica Buildings Library 13** — the Buildings library version 13 is supported.
 
 {{<rawhtml>}}
 <p style="text-align:center"><img src="ode-component-1486x779.svg" alt="ODE+ Component assistant building and tuning a PI speed controller" style="max-width:100%;height:auto"></p>
@@ -554,6 +557,18 @@ The updated assistant also introduces drag-and-drop functionality for creating p
 
 *This article is provided by Lauren Caris, [Modelon](https://modelon.com/)*
 
+### Rumoca: From a Modelica Controller to Fixed-Wing Flight with eFMI
+
+[Rumoca](https://rumoca.cognipilot.org/) is an open-source Modelica compiler that generates code for CasADi, JAX, Julia, SymForce, and other scientific-computing environments. Recent work extends Rumoca with an [eFMI](https://www.efmi-standard.org/) workflow for deploying sampled control algorithms on embedded systems: a controller authored in Modelica is translated into an eFMI Algorithm Code representation in GALEC, from which Rumoca generates C Production Code and packages both into an embedded FMU. Models outside the supported profile of deterministic, fixed-period sampled controllers are rejected with compiler diagnostics.
+
+The workflow was demonstrated on the outer-loop controller of a small autonomous fixed-wing aircraft. The Modelica controller, covering state estimation, waypoint guidance, a TECS-style outer loop, saturation, anti-windup, and fail-safe logic, was compiled by Rumoca and integrated into [Cerebri](https://github.com/CogniPilot/cerebri_cubs2), the Zephyr-RTOS flight software of the CogniPilot ecosystem, running at 50 Hz with Qualisys motion-capture feedback. After software-in-the-loop validation, the aircraft completed autonomous waypoint flight, demonstrating an end-to-end path from Modelica source to real-time embedded execution.
+
+![Real-world trajectory of the fixed-wing aircraft using the Rumoca-generated eFMI controller, and the HobbyZone Sport Cub S2 aircraft equipped with a Qualisys motion-capture active-marker board](rumoca-flight-demo.png 'Left: real-world trajectory flown with the Rumoca-generated eFMI controller. Right: HobbyZone Sport Cub S2 with Qualisys motion-capture active-marker board.')
+
+Future work will expand the supported language profiles and strengthen verification between the Modelica source, generated GALEC, and C code. The team welcomes collaboration; see the [Rumoca repository](https://github.com/CogniPilot/rumoca) and the [fixed-wing WebAssembly demo](https://cognipilot.github.io/rumoca_fixed_wing/).
+
+*This article is provided by Pradyunn Kale, Micah Condie, and James Goppert, [Purdue University](https://engineering.purdue.edu/PURT)*
+
 ### LunCoSim: Modelica models projected from OpenUSD assemblies
 
 ![LunCo](luncosim-logo.png 'LunCo')
@@ -569,7 +584,7 @@ The split exists because USD is good at assembly and poor at physics. Keeping ev
 The Modelica-based subsystem models are now entering integrated testing. Source and documentation: [github.com/LunCoSim/lunco-sim](https://github.com/LunCoSim/lunco-sim).
 
 *This article is provided by [Rod Mamin](https://github.com/0xIonRod), [Rina Faber](https://github.com/CatRinaFaber) and Aleksa Djurdjevic ([LunCo](https://lunco.space/))*
-
+  
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
