@@ -317,6 +317,8 @@ The August 2026 release of **ODE+ Component** adds support for the **DLR PowerTr
 - **Teams** — users create and administer teams in the application. A team space holds shared component libraries and result data, with computing hours pooled across the team.
 - **Elastic compute** — studies run on a scalable compute cluster rather than a fixed local machine. GPU instances will follow later.
 - **Interactive canvas** — dials, switches, charts and 3D animation sit on the diagram and bind to simulation variables, so a model can be operated and read out in place.
+- **Modelica Standard Library 4.1** — MSL 4.1 is supported for load, translate and simulate workflows.
+- **Modelica Buildings Library 13** — the Buildings library version 13 is supported.
 
 {{<rawhtml>}}
 <p style="text-align:center"><img src="ode-component-1486x779.svg" alt="ODE+ Component assistant building and tuning a PI speed controller" style="max-width:100%;height:auto"></p>
