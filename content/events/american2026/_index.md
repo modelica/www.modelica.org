@@ -173,8 +173,6 @@ Using curated example models, attendees will edit code, inspect diagnostics, run
 
 The tutorial demonstrates a modern Modelica workflow in which one model serves as a reusable algebraic specification for simulation, optimization, automatic differentiation, machine learning, and model exchange. No prior Rumoca experience is required; basic Modelica, VS Code, and Python familiarity is helpful.
 
-Request to administrators: Rumoca is open-source and non-commercial, so we respectfully request a waiver of the $250 tutorial fee.
-
 **Presenters:** James Goppert and Micah Condie (Purdue University)
 
 ### Physics + AI in Practice: Accelerating Modelica Workflows with Modelon Impact
