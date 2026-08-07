@@ -555,15 +555,15 @@ The Modelica-based subsystem models are now entering integrated testing. Source 
 
 <!-- END Vendor news -->
 
+<!-- No news from libraries
 {{<rawhtml>}}
 <div class="masthead-followup-icon d-inline-block mt-5">
     <i class="fa-solid fa-book" style="font-size:50px"></i>
 </div>
 {{</rawhtml>}}
 
-<!-- ## News from libraries -->
-
-<!-- No news from libraries -->
+## News from libraries
+-->
 
 {{<rawhtml>}}
 <div class="masthead-followup-icon d-inline-block mt-5">
