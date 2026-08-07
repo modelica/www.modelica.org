@@ -45,6 +45,8 @@ Workshops and Tutorials will be given on the afternoon of October 12th 2026, the
 In building on the successes of the previous American Modelica conference, we are also happy to announce a Student Best Paper competition.  
 Additional details are available in the [call for papers](cfp).
 
+## Registration now open!
+Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registereing as sponsors by buying a sponsorship ticket. If you plan to attend a workshop, please register also on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) for no more than 2 non-overlapping workshops that are not in parallel. Workshop attendance is free of charge, but we need to know attendance in order to assign the right sized rooms. 
 
 ## Our Sponsors
 
@@ -132,8 +134,8 @@ Modelica presents an ideal tool to investigate configuration viability in dynami
 
 ## Workshops
 
-The workshops below are offered free of charge to all Conference attendees. Workshop registration on Eventbrite will be openened shortly, watch this space! All workshops will be on the afternoon of
-Monday, October 12 2026, in order to allow travellers to arrive in time for the workshops when travelling in the morning.
+The workshops below are offered free of charge to all Conference attendees. Workshop registration on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) is now open. All workshops will be on the afternoon of
+Monday, October 12 2026, in order to allow travelers to arrive in time for the workshops when traveling in the morning.
 
 | Title | Duration |
 | --- | --- |
@@ -239,8 +241,6 @@ Please see the [call for papers](cfp) for details about paper submissions, and t
 - September 4th, 2026 Submission of final papers and one-page abstracts
 - October 7th, 2026 Submission of final presentations
 
-## Registration
-Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registereing as sponsors by buying a sponsorship ticket. 
 
 ## Organization and Contact
 
