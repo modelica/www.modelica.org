@@ -394,7 +394,7 @@ Please make sure that your submission has been created according to the [Modelic
 
 For the final submission, there will also be the possibility to submit Modelica example model files that correspond to your publication. These files will then be attached to your paper in the Modelica Association copy of the proceedings (but not the LiU e-press copy to which  the DOI points).
 
-To announce your presentation, we encourage all presenters to post on social media with a nice picture. You may use [this template](images/SpeakerSocialMediaTemplate.pptx).
+To announce your presentation, we encourage all presenters to post on social media with a nice picture. You may use [this template](SpeakerSocialMediaTemplate.pptx).
 
 ### Preparation of Industrial User Presentations and corresponding One-Pagers. 
 
@@ -507,6 +507,19 @@ Practically, the method is being applied to develop dedicated simulation and dig
 
 We are undergoing a transition period where computer intelligence is rising to dominance. It will become widely available to everyone at an unprecedented level of intelligence and also at low cost. Such transition periods are often highly chaotic and short-term predictions may hence be rather inaccurate. Based on first principles, however, we can predict what ultimately will prevail after the transition has taken place. This keynote shall provide such an analysis to answer the most relevant questions from the perspective of system simulation: Will the use of simulation rise or fall? Will there be a need for system simulation? What will be the use of Modelica in the future? Will mathematical modeling still be a thing for humans and for computers? The keynote will also explain why it uses the term computer intelligence rather than artificial intelligence. 
 
+### Reflections on AI Safety and R&D Tools for Intelligent Vehicles
+
+
+{{<rawhtml>}}
+<img src="images/YangShiChun.jpg" alt="Shichun Yang" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Prof. Shichun Yang** Professor and Secretary of the Party Committee of the School of Transportation Science and Engineering, Beihang University, China
+<!--
+[{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Siddhartha_Mishra.pdf)
+-->
+
+The report focuses on AI safety and R&D toolchains for intelligent vehicles. Drawing on the team’s extensive research in the system safety of connected and autonomous vehicles (CAVs) and autonomous driving control, it analyzes failure risks in AI perception and decision-making algorithms, as well as functional safety and data security challenges. It further elaborates on a comprehensive safety protection framework tailored for full-scenario autonomous driving. Addressing key industry pain points, the report introduces an end-to-end R&D toolchain for intelligent driving, covering simulation testing and electronic control development platforms, while demonstrating their practical applications in algorithm verification and safety assessment. Finally, by integrating theoretical insights with engineering practice, it explores iterative pathways for advancing AI safety technologies and outlines future directions for domestically developed tools, offering actionable strategies to drive technological upgrades and real-world deployment across the industry. 
 
 
 <!--
@@ -603,7 +616,7 @@ As a renowned historical and cultural city with a history spanning over 2,000 ye
 | Registration                 | Valid        | incl. Dinner | Early-Price | Price   |
 |------------------------------|--------------|:------------:|------------:|--------:|
 | Standard                     | Mon-Tue      | yes          | 1875 CNY    | 2500 CNY|
-| Student                      | Mon-Tue      | yes          |  750 CNY    |  750 CNY|
+| Student                      | Mon-Tue      | yes          |  750 CNY    |  1000 CNY|
 | Conference Dinner            | Dinner       | yes          |  225 CNY    |  300 CNY|
 
 <!--

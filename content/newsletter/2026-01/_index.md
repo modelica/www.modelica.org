@@ -62,13 +62,13 @@ Dirk Zimmer on April 24, 2026 \
 
 ### FMI Project News
 
-<img src="FMI-logo.png" width="50%">
+![FMI logo](FMI-logo.png)
 
 #### FMI Project Leader and Deputy re-elected
 
 On March 17, 2026 the FMI Steering Committee has unanimously re-elected Christian Bertsch, BOSCH Research, as the project leader and Torsten Sommer, Dassault Systèmes, as the deputy for a two-years term.
 
-<img src="Bertsch_Sommer.jpg" width="50%">
+![Christian Bertsch and Torsten Sommer](Bertsch_Sommer.jpg)
 
 #### FMI Face-2-Face Design Meeting Munich June 8-10 2026
 
@@ -308,7 +308,7 @@ See [latest release](https://www.3ds.com/products/catia/dymola/latest-release) f
 * Major enhancements to the so-called **Battery Pack Assistant**, to further support electrification (modeling capabilities and workflow).
 * Expanded **gas system simulation capabilities**, serving applications like pneumatic controls in industrial automation, compressors in HVAC systems, or specialized gas handling in extreme environments.
 
-More detail can be found [here](https://blogs.sw.siemens.com/simcenter/simcenter-systems-release-2604/ ). Several changes have also been specifically applied to **exported&nbsp;FMUs**, in terms of <i>licensing policy</i> as well as <i>integration and collaboration capabilities</i>. These specific updates as described hereafter.  
+More detail can be found [here](https://blogs.sw.siemens.com/simcenter/simcenter-systems-release-2604/ ). Several changes have also been specifically applied to **exported&nbsp;FMUs**, in terms of *licensing policy* as well as *integration and collaboration capabilities*. These specific updates as described hereafter.  
 
 ![](amesim_banner_2604.png)
 
@@ -327,7 +327,7 @@ This means even large, sophisticated models with their native &mdash;&nbsp;best-
 
 To address the challenge of exporting, validating, and deploying FMUs for real-time simulation while avoiding fragmented workflows and/or late issue discovery, **Simcenter&nbsp;Amesim&nbsp;2604** now adds binaries for standard platforms (Windows and Linux), in addition to the source code for the chosen real-time target, within the exported &ldquo;FMUs for real-time&rdquo;. The compilation of these binaries is similar to that of the real-time target's toolchain. The expected concrete benefits for users are:
 * **Easier pre-checks** (on Windows or Linux) before sharing FMUs to real-time target users.
-* **Built-in continuity, consistency and traceability** (same FMU used <i>offline</i> and <i>online</i>).
+* **Built-in continuity, consistency and traceability** (same FMU used *offline* and *online*).
 * **No need for any external compiler** for generating/compiling these FMUs. 
 * **Flexible deployment**: offline tests possible on machines with no **Simcenter&nbsp;Amesim** license or installation.
 
@@ -361,7 +361,7 @@ From that starting point, MLQT grew into a broader set of tools for working with
 
 MLQT is available for Windows today, with a Linux version on the roadmap. To learn more, visit the open-source [repository on GitHub](https://github.com/mdempse1/MLQT).
 
-![](mlqt-code-review-sm.png)
+![MLQT code review view](mlqt-code-review-small.png)
 
 *This article is provided by Mike Dempsey ([M Dempsey Ltd](https://dempsey.me.uk/))*
 
