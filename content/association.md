@@ -30,9 +30,7 @@ If you share our goals and would like to contribute, you can become a member of 
 Membership gives you voting rights and enables you to participate in the discussions and technical work of the Association.
 It is encouraged to join at least one of the MA projects as a guest before becoming a member.  
 
-If you are interested, simply contact the [Modelica board](mailto:board@modelica.org) and explain your motivation.
-The [individual application form](https://docs.google.com/forms/d/1AKymk2UfwDSJR4fuYXAyGJuvPw7YLiBFF76jqLSjzWM/edit) provides useful guidance. 
-To apply for membership as an organization please use the [organizational application form](https://docs.google.com/forms/d/e/1FAIpQLSfUpCe1fqVgcuib5WpfZh_tuDGoLcLdk0BjRqeMAFi3XtDZug/viewform).
+Please choose the [individual application form](https://docs.google.com/forms/d/1AKymk2UfwDSJR4fuYXAyGJuvPw7YLiBFF76jqLSjzWM/edit) or [organizational application form](https://docs.google.com/forms/d/e/1FAIpQLSfUpCe1fqVgcuib5WpfZh_tuDGoLcLdk0BjRqeMAFi3XtDZug/viewform).
 
 ## Modelica Association Projects
 
