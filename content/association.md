@@ -30,9 +30,7 @@ If you share our goals and would like to contribute, you can become a member of 
 Membership gives you voting rights and enables you to participate in the discussions and technical work of the Association.
 It is encouraged to join at least one of the MA projects as a guest before becoming a member.  
 
-If you are interested, simply contact the [Modelica board](mailto:board@modelica.org) and explain your motivation.
-The [individual application form](https://docs.google.com/forms/d/1AKymk2UfwDSJR4fuYXAyGJuvPw7YLiBFF76jqLSjzWM/edit) provides useful guidance. 
-To apply for membership as an organization please use the [organizational application form](https://docs.google.com/forms/d/e/1FAIpQLSfUpCe1fqVgcuib5WpfZh_tuDGoLcLdk0BjRqeMAFi3XtDZug/viewform).
+Please choose the [individual application form](https://docs.google.com/forms/d/1AKymk2UfwDSJR4fuYXAyGJuvPw7YLiBFF76jqLSjzWM/edit) or [organizational application form](https://docs.google.com/forms/d/e/1FAIpQLSfUpCe1fqVgcuib5WpfZh_tuDGoLcLdk0BjRqeMAFi3XtDZug/viewform).
 
 ## Modelica Association Projects
 
@@ -105,10 +103,9 @@ To apply for membership as an organization please use the [organizational applic
 * [Modelica Association Bylaws](https://github.com/modelica/MA-Bylaws/blob/master/MA-Bylaws.md)
 * [Minutes of the establishing meeting](/association/Modelica-stat-meeting-2000-0205.pdf)
 
-Individuals interested in joining the Modelica Association must have contributed to an MA project or to other parts of the Modelica Association.
-A contribution is typically demonstrated by participation in **at least two projects or Assembly meetings** during the previous twelve-month period (§3 of the [bylaws](https://github.com/modelica/MA-Bylaws/releases)).
+The Modelica Association Board decides if an individual or an organization is accepted as a member. 
 There is no such prerequisite for organizational membership applications.
-Individuals and organizations may apply to become a member. If you are interested, simply contact the [Modelica board](mailto:board@modelica.org) and explain your motivation.
+
 Currently, the fee for individuals is 20 Euro/year and for organizations according to the number of employees: 
 * ≤ 5: 750 Euro/year
 * ≤ 50: 1500 Euro/year
@@ -231,8 +228,6 @@ Currently the Modelica Association has 131 individual members.
 
 The following members have given the consent to appear publicly.
 
-If you want to contact a member via email, please ask [backoffice@modelica.org](mailto:backoffice@modelica.org).
-
 | Name                | Affiliation Webpage                                                                 | MAP      |
 |---------------------|-------------------------------------------------------------------------------------|----------|
 | Åkesson, Johan      |                                                                                     | LANG     |
@@ -335,9 +330,6 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 
 *If you want to contact a member via email, please ask [backoffice@modelica.org](mailto:backoffice@modelica.org).*
 
-## Map of Modelica Association members
-
-Have a look at the [map of Modelica Association members](https://github.com/modelica/ModelicaStandardLibrary/blob/master/Modelica/Resources/Documentation/MA.geojson) (created using the [map rendering service of GitHub](https://github.com/blog/1528-there-s-a-map-for-that)).
 
 ## History of the Modelica Association
 

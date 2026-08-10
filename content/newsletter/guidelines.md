@@ -50,7 +50,8 @@ It is the submitters responsibility to resize the image to meet these guidelines
 The submission is done by creating a pull request to the [Modelica website repository](https://github.com/modelica/www.modelica.org/).
 
 0. Create a GitHub account, log in.
-1. Navigate to the upcoming newsletter `_index.md`, e.g. https://github.com/modelica/www.modelica.org/blob/main/content/newsletter/2026-01/_index.md.
+1. Look up which issue is currently collecting contributions — it is named at the top of the [Newsletter page](/newsletter/) — and navigate to that issue's `_index.md` in the repository, i.e. `content/newsletter/<issue>/_index.md`.
+   * Please check this every time. Contributions pasted into an already published issue are not picked up, and the issue that is open for contributions is not always the most recent folder in the repository.
 2. Click on the pen icon to edit the file.
 3. Find the section that matches your contribution (see [Newsletter sections](#newsletter-sections) below) and paste your post **directly above the `<!-- END ... -->` comment** that closes that section. Do not insert your post anywhere else in the file — this convention is important for keeping pull requests conflict-free (see note below).
 4. Commit your changes.

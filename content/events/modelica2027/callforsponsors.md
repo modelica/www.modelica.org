@@ -20,8 +20,8 @@ The Modelica Association and the local organizers invite you to support the 17th
 
 ### Platinum Partner — 14,000 EUR (excl. VAT)
 
-- **Exhibition Space: 10 m² (2x5 m)** reserved floor space. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
-- **Placement:** Option for placement in the **limited conference lobby** (first-come, first-served) or the exhibition hall.
+- **Exhibition Space: up to 15 m² (3x5 m)** reserved floor space. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
+- **Placement:** Option for placement in the **limited conference lobby** (space limited, up to 8 m² (2x4 m), first-come first served) or the exhibition hall (up to 3x5 m).
 - **Vendor Presentation:** Guaranteed **15-minute slot** in the vendor presentation block (2 parallel tracks, grouped by topic; slot may be extended if the schedule allows).
 - **Registrations: 3 full conference registrations** (including conference dinner).
 - **Marketing & Branding:**
@@ -43,7 +43,7 @@ The Modelica Association and the local organizers invite you to support the 17th
   - **1/2-page** advertisement in the printed programme.
   - **1x bag insert** (A4/A5 leaflet) in the conference bag.
   - Prominent logo placement on website and programme.
-- Dedicated post on the Modelica Association **LinkedIn** account.
+  - Dedicated post on the Modelica Association **LinkedIn** account.
 - **Visibility:** Website visibility starts immediately upon receipt of payment, including a short paragraph about the partner (up to 100 words).
 - **Special Benefit:** Opportunity to present an award at the conference awards ceremony.
 
@@ -55,7 +55,7 @@ The Modelica Association and the local organizers invite you to support the 17th
   - **1/3-page** advertisement in the printed programme (3 partners per page).
   - **1x bag insert** (A4/A5 leaflet) in the conference bag.
   - Standard logo placement on website and programme.
-- **Visibility:** Website visibility starts immediately upon receipt of payment.
+- **Visibility:** Website visibility starts immediately upon receipt of payment, including a short paragraph about the partner (up to 50 words).
 
 ### Bronze Partner — 4,000 EUR (excl. VAT)
 - **Exhibition Space: 4 m² (2x2 m)** in the general exhibition hall. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
@@ -75,16 +75,23 @@ All exhibition areas are designed to maximize interaction. High attendee traffic
 - **Payment:** Immediate visibility on the conference website is triggered upon payment.
 
 ## Registration
-Please contact us at [partnersMC2027@modelica.org](mailto:partnersMC2027@modelica.org) to proceed with the partner enrollment.
+Please contact us at [partnersMC2027@modelica.org](mailto:partnersMC2027@modelica.org) to proceed with the partnership agreement. All handling, including invoicing and payment, will be done through our local partner Milena Zeithamlová, Action-M agency.
+
+Registration will be made by filling in the online **PARTNERSHIP REGISTRATION FORM** with payment obligation.
+
+When paying by bank transfer, the proforma invoice corresponding to your payment (PDF document) will be attached to the confirmation email. The final invoice will be issued upon receipt of the payment in our account and sent attached to the confirmation email.
 
 ## Important Dates
 
 | Date | Milestone |
-| ------------- | ------------- | 
-| June 15 2027 | Latest notification of acceptance for Vendor Sessions and Tutorials |
-| August 1 2027 | End of enrollment. All logos and print data needs to be handled by then.|
-| September 20 2027 | Preparation day |
-| September 20–22 2027 | Conference |
+| ------------- | ------------- |
+| May 1, 2026 | Open for enrolling for sponsors and exhibitors |
+| June 19, 2027 | Latest notification of acceptance for Vendor Sessions and Tutorials |
+| July 5, 2027 | Partnership Registration deadline |
+| July 31, 2027 | Partnership Cancellation deadline |
+| September 1, 2027 | All logos and print data need to be handled |
+| September 20, 2027 | Preparation day |
+| September 20–22, 2027 | Modelica & FMI Conference 2027 |
 
 
 ---

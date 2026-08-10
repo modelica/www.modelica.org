@@ -45,7 +45,8 @@ Workshops and Tutorials will be given on the afternoon of October 12th 2026, the
 In building on the successes of the previous American Modelica conference, we are also happy to announce a Student Best Paper competition.  
 Additional details are available in the [call for papers](cfp).
 
-<!-- We are looking forward to seeing you in Dallas. As a first for a Modelica conference, we are planning to organize a **Modelica-oriented job fair** at the in-person event in Dallas that gives a unique opportunity for employers, students about to graduate, and Modelica practitioners to get to know each other. More details will be forthcoming at this site as the conference date comes closer.   -->
+## Registration now open!
+Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registereing as sponsors by buying a sponsorship ticket. If you plan to attend a workshop, please register also on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) for no more than 2 non-overlapping workshops that are not in parallel. Workshop attendance is free of charge, but we need to know attendance in order to assign the right sized rooms. 
 
 ## Our Sponsors
 
@@ -131,6 +132,63 @@ As global priorities endorse nuclear energy, enabling rapid, open-source, dynami
 the utilization of nuclear energy in diverse applications for both brownfield and greenfield integrations. An overview of the nuclear approach to modeling and simulation will present areas where 
 Modelica presents an ideal tool to investigate configuration viability in dynamic deployment scenarios.
 
+## Workshops
+
+The workshops below are offered free of charge to all Conference attendees. Workshop registration on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) is now open. All workshops will be on the afternoon of
+Monday, October 12 2026, in order to allow travelers to arrive in time for the workshops when traveling in the morning.
+
+| Title | Duration |
+| --- | --- |
+| Introduction to Object Oriented Modeling, Simulation, Debugging and Dynamic Optimization with Modelica using OpenModelica | 3h-4h with breaks included. |
+| Agentic Modeling and Simulation with Julia/Dyad | 4 hours |
+| Modeling HVAC and Control Systems with the Modelica Buildings Library | 3-4 hours |
+| Hands-On with Rumoca: Modelica Source, Simulation, and Algebraic Backends in VS Code | 2 hours |
+| Physics + AI in Practice: Accelerating Modelica Workflows with Modelon Impact | 3 hours |
+
+### Introduction to Object Oriented Modeling, Simulation, Debugging and Dynamic Optimization with Modelica using OpenModelica
+
+This tutorial gives an introduction to the Modelica language, the OpenModelica environment, and an overview of modeling and simulation in a number of application areas. Some advanced features of OpenModelica will be presented, including debugging, profiling, clocked synchronous support, real-time embedded code generation, OMPython, OMJulia, FMI export, etc. A number of hands-on exercises will be done during the tutorial, both graphical modeling using the Modelica Standard Library (MSL) and textual modeling. Bring your laptop for exercises.
+
+**Presenters:** Adrian Pop (Linköping University) – online, Luigi Vanfretti (Rensselaer Polytechnic Institute) – on site
+
+### Agentic Modeling and Simulation with Julia/Dyad
+
+In this workshop, we will present the latest information about Dyad, our platform for modeling and simulation. We will leverage the Dyad agent so participants can hit the ground running and explore all that the Dyad platform has to offer.
+
+Included in the presentation will be how to build graphical models from within VS Code. Discussions about best practices for using Dyad. Demonstrating how the Dyad agent flattens the learning curve and how it extends not just to modeling and simulation but assisting users with fully leveraging the incredible Julia ecosystem as well.
+
+Participants should come prepared with some tasks to give the agent so they can see how much progress they can make in a short amount of time.
+
+**Presenter:** Michael Tiller (JuliaHub)
+
+### Modeling HVAC and Control Systems with the Modelica Buildings Library
+
+This workshop introduces modeling for HVAC and control systems for buildings, districts, and data centers using the Modelica Buildings Library. While focused on these applications, the course is structured to benefit modelers of any thermo-fluid system. Following an overview of the library's scope, we will cover best practices for model configuration and troubleshooting. Through hands-on exercises, participants will develop simple HVAC system models, connect them to thermal loads, and implement feedback control. The instructors will demonstrate using OpenModelica, though participants are welcome to use Modelon Impact or Dassault Systemes' Dymola.
+
+**Presenters:** Michael Wetter (LBNL), David Blum (LBNL), Ettore Zanetti (LBNL)
+
+### Hands-On with Rumoca: Modelica Source, Simulation, and Algebraic Backends in VS Code
+
+This two-hour hands-on tutorial introduces Rumoca, an open-source, Rust-native Modelica compiler, and its VS Code development environment. Participants will follow a guided workflow from Modelica source through editing, diagnostics, compilation, simulation, visualization, and export to algebraic and numerical backends.
+
+Using curated example models, attendees will edit code, inspect diagnostics, run simulations, view results in the editor, and, where applicable, interact with an editable 3D view. From the same model, they will generate backend artifacts for CasADi, SymPy, JAX, and FMI-oriented workflows, then load representative outputs into Python or Jupyter to inspect equations and evaluate generated functions.
+
+The tutorial demonstrates a modern Modelica workflow in which one model serves as a reusable algebraic specification for simulation, optimization, automatic differentiation, machine learning, and model exchange. No prior Rumoca experience is required; basic Modelica, VS Code, and Python familiarity is helpful.
+
+**Presenters:** James Goppert and Micah Condie (Purdue University)
+
+### Physics + AI in Practice: Accelerating Modelica Workflows with Modelon Impact
+
+AI assistants are becoming common in engineering software, but their value depends on whether they can support the physics-based work engineers actually need to do. In this hands-on workshop, participants will explore how AI-assisted development in Modelon Impact can help reduce workflow friction while keeping engineers in control of the modeling, simulation, and validation process.
+
+Using Modelon Impact, we will build and analyze an industry-relevant system model, progressing from component selection and model assembly through simulation setup, troubleshooting, and interpretation of results. Along the way, participants will see how the AI assistant supports common engineering tasks: surfacing relevant documentation, guiding model development, helping configure experiments, diagnosing errors and logs, and making results easier to understand.
+
+The session will also provide a practical introduction to Modelon Impact's cloud-based workflows and validated, robust Modelica library content. Participants will leave with a clearer understanding of what "Physics + AI" means in practice: AI that accelerates modeling work while preserving the transparency, reusability, and trust expected from physics-based simulation.
+
+**Presenters:** Mathias Strandberg (Product Manager, Modelon), Pratyush Agarwal (Solutions Engineer, Modelon)
+
+<!-- We are looking forward to seeing you in Dallas. As a first for a Modelica conference, we are planning to organize a **Modelica-oriented job fair** at the in-person event in Dallas that gives a unique opportunity for employers, students about to graduate, and Modelica practitioners to get to know each other. More details will be forthcoming at this site as the conference date comes closer.   -->
+
 ## Scope of the Conference
 
 [Modelica](/) is a freely available, equation-based, object-oriented language for convenient and efficient modeling of complex, multi-domain cyber-physical systems described by ordinary differential, difference and algebraic equations. The Modelica language and the companion Modelica Standard Library have been utilized in a variety of demanding industrial applications, including full vehicle dynamics, power systems, robotics, buildings and district energy systems, hardware-in-the-loop simulations and embedded control systems. The [Functional Mock-up Interface (FMI)](https://www.fmi-standard.org/) is an open standard for the tool-independent exchange of models and for co-simulation. It is supported by many [Modelica and non-Modelica tools](/tools/) and is the key to utilizing Modelica models in non-Modelica environments.
@@ -183,8 +241,6 @@ Please see the [call for papers](cfp) for details about paper submissions, and t
 - September 4th, 2026 Submission of final papers and one-page abstracts
 - October 7th, 2026 Submission of final presentations
 
-## Registration
-Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registereing as sponsors by buying a sponsorship ticket. 
 
 ## Organization and Contact
 

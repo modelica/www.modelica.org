@@ -3,7 +3,7 @@
 merge_newsletter_prs.py
 
 Merges all open pull requests that touch a given newsletter issue folder,
-oldest-first. When two PRs produce a merge conflict in _index.md (which
+oldest-first. When two PRs produce a merge conflict in the issue page (which
 happens when both appended content to the same section), the conflict is
 auto-resolved by keeping ALL content from both sides — i.e. every post
 ends up in the file and the editor only needs to reorder posts if desired.
@@ -23,16 +23,38 @@ from github import Github
 # ── helpers ──────────────────────────────────────────────────────────────────
 
 def run(cmd, check=True, capture=False):
-    """Run a shell command, optionally capturing output."""
+    """
+    Run a command given as an argument list, optionally capturing output.
+
+    No shell is used: PR titles are contributor-supplied and end up in commit
+    messages, so they must never be parsed as shell syntax.
+    """
     result = subprocess.run(
-        cmd, shell=True, text=True,
+        cmd, text=True,
         capture_output=capture,
     )
     if check and result.returncode != 0:
-        print(f"ERROR running: {cmd}")
+        print(f"ERROR running: {' '.join(cmd)}")
         print(result.stderr)
         sys.exit(1)
     return result
+
+
+def find_index_file(folder):
+    """
+    Return the path of the issue's page file.
+
+    Issues are branch bundles (`_index.md`), but an issue has been created as a
+    leaf bundle (`index.md`) before — which used to make every conflict look
+    like a conflict in an unexpected file, so every PR got skipped. Detect
+    whichever is present instead of assuming.
+    """
+    for name in ("_index.md", "index.md"):
+        candidate = os.path.join(folder, name)
+        if os.path.exists(candidate):
+            return candidate.replace(os.sep, "/")
+    print(f"ERROR: no _index.md or index.md found in {folder}")
+    sys.exit(1)
 
 
 def resolve_conflicts(filepath):
@@ -87,6 +109,7 @@ def main():
     repo_name = os.environ["REPO"]
     issue = os.environ["ISSUE"]
     newsletter_path = f"content/newsletter/{issue}/"
+    index_file      = find_index_file(newsletter_path)
 
     gh   = Github(token)
     repo = gh.get_repo(repo_name)
@@ -109,19 +132,18 @@ def main():
     results = []
 
     for pr in open_prs:
-        branch   = pr.head.ref
-        head_sha = pr.head.sha
-        pr_label = f"PR #{pr.number} "{pr.title}""
+        pr_label = f'PR #{pr.number} "{pr.title}"'
 
         print(f"\n── Merging {pr_label} ──")
 
         # Fetch the contributor's branch
-        run(f'git fetch origin "refs/pull/{pr.number}/head:pr-{pr.number}"')
+        run(["git", "fetch", "origin",
+             f"refs/pull/{pr.number}/head:pr-{pr.number}"])
 
         # Attempt merge
         merge = run(
-            f"git merge --no-ff pr-{pr.number} "
-            f'-m "Merge {pr_label} into newsletter {issue}"',
+            ["git", "merge", "--no-ff", f"pr-{pr.number}",
+             "-m", f"Merge {pr_label} into newsletter {issue}"],
             check=False,
         )
 
@@ -130,41 +152,42 @@ def main():
             results.append((pr.number, pr.title, "merged"))
         else:
             # Check which files are in conflict
-            conflict_check = run("git diff --name-only --diff-filter=U", capture=True)
+            conflict_check = run(["git", "diff", "--name-only", "--diff-filter=U"],
+                                 capture=True)
             conflicted = conflict_check.stdout.strip().splitlines()
-            index_file = f"{newsletter_path}_index.md"
 
             non_index_conflicts = [f for f in conflicted if f != index_file]
             if non_index_conflicts:
                 print(f"  ✗ Conflict in unexpected file(s): {non_index_conflicts}")
                 print(f"    Aborting merge — manual resolution required.")
-                run("git merge --abort")
+                run(["git", "merge", "--abort"])
                 results.append((pr.number, pr.title, f"SKIPPED – conflict in {non_index_conflicts}"))
                 continue
 
-            # Only _index.md is conflicted — auto-resolve by keeping both sides
+            # Only the issue page is conflicted — auto-resolve by keeping both sides
             print(f"  ⚠ Conflict in {index_file} — auto-resolving (keeping both posts)…")
             had_conflict = resolve_conflicts(index_file)
 
             if had_conflict:
-                run(f"git add {index_file}")
-                run(f'git commit -m "Auto-resolve conflict: keep both posts from {pr_label}"')
+                run(["git", "add", index_file])
+                run(["git", "commit", "-m",
+                     f"Auto-resolve conflict: keep both posts from {pr_label}"])
                 print(f"  ✓ Resolved and committed.")
                 results.append((pr.number, pr.title, "merged (auto-resolved conflict)"))
             else:
                 # Shouldn't happen, but abort to be safe
                 print(f"  ✗ Unexpected state — no conflict markers found after failed merge.")
-                run("git merge --abort")
+                run(["git", "merge", "--abort"])
                 results.append((pr.number, pr.title, "SKIPPED – unexpected conflict state"))
 
         # Clean up the temporary local branch
-        run(f"git branch -d pr-{pr.number}", check=False)
+        run(["git", "branch", "-d", f"pr-{pr.number}"], check=False)
 
     # ── Summary ──────────────────────────────────────────────────────────────
     print("\n══ Summary ══")
     for number, title, status in results:
         icon = "✓" if "merged" in status else "✗"
-        print(f"  {icon} #{number} "{title}" → {status}")
+        print(f'  {icon} #{number} "{title}" → {status}')
 
     skipped = [r for r in results if "SKIPPED" in r[2]]
     if skipped:
@@ -172,7 +195,7 @@ def main():
         sys.exit(1)
     else:
         print(f"\nAll {len(results)} PR(s) merged successfully.")
-        print("You may now reorder posts within sections in _index.md if desired.")
+        print(f"You may now reorder posts within sections in {index_file} if desired.")
 
 
 if __name__ == "__main__":
