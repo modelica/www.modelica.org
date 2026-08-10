@@ -228,8 +228,6 @@ Currently the Modelica Association has 131 individual members.
 
 The following members have given the consent to appear publicly.
 
-If you want to contact a member via email, please ask [backoffice@modelica.org](mailto:backoffice@modelica.org).
-
 | Name                | Affiliation Webpage                                                                 | MAP      |
 |---------------------|-------------------------------------------------------------------------------------|----------|
 | Åkesson, Johan      |                                                                                     | LANG     |
