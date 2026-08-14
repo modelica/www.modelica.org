@@ -8,7 +8,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/open-modelica.svg" style="height: 70px; margin: 10px auto;" alt="Dassault Systemes">
+        <img src="/images/tools/open-modelica.svg" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">OpenModelica</h5>
@@ -25,7 +25,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/rumoca.svg" style="height: 90px; margin: 0px auto;" alt="Dassault Systemes">
+        <img src="/images/tools/rumoca.svg" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">rumoca</h5>
@@ -50,7 +50,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/Activate.png" style="height: 90px; margin: auto;">
+        <img src="/images/tools/Activate.png" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">Altair Twin Activate</h5>
@@ -67,7 +67,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/Ansys_Synopsys.png" style="height: 90px; margin: 0px auto;">
+        <img src="/images/tools/Ansys_Synopsys.png" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">Simplorer</h5>
@@ -83,7 +83,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/3DS.svg" style="height: 90px; margin: auto;">
+        <img src="/images/tools/3DS.svg" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">Dymola</h5>
@@ -99,7 +99,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/keysight.svg" style="height: 90px; margin: auto;">
+        <img src="/images/tools/keysight.svg" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">SimulationX</h5>
@@ -115,7 +115,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/Maplesoft.svg" style="height: 90px; margin: auto;">
+        <img src="/images/tools/Maplesoft.svg" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">MapleSim</h5>
@@ -131,7 +131,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/Modelon.svg" style="height: 90px; margin: auto;">
+        <img src="/images/tools/Modelon.svg" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">Impact</h5>
@@ -147,7 +147,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/orthogonal.svg" style="height: 90px; margin: auto;">
+        <img src="/images/tools/orthogonal.svg" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">ODE</h5>
@@ -163,7 +163,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/PortfolioEnergy.svg" style="height: 90px; margin: auto;">
+        <img src="/images/tools/PortfolioEnergy.svg" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">PortfolioEnergy</h5>
@@ -185,7 +185,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/Siemens.png" style="height: 90px; margin: auto;">
+        <img src="/images/tools/Siemens.png" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">Simcenter Amesim</h5>
@@ -201,7 +201,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/tongyuan.png" style="height: 90px; margin: auto;">
+        <img src="/images/tools/tongyuan.png" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">MWorks</h5>
@@ -217,7 +217,7 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
-        <img src="/images/tools/WolframResearch.svg" style="height: 90px; margin: auto;">
+        <img src="/images/tools/WolframResearch.svg" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
         <h5 class="card-title">SystemModeler</h5>
