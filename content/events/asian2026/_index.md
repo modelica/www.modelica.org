@@ -608,12 +608,14 @@ Most common International Travel:
 Further travel advice for international guests will follow soon.
 
 
-## Hangzhou Attractions
+## Technical Tour
+Following the conclusion of the conference on the afternoon of September 22, the local organizer will host a technical site visit to [DEEP Robotics](https://www.deeprobotics.cn/en), a global leader in quadruped robotics and a pioneer in embodied AI innovation and real-world deployment. Details on how to register for this technical tour will be added to the registration platform shortly.
+<!--
 As a renowned historical and cultural city with a history spanning over 2,000 years, Hangzhou boasts abundant [historical heritages and profound cultural traditions](https://www.chinahighlights.com/hangzhou/attraction/). We hope this site helps you arrange your trip for the conference. Additionally, there are several technical events following the conference that are worth visiting.
 
 - The [5th Global Digital Trade Expo](https://www.gdte.org.cn/En/) (GDTE)	, September 23-27, 2026 at Hangzhou Grand Convention and Exhibition Center,	Co-hosted by Zhejiang Provincial Government and Ministry of Commerce; China's only national-level, global professional exhibition themed on digital trade. Expected 1,546+ exhibitors, 200,000+ visitors, 155,000 sqm exhibition space, with 100+ world premieres and new product launches. [EXPO Headline](https://www.gdte.org.cn/En/content/content_9206914.html).
 - The [2nd ISSE International Smart Space Exhibition](https://www.isse-expo.com),	September 23-27, 2026	at Hangzhou Grand Convention and Exhibition Center,	co-hosted by Messe Frankfurt (HK) Ltd and Hangzhou Convention & Exhibition Group; held concurrently with GDTE, focusing on smart space technology and urban governance solutions.
-
+-->
 
 ## Registration
 
