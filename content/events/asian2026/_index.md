@@ -270,10 +270,16 @@ Industrial user presentations are an excellent way to present recent results to 
 Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations. For more details on vendor presentations, please refer to the [call for sponsors](#call-for-sponsors).
 -->
 
-## Call for Tutorials
+## Tutorials
 
 Before the Modelica Conference, several tutorials will be held on the afternoon of September 20, 2026 at the conference venue. Each tutorial will be a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
 
+1. SMArtInt+ - Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica
+2. FMI Beginners’ tutorial - Exporting, Simulating, and Co-Simulating FMUs  
+3. OpenModelica Introduction and Hands-on Practice
+4. Agentic modeling with Wolfram System Modeler
+   
+<!--
 If you're interested in hosting a tutorial, please send the required information listed below to [modelica26asia@modelica.org ](mailto:modelica26asia@modelica.org). The application deadline is **June 30, 2026**. As only a limited number of tutorials can be held in parallel, we encourage early submission and application.
 
 Please include the following details in your submission:
@@ -287,7 +293,7 @@ Please include the following details in your submission:
 
 Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
 
-<!--
+
 ## Call for Libraries
 
 You are encouraged to submit a free Modelica application library in Modelica source code form. The library should be sent to the program chair ([modelica25@modelica.org ](mailto:modelica25@modelica.org)) and provided under the [3-clause BSD License for the Modelica Association](https://modelica.org/licenses/modelica-3-clause-bsd). Please submit also a corresponding paper to the conference. If the paper gets accepted, you can present your library at the conference. The best two submitted libraries will receive awards of 500 EUR and 250 EUR.
