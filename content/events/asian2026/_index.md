@@ -586,7 +586,7 @@ The program will be scheduled so that both Modelica and FMI interested have a fu
 
 We recommend to book your room in the [Wyndham Garden Hotel Hangzhou Yuhang](https://www.wyndhamhotels.com/wyndham-garden/hangzhou-china/wyndham-garden-hangzhou-yuhang/overview)
 
-- 2699 Yuhangtang Rd, Hangzhou, 311100, Zhejiang, China
+- 2699 Yuhangtang Rd, Hangzhou, 311100, Zhejiang, China (Tel: +86 571 8833 5888)
 
 A welcome reception will be provided on the evening of September 20 and the conference banquet in the evening of September 21 will take place in this hotel. We also aim to provide a shuttle service to the conference venue. For international participants, there is no need to book or pay for rooms online. If you select the option "Need hotel reservation by organizer" in registration, the local organizing committee will arrange your accommodation in advance. You will only be required to settle the payment on-site upon check-in.
 
