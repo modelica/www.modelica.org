@@ -50,19 +50,26 @@ menu:
       parent: "community"
       weight: 3
 
+    - pageRef: "teaching"
+      identifier: "teaching"
+      name: "Teaching"
+      url: "/community/teaching/"
+      parent: "community"
+      weight: 4
+
     - pageRef: "training"
       identifier: "training"
       name: "Training"
       url: "/community/training/"
       parent: "community"
-      weight: 4
+      weight: 5
 
     - pageRef: "usergroups"
       identifier: "usergroups"
       name: "Usergroups"
       url: "/community/usergroups/"
       parent: "community"
-      weight: 5
+      weight: 6
 
     - pageRef: "events"
       identifier: "events"

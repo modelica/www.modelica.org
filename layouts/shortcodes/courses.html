@@ -1,0 +1,7 @@
+{{- if not (.Page.Scratch.Get "course-css-linked") -}}
+<link rel="stylesheet" href="{{ "css/course.css" | relURL }}">
+{{- .Page.Scratch.Set "course-css-linked" true -}}
+{{- end -}}
+<div class="row courses-grid">
+{{- .Inner -}}
+</div>
