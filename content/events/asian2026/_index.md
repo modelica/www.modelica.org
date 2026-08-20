@@ -583,12 +583,12 @@ We are looking forward to a lively and informative discussion with our panelists
 The conference will take place in the main building of the [Hangzhou Campus, Beihang University](https://zfaien.buaa.edu.cn/Campus/Campus_Map.htm)
 - 166 Shuanghongqiao ST, Pingyao, Yuhang District, Hangzhou, China
 
-The venue offers space for 3 parallel technical tracks and also a plenary hall for the shared sessions.
+The venue offers space for 4 parallel technical tracks and also a plenary hall for the shared sessions.
 
 The program will be scheduled so that both Modelica and FMI interested have a full program to enjoy. Switching between sessions is not only possible but also encouraged.
 
 
-## Travel and Accommodation
+## Accommodation
 
 We recommend to book your room in the [Wyndham Garden Hotel Hangzhou Yuhang](https://www.wyndhamhotels.com/wyndham-garden/hangzhou-china/wyndham-garden-hangzhou-yuhang/overview)
 
@@ -601,18 +601,30 @@ A welcome reception will be held on the evening of September 20. The conference 
 International Participants:​ Please select "YES"​ for "Do you need accommodation?" during registration. The local organizing committee will assist in reserving your room in advance. Payment is to be settled in person upon check-in.
 
 Domestic Participants:​ We strongly recommend booking directly via the hotel website or by calling +86 571 8833 5888 to secure your preferred rate and room type.
+Besides the main hotel of Wyndham Garden Hotel Hangzhou Yuhang, there are many other hotels near Hangzhou West Railway Station and in the downtown of Hangzhou.
 
+## Travel
 Transportation directly to Hangzhou:
 - Flight: Hangzhou Xiaoshan International Airport (HGH), 57 Km
 - Train: Hangzhou West Railway Station, 4.4Km
 
 Most common International Travel:
 - Nearest large Airport for many international guests is Shanghai Pudong International Airport (PVG). 
-- From there, a transfer train will bring you to Shanghai Hongqiao International Airport (SHA). Travel time (est. 30min, not including time at the airport)
+- From there, a transfer train will bring you to Shanghai Hongqiao International Airport (SHA). Travel time (est. 40min, not including time at the airport)
 - From (SHA) a high-speed train will bring you to Hangzhou West Railway Station (Travel time est. 80min)
 
-Further travel advice for international guests will follow soon.
+The main hotel is near Hangzhou West Railway Station. The most convenient public transportation from downtown Hangzhou to Hangzhou West Railway Station is the metro/subway, as the station is directly served by Metro Lines 3 and 19.
 
+1.  Metro
+- Line 3: Runs northeast-southwest through the city, passing through areas like Dingqiao, Daguan, Chaowang Road, Huanglong Sports Center, and Xixi Wetland South
+- Line 19 (Airport Express): The fastest option, connecting Hangzhou East Railway Station, Hangzhou West Railway Station, and Xiaoshan International Airport
+- From Hangzhou East Station to West Station: approximately 25-30 minutes
+- From Xiaoshan Airport to West Station: approximately 50 minutes
+2.  Bus
+- Multiple bus routes serve the station, including Routes 382, 467, and 592
+- Suitable for areas not directly covered by the metro, but generally slower than the subway
+3.  Taxi/Ride-hailing
+- From the city center (e.g., Wulin Square): approximately 30-40 minutes, costing around ¥40-60 depending on traffic conditions
 
 ## Technical Tour
 Following the conclusion of the conference on the afternoon of September 22, the local organizer will host a technical site visit to [DEEP Robotics](https://www.deeprobotics.cn/en), a global leader in quadruped robotics and a pioneer in embodied AI innovation and real-world deployment. Details on how to register for this technical tour will be added to the registration platform shortly.
