@@ -594,7 +594,13 @@ We recommend to book your room in the [Wyndham Garden Hotel Hangzhou Yuhang](htt
 
 - 2699 Yuhangtang Rd, Hangzhou, 311100, Zhejiang, China (Tel: +86 571 8833 5888)
 
-A welcome reception will be provided on the evening of September 20 and the conference banquet in the evening of September 21 will take place in this hotel. We also aim to provide a shuttle service to the conference venue. For international participants, there is no need to book or pay for rooms online. If you select the option "Need hotel reservation by organizer" in registration, the local organizing committee will arrange your accommodation in advance. You will only be required to settle the payment on-site upon check-in.
+A welcome reception will be held on the evening of September 20. The conference banquet will follow on September 21 at the hotel. Shuttle service to the venue will also be provided.
+
+**Accommodation Notes**:
+
+International Participants:​ Please select "YES"​ for "Do you need accommodation?" during registration. The local organizing committee will assist in reserving your room in advance. Payment is to be settled in person upon check-in.
+
+Domestic Participants:​ While you may select "YES"​ during registration, we strongly recommend booking directly via the hotel website or by calling +86 571 8833 5888 to secure your preferred rate and room type.
 
 Transportation directly to Hangzhou:
 - Flight: Hangzhou Xiaoshan International Airport (HGH), 57 Km
