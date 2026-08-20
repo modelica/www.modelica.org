@@ -272,7 +272,7 @@ Please note that purely tool-related presentations are not permitted for these a
 
 ## Tutorials
 
-Before the Modelica Conference, several tutorials will be held on the afternoon of September 20, 2026 at the conference venue. Each tutorial will be a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
+Before the Modelica Conference, several tutorials will be held on the afternoon of September 20, 2026 at the conference venue. Each tutorial will be a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools). Participants can choose the tutorial during registration.
 
 1. SMArtInt+ - Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica
 2. FMI Beginners’ tutorial - Exporting, Simulating, and Co-Simulating FMUs  
@@ -600,7 +600,7 @@ A welcome reception will be held on the evening of September 20. The conference 
 
 International Participants:​ Please select "YES"​ for "Do you need accommodation?" during registration. The local organizing committee will assist in reserving your room in advance. Payment is to be settled in person upon check-in.
 
-Domestic Participants:​ While you may select "YES"​ during registration, we strongly recommend booking directly via the hotel website or by calling +86 571 8833 5888 to secure your preferred rate and room type.
+Domestic Participants:​ We strongly recommend booking directly via the hotel website or by calling +86 571 8833 5888 to secure your preferred rate and room type.
 
 Transportation directly to Hangzhou:
 - Flight: Hangzhou Xiaoshan International Airport (HGH), 57 Km
