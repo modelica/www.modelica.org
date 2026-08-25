@@ -144,15 +144,14 @@ You are welcome to study the [Preliminary Program of the Asian Modelica Conferen
     </a>
   </div>
   
-<!--
   <div class="col">
-    <a href="https://openmodelica.org" target="_blank" style="pointer-events: auto;">
+    <a href="https://www.dspace.com/en/pub/home.cfm" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/OMlogo.svg" alt="Open Modelica"/>
+        <img src="images/dSPACE.jpg" alt="dSPACE"/>
       </div>
     </a>
   </div>
-
+<!--
   <div class="col">
     <a href="https://www.asam.net/" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
