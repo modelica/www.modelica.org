@@ -276,7 +276,8 @@ Before the Modelica Conference, several tutorials will be held on the afternoon 
 1. SMArtInt+ - Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica
 2. FMI Beginners’ tutorial - Exporting, Simulating, and Co-Simulating FMUs  
 3. OpenModelica Introduction and Hands-on Practice
-4. Agentic modeling with Wolfram System Modeler
+4. Hands-on agentic modeling and best practices, with Wolfram System Modeler
+5. EV thermal management modeling practice with ThermofluidStreams(TFS) Library and YSLAB
    
 <!--
 If you're interested in hosting a tutorial, please send the required information listed below to [modelica26asia@modelica.org ](mailto:modelica26asia@modelica.org). The application deadline is **June 30, 2026**. As only a limited number of tutorials can be held in parallel, we encourage early submission and application.
