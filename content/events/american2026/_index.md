@@ -48,6 +48,204 @@ Additional details are available in the [call for papers](cfp).
 ## Registration now open!
 Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registereing as sponsors by buying a sponsorship ticket. If you plan to attend a workshop, please register also on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) for no more than 2 non-overlapping workshops that are not in parallel. Workshop attendance is free of charge, but we need to know attendance in order to assign the right sized rooms. 
 
+## Schedule
+
+### October 12
+
+| Time | Room | Workshop |
+| --- | --- | --- |
+| **10:00-1:00** | ASDL Cove | Hands-On with Rumoca: Modelica Source, Simulation, and Algebraic Backends in VS Code |
+| **10:00-1:00** | ASDL Code | Physics + AI in Practice: Accelerating Modelica Workflows with Modelon Impact |
+| **10:00-1:00** | SSC | SMArtInt+ - Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica |
+| **1:00-2:30** | — | Lunch |
+| **2:30-5:30** | ASDL Cove | Agentic Modeling and Simulation with Julia/Dyad |
+| **2:30-5:30** | ASDL Code | Modeling HVAC and Control Systems with the Modelica Buildings Library |
+| **2:30-5:30** | SSC | Introduction to Object Oriented Modeling, Simulation, Debugging and Dynamic Optimization with Modelica using OpenModelica |
+
+### October 13
+
+| Time | Session |
+| --- | --- |
+| **8:00–8:30** | Arrival |
+| **8:30-8:45** | Conference welcome |
+| **8:45–9:45** | Vendor sessions |
+| **9:45-10:00** | Break |
+| **10:00-11:05** | Vendor sessions |
+| **11:05–12:00** | Keynote 1: Oliver Lenord |
+| **12:00–1:00** | Lunch |
+| **1:00–2:40** | Paper Session 1: FMI / Building Systems |
+| **2:45–3:15** | Coffee break |
+| **3:15–4:30** | Paper Session 2: Emerging Tools 1 / Power Systems |
+| **4:30–6:00** | Transit to Paschal's |
+
+### October 14
+
+| Time | Session |
+| --- | --- |
+| **8:15–8:50** | MA/FMI updates |
+| **8:50–9:45** | Keynote 2: Daniel Mikkelson |
+| **9:45–10:15** | Coffee break |
+| **10:20–12:00** | Paper Session 3: Emerging Tools 2 / Automotive |
+| **12:00–1:00** | Lunch |
+| **1:00–2:15** | Paper Session 4: Data Centers / Novel Applications |
+| **2:20–4:00** | Industrial Presentations 1 and 2 |
+| **4:00–4:15** | Coffee break |
+| **4:15–5:00** | Podium discussion |
+
+### Detailed Sessions
+
+#### Day 2
+
+##### Paper Session 1A: FMI
+
+Room: ASDL Cove  
+
+**Towards an FMI Layered Standard for DAE—Applications for Simulation and Optimization**<br>
+Elmir Nahodovic – Dassault Systèmes, Andreas Heuermann – Santa Anna IT Research Institute, Joel Andersson – FMIOPT AS, Adwait Verulkar – General Motors, Srikanth Sivaramakrishnan – General Motors, Masoud Najafi – Siemens, Linus Langenkamp – Bielefeld University of Applied Sciences and Arts, Christian Bertsch – Bosch Research, Erik Henningsson – Dassault Systèmes, Hans Olsson – Dassault Systèmes, Bernhard Bachmann
+
+**From Gazebo to FMI: A Modelica-Based Cyber-Physical Simulation Architecture for Firmware-Integrated Robotic Vehicles**<br>
+Minhyun Cho – Purdue University, Minjoon Lee – Purdue University, Micah Condie – Purdue University, Michael Rooney – Purdue University, Evan English – Purdue University, James Goppert – Purdue University, Arslan Khan – Penn State University, Dongyan Xu – Purdue University, Inseok Hwang – Purdue University
+
+**Implementation of a High Fidelity Model of a Racecar into a Path Optimization Problem using Functional Mock-Up Units**<br>
+Angel Zarate Villazon – Georgia Institute of Technology, Michael Balchanos – Georgia Institute of Technology, Dimitri Mavris – Georgia Institute of Technology
+
+**Terminals in SSP**<br>
+Dag Brück – Dassault Systèmes
+
+##### Paper Session 1B: Building Systems
+
+Room: ASDL Code  
+
+**Modelica Buildings Requirements Library**<br>
+David Blum – Lawrence Berkeley National Laboratory, Ettore Zanetti – Lawrence Berkeley National Laboratory, Michael Wetter – Lawrence Berkeley National Laboratory
+
+**Towards Replicable Implementations of ASHRAE Guideline 36 for Waterside Economizers**<br>
+Julia Ho – Penn State University, Cary Faulkner – Pacific Northwest National Laboratory, Wangda Zuo – Penn State University, National Laboratory of the Rockies
+
+**A Unified Multi-Fidelity Modelica Library for Desiccant Wheel Simulation**<br>
+Hang Guan – Texas A&M University, Mingzhe Liu – Texas A&M University, Zhiyao Yang – Texas A&M University, Zheng O'Neill – Texas A&M University
+
+**A Templated Modelica Model for Decoupling Physical System and Control in Resilient Community Energy Systems**<br>
+Juan Diego Flores Garcia – Penn State University, Tahiya Hossain – Penn State University, Viswanathan Ganesh – Penn State University, Wangda Zuo – Penn State University
+
+##### Paper Session 2A: Emerging Tools 1
+
+Room: ASDL Cove  
+
+**Rumoca: Modelica as a Universal Algebraic Frontend via a Rust-Native Compiler**<br>
+Micah Condie – Purdue University, Abigaile Woodbury – Purdue University, Thomas Meschede – Xyntopia LLC, Joel Andersson – FMIOPT AS, James Goppert – Purdue University
+
+**Differentiable Parameter Optimization for DAEs with State-Dependent Events**<br>
+Ion Matei – Fujitsu Research of America, Maksym Zhenirovsky – Fujitsu Research of America, Anthony Wong – Fujitsu Research of America
+
+**ModelScript: Rethinking the Digital Thread with a Web-Native, Polyglot Compiler for Modelica, SysMLv2 & Beyond**<br>
+Mohamad Omar Nachawati – Independent Researcher
+
+##### Paper Session 2B: Power Systems
+
+Room: ASDL Code  
+
+**MMChvdcLibrary: Modeling Arm Average Value Modular Multilevel Converters in Modelica for Power System Simulation**<br>
+Md Nazmul Hassan Chowdhury – Rensselaer Polytechnic Institute, Luigi Vanfretti – Rensselaer Polytechnic Institute
+
+**Real-time simulation and CHiL testing of power system stabilizers on microcontrollers with Modelica and eFMI**<br>
+Luigi Vanfretti – Rensselaer Polytechnic Institute, Christoff Bürger – Dassault Systèmes AB, Joseph Pizzimenti – Rensselaer Polytechnic Institute, Kyle Wilt – Rensselaer Polytechnic Institute, Hao Chang – Rensselaer Polytechnic Institute
+
+**Deploying OpenIPSL Models into DIgSILENT PowerFactory via FMI Model Exchange**<br>
+Hao Chang – Rensselaer Polytechnic Institute, Luigi Vanfretti – Rensselaer Polytechnic Institute
+
+#### Day 3
+
+##### Paper Session 3A: Emerging Tools 2
+
+Room: ASDL Cove  
+
+**Discontinuity-Aware Solvers for Vapor-Compression Cycles**<br>
+Shreyas Ekanathan – University of Texas at Austin, Avinash Subramanian – JuliaHub, Inc., Oscar Smith – JuliaHub, Inc., Yingbo Ma – Independent researcher, Chris Rackauckas – JuliaHub, Inc., Christopher Laughman – Mitsubishi Electric Research Laboratories
+
+**Toward Equation-Based Building Energy System Modeling in Julia: A Modular Prototype and Validation Study**<br>
+Ruizhi Song – Texas A&M University, Mingzhe Liu – Texas A&M University, Zhiyao Yang – Texas A&M University, Zheng O'Neill – Texas A&M University
+
+**Implementation of OpenIPSL in Dyad**<br>
+John Batteh – JuliaHub, Inc., Luigi Vanfretti – Rensselaer Polytechnic Institute
+
+##### Paper Session 3B: Automotive
+
+Room: ASDL Code  
+
+**A Single-Element Multi-Point Compliance for Rigid-Body Connections**<br>
+Behzad Danaei – General Motors, Srikanth Sivaramakrishnan – General Motors
+
+**A 2-DOF MultiBody Track Joint for Race Car Optimization**<br>
+Srikanth Sivaramakrishnan – General Motors, Adwait Verulkar – General Motors, Behzad Danaei – General Motors, Ryan Trinter – General Motors
+
+**A Singularity Avoiding Track Model for Race Car Optimization**<br>
+Adwait Verulkar – General Motors, Behzad Danaei – General Motors, Srikanth Sivaramakrishnan – General Motors, Ryan Trinter – General Motors
+
+**Five-Link Rear Suspension for F1: A Two-Stage Agentic AI Study with the Vehicle Dynamics Library**<br>
+Rebecka Eldh – Modelon AB, Johan Andreasson – Modelon AB, Mathias Strandberg – Modelon AB
+
+##### Paper Session 4A: Data Centers
+
+Room: ASDL Cove  
+
+**A Modelica-based Virtual Testbed for Hybrid-Cooled Data Centers**<br>
+Hongjun Li – Pennsylvania State University, Viswanathan Ganesh – Pennsylvania State University, Wangda Zuo – Pennsylvania State University
+
+**Integrated Microclimate Model in Modelica for Data Center Chiller Farms**<br>
+Kaustubh Phalak – Jacobs, Pouya Javidmand – Trane, Zhanwei He – Trane, Gang Wang – Trane, Sean Guo – Trane
+
+**Agent-Assisted Construction of Modelica System Models from Validated Components: A Data Center Cooling Case Study**<br>
+Nithish Selvan – Modelon Engineering Private Limited, Johan Andreasson – Modelon AB, Pratyush Agarwal – Modelon AB
+
+##### Paper Session 4B: Novel Applications
+
+Room: ASDL Code  
+
+**A Unified Dynamic System Testing Framework**<br>
+Scott Greenwood – Oak Ridge National Laboratory
+
+**Data-Driven Refinement of a Native Modelica Model Predictive Controller for Multi-Variable Gas Turbine Hydrogen Blending Control**<br>
+James Harper – Electric Power Research Institute (EPRI), Paolo Pezzini – Electric Power Research Institute (EPRI)
+
+**Quantum Algorithms for Patent Portfolio Analysis Using OpenModelica and IBM Qiskit**<br>
+Mark Myers – McCormick, Paulding & Huber PLLC
+
+##### Industrial Presentations 1
+
+Room: ASDL Cove  
+
+**A Free-Open-Source Modelica Simulation Package for Air Conditioning and Refrigeration Cycle (SPARC)**<br>
+Chenjiyu Liang – Lawrence Berkeley National Laboratory, Donghun Kim – Lawrence Berkeley National Laboratory, Jiacheng Ma – Carrier Global Corporation
+
+**A Novel Modular Framework for Unified Data Center Cooling Virtual Testbed**<br>
+Viswanathan Ganesh – Pennsylvania State University, Hongjun Li – Pennsylvania State University, Michael Maloney – Pennsylvania State University, Wangda Zuo – Pennsylvania State University
+
+**Rapid De-Risking and Sizing of GSHP Systems in Modelica**<br>
+Victor Braciszewski – SmithGroup, Lone Meertens – KU Leuven, Lieve Helsen – KU Leuven
+
+**De-Risking Energy System Integration through Platform-Based Design and Modelica**<br>
+Michael Wetter – Lawrence Berkeley National Laboratory, Matthias Sulzer – Lawrence Berkeley National Laboratory
+
+**A Workflow for Enabling Modelica Building and District Models for DRTS-Ready FMUs**<br>
+Nicholas Long – National Laboratory of the Rockies, Brian Ball – National Laboratory of the Rockies, Andy Olson – National Laboratory of the Rockies, Nischal Guruwacharya – National Laboratory of the Rockies, Rebecca Barney – National Laboratory of the Rockies, Whitney Trainor Guitton – National Laboratory of the Rockies
+
+##### Industrial Presentations 2
+
+Room: ASDL Code  
+
+**Real-Code Models for Electromagnetic Transient Simulations: Interoperability with Modelica**<br>
+Luigi Vanfretti – Rensselaer Polytechnic Institute, Hao Chang – Rensselaer Polytechnic Institute
+
+**Optimization of a Green Hydrogen Production Case Study Utilizing a Sigmoid Function**<br>
+Nicholas Pilot – Electric Power Research Institute (EPRI), Garrett Doty – Electric Power Research Institute (EPRI), James Harper – Electric Power Research Institute (EPRI), Behrooz Motealleh – Electric Power Research Institute (EPRI), Paolo Pezzini – Electric Power Research Institute (EPRI)
+
+**Simulating Renewable Load-Following Hydrogen Electrolysis Plant Controls**<br>
+Garrett Doty – Electric Power Research Institute (EPRI), Nicholas Pilot – Electric Power Research Institute (EPRI), James Harper – Electric Power Research Institute (EPRI), Paolo Pezzini – Electric Power Research Institute (EPRI)
+
+**Towards Collaborative and AI-Assisted Engineering Workflows with Modelica as a System-Level Backbone**<br>
+Rodion Mamin – LunCo, Rina Faber – LunCo, Yan Barros – LunCo, Stefan Aleksa Djurdjevic – LunCo
+
 ## Our Sponsors
 
 {{<rawhtml>}}
@@ -144,6 +342,7 @@ Monday, October 12 2026, in order to allow travelers to arrive in time for the w
 | Modeling HVAC and Control Systems with the Modelica Buildings Library | 3-4 hours |
 | Hands-On with Rumoca: Modelica Source, Simulation, and Algebraic Backends in VS Code | 2 hours |
 | Physics + AI in Practice: Accelerating Modelica Workflows with Modelon Impact | 3 hours |
+| SMArtInt+ - Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica | 3 hours |
 
 ### Introduction to Object Oriented Modeling, Simulation, Debugging and Dynamic Optimization with Modelica using OpenModelica
 
@@ -186,6 +385,24 @@ Using Modelon Impact, we will build and analyze an industry-relevant system mode
 The session will also provide a practical introduction to Modelon Impact's cloud-based workflows and validated, robust Modelica library content. Participants will leave with a clearer understanding of what "Physics + AI" means in practice: AI that accelerates modeling work while preserving the transparency, reusability, and trust expected from physics-based simulation.
 
 **Presenters:** Mathias Strandberg (Product Manager, Modelon), Pratyush Agarwal (Solutions Engineer, Modelon)
+
+### SMArtInt+ - Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica
+
+There is an increasing need for hybrid models consisting of physical and machine-learning or surrogate model parts. XRG has developed the SMArtInt+ Library, that enables the easy generation and integration of neural networks from different sources and types. This tutorial provides a hands-on introduction to the use of this library, which also includes a Python toolbox. The main use case is the creation and integration of a transient surrogate model for a thermodynamic application.
+
+The tutorial focuses on the generation and utilization of training data, as well as the definition and training of neural network architectures, with the objective of developing high-performance surrogate models. Participants will be introduced to different concepts and approaches for creating data-driven surrogate models and will gain an understanding of the underlying methodologies and best practices.
+
+A central part of the tutorial is the integration of the trained neural networks and surrogate models into Modelica models using the SMArtInt+ Interface-Blocks, allowing seamless substitution of physical components with learned surrogates. Additionally, several concepts of hybrid modeling that combine physical and data-driven approaches are introduced, with a strong focus on the practical integration of trained neural networks and surrogate models within the Modelica environment.
+
+Finally, model performance is evaluated through comparisons with the original physical model.
+
+Expected experience of participants: basic knowledge of neural networks/AI and Python required, and basic Modelica knowledge.
+
+Software requirements: Windows 10 or 11, Dymola 2026 Refresh 1 or OpenModelica 1.26 (backup), and a Python IDE (PyCharm preferred).
+
+More information: [xrg-simulation.com/en/seiten/smartint](https://xrg-simulation.com/en/seiten/smartint)
+
+**Presenter:** Tim Hanke, XRG Simulation GmbH
 
 <!-- We are looking forward to seeing you in Dallas. As a first for a Modelica conference, we are planning to organize a **Modelica-oriented job fair** at the in-person event in Dallas that gives a unique opportunity for employers, students about to graduate, and Modelica practitioners to get to know each other. More details will be forthcoming at this site as the conference date comes closer.   -->
 
