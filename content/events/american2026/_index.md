@@ -332,8 +332,7 @@ Modelica presents an ideal tool to investigate configuration viability in dynami
 
 ## Workshops
 
-The workshops below are offered free of charge to all Conference attendees. Workshop registration on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) is now open. All workshops will be on the afternoon of
-Monday, October 12 2026, in order to allow travelers to arrive in time for the workshops when traveling in the morning.
+The workshops below are offered free of charge to all Conference attendees. Workshop registration on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) is now open. All workshops will be on Monday, October 12 2026, starting at 10:00am, in order to allow East-Coast travellers to arrive in time for the workshops when traveling in the morning.
 
 | Title | Duration |
 | --- | --- |
