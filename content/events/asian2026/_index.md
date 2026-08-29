@@ -703,7 +703,8 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
       </div>
     </a>
   </div>
-
+  
+<!--
     <div class="col">
     <a href="https://www.sae-china.org/branch/383" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
@@ -715,10 +716,7 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
 </div>
 
 {{</rawhtml>}}
-
-
-
-
+-->
 
 ## Conference Board
 
@@ -742,9 +740,4 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
 - **Dr. Daeoh Kang**, iVH, Korea
 - **Prof. Tielong Shen**, Dalian Univ. of Technology & Emeritus Professor (Sophia Univ.)
   
-<!--
-- Dr. Aiguo Xu, Nanjing Yuansi SimTek., Co., Ltd. China
-- Dr. Fanli Zhou, Suzhou Tongyuan Software & Control Technology Co., Ltd. China
-- Mr. Shaoqing He, CATARC/Data
-- Prof. Yusheng Liu, Hope System Technology
--->
+
