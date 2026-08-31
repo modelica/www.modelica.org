@@ -278,6 +278,8 @@ Before the Modelica Conference, several tutorials will be held on the afternoon 
 3. OpenModelica Introduction and Hands-on Practice
 4. Hands-on agentic modeling and best practices, with Wolfram System Modeler
 5. EV thermal management modeling practice with ThermofluidStreams(TFS) Library and YSLAB
+
+Find a more detailes description, in our [Tutorial Booklet](TutorialBookletAMFC2026.pdf).
    
 <!--
 If you're interested in hosting a tutorial, please send the required information listed below to [modelica26asia@modelica.org ](mailto:modelica26asia@modelica.org). The application deadline is **June 30, 2026**. As only a limited number of tutorials can be held in parallel, we encourage early submission and application.
