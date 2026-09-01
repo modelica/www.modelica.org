@@ -151,15 +151,15 @@ You are welcome to study the [Preliminary Program of the Asian Modelica Conferen
       </div>
     </a>
   </div>
-<!--
+
   <div class="col">
-    <a href="https://www.asam.net/" target="_blank" style="pointer-events: auto;">
+    <a href="https://www.tongyuan.cc/" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/asam-logo.svg" alt="ASAM eV"/>
+        <img src="images/Tongyuan1.jpg" alt="Suzhou Tongyuan"/>
       </div>
     </a>      
   </div>
-
+<!--
   <div class="col">
     <a href="https://www.claytex.com/" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
