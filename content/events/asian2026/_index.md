@@ -271,13 +271,13 @@ Please note that purely tool-related presentations are not permitted for these a
 
 ## Tutorials
 
-Before the Modelica Conference, several tutorials will be held on the afternoon of September 20, 2026 at the conference venue. Each tutorial will be a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools). Participants can choose the tutorial during registration.
+Before the Modelica Conference, several tutorials will be held on the afternoon of September 20, 2026 at the conference venue. Each tutorial will be a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their **own laptops**; the presenter will provide the necessary tools). Participants can choose the tutorial during registration.
 
 1. SMArtInt+ - Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica
 2. FMI Beginners’ tutorial - Exporting, Simulating, and Co-Simulating FMUs  
 3. OpenModelica Introduction and Hands-on Practice
 4. Hands-on agentic modeling and best practices, with Wolfram System Modeler
-5. EV thermal management modeling practice with ThermofluidStreams(TFS) Library and YSLAB
+5. EV thermal management modeling practice with ThermofluidStreams(TFS) Library and YSSIM.YSLAB
 
 Find a more detailes description, in our [Tutorial Booklet](TutorialBookletAMFC2026.pdf).
    
