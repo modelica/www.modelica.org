@@ -48,7 +48,7 @@ In addition to paper presentations, the conference features several Modelica tut
 
 ## Preliminary Program
 
-You are welcome to study the [Program of the Asian Modelica Conference 2026](Program.md) for your conference planning. 
+You are welcome to study the [Program of the Asian Modelica Conference 2026](program) for your conference planning. 
 
 ## Our Sponsors
 
