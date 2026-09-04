@@ -159,15 +159,15 @@ You are welcome to study the [Preliminary Program of the Asian Modelica Conferen
       </div>
     </a>      
   </div>
-<!--
+
   <div class="col">
-    <a href="https://www.claytex.com/" target="_blank" style="pointer-events: auto;">
+    <a href="https://www.yisuworld.com/" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/Claytex-logo-RGB-blue-pos.svg" alt="CLAYTEX Services Ltd"/>
+        <img src="images/Yisu.png" alt="Yisu Info Tech"/>
       </div>
     </a>      
   </div>
--->
+
 </div>
 
 {{</rawhtml>}}
