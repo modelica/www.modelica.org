@@ -1,7 +1,3 @@
-<!-- AMFC 2026 timetable v35 -->
-<!-- Regenerated from v34: clean md source, version header corrected to v35. -->
-<!-- All content identical to v34 (Workshop 3 title = "EV thermal management modeling practice with TFS and YSSIM.YSLAB"). -->
-
 <style>
 body {
   font-family: Georgia, "Times New Roman", serif;
