@@ -600,7 +600,7 @@ A welcome reception will be held on the evening of September 20. The conference 
 
 **Accommodation Notes**:
 
-International Participants:​ Please select "YES"​ for "Do you need accommodation?" during registration. The local organizing committee will assist in reserving your room in advance. Payment is to be settled in person upon check-in.
+International Participants:​ Please select "YES"​ for "Do you need accommodation?" during registration. The local organizing committee will assist in reserving your room in advance including check-in and check-out dates confirmation by email after your registration. Payment is to be settled in person upon check-in.The hotel **does not accept the booking via website or international call**.
 
 Domestic Participants:​ We strongly recommend booking directly via the hotel website or by calling +86 571 8833 5888 to secure your preferred rate and room type.
 
