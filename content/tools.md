@@ -115,6 +115,23 @@
   <div class="col-lg-6">
     <div class="card h-100">
       <div class="card-img-top card-header">
+        <img src="/images/tools/kyfx.svg" style="height: 80px; margin: auto;">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Kyfx</h5>
+        <div class="mb-2"><small>by <a href="https://kyfxtech.net/">Kyfx</a></small></div>
+        <p class="card-text mt-2">Kyfx is a multi-tenant cloud simulation SaaS platform for Modelica models. It allows engineering teams and model authors to deploy Modelica libraries into interactive, config-driven web applications, run automated parameter studies (DoE and Pareto tradeoff analysis), and share results across teams with role-based access control. Kyfx is currently available with a free beta access tier.
+        </p>
+      </div>
+      <div class="card-footer">
+        <a href="https://kyfxtech.net/" class="btn btn-primary"><i class="fa-solid fa-arrow-right me-1"></i> Website</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-6">
+    <div class="card h-100">
+      <div class="card-img-top card-header">
         <img src="/images/tools/Maplesoft.svg" style="height: 80px; margin: auto;">
       </div>
       <div class="card-body">
