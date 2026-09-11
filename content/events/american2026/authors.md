@@ -27,3 +27,7 @@ Papers must be presented during the conference in person. Papers that are not pr
 ## Industrial User Presentations instead of Poster Session
 
 Papers that are not accepted for a full paper presentation may still qualify for an industrial user presentation, it it is industrially relevant content by end-users, but **not vendors**, if the content is interesting, but not qualifies for a rigorously reviewed paper. We will let authors know of that possibility at the time of the paper acceptance.   
+
+## Copyright Assignement
+
+It is very important that we get a signed [Copyright Assignment](https://modelica.org/events/american2026/files/20260911-AMFCONF-copyright-transfer.pdf) document through the submission page on EasyChair. Without a copyright assignment, we can and will not publish the paper in the proceedings. 
