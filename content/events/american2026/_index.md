@@ -347,7 +347,7 @@ The workshops below are offered free of charge to all Conference attendees. Work
 
 This tutorial gives an introduction to the Modelica language, the OpenModelica environment, and an overview of modeling and simulation in a number of application areas. Some advanced features of OpenModelica will be presented, including debugging, profiling, clocked synchronous support, real-time embedded code generation, OMPython, OMJulia, FMI export, etc. A number of hands-on exercises will be done during the tutorial, both graphical modeling using the Modelica Standard Library (MSL) and textual modeling. Bring your laptop for exercises.
 
-**Presenters:** Adrian Pop (Linköping University) – online, Luigi Vanfretti (Rensselaer Polytechnic Institute) – on site
+**Presenters:** Adrian Pop (Linköping University) – online, Luigi Vanfretti (Rensselaer Polytechnic Institute) – on site. Contact: [adrian.pop@liu.se](mailto:adrian.pop@liu.se)
 
 ### Agentic Modeling and Simulation with Julia/Dyad
 
@@ -357,13 +357,13 @@ Included in the presentation will be how to build graphical models from within V
 
 Participants should come prepared with some tasks to give the agent so they can see how much progress they can make in a short amount of time.
 
-**Presenter:** Michael Tiller (JuliaHub)
+**Presenter:** Michael Tiller [](mailto:michael.tiller@juliahub.com) (JuliaHub)
 
 ### Modeling HVAC and Control Systems with the Modelica Buildings Library
 
 This workshop introduces modeling for HVAC and control systems for buildings, districts, and data centers using the Modelica Buildings Library. While focused on these applications, the course is structured to benefit modelers of any thermo-fluid system. Following an overview of the library's scope, we will cover best practices for model configuration and troubleshooting. Through hands-on exercises, participants will develop simple HVAC system models, connect them to thermal loads, and implement feedback control. The instructors will demonstrate using OpenModelica, though participants are welcome to use Modelon Impact or Dassault Systemes' Dymola.
 
-**Presenters:** Michael Wetter (LBNL), David Blum (LBNL), Ettore Zanetti (LBNL)
+**Presenters:** Michael Wetter (LBNL), David Blum (LBNL), Ettore Zanetti[](mailto:ezanetti@lbl.gov) (LBNL). [Additional Information](https://simulationresearch.lbl.gov/modelica//training/2026/10/12/training-american-modelica-conference.html)
 
 ### Hands-On with Rumoca: Modelica Source, Simulation, and Algebraic Backends in VS Code
 
@@ -373,7 +373,7 @@ Using curated example models, attendees will edit code, inspect diagnostics, run
 
 The tutorial demonstrates a modern Modelica workflow in which one model serves as a reusable algebraic specification for simulation, optimization, automatic differentiation, machine learning, and model exchange. No prior Rumoca experience is required; basic Modelica, VS Code, and Python familiarity is helpful.
 
-**Presenters:** James Goppert and Micah Condie (Purdue University)
+**Presenters:** James Goppert and Micah Condie (Purdue University) Contact: [condiem@purdue.edu](mailto:condiem@purdue.edu), [Additional Information](https://rumoca.cognipilot.org/workshop/)
 
 ### Physics + AI in Practice: Accelerating Modelica Workflows with Modelon Impact
 
@@ -383,7 +383,7 @@ Using Modelon Impact, we will build and analyze an industry-relevant system mode
 
 The session will also provide a practical introduction to Modelon Impact's cloud-based workflows and validated, robust Modelica library content. Participants will leave with a clearer understanding of what "Physics + AI" means in practice: AI that accelerates modeling work while preserving the transparency, reusability, and trust expected from physics-based simulation.
 
-**Presenters:** Mathias Strandberg (Product Manager, Modelon), Pratyush Agarwal (Solutions Engineer, Modelon)
+**Presenters:** Mathias Strandberg (Product Manager, Modelon), Pratyush Agarwal [](mailto:pratyush.agarwal@modelon.com) (Solutions Engineer, Modelon)
 
 ### SMArtInt+ - Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica
 
@@ -401,7 +401,7 @@ Software requirements: Windows 10 or 11, Dymola 2026 Refresh 1 or OpenModelica 1
 
 More information: [xrg-simulation.com/en/seiten/smartint](https://xrg-simulation.com/en/seiten/smartint)
 
-**Presenter:** Tim Hanke, XRG Simulation GmbH
+**Presenter:** Tim Hanke, XRG Simulation GmbH, Contact [](mailto:smartintplus@xrg-simulation.de)
 
 <!-- We are looking forward to seeing you in Dallas. As a first for a Modelica conference, we are planning to organize a **Modelica-oriented job fair** at the in-person event in Dallas that gives a unique opportunity for employers, students about to graduate, and Modelica practitioners to get to know each other. More details will be forthcoming at this site as the conference date comes closer.   -->
 
