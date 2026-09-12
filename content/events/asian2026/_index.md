@@ -168,6 +168,14 @@ You are welcome to study the [Preliminary Program of the Asian Modelica Conferen
     </a>      
   </div>
 
+  <div class="col">
+    <a href="https://www.avic-digital.com" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/JinHang.png" alt="JinHang"/>
+      </div>
+    </a>      
+  </div>
+  
 </div>
 
 {{</rawhtml>}}
