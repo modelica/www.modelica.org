@@ -49,7 +49,7 @@ In addition to paper presentations, the conference features several Modelica tut
 ## Preliminary Program
 
 You are welcome to study the [Preliminary Program of the Asian Modelica Conference 2026](prelprogram) for your conference planning. 
-
+<!--
 ## Conference App
 
 **[Open the Conference App →](https://modelica.simtek.cc/amfc2026/schedule/)**
@@ -57,7 +57,7 @@ You are welcome to study the [Preliminary Program of the Asian Modelica Conferen
 - View the full conference program, sessions, speakers, and papers.
 
  - *Please note: The app is expected to stay online for an extended period, but availability cannot be guaranteed indefinitely.*  
-
+-->
 ## Our Sponsors
 
 
