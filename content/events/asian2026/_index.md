@@ -127,7 +127,7 @@ You are welcome to study the [Preliminary Program of the Asian Modelica Conferen
  <div class="col">
     <a href="https://www.3ds.com/products/catia/dymola" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/3ds2.jpeg" alt="DS"/>
+        <img src="images/3DS.png" alt="DS"/>
       </div>
     </a>
   </div>
