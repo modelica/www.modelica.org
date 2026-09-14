@@ -49,7 +49,15 @@ In addition to paper presentations, the conference features several Modelica tut
 ## Preliminary Program
 
 You are welcome to study the [Preliminary Program of the Asian Modelica Conference 2026](prelprogram) for your conference planning. 
+<!--
+## Conference App
 
+**[Open the Conference App →](https://modelica.simtek.cc/amfc2026/schedule/)**
+
+- View the full conference program, sessions, speakers, and papers.
+
+ - *Please note: The app is expected to stay online for an extended period, but availability cannot be guaranteed indefinitely.*  
+-->
 ## Our Sponsors
 
 
@@ -108,10 +116,18 @@ You are welcome to study the [Preliminary Program of the Asian Modelica Conferen
     </a>
   </div>
 
-    <div class="col">
+ <div class="col">
     <a href="https://www.toshiba.com.cn/" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
         <img src="images/Toshiba.png" alt="Toshiba"/>
+      </div>
+    </a>
+  </div>
+
+ <div class="col">
+    <a href="https://www.3ds.com/products/catia/dymola" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/3DS.png" alt="DS"/>
       </div>
     </a>
   </div>
@@ -168,6 +184,14 @@ You are welcome to study the [Preliminary Program of the Asian Modelica Conferen
     </a>      
   </div>
 
+  <div class="col">
+    <a href="https://www.avic-digital.com" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/JinHang.png" alt="JinHang"/>
+      </div>
+    </a>      
+  </div>
+  
 </div>
 
 {{</rawhtml>}}
