@@ -243,8 +243,6 @@ Nicholas Pilot – Electric Power Research Institute (EPRI), Garrett Doty – El
 **Simulating Renewable Load-Following Hydrogen Electrolysis Plant Controls**<br>
 Garrett Doty – Electric Power Research Institute (EPRI), Nicholas Pilot – Electric Power Research Institute (EPRI), James Harper – Electric Power Research Institute (EPRI), Paolo Pezzini – Electric Power Research Institute (EPRI)
 
-**Towards Collaborative and AI-Assisted Engineering Workflows with Modelica as a System-Level Backbone**<br>
-Rodion Mamin – LunCo, Rina Faber – LunCo, Yan Barros – LunCo, Stefan Aleksa Djurdjevic – LunCo
 
 ## Our Sponsors
 
