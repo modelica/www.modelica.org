@@ -201,11 +201,11 @@
    <div class="col-lg-6">
       <div class="card h-100">
         <div class="card-img-top card-header">
-          <img src="/images/tools/SIMTEK.svg" style="height: 80px; margin: auto;">
-        <div class="mb-2"><small>by <a href="https://en.simtek.cc/">SIMTEK</a></small></div>
+          <img src="/images/tools/SIMTEK.svg" style="height: 80px; margin: auto;">  
         </div>
         <div class="card-body">
             <h5 class="card-title">YSSIM</h5>
+            <div class="mb-2"><small>by <a href="https://en.simtek.cc/">SIMTEK</a></small></div>
             <p class="card-text mt-2">YSSIM is a web-based platform for system-level modeling, simulation data management and virtual experimentation, covering the full development lifecycle of complex products. It is built on a browser/server microservice architecture that can be deployed flexibly and scaled on demand. Modeling is done in the browser against the Modelica language standard, with both graphical composition and code editing, syntax and interface consistency checking, variable-step and fixed-step solvers, and result post-processing, comparison and export — all organised around a model-experiment-result data structure backed by personal and shared model libraries with review workflows and multi-criteria search. Models can be exported as FMUs, and the co-simulation module conforms to the FMI standard, so heterogeneous models from Dymola, Simulink, Simcenter Amesim and other FMI-compliant tools can be coupled, together with lookup-table and surrogate components and a choice of co-simulation algorithms. Further modules cover requirement-driven simulation testing with design-of-experiments methods such as Monte Carlo, Latin hypercube and full factorial; machine-learning based reduced-order modeling with FMU and ONNX export; and an application workbench that publishes models as human-in-the-loop real-time applications with interactive controls and dashboards.</p>
     </div>
       <div class="card-footer">
