@@ -11,137 +11,89 @@ params:
   youtube: modelicaassociation
 menu:
   main:
-    - pageRef: "language"
-      identifier: "language"
-      name: "Language"
-      url: "/language/"
+    - name: Association
+      pageRef: /association
       weight: 1
 
-    - pageRef: "association"
-      identifier: "association"
-      name: "Association"
-      url: "/association/"
+    - name: Projects
+      weight: 2
+    - name: Coordination
+      pageRef: /projects/coordination
+      parent: Projects
       weight: 1
-
-    - pageRef: "community"
-      identifier: "community"
-      name: "Community"
-      url: "/community/"
+    - name: Language
+      pageRef: /projects/language
+      parent: Projects
       weight: 2
 
-    - pageRef: "consulting"
-      identifier: "consulting"
-      name: "Consulting"
-      url: "/community/consulting/"
-      parent: "community"
-      weight: 1
-
-    - pageRef: "development"
-      identifier: "development"
-      name: "Development"
-      url: "/community/development/"
-      parent: "community"
-      weight: 2
-
-    - pageRef: "projects"
-      identifier: "projects"
-      name: "Projects"
-      url: "/community/projects/"
-      parent: "community"
+    - name: Libraries
+      pageRef: /libraries
       weight: 3
 
-    - pageRef: "training"
-      identifier: "training"
-      name: "Training"
-      url: "/community/training/"
-      parent: "community"
+    - name: Tools
+      pageRef: /tools
       weight: 4
 
-    - pageRef: "usergroups"
-      identifier: "usergroups"
-      name: "Usergroups"
-      url: "/community/usergroups/"
-      parent: "community"
+    - name: Community
+      weight: 5
+    - name: Consulting
+      pageRef: /community/consulting
+      parent: Community
+      weight: 1
+    - name: Development
+      pageRef: /community/development
+      parent: Community
+      weight: 2
+    - name: Community Projects
+      pageRef: /community/projects
+      parent: Community
+      weight: 3
+    - name: Training
+      pageRef: /community/training
+      parent: Community
+      weight: 4
+    - name: Usergroups
+      pageRef: /community/usergroups
+      parent: Community
       weight: 5
 
-    - pageRef: "events"
-      identifier: "events"
-      name: "Events"
-      url: "/events/"
-      weight: 4    
-
-    - pageRef: "overview"
-      identifier: "overview"
-      name: "All Past and Upcoming Events"
-      url: "/events/"
-      parent: "events"
-      weight: 1  
-
-    - pageRef: "asian2026"
-      identifier: "asian2026"
-      name: "Asian Modelica & FMI Conference 2026"
-      url: "/events/asian2026"
-      parent: "events"
-      weight: 2    
-
-    - pageRef: "american2026"
-      identifier: "american2026"
-      name: "American Modelica & FMI Conference 2026"
-      url: "/events/american2026"
-      parent: "events"
-      weight: 3    
-
-    - pageRef: "modelica2027"
-      identifier: "modelica2027"
-      name: "International Modelica & FMI Conference 2027"
-      url: "/events/modelica2027"
-      parent: "events"
-      weight: 4    
-
-    - pageRef: "related"
-      identifier: "related"
-      name: "Related Events"
-      url: "/events/related"
-      parent: "events"
-      weight: 5  
-
-    - pageRef: "news"
-      identifier: "news"
-      name: "News"
-      url: "/news/"
-      weight: 4
-
-    - pageRef: "publications"
-      identifier: "publications"
-      name: "Publications"
-      url: "/publications/"
-      weight: 3
-
-    - pageRef: "books"
-      identifier: "books"
-      name: "Books"
-      url: "/publications/books/"
-      parent: "publications"
+    - name: Publications
+      weight: 6
+    - name: Books
+      pageRef: /publications/books
+      parent: Publications
       weight: 1
-
-    - pageRef: "proceedings"
-      identifier: "proceedings"
-      name: "Proceedings"
-      url: "/publications/proceedings/"
-      parent: "publications"
+    - name: Proceedings
+      pageRef: /publications/proceedings
+      parent: Publications
       weight: 2
 
-    - pageRef: "libraries"
-      identifier: "libraries"
-      name: "Libraries"
-      url: "/libraries/"
+    - name: Events
+      weight: 7
+    - name: All Past and Upcoming Events
+      pageRef: /events
+      parent: Events
       weight: 1
+    - name: Asian Modelica & FMI Conference 2026
+      pageRef: /events/asian2026
+      parent: Events
+      weight: 2    
+    - name: American Modelica & FMI Conference 2026
+      pageRef: /events/american2026
+      parent: Events
+      weight: 3    
+    - name: International Modelica & FMI Conference 2027
+      pageRef: /events/modelica2027
+      parent: Events
+      weight: 4
+    - name: Related Events
+      pageRef: /events/related
+      parent: Events
+      weight: 5
 
-    - pageRef: "tools"
-      identifier: "tools"
-      name: "Tools"
-      url: "/tools/"
-      weight: 1
+    - name: News
+      pageRef: /news
+      weight: 8
 markup:
   tableOfContents:
     startLevel: 2
