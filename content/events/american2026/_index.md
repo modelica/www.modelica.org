@@ -457,6 +457,8 @@ Please see the [call for papers](cfp) for details about paper submissions, and t
 - September 4th, 2026 Submission of final papers and one-page abstracts
 - October 7th, 2026 Submission of final presentations
 
+It is very important that we get a signed [Copyright Assignment](https://modelica.org/events/american2026/files/20260911-AMFCONF-copyright-transfer.pdf) document through the submission page on EasyChair. Without a copyright assignment, we can and will not publish the paper in the proceedings. 
+
 
 ## Organization and Contact
 

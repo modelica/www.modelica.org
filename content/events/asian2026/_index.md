@@ -49,7 +49,15 @@ In addition to paper presentations, the conference features several Modelica tut
 ## Preliminary Program
 
 You are welcome to study the [Preliminary Program of the Asian Modelica Conference 2026](prelprogram) for your conference planning. 
+<!--
+## Conference App
 
+**[Open the Conference App →](https://modelica.simtek.cc/amfc2026/schedule/)**
+
+- View the full conference program, sessions, speakers, and papers.
+
+ - *Please note: The app is expected to stay online for an extended period, but availability cannot be guaranteed indefinitely.*  
+-->
 ## Our Sponsors
 
 
@@ -108,10 +116,18 @@ You are welcome to study the [Preliminary Program of the Asian Modelica Conferen
     </a>
   </div>
 
-    <div class="col">
+ <div class="col">
     <a href="https://www.toshiba.com.cn/" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
         <img src="images/Toshiba.png" alt="Toshiba"/>
+      </div>
+    </a>
+  </div>
+
+ <div class="col">
+    <a href="https://www.3ds.com/products/catia/dymola" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/3DS.png" alt="DS"/>
       </div>
     </a>
   </div>
@@ -159,15 +175,23 @@ You are welcome to study the [Preliminary Program of the Asian Modelica Conferen
       </div>
     </a>      
   </div>
-<!--
+
   <div class="col">
-    <a href="https://www.claytex.com/" target="_blank" style="pointer-events: auto;">
+    <a href="https://www.yisuworld.com/" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
-        <img src="images/Claytex-logo-RGB-blue-pos.svg" alt="CLAYTEX Services Ltd"/>
+        <img src="images/Yisu.png" alt="Yisu Info Tech"/>
       </div>
     </a>      
   </div>
--->
+
+  <div class="col">
+    <a href="https://www.avic-digital.com" target="_blank" style="pointer-events: auto;">
+      <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
+        <img src="images/JinHang.png" alt="JinHang"/>
+      </div>
+    </a>      
+  </div>
+  
 </div>
 
 {{</rawhtml>}}
@@ -271,13 +295,13 @@ Please note that purely tool-related presentations are not permitted for these a
 
 ## Tutorials
 
-Before the Modelica Conference, several tutorials will be held on the afternoon of September 20, 2026 at the conference venue. Each tutorial will be a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools). Participants can choose the tutorial during registration.
+Before the Modelica Conference, several tutorials will be held on the afternoon of September 20, 2026 at the conference venue. Each tutorial will be a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their **own laptops**; the presenter will provide the necessary tools). Participants can choose the tutorial during registration.
 
 1. SMArtInt+ - Hands-on AI: Generation and Integration of Neural Networks and Surrogate Models into Modelica
 2. FMI Beginners’ tutorial - Exporting, Simulating, and Co-Simulating FMUs  
 3. OpenModelica Introduction and Hands-on Practice
 4. Hands-on agentic modeling and best practices, with Wolfram System Modeler
-5. EV thermal management modeling practice with ThermofluidStreams(TFS) Library and YSLAB
+5. EV thermal management modeling practice with ThermofluidStreams(TFS) Library and YSSIM.YSLAB
 
 Find a more detailes description, in our [Tutorial Booklet](TutorialBookletAMFC2026.pdf).
    
@@ -600,7 +624,7 @@ A welcome reception will be held on the evening of September 20. The conference 
 
 **Accommodation Notes**:
 
-International Participants:​ Please select "YES"​ for "Do you need accommodation?" during registration. The local organizing committee will assist in reserving your room in advance. Payment is to be settled in person upon check-in.
+International Participants:​ Please select "YES"​ for "Do you need accommodation?" during registration. The local organizing committee will assist in reserving your room in advance including check-in and check-out dates confirmation by email after your registration. Payment is to be settled in person upon check-in.The hotel **does not accept the booking via website or international call**.
 
 Domestic Participants:​ We strongly recommend booking directly via the hotel website or by calling +86 571 8833 5888 to secure your preferred rate and room type.
 
@@ -714,11 +738,11 @@ For general questions, please contact [modelica26asia@modelica.org](mailto:model
       </div>
     </a>
   </div>
-
+-->
 </div>
 
 {{</rawhtml>}}
--->
+
 
 ## Conference Board
 
