@@ -28,7 +28,7 @@ The current project leader is Hubertus Tummescheit. You can contact him via [hub
 
 ### Ongoing work: a unified CSV format for time series and similar data
 
-Interoperability often depends on the small details of precis definition of data formats and rules. CSV is a ubiquitous and minimal common denominator. However, it is usually used with incredibly many minor variants that are subtly incompatible. With this format, we have defined a format that covers what is needed for numerical data, including NaN and similar exceptions, and that fulfills the needs of all Modelica standards. Note that it is not (yet) used in MSL since it is new.
+Interoperability often depends on the small details of precis definition of data formats and rules. CSV is a ubiquitous and minimal common denominator. However, it is usually used with incredibly many minor variants that are subtly incompatible. With this format, we have defined a format that covers what is needed for numerical data, including NaN and similar exceptions, and that fulfills the needs of all Modelica standards. Note that it is not (yet) used in MSL since it is new. The format is currently used in fmPy and fmusim.
 
 The current release is in beta for public comments, and available on GitHub: [MA-HS-CSV-Standard beta release](https://github.com/modelica/ma-hs-csv/tree/v1.0.0-beta.1)
 
