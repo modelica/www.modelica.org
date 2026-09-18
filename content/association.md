@@ -42,7 +42,7 @@ Please choose the [individual application form](https://docs.google.com/forms/d/
         </div>
         <div class="col-lg-4 col-md-6 mt-1 mb-4">
             <p>A project to develop, standardize, and promote Modelica, a language to model and simulate multi-domain cyber physical systems in a convenient way.</p>
-            <p><a href="/language/" class="mt-5">Modelica Language<i class="fa-solid fa-arrow-right ms-2"></i></a></p>
+            <p><a href="/projects/language/" class="mt-5">Modelica Language<i class="fa-solid fa-arrow-right ms-2"></i></a></p>
         </div>
     </div>
 
