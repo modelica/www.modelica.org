@@ -3,6 +3,8 @@ title: New Modelica Association Project "Coordination"
 date: 2026-09-18
 ---
 
+![](/images/logos/Modelica-Coordination.svg)  
+
 ## New Modelica Association Project "Coordination"
 
 The MA's family of standards has grown — Modelica Language, FMI, SSP, DCP, eFMI — and with it the need to make sure they fit together. 
