@@ -68,9 +68,9 @@ Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-m
 | --- | --- |
 | **8:00–8:30** | Arrival |
 | **8:30-8:45** | Conference welcome |
-| **8:45–9:45** | Vendor sessions |
-| **9:45-10:00** | Break |
-| **10:00-11:05** | Vendor sessions |
+| **8:45–9:50** | Vendor sessions |
+| **9:50-10:05** | Break |
+| **10:05-11:05** | Vendor sessions |
 | **11:05–12:00** | Keynote 1: Oliver Lenord |
 | **12:00–1:00** | Lunch |
 | **1:00–2:40** | Paper Session 1: FMI / Building Systems |
@@ -88,8 +88,8 @@ Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-m
 | **10:20–12:00** | Paper Session 3: Emerging Tools 2 / Automotive |
 | **12:00–1:00** | Lunch |
 | **1:00–2:15** | Paper Session 4: Data Centers / Novel Applications |
-| **2:20–4:00** | Industrial Presentations 1 and 2 |
-| **4:00–4:15** | Coffee break |
+| **2:20–3:40** | Industrial Presentations 1 and 2 |
+| **3:45–4:15** | Coffee break |
 | **4:15–5:00** | Podium discussion |
 
 ### Detailed Sessions
@@ -242,7 +242,6 @@ Nicholas Pilot – Electric Power Research Institute (EPRI), Garrett Doty – El
 
 **Simulating Renewable Load-Following Hydrogen Electrolysis Plant Controls**<br>
 Garrett Doty – Electric Power Research Institute (EPRI), Nicholas Pilot – Electric Power Research Institute (EPRI), James Harper – Electric Power Research Institute (EPRI), Paolo Pezzini – Electric Power Research Institute (EPRI)
-
 
 ## Our Sponsors
 
