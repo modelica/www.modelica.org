@@ -257,7 +257,10 @@ Modelica models are usually graphically constructed with one of the schematic ed
 - **[Modelica mode for Emacs](https://github.com/modelica-tools/modelica-mode)**, created by Rüdiger Franke
 - **[Modelica Sublime Text Package](http://borischumichev.github.io/modelicaSublimeTextPackage/)** \- A package is to bring Modelica language support to Sublime Text and also to provide snippets for commonly used language patterns.
 - Modelica syntax highlighting for text editor **[UltraEdit](http://www.ultraedit.com)**. (= shareware editor on PC which is fast, "simple things are simple", many useful features such as copying/moving of rectangular text). Copy content of file [WordfileModelica.txt](/tools/WordfileModelica.txt) in file UltraEdit/Wordfile.txt and change first tag "/L6" to the correct number of supported language, if necessary.
-- **[Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=SimplyDanny.modelica)** \- Modelica language support including syntax highlighting, bracket matching and some useful snippets
+- **[Visual Studio Code](https://code.visualstudio.com/)** \- Extensions for Modelica support:
+  - **[Modelica](https://marketplace.visualstudio.com/items?itemName=SimplyDanny.modelica)** \- Modelica language support including syntax highlighting, bracket matching and some useful snippets
+  - **[MetaModelica](https://marketplace.visualstudio.com/items?itemName=AnHeuermann.metamodelica)** \- Syntax highlighting and language support for Modelica, Base Modelica, MetaModelica, the Susan template language and MOS scripts used by OpenModelica.
+  - **[Modelica Language Server](https://marketplace.visualstudio.com/items?itemName=OpenModelica.modelica-language-server)** \- Language server for Modelica, based on the tree-sitter Modelica grammar and developed by OpenModelica. It provides document outline, go to definition, completion and syntax diagnostics.
 
 ## Modelica tools for developers
 
@@ -266,6 +269,10 @@ Modelica models are usually graphically constructed with one of the schematic ed
 - **[MapleSim Standalone Modelica Parser](https://github.com/modelica-tools/ModelicaSyntaxChecker)**: May be freely used for library syntax validation, and for non-commercial educational purposes.
   - Online Version:[http://www.maplesoft.com/products/maplesim/modelicachecker](http://www.maplesoft.com/products/maplesim/modelicachecker)
 - **[Trimming of trailing white spaces (and other code clean-up)](https://github.com/simulatino/trimtrailingwhitespaces)**: This script will recursively remove all trailing white spaces in all text files in a given directory. Binary files and files residing in version control specific directories are skipped. As an addition, one can also let it clean out obsolete or empty/superfluous Modelica annotations from Modelica files and more.
+- **[Modelica Language Server](https://github.com/OpenModelica/modelica-language-server)**: A Language Server Protocol (LSP) implementation for Modelica based on the tree-sitter Modelica grammar, which can be integrated into any LSP-capable editor or IDE.
+- **[tree-sitter](https://tree-sitter.github.io/) grammars for Modelica**: Provide fast, incremental and error-tolerant parsing of Modelica code, usable for syntax highlighting in editors that support tree-sitter as well as for building custom Modelica tooling.
+  - **[tree-sitter-modelica](https://github.com/OpenModelica/tree-sitter-modelica)**: Modelica grammar and highlighting queries developed by OpenModelica. It is used by the Modelica Language Server.
+  - **[modelica-tree-sitter](https://github.com/mtiller/modelica-tree-sitter)**: Modelica grammar by Michael Tiller.
 - **[PMD](https://github.com/pmd/pmd)**: An extensible multilanguage static code analyzer with support for Modelica language.
 - **[MLQT](https://github.com/mdempse1/MLQT)**: An open-source desktop application and set of libraries for managing, analyzing, and reviewing Modelica libraries stored in version control systems (Git or SVN). The project also provides an MCP server focused on creating and editing Modelica models and libraries.
 
