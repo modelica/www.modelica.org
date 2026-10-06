@@ -50,7 +50,7 @@ Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-m
 
 ## Schedule
 
-We are using [Pretalx](https://pretalx.com/amfc-2026/) as our conference app, which shows the [schedule](https://pretalx.com/amfc-2026/schedule) up-to-date even for last minute changes. You can also download the complete [conference program]((https://modelica.org/events/american2026/files/ModelicaAMFC-2026_print.pdf) as printed, including extended abstracts for all papers. Speakers are expected to update their profile and bio on the pretalx app. For editing you have to be logged in using the same email that you used on Easychair.
+We are using [Pretalx](https://pretalx.com/amfc-2026/) as our conference app, which shows the [schedule](https://pretalx.com/amfc-2026/schedule) up-to-date even for last minute changes. You can also download the complete [conference program](https://modelica.org/events/american2026/files/ModelicaAMFC-2026_print.pdf) as printed, including extended abstracts for all papers. Speakers are expected to update their profile and bio on the pretalx app. For editing you have to be logged in using the same email that you used on Easychair.
 
 ### October 12
 
