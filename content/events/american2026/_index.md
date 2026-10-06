@@ -40,15 +40,17 @@ In addition to paper presentations, the conference features several Modelica tut
 In this version of the conference, we want to combine the ease of attendance by remote participants from other continents with the stimulating environment of an in person event with lively discussions in the breaks and an in-person conference dinner! 
 Please note that **full paper presentations are required to be in person**, while industrial user presentations can be given remotely.-->
 
-Workshops and Tutorials will be given on the afternoon of October 12th 2026, the keynotes, paper presentations and other parts of the program will be on October 13th and 14th. 
+Workshops and Tutorials will be given on the afternoon of October 12th, 2026. The keynotes, paper presentations, and other parts of the program will be on October 13th and 14th. 
 
 In building on the successes of the previous American Modelica conference, we are also happy to announce a Student Best Paper competition.  
 Additional details are available in the [call for papers](cfp).
 
 ## Registration now open!
-Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registereing as sponsors by buying a sponsorship ticket. If you plan to attend a workshop, please register also on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) for no more than 2 non-overlapping workshops that are not in parallel. Workshop attendance is free of charge, but we need to know attendance in order to assign the right sized rooms. 
+Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registering as sponsors by buying a sponsorship ticket. If you plan to attend a workshop, please register also on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) for no more than 2 non-overlapping workshops that are not in parallel. Workshop attendance is free of charge, but we need to know attendance in order to assign the right sized rooms. 
 
 ## Schedule
+
+We are using [Pretalx](https://pretalx.com/amfc-2026/) as our conference app, which shows the [schedule](https://pretalx.com/amfc-2026/schedule) up-to-date even for last minute changes. You can also download the complete [conference program]((https://modelica.org/events/american2026/files/ModelicaAMFC-2026_print.pdf) as printed, including extended abstracts for all papers. Speakers are expected to update their profile and bio on the pretalx app. For editing you have to be logged in using the same email that you used on Easychair.
 
 ### October 12
 
