@@ -223,7 +223,7 @@ Chenjiyu Liang – Lawrence Berkeley National Laboratory, Donghun Kim – Lawren
 **A Novel Modular Framework for Unified Data Center Cooling Virtual Testbed**<br>
 Viswanathan Ganesh – Pennsylvania State University, Hongjun Li – Pennsylvania State University, Michael Maloney – Pennsylvania State University, Wangda Zuo – Pennsylvania State University
 
-**Rapid De-Risking and Sizing of GSHP Systems in Modelica**<br>
+**Extracting Value from Modelica:  Multi-Domain De-Risking of GSHP Systems**<br>
 Victor Braciszewski – SmithGroup, Lone Meertens – KU Leuven, Lieve Helsen – KU Leuven
 
 **De-Risking Energy System Integration through Platform-Based Design and Modelica**<br>
