@@ -304,7 +304,7 @@ The following members have given the consent to appear publicly.
 | Prölss, Katrin      |                                                                                     | LANG     |
 | [Puente Varela, Basilio](https://modelica-spain.org/index.php/author/basilio/)                      | [Techno Pro Hispania S.L.](http://www.tphispania.com/)                           |          |
 | Remond, Xavier      | [Dassault Systèmes SA](http://www.3ds.com/)                                         |          |
-| [Schmidt, Herbert](https://www.hochschule-bochum.de/en/cvh/physics-and-materials/)| [Hochschule Bochum](https://www.hs-bochum.de/cvh)   | LIB        |
+| [Schmidt, Herbert](https://www.hochschule-bochum.de/en/cvh/physics-and-materials/)| [Hochschule Bochum](https://www.hochschule-bochum.de/en/cvh/overview/)   | LIB        |
 | Schuch, Klaus       |                                                                                     |          |
 | Seidel, Stephan     |                                                                                     |          |
 | Selvan, Nithish     | [Modelon AB](https://modelon.com/)                                                  | LIB        |
