@@ -39,6 +39,30 @@
     </div>
   </div>
 
+  <div class="col-lg-6">
+    <div class="card h-100">
+      <div class="card-img-top card-header">
+        <img src="/images/tools/modiator-logo.svg" style="height: 80px; margin: auto;">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Modicalc and Modiator</h5>
+        <div class="mb-2"><small>by Hilding Elmqvist (Mogram AB), Martin Otter and Johan Furuhjelm (Mogram AB)</small></div>
+        <p class="card-text mt-2">
+          <ul>
+            <li>Modicalc (Modelica Instant Calculator) and Modiator (Modelica Instant Simulator) are progressive web-apps (work offline) with no installation and no registration. The interfaces are responsive and touch-friendly, so you can model, adjust parameters with sliders, simulate, view plots and animate on any device — including smartphones and tablets.</li>
+            <li>Modicalc has a streamlined interface for small models to quickly and interactively learn the basics of Modelica guided with a set of tutorial models.</li>
+            <li>Modiator is a web app for instant creation, simulation, plotting and animation of a subset of Modelica models. It can also be used as background modeling & simulation engine of a web page.</li>
+            <li>Three novel Modelica libraries are included: Manifold for constructive solid geometry on manifold meshes, Model3D for multibody models with manifolds and compliant contacts designed for variable-step solvers, and Stream for fluid models with media propagation.</li>
+          </ul>
+        </p>
+      </div>
+      <div class="card-footer">
+        <a href="https://modicalc.com/" class="btn btn-primary"><i class="fa-solid fa-play me-1"></i>Use Modicalc</a>
+        <a href="https://modiator.com/" class="btn btn-primary ms-2"><i class="fa-solid fa-play me-1"></i>Use Modiator</a>
+      </div>
+    </div>
+  </div>
+
 </div>
 {{< /rawhtml >}}
 
