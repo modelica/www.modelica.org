@@ -346,7 +346,7 @@ The workshops below are offered free of charge to all Conference attendees. Work
 
 This tutorial gives an introduction to the Modelica language, the OpenModelica environment, and an overview of modeling and simulation in a number of application areas. Some advanced features of OpenModelica will be presented, including debugging, profiling, clocked synchronous support, real-time embedded code generation, OMPython, OMJulia, FMI export, etc. A number of hands-on exercises will be done during the tutorial, both graphical modeling using the Modelica Standard Library (MSL) and textual modeling. Bring your laptop for exercises.
 
-**Presenters:** Adrian Pop (Linköping University) – online, Luigi Vanfretti (Rensselaer Polytechnic Institute) – on site. Contact: [adrian.pop@liu.se](mailto:adrian.pop@liu.se)
+**Presenters:** Adrian Pop (Linköping University) and John Tinnerholm – online, Luigi Vanfretti (Rensselaer Polytechnic Institute) – on site. Contact: [adrian.pop@liu.se](mailto:adrian.pop@liu.se) and [john.tinnerholm@liu.se](john.tinnerholm@liu.se)
 
 ### Agentic Modeling and Simulation with Julia/Dyad
 
