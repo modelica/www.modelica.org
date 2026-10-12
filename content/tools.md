@@ -175,7 +175,7 @@
       </div>
       <div class="card-body">
         <h5 class="card-title">ODE+</h5>
-        <div class="mb-2"><small>by <a href="http://www.orthogonal.dev/">Orthogonal Supersystems</a></small></div>
+        <div class="mb-2"><small>by <a href="https://www.ode.plus">Orthogonal Supersystems</a></small></div>
         <p class="card-text mt-2">ODE+ is an AI-first systems engineering platform in the browser. It comprises a system modeling and simulation tool that fully supports the Modelica language and Modelica Standard Library, scientific computing, and various system engineering applications, such as FMU/SSP editing, hardware-in-the-loop simulation, 3D visualization, and advanced engineering data analysis. Lightweight, intuitive, AI-first, and ready to use out of the box, it enables both professionals and beginners to effortlessly create, test, and optimize complex systems without high technical barriers. Available through flexible and affordable subscription plans, ODE makes high-performance simulation accessible to everyone, democratizing modern systems engineering.</p>
       </div>
       <div class="card-footer">
