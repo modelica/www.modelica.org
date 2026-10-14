@@ -45,8 +45,8 @@ Workshops and Tutorials will be given on the afternoon of October 12th, 2026. Th
 In building on the successes of the previous American Modelica conference, we are also happy to announce a Student Best Paper competition.  
 Additional details are available in the [call for papers](cfp).
 
-## Registration now open!
-Registration is now open on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) This site can also be used for registering as sponsors by buying a sponsorship ticket. If you plan to attend a workshop, please register also on [Eventbrite](https://www.eventbrite.com/e/american-modelica-and-fmi-conference-2026-tickets-1982451921062?aff=oddtdtcreator) for no more than 2 non-overlapping workshops that are not in parallel. Workshop attendance is free of charge, but we need to know attendance in order to assign the right sized rooms. 
+## Proceedings
+The preliminary proceedings are now available for download. They are split into 2 files, [part 1](AmericanModelicaFMI2026_Proceedings_Part1_p1-152.pdf) and [part 2](AmericanModelicaFMI2026_Proceedings_Part2_p153-287.pdf). The final proceedings will be available from Linköping University in a few months. 
 
 ## Schedule
 
