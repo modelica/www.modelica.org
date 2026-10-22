@@ -13,11 +13,15 @@
       <div class="card-body">
         <h5 class="card-title">OpenModelica</h5>
         <div class="mb-2"><small>by <a href="https://openmodelica.org/home/consortium/">Open Source Modelica Consortium</a></small></div>
-        <p class="card-text mt-2">OpenModelica is a complete Modelica modeling, compilation and simulation environment based on free software distributed in source code and executable form intended for research, teaching, and industrial usage. It supports most of the Modelica language, including equations, algorithms, event-handling, functions, and packages. Also included are a Modelica Eclipse plugin for advanced developers, and an electronic notebook interface for teaching. Improving the compiler, a general solver interface, enhanced graphics, and Modelica-UML integration in Eclipse are examples of ongoing development activities.
+        <p class="card-text mt-2">OpenModelica is a complete Modelica modeling, compilation and simulation environment based on free software distributed in source code and executable form intended for research, teaching, and industrial usage.
+		It supports most of the Modelica language, including equations, algorithms, event-handling, functions, and packages.
+		Also included are a graphical user interface for modeling and simulation, and an electronic notebook interface for teaching.
+		Improving the compiler, a general solver interface, FMI 3.0 and SSP support, DAE mode, enhanced graphics, a web-based version, and a scalable backend for very large systems are examples of ongoing development activities.
         </p>
       </div>
       <div class="card-footer">
         <a href="https://openmodelica.org/" class="btn btn-primary"><i class="fa-solid fa-arrow-right me-1"></i> Website</a>
+        <a href="https://playground.openmodelica.org/latest/" class="btn btn-primary ms-2"><i class="fa-solid fa-play me-1"></i> Use Online</a>
       </div>
     </div>
   </div>
