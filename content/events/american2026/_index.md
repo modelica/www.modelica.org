@@ -46,7 +46,7 @@ In building on the successes of the previous American Modelica conference, we ar
 Additional details are available in the [call for papers](cfp).
 
 ## Proceedings
-The preliminary proceedings are now available for download. They are split into 2 files, [part 1](AmericanModelicaFMI2026_Proceedings_Part1_p1-152.pdf) and [part 2](AmericanModelicaFMI2026_Proceedings_Part2_p153-287.pdf). The final proceedings will be available from Linköping University in a few months. 
+The preliminary proceedings are now available for download. They are split into 2 files, [part 1](files/AmericanModelicaFMI2026_Proceedings_Part1_p1-152.pdf) and [part 2](files/AmericanModelicaFMI2026_Proceedings_Part2_p153-287.pdf). The final proceedings will be available from Linköping University in a few months. 
 
 ## Schedule
 
