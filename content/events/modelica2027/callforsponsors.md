@@ -18,7 +18,7 @@ The Modelica Association and the local organizers invite you to support the 17th
 
 ## Partnership Tiers
 
-### Platinum Partner — 14,000 EUR (excl. VAT)
+### Platinum Partner — 14,000 EUR (excl. 21% VAT)
 
 - **Exhibition Space: up to 15 m² (3x5 m)** reserved floor space. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
 - **Placement:** Option for placement in the **limited conference lobby** (space limited, up to 8 m² (2x4 m), first-come first served) or the exhibition hall (up to 3x5 m).
@@ -33,7 +33,7 @@ The Modelica Association and the local organizers invite you to support the 17th
 - **Visibility:** Website visibility starts immediately upon receipt of payment, including a short paragraph about the partner (up to 100 words).
 - **Special Benefits:** Up to 3-minute speech slot at the welcome reception or conference dinner. Opportunity to present an award at the conference awards ceremony.
 
-### Gold Partner — 11,000 EUR (excl. VAT)
+### Gold Partner — 11,000 EUR (excl. 21% VAT)
 
 - **Exhibition Space: 8 m² (2x4 m)** reserved floor space. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
 - **Placement:** Option for placement in the **limited conference lobby** (first-come, first-served) or the exhibition hall.
@@ -47,7 +47,7 @@ The Modelica Association and the local organizers invite you to support the 17th
 - **Visibility:** Website visibility starts immediately upon receipt of payment, including a short paragraph about the partner (up to 100 words).
 - **Special Benefit:** Opportunity to present an award at the conference awards ceremony.
 
-###  Silver Partner — 6,000 EUR (excl. VAT)
+###  Silver Partner — 6,000 EUR (excl.  21% VAT)
 - **Exhibition Space: 4 m² (2x2 m)** in the general exhibition hall. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
 - **Vendor Presentation:** Guaranteed **5-minute** slot in the vendor presentation block (2 parallel tracks, grouped by topic; slot may be extended if the schedule allows).
 - **Registrations: 1 full conference registration** (including conference dinner).
@@ -57,7 +57,7 @@ The Modelica Association and the local organizers invite you to support the 17th
   - Standard logo placement on website and programme.
 - **Visibility:** Website visibility starts immediately upon receipt of payment, including a short paragraph about the partner (up to 50 words).
 
-### Bronze Partner — 4,000 EUR (excl. VAT)
+### Bronze Partner — 4,000 EUR (excl. 21% VAT)
 - **Exhibition Space: 4 m² (2x2 m)** in the general exhibition hall. A table and chairs are provided, along with electrical connectivity (Type E socket, 230 V / 50 Hz, max 2 kW).
 - **Registrations: 1 full conference registration** (including conference dinner).
 - **Marketing & Branding:**
@@ -71,7 +71,7 @@ All exhibition areas are designed to maximize interaction. High attendee traffic
 
 
 ## Terms
-- **VAT:** Reverse charge for EU VAT-registered partners. Otherwise, +21% Czech VAT.
+- **VAT:** +21% Czech VAT.
 - **Payment:** Immediate visibility on the conference website is triggered upon payment.
 
 ## Registration
