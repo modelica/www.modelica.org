@@ -44,8 +44,8 @@ In addition to paper presentations, the conference features several Modelica tut
 |July 31, 2026   | Deadline for early registration|
 |~~August 1~~ **August 16**, 2026| Submission of final papers, presentations, and one-page abstracts|
 |September 21-22, 2026| Asian Modelica & FMI Conference 2026 |
-
-
+## Proceedings
+The conference proceedings are available [here](https://ecp.ep.liu.se/index.php/modelica/issue/view/116)
 ## Preliminary Program
 
 You are welcome to study the [Preliminary Program of the Asian Modelica Conference 2026](prelprogram) for your conference planning. 
