@@ -107,6 +107,7 @@ At the Modelica Conference, several tutorials will be held in parallel. Each tut
 Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations which are a part of [Call for Sponsors](callforsponsors). The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
 
 ## Sponsors & Call for Sponsors
+### Silver
 
 {{<rawhtml>}}
 <div class="row row-cols-2 row-cols-md-4 g-4">
@@ -119,6 +120,8 @@ Please note that tutorials must involve hands-on activities and cannot be limite
   </div>
  </div>
 {{</rawhtml>}}
+
+### Call for Sponsors
 
 The Modelica Association and the local organizers [invite you to support the 17th International Modelica & FMI Conference](callforsponsors). This event is the premier meeting for the cyber-physical systems modeling community, attracting over 400 experts from industry and academia. Your early commitment is valuable during the preparations — sponsor visibility begins as soon as your partnership is confirmed.
 
