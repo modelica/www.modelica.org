@@ -108,21 +108,17 @@ Please note that tutorials must involve hands-on activities and cannot be limite
 
 ## Sponsors & Call for Sponsors
 
-### Silver
-
 {{<rawhtml>}}
 <div class="row row-cols-2 row-cols-md-4 g-4">
- <div class="col">
+   <div class="col">
     <a href="https://www.wolfram.com/index.en.html?source=footer" target="_blank" style="pointer-events: auto;">
       <div class="d-flex justify-content-center align-items-center bg-light rounded-3" style="height: 8rem; padding: 1rem">
         <img src="images/WolframResearch.svg" alt="Wolfram Research"/>
       </div>
     </a>
   </div>
-</div>
+ </div>
 {{</rawhtml>}}
-
-### Call for Sponsors
 
 The Modelica Association and the local organizers [invite you to support the 17th International Modelica & FMI Conference](callforsponsors). This event is the premier meeting for the cyber-physical systems modeling community, attracting over 400 experts from industry and academia. Your early commitment is valuable during the preparations — sponsor visibility begins as soon as your partnership is confirmed.
 
