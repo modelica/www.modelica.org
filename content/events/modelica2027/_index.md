@@ -1,4 +1,4 @@
- ---
+---
 title: Modelica & FMI Conference 2027
 ---
 
