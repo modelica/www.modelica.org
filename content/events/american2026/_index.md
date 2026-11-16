@@ -48,6 +48,10 @@ Additional details are available in the [call for papers](cfp).
 ## Proceedings
 The preliminary proceedings are now available for download. They are split into 2 files, [part 1](files/AmericanModelicaFMI2026_Proceedings_Part1_p1-152.pdf) and [part 2](files/AmericanModelicaFMI2026_Proceedings_Part2_p153-287.pdf). The final proceedings will be available from Linköping University in a few months. 
 
+## Presentations
+
+[Download the conference presentations](presentations/), including PDF slides from the keynotes, paper presentations, and industrial presentations, organized by day and session. The collection also includes the Best Paper and Best Student Paper award photographs and certificates. Full-paper links will be added when the final proceedings are published by Linköping University Electronic Press.
+
 ## Schedule
 
 We are using [Pretalx](https://pretalx.com/amfc-2026/) as our conference app, which shows the [schedule](https://pretalx.com/amfc-2026/schedule) up-to-date even for last minute changes. You can also download the complete [conference program](https://modelica.org/events/american2026/files/Modelica2026_digital.pdf) as printed, including extended abstracts for all papers. We will make all user presentations, and all paper presentations that are provided by speakers available on pretalx. The maximum size of uploads to pretalx is 10 MB. Speakers are expected to update their profile and bio on the pretalx app. For editing, you have to be logged in using the same email that you used on Easychair.
