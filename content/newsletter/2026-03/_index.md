@@ -45,6 +45,22 @@ issued on <!-- TODO: issue date -->
 ## Conferences and user meetings
 
 <!-- TODO: Conferences and user meetings -->
+### Modelon Innovate 2027
+
+![Modelon Innovate 2027](modelon-innovate-2027.png)
+
+**Physics-Driven. Agent-Powered.**\
+**April 21-22, 2027 | Clarion Malmö Live | Malmö, Sweden**
+
+Modelon Innovate brings together Modelon customers, partners, and industry experts for two in-person days of insight, education, and connection.
+
+The event agenda is now taking shape, with [keynote speakers and featured sessions](https://www.modelon.com/https://www.modelon.com/innovate-2027/speakers/) starting to be announced. Attendees can look forward to customer success stories, industry-focused presentations, partner perspectives, product updates, and discussions exploring the future of simulation and AI-enabled engineering.
+
+Participants will also gain practical knowledge through hands-on training led by Modelon experts, with sessions focused on Modelon Impact workflows, Modelica-based skills, troubleshooting, and applying new capabilities to real-world engineering challenges.
+
+Explore the growing agenda and secure your spot on the [Modelon Innovate website.](https://www.modelon.com/innovate-2027/) 
+
+*This article is provided by Lauren Caris at Modelon.*
 
 <!-- END Conferences and user meetings -->
 
