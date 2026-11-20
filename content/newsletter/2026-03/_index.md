@@ -34,6 +34,33 @@ issued on <!-- TODO: issue date -->
 
 <!-- TODO: news from the Modelica Association and its projects (FMI, SSP, DCP, eFMI, ...) -->
 
+
+### FMI Project News
+
+![FMI logo](FMI-logo.png)
+
+#### Asian Modelica & FMI Conference 2026
+
+High interest and usage of FMI in China and Asia.
+
+####
+
+#### News on FMI Layered Standards
+
+##### FMI-LS-STRUCT Web-Event 15.12.2026
+
+##### FMI Layered Standard for Network Communication (FMI-LS-BUS) Release Candidate v1.3.0-rc.1 
+
+##### FMI-LS-BUS Web-Event 15.12.2026
+
+##### FMI Layered Standard WebAssembly (FMI-LS-WASM)
+
+ https://github.com/modelica/fmi-ls-wasm
+
+
+*This article is provided by the FMI Project*
+
+
 <!-- END Modelica Association -->
 
 {{<rawhtml>}}
