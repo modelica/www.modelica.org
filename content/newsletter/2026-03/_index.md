@@ -39,24 +39,35 @@ issued on <!-- TODO: issue date -->
 
 ![FMI logo](FMI-logo.png)
 
-#### Asian Modelica & FMI Conference 2026
+#### American Asian Modelica & FMI Conference 2026
 
-- High interest and usage of FMI in China and Asia!
-- Keynote and Tutorial on FMI (ToDo: add links)
+The Asian and American Modelica and FMI Conference in September and October 2026 showed high international interest and usage of FMI in China / Asia and the Americas!
 
-#### American Modelica & FMI Conference 2026
+At the Asian Conference, FMI Project Leader Christian Bertsch gave an FMI beginners' tutorial (Material available on [GitHub](https://github.com/modelica/fmi-beginners-tutorial-2026)), and a Keynote "[15 Years Functional Mock-up Interface - a Journey from FMI 1.0 to 3.0 and the Road Ahead](https://fmi-standard.org/assets/literature/Asian_Modelica_and_FMI_Conference_2026/FMI_Keynote.pdf)" All the FMI related papers and presentations are listed on the [literature page](https://fmi-standard.org/literature/) of the FMI Project website.
 
-- Best paper award for FMI-LS-DAE paper
+At the American Conference, the FMI-LS-DAE working group presented their paper "[Towards an FMI Layered Standard for DAE: Applications for Simulation and Optimization](https://arxiv.org/abs/2606.22544)", which won the best paper award. Congratulations to the whole author team! 
+All papers from the American Conference are available in the preliminary proceedings [on the conference website](https://modelica.org/events/american2026/).
 
 #### News on FMI Layered Standards
 
 ##### FMI Layered Standard for Structured Data (FMI-LS-STRUCT) v1.0.0 Release
 
-The FMI Project is happy to announce the release of FMI-LS-STRUCT v1.0.0
+The FMI Project is happy to announce the release of the FMI Layered Standard for Structured Data (FMI-LS-STRUCT) v1.0.0.
+
+This is the first release of the FMI Layered Standard for Structured Data (FMI-LS-STRUCT) on top of the FMI 3.0 Standard.
+
+It is focused on the definition of sampled maps:
+- Maps sampled on rectilinear grids
+- Maps sampled on irregular grids
+The specification of version 1.0.0 is published at https://fmi-standard.org/fmi-ls-struct/1.0.0/.
+
+Many thanks to the whole development team, and especially to the Working Group Leader Klaus Schuch!
 
 ##### FMI Layered Standard for Network Communication (FMI-LS-BUS) Release Candidate v1.3.0-rc.1 
 
 The FMI project is happy to announce the publication of a Release Candidate 1 of the FMI Layered Standard for Network Communication (FMI-LS-BUS) v1.3-rc.1!
+
+![FMI-LS-BUS Release Roedmap](roadmap.svg)
 
 This version includes the common Physical Signal Abstraction that fits for all bus types and the Network Abstraction that currently supports CAN, CAN FD, CAN XL, FlexRay, Ethernet, and LIN. Please note that v1.3.0-rc.1 release contains also the new v1.2.0-rc.1 and v1.1.0-rc.3.
 
@@ -64,9 +75,17 @@ Many thanks to the whole FMI-LS-BUS Working group (with members from Akkodis, Al
 
 Learn more here: https://github.com/modelica/fmi-ls-bus/ and https://github.com/modelica/fmi-ls-bus/releases/tag/v1.3.0-rc.1
 
-##### FMI-LS-BUS Web-Event 15.12.2026
+##### FMI-LS-BUS Presentation at HdT Software-in-the-Lopp 2026 Conference, Munich Dec 2/3 2026
 
-##### FMI Layered Standard WebAssembly (FMI-LS-WASM) draft
+Members of the FMI Project will present and demonstrate the latest development of FMI-LS-BUS at the Software-in-the-Lopp 2026 Conference by Haus-der-Technic in Munich December 2/3 2026. More information [here](https://www.hdt.de/software-in-the-loop-2026-vv00014/)
+
+##### FMI-LS-BUS Web-Event 15.12.2026 15:00-17:00 CET
+
+The FMI Project will present and demonstrate the latest development w.r.t. FMI-LS-BUS in an online event that is open to the public.
+
+You can register for free here: https://www.linkedin.com/flagship-web/event/manage/7525648417478361090/
+
+
 
 ##### Pre-Release of FMI Layered Standard for Differential-Algebraic Equations (FMI-LS-DAE) v1.0.0-alpha.1
 
@@ -99,10 +118,19 @@ For the general concept of Layered Standards to the FMI Standards see this paper
 
 Learn more on the Release page on Github.
 
-##### FMI Layered Standard for Structured Data (FMI-LS-STRUCT) v1.0.0 Release
+##### FMI Layered Standard WASM (FMI-LS-WASM) draft
 
- https://github.com/modelica/fmi-ls-wasm
+In recent time Web Assembly (WASM) has attracted a lot of interest due to the full portability and memory safety through inherent sandboxing. These features are also particularly interesting for FMI.
 
+A working group led by Pierre Mai (PMSF IT Conuslting) and Torsten Sommer (Dassault Systems) within the FMI Project has created a first prototype draft for Web Assembly support of in FMI in the form of a Layered Standard, based on the Functional Mock-up Interface 3.0 standard for the exchange of simulation models. It presents a mapping of the [FMI 3.0][FMI3] C API to the WebAssembly Component Model interface description language (WIT).
+
+Note that this draft is being worked on actively, and thus is subject to change without notice.
+
+The FMI 3.0 Layered Standard WebAssembly is currently maintained on GitHub and is published here: https://github.com/modelica/fmi-ls-wasm
+
+Also included are examples show-casing the WIT definitions, using Rust, C and WAT implementations.
+
+First prototypes are already in development and used to evaluate and benchmark the different concepts that are being discussed.
 
 *This article is provided by the FMI Project*
 
