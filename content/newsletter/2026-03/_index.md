@@ -56,7 +56,18 @@ issued on <!-- TODO: issue date -->
 
 ## Vendor news
 
-<!-- TODO: Vendor news -->
+<Dymola MCP Server: AI-Assisted Workflows for Modelica and Dymola
+TECHNIA has launched the Dymola MCP Server, a new solution that connects AI assistants such as Microsoft Copilot, Claude and Cursor directly with Dymola through the Model Context Protocol (MCP).
+Built to make AI interaction with Dymola more efficient, both in token usage and in engineer’s time, it enhances an LLM’s ability to modify Modelica files and control Dymola and contains skills to add to a user’s own ability to create, modify and simulate models.
+The Dymola MCP server uses a user’s own LLM from any provider that supports MCPs to control Dymola rather than requiring users to pass data through an AI that is outside a user’s control.
+Developed by TECHNIA's Modelica team, the Dymola MCP Server is built on more than 120 years of combined simulation expertise. Rather than providing AI with access to Dymola alone, it embeds the modelling approaches, engineering workflows, troubleshooting methods and best practices developed by simulation specialists over decades of simulation projects. This allows engineers to benefit not only from the capabilities of modern AI assistants, but also from the accumulated knowledge and experience of one of the world's most experienced and capable Modelica teams.
+Working with Dymola and TECHNIA VeSyMA libraries, the MCP Server supports multi-domain simulation applications spanning mechanical, electrical, thermal and fluid systems. Engineers can use natural language to accelerate routine modelling activities, investigate simulation issues and navigate complex system models, while maintaining full visibility and control of the underlying engineering process.
+Rather than replacing engineering expertise, the Dymola MCP Server is designed to amplify it. By reducing the effort associated with repetitive modelling tasks and troubleshooting activities, teams can accelerate model development, improve consistency and focus more time on system design and innovation.
+As Alessandro Picarelli, Engineering Director at TECHNIA, explains:
+"Our goal was to create a practical AI solution that genuinely helps engineers in their day-to-day work. By embedding the knowledge and best practices developed by our Modelica team, we've created a tool that can accelerate modelling without compromising engineering quality."
+The Dymola MCP Server represents a practical step towards AI-assisted model engineering, bringing advanced language models and simulation expertise together within established Dymola workflows.
+Learn more and request a demo: Dymola MCP Server | AI-Powered Model Engineering | TECHNIA
+!-- TODO: Vendor news -->
 
 <!-- END Vendor news -->
 
