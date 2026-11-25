@@ -58,6 +58,29 @@ issued on <!-- TODO: issue date -->
 
 <!-- TODO: Vendor news -->
 
+### Dymola 2027x
+
+![Dymola 2027x](D2027x-small.png)
+
+We are pleased to announce that Dymola 2027x has been released on Friday, 27 November 2026.
+Summary of key features:
+
+**Model development and Simulation**
+- Enhanced simulation summary report
+- FMI enhancements – including support for FMI-LS-DAE
+
+**Model experimentation**
+- Uncertainty Quantification and credibility using SSP layered standard
+
+**Other**
+- Library enhancements - including new Redox Flow Battery Library
+- eFMI support for STM32 / Arm Cortex-M micro-controller eco-system
+- Support for Modelica Language Specification version 3.7
+
+See [latest release](https://www.3ds.com/products/catia/dymola/latest-release) for more details.
+
+*This article is provided by Dan Henriksson ([Dassault Systèmes](https://www.3ds.com/products/catia/dymola))*
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
