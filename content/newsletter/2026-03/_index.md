@@ -65,7 +65,7 @@ Many thanks to the whole development team, and especially to the Working Group L
 
 ##### FMI Layered Standard for Network Communication (FMI-LS-BUS) Release Candidate v1.3.0-rc.1 
 
-The FMI project is happy to announce the publication of a Release Candidate 1 of the FMI Layered Standard for Network Communication (FMI-LS-BUS) v1.3-rc.1!
+The FMI project is happy to announce the publication of a Release Candidate 1 of the FMI Layered Standard for Network Communication (FMI-LS-BUS) v1.3.0-rc.1!
 
 ![FMI-LS-BUS Release Roedmap](roadmap.svg)
 
@@ -83,7 +83,7 @@ Members of the FMI Project will present and demonstrate the latest development o
 
 The FMI Project will present and demonstrate the latest development w.r.t. FMI-LS-BUS in an online event that is open to the public.
 
-You can register for free here: https://www.linkedin.com/flagship-web/event/manage/7525648417478361090/
+You can register for free here: https://www.linkedin.com/events/7525648417478361090/
 
 
 
@@ -108,7 +108,7 @@ Exporting a model in DAE form addresses a number of long-standing issues:
 *    The sparsity of the original equation system is preserved instead of being lost during the reduction to an ODE, which allows importers to exploit sparsity for better performance.
 *    The cost of the symbolic DAE-to-ODE transformation is avoided, which is particularly relevant for very large models, such as simulation models representing power grids on a national or larger scale.
 
-For the full picture please check out the preprint of our paper “Towards an FMI Layered Standard for DAE: Applications for Simulation and Optimization” for the coming American Modelica and FMI Conference 2026 on arXiv: https://arxiv.org/abs/2606.22544 It also reports successful tests in the following tools: CasADi, Dymola, FMIOPT, fmusim, Simcenter Twin Activate, and MOO (the dynamic optimization tool of OpenModelica).
+For the full picture please check out the preprint of our paper “Towards an FMI Layered Standard for DAE: Applications for Simulation and Optimization”, presented at the American Modelica and FMI Conference 2026, on arXiv: https://arxiv.org/abs/2606.22544. It also reports successful tests in the following tools: CasADi, Dymola, FMIOPT, fmusim, Simcenter Twin Activate, and MOO (the dynamic optimization tool of OpenModelica).
 
 As an alpha pre-release, the specification is published for review and for prototype implementations, and it is still subject to change before the v1.0.0 release. Known limitations of this version are the restriction to semi-explicit index-1 DAEs, the consistent initialization in DAE mode, and the handling of discontinuities and events, which are not specified yet. Feedback from tool vendors and users is very welcome and is best provided as an issue in the FMI-LS-DAE GitHub repository.
 
@@ -122,7 +122,7 @@ Learn more on the Release page on Github.
 
 In recent time Web Assembly (WASM) has attracted a lot of interest due to the full portability and memory safety through inherent sandboxing. These features are also particularly interesting for FMI.
 
-A working group led by Pierre Mai (PMSF IT Conuslting) and Torsten Sommer (Dassault Systems) within the FMI Project has created a first prototype draft for Web Assembly support of in FMI in the form of a Layered Standard, based on the Functional Mock-up Interface 3.0 standard for the exchange of simulation models. It presents a mapping of the [FMI 3.0][FMI3] C API to the WebAssembly Component Model interface description language (WIT).
+A working group led by Pierre Mai (PMSF IT Conuslting) and Torsten Sommer (Dassault Systems) within the FMI Project has created a first prototype draft for Web Assembly support of in FMI in the form of a Layered Standard, based on the Functional Mock-up Interface 3.0 standard for the exchange of simulation models. It presents a mapping of the FMI 3.0 C API to the WebAssembly Component Model interface description language (WIT).
 
 Note that this draft is being worked on actively, and thus is subject to change without notice.
 
