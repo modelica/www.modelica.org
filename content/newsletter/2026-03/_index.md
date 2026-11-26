@@ -56,24 +56,24 @@ issued on <!-- TODO: issue date -->
 
 ## Vendor news
 
-<### TECHNIA releases an MCP server for Dymola
- 
+<!-- TODO: Vendor news -->
+
+### TECHNIA releases an MCP server for Dymola
+
 TECHNIA has released the first version of its MCP server for Dymola. Any AI assistant that supports the Model Context Protocol (MCP) can now work directly in your local Dymola installation, alongside your existing libraries and licence.
- 
+
 #### Key features
- 
+
 - **Libraries and models:** load libraries, extend the MODELICAPATH, read class text and dependencies, modify and save models.
 - **Build and simulate:** create, check, debug and translate models, set experiment settings and parameters, simulate, linearise, create and run `.mos` scripts, export FMUs.
 - **Results:** open result files, read signals, extract initial and final values, apply signal operators, create and export plots.
 - **Session handling:** start and stop Dymola, choose between installed versions, clean up orphaned sessions, return error logs.
 - **Data under your control:** the server runs locally with the AI model you choose, including one on your own hardware, so your AI policy, not a vendor's, governs your IP.
 - **Works with existing tools:** it adds to any MCP servers you already use rather than replacing them.
- 
-Contact [David Briant](mailto:david.briant@technia.com) or visit the [TECHNIA Dymola MCP page](https://www.technia.com/en/mbse/software/dymola-mcp-server/) for a demonstration or trial.
- 
-*This article is provided by David Briant (TECHNIA)*
 
-!-- TODO: Vendor news -->
+Contact [David Briant](mailto:david.briant@technia.com) or visit the [TECHNIA Dymola MCP page](https://www.technia.com/en/mbse/software/dymola-mcp-server/) for a demonstration or trial.
+
+*This article is provided by David Briant (TECHNIA)*
 
 <!-- END Vendor news -->
 
