@@ -244,6 +244,21 @@ Electrochemical models account for local ion concentrations and different formul
 The library supports a range of applications, from cell and stack design and optimization to system performance analysis and the development of control strategies.
 
 *This article is provided by Claas Heckel ([Dassault Systèmes Deutschland GmbH](https://www.3ds.com/))*
+
+**Xcelerate26: SimulationX User Event Explores AI-Enhanced Engineering Workflows**
+The SimulationX user community met on 11 November 2026 at Keysight Technologies in Böblingen, Germany, for [Xcelerate26](https://www.xpincorporated.com/xcelerate26), a user event organized with XPI. The event brought together SimulationX users, partners and engineering experts to exchange experiences, explore application developments and discuss the future direction of system simulation.
+
+A key contribution from Keysight Technologies was the session SimulationX 2026 – New Features and Development Roadmap, which presented recent platform enhancements and provided an outlook on the planned developments for SimulationX 2027. Particular attention was given to the integration of Artificial Intelligence into engineering workflows.
+
+The SimulationX 2027 outlook introduces an AI-assisted approach built around a Model Context Protocol (MCP) server, enabling external AI agents to interact with SimulationX through its COM interface. The planned capabilities include an integrated AI assistant, inline assistance within the modelling environment, and support for engineering tasks such as model interpretation, parameter insights, result comparison and study preparation. The approach also considers organization-approved AI providers, allowing users to work within their established AI environments.
+
+These developments reflect an evolving direction for Modelica-based engineering tools: combining established physical modelling and simulation capabilities with AI-assisted interaction and analysis, while keeping engineers in control of their models and engineering decisions.
+
+[Click here](https://lnkd.in/p/dpfyaVxM) to view some pictures from the event. 
+
+_This article is provided by Majid Aziz ([Keysight](https://www.keysight.com/))_
+
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
