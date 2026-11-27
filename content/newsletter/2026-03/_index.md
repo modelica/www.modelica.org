@@ -58,8 +58,6 @@ Dirk Zimmer on Novemeber 26, 2026 \
 ## Modelica Association
 
 <!-- TODO: news from the Modelica Association and its projects (FMI, SSP, DCP, eFMI, ...) -->
-### eFMI® Project News
-
 
 ### FMI Project News
 
@@ -160,6 +158,7 @@ First prototypes are already in development and used to evaluate and benchmark t
 
 *This article is provided by the FMI Project*
 
+### eFMI® Project News
 
 #### eFMI® Standard 1.0.0 Beta 2 released
 
@@ -262,7 +261,6 @@ Thank you to our hosts, presenters, workshop organizers, reviewers, and sponsors
 ## Vendor news
 
 <!-- TODO: Vendor news -->
-### Dymola Redox Flow Battery Library
 
 ![Modelon Logo](Modelon_Flat_RGB_300.png)
 
@@ -282,6 +280,7 @@ Modelon has entered a value-added reseller agreement with [Simetrix Digital Tech
 Through the [partnership](https://www.modelon.com/blog/modelon-and-simetrixdt-expand-access-to-data-center-simulation-in-australia-and-new-zealand/), SimetrixDT will offer Modelon’s simulation portfolio, including Modelon Impact and the [Modelon Data Center Library](https://www.modelon.com/blog/introducing-the-data-center-library-for-modelon-impact/), which provides validated Modelica-based models for data center cooling, thermal management, and infrastructure systems. The library enables engineering teams to evaluate designs, optimize performance, test control strategies, and support digital twin workflows throughout the facility lifecycle.
 
 *This article is provided by Lauren Caris, [Modelon](https://modelon.com/)*
+
 ### Dymola 2027x
 
 ![Dymola 2027x](D2027x-small.png)
@@ -304,6 +303,8 @@ Summary of key features:
 See [latest release](https://www.3ds.com/products/catia/dymola/latest-release) for more details.
 
 *This article is provided by Dan Henriksson ([Dassault Systèmes](https://www.3ds.com/products/catia/dymola))*
+
+### Dymola Redox Flow Battery Library
 
 With the release of Dymola 2027x, we introduce the **Redox Flow Battery Library** for the dynamic simulation of redox flow battery (RFB) systems.
 
@@ -478,8 +479,9 @@ Each video combines conceptual, slide-based explanations with hands-on code walk
 * [**Modeling Electric Kettle in Modelica**](https://youtu.be/lda62EodEqQ) : Introduction to Multi-domain simulation with interaction between electrical and thermal components.
 
 Explore the complete series on the [Simulation Workshop YouTube Channel](https://www.youtube.com/@simulationworkshop)
+
 *This article is shared by [Vaisakh T V](https://www.linkedin.com/in/vaisakh-t-v-4a3505112/).*
-<!-- TODO: Education news -->
+
 ### AI-Assistend Chiller Optimization for Data Center Cooling
 
 How can AI help identify more efficient operating points without compromising system performance? In a recent demonstration, Modelon used agentic AI together with physics-based simulation to optimize the chiller setpoint of a 1 MW data center cooling plant equipped with a waterside economizer. Rather than relying solely on simulation outputs, the AI Agent evaluated results from multiple parametric studies, identified energy-saving opportunities, and detected operational tradeoffs that could have been overlooked when reviewing numerical results alone. 
