@@ -190,6 +190,7 @@ Thank you to our hosts, presenters, workshop organizers, reviewers, and sponsors
 ## Vendor news
 
 <!-- TODO: Vendor news -->
+### Dymola Redox Flow Battery Library
 
 ![Modelon Logo](Modelon_Flat_RGB_300.png)
 
@@ -232,6 +233,17 @@ See [latest release](https://www.3ds.com/products/catia/dymola/latest-release) f
 
 *This article is provided by Dan Henriksson ([Dassault Systèmes](https://www.3ds.com/products/catia/dymola))*
 
+With the release of Dymola 2027x, we introduce the **Redox Flow Battery Library** for the dynamic simulation of redox flow battery (RFB) systems.
+
+![Redox Flow Battery System Model](DS_RFB_system_model_620x390.png)
+
+The library covers the complete system hierarchy, from electrochemical cells and stacks to system-level components such as tanks, pumps, pipes, and valves. Its modular architecture allows users to select and combine different model formulations according to their application, balancing model detail and computational efficiency.
+
+Electrochemical models account for local ion concentrations and different formulations of activation and concentration overpotentials. Configurable electrolyte media provide concentration-dependent thermodynamic, transport, and electrochemical properties. Ready-to-use media for vanadium- and iron-based electrolytes are included, while the framework also supports the implementation and investigation of other electrolyte formulations and multiple redox couples. Both scaled and spatially discretized stack models are available, including the representation of shunt currents and their effects on battery operation.
+
+The library supports a range of applications, from cell and stack design and optimization to system performance analysis and the development of control strategies.
+
+*This article is provided by Claas Heckel ([Dassault Systèmes Deutschland GmbH](https://www.3ds.com/))*
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
