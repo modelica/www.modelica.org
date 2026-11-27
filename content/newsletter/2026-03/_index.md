@@ -58,7 +58,7 @@ issued on <!-- TODO: issue date -->
 
 <!-- TODO: Vendor news -->
 
- MLQT 2026.6: Modelica library quality, now on Linux, in CI and for AI agents
+### MLQT 2026.6: Modelica Library Quality Toolkit, now on Linux, in CI and for AI agents
 
 MLQT, the open-source Modelica Library Quality Toolkit project, released version 2026.6 in November 2026. It is the fourth release since July, and the result of a determined push to extend the projects capabilities.
 
