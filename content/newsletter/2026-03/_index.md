@@ -61,7 +61,9 @@ Dirk Zimmer on November 26, 2026 \
 
 ### FMI Project News
 
-![FMI logo](FMI-logo.png)
+{{<rawhtml>}}
+<p style="text-align:center"><img src="FMI-logo.png" alt="FMI Standard" width="35%"></p>
+{{</rawhtml>}}
 
 #### American Asian Modelica & FMI Conference 2026
 
@@ -78,7 +80,9 @@ All papers from the American Conference are available in the preliminary proceed
 
 The FMI Project is happy to announce the release of the FMI Layered Standard for Structured Data (FMI-LS-STRUCT) v1.0.0.
 
-![FMI-LS-STRCUT v1.0.0 Release](FMI-LS-STRUCT.png)
+{{<rawhtml>}}
+<p style="text-align:center"><img src="FMI-LS-STRUCT.png" alt="FMI-LS-STRCUT v1.0.0 Release" width="50%"></p>
+{{</rawhtml>}}
 
 This is the first release of the FMI Layered Standard for Structured Data (FMI-LS-STRUCT) on top of the FMI 3.0 Standard.
 
@@ -93,7 +97,9 @@ Many thanks to the whole development team, and especially to the Working Group L
 
 The FMI project is happy to announce the publication of a Release Candidate 1 of the FMI Layered Standard for Network Communication (FMI-LS-BUS) v1.3.0-rc.1!
 
-![FMI-LS-BUS Release Roedmap](roadmap.svg)
+{{<rawhtml>}}
+<p style="text-align:center"><img src="roadmap.svg" alt="FMI-LS-BUS Release Roadmap" width="75%"></p>
+{{</rawhtml>}}
 
 This version includes the common Physical Signal Abstraction that fits for all bus types and the Network Abstraction that currently supports CAN, CAN FD, CAN XL, FlexRay, Ethernet, and LIN. Please note that v1.3.0-rc.1 release contains also the new v1.2.0-rc.1 and v1.1.0-rc.3.
 
@@ -109,13 +115,18 @@ Members of the FMI Project will present and demonstrate the latest development o
 
 The FMI Project will present and demonstrate the latest development w.r.t. FMI-LS-BUS in an online event that is open to the public.
 
-![FMI-LS-BUS Online Event](FMI-LS-BUS-event.png)
+{{<rawhtml>}}
+<p style="text-align:center"><img src="FMI-LS-BUS-event.png" alt="FMI-LS-BUS Online Event" width="75%"></p>
+{{</rawhtml>}}
 
 You can register for free here: https://www.linkedin.com/events/7525648417478361090/
 
 ##### Pre-Release of FMI Layered Standard for Differential-Algebraic Equations (FMI-LS-DAE) v1.0.0-alpha.1
 
-![FMI-LS-DAE v1.0.0-alpha pre-release](FMI-LS-DAE.png)
+
+{{<rawhtml>}}
+<p style="text-align:center"><img src="FMI-LS-DAE.png" alt="FMI-LS-DAE v1.0.0-alpha pre-release" width="35%"></p>
+{{</rawhtml>}}
 
 The FMI Project is happy to announce the first alpha pre-release of the FMI Layered Standard for Differential-Algebraic Equations (FMI-LS-DAE), which allows FMI 3.0 Model Exchange FMUs to expose their model equations as a semi-explicit index-1 system of differential-algebraic equations (DAE) instead of an ordinary differential equation (ODE) system.
 
@@ -147,6 +158,11 @@ For the general concept of Layered Standards to the FMI Standards see this paper
 Learn more on the Release page on Github.
 
 ##### FMI Layered Standard WASM (FMI-LS-WASM) draft
+
+{{<rawhtml>}}
+<p style="text-align:center"><img src="FMI-LS-WASM.png" alt="FMI-LS-WASM Draft" width="35%"></p>
+{{</rawhtml>}}
+
 
 In recent time Web Assembly (WASM) has attracted a lot of interest due to the full portability and memory safety through inherent sandboxing. These features are also particularly interesting for FMI.
 
