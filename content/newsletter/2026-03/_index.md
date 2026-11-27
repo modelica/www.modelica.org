@@ -267,7 +267,16 @@ Thank you to our hosts, presenters, workshop organizers, reviewers, and sponsors
 ### New Agentic AI Capabilities in Modelon Impact Expand Access to Physics-Based Simulation
 
 Modelon recently introduced new agentic AI capabilities in **Modelon Impact** designed to make physics-based modeling and simulation more accessible, productive, and easier to use. A built-in AI Agent works directly within the simulation environment, helping users create and modify models, troubleshoot issues, set up experiments, run simulations, analyze results, and generate visualizations using natural-language prompts. Rather than simply answering questions, the agent actively participates in engineering workflows, helping users complete simulation tasks faster and with less manual effort.
-To demonstrate these capabilities, Modelon released a video showing the AI Agent in action inside Modelon Impact, where it guides model development, resolves modeling challenges, and assists with simulation and post-processing tasks. [Watch the video](https://vimeo.com/1247842510).
+To demonstrate these capabilities, Modelon released a video showing the AI Agent in action inside Modelon Impact, where it guides model development, resolves modeling challenges, and assists with simulation and post-processing tasks.
+
+{{<rawhtml>}}
+<div style="max-width: 620px">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0">
+        <iframe src="https://player.vimeo.com/video/1247842510?dnt=1" title="Modelon Impact AI Agent demonstration" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0" allow="fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
+</div>
+<p><a href="https://vimeo.com/1247842510">Watch the video on Vimeo</a></p>
+{{</rawhtml>}}
 
 Modelon also introduced the **Modelon AI Connector**, which enables external AI agents to interact with Modelon Impact through the Model Context Protocol (MCP). A second video demonstrates how AI agents can access validated Modelica-based models, execute simulations, and incorporate physics-based results into broader engineering workflows and decision-making processes.
  
