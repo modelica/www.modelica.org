@@ -33,7 +33,14 @@ issued on <!-- TODO: issue date -->
 ## Modelica Association
 
 <!-- TODO: news from the Modelica Association and its projects (FMI, SSP, DCP, eFMI, ...) -->
+### Final Review of ITEA Project OpenSCALING
 
+[ITEA project OpenSCALING](https://openscaling.org/) impressed the reviewers with break-through innovations and broad tool support for enhanced MA standards.
+
+On 12 November 2027, the OpenSCALING consortium presented their project outcomes at the final ITEA review. Ten industrial applications covering the energy, aviation, automotive and buildings sectors illustrated the key achievements of the work packages: large-scale system modeling, PenODEs (Physics-enhanced neural ODEs), uncertainty quantification and credible workflows. Breakthrough innovations for the more efficient translation of Modelica models were achieved by, for example, keeping the translation effort independent of array size and allowing arrays to be resized after translation - 
+resulting in drastically reduced translation time and more flexible FMI models. This pushes the limits of model size by orders of magnitude in terms of the number of states and equations. Additionally, speed-ups in the range of 12-820 times faster simulations where achieved with PenODEs. New Modelica tools executed in the browser overcome the limitations of web-applications for system configuration, sizing and evaluation. 
+
+A new (draft) layered standard LS-VVUQ (Verification, Validation and Uncertainty Quantification), applicable to FMI, SSP and the Modelica language, is proposed. It has been, for example, demonstrated using a drive-in-the-loop truck simulator that uses the conveyed credibility metadata to assess the trustworthiness of real-time simulations. Commercial and open-source tools already support LS-VVUQ and its integration into the credible simulation process. 
 <!-- END Modelica Association -->
 
 {{<rawhtml>}}
