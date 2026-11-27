@@ -46,7 +46,7 @@ In this spirit, my Christmas wish is that many of you are going to surprise me w
 
 Have a wonderful advent season!
 
-Dirk Zimmer on Novemeber 26, 2026 \
+Dirk Zimmer on November 26, 2026 \
 *Chair of the Modelica Association*
 
 {{<rawhtml>}}
@@ -156,7 +156,7 @@ Also included are examples show-casing the WIT definitions, using Rust, C and WA
 
 First prototypes are already in development and used to evaluate and benchmark the different concepts that are being discussed.
 
-*This article is provided by the FMI Project*
+*This article is provided by Christian Bertsch for the [FMI Project](https://fmi-standard.org/)*
 
 ### eFMI® Project News
 
@@ -232,7 +232,7 @@ Participants will also gain practical knowledge through hands-on training led by
 
 Explore the growing agenda and secure your spot on the [Modelon Innovate website.](https://www.modelon.com/innovate-2027/) 
 
-*This article is provided by Lauren Caris at Modelon.*
+*This article is provided by Lauren Caris ([Modelon](https://modelon.com/))*
 
 ### American Modelica & FMI Conference 2026: a report from Atlanta
 
@@ -282,13 +282,15 @@ Modelon also introduced the **Modelon AI Connector**, which enables external AI 
  
 Together, these capabilities represent an important step toward combining generative AI with high-fidelity, Modelica-based simulation to support faster and more informed engineering decisions. [Learn more and watch the videos.](https://www.modelon.com/blog/physics-for-every-engineer-key-takeaways-from-modelons-capital-markets-day-2026/)
 
+*This article is provided by Lauren Caris ([Modelon](https://modelon.com/))*
+
 ### Modelon and SimetrixDT Expand Access to Data Center Simulation in Australia and New Zealand
 
 Modelon has entered a value-added reseller agreement with [Simetrix Digital Technologies](https://www.simetrixdt.com/) (SimetrixDT) to expand access to advanced system simulation solutions for the rapidly growing data center market in Australia and New Zealand. As AI adoption drives increased power densities and greater demands on cooling, energy efficiency, and reliability, simulation is playing an increasingly important role in data center design and operations. 
 
 Through the [partnership](https://www.modelon.com/blog/modelon-and-simetrixdt-expand-access-to-data-center-simulation-in-australia-and-new-zealand/), SimetrixDT will offer Modelon’s simulation portfolio, including Modelon Impact and the [Modelon Data Center Library](https://www.modelon.com/blog/introducing-the-data-center-library-for-modelon-impact/), which provides validated Modelica-based models for data center cooling, thermal management, and infrastructure systems. The library enables engineering teams to evaluate designs, optimize performance, test control strategies, and support digital twin workflows throughout the facility lifecycle.
 
-*This article is provided by Lauren Caris, [Modelon](https://modelon.com/)*
+*This article is provided by Lauren Caris ([Modelon](https://modelon.com/))*
 
 ### Dymola 2027x
 
@@ -357,7 +359,7 @@ TECHNIA has released the first version of its MCP server for Dymola. Any AI assi
 
 Contact [David Briant](mailto:david.briant@technia.com) or visit the [TECHNIA Dymola MCP page](https://www.technia.com/en/mbse/software/dymola-mcp-server/) for a demonstration or trial.
 
-*This article is provided by David Briant (TECHNIA)*
+*This article is provided by David Briant ([TECHNIA](https://www.technia.com/))*
 
 ### OpenModelica 1.28.0 in Preparation
 
@@ -488,7 +490,7 @@ Each video combines conceptual, slide-based explanations with hands-on code walk
 
 Explore the complete series on the [Simulation Workshop YouTube Channel](https://www.youtube.com/@simulationworkshop)
 
-*This article is shared by [Vaisakh T V](https://www.linkedin.com/in/vaisakh-t-v-4a3505112/).*
+*This article is provided by [Vaisakh T V](https://www.linkedin.com/in/vaisakh-t-v-4a3505112/)*
 
 ### AI-Assistend Chiller Optimization for Data Center Cooling
 
@@ -496,6 +498,6 @@ How can AI help identify more efficient operating points without compromising sy
 
 The example highlights how [combining AI with validated, Modelica-based system models](https://www.modelon.com/blog/data-center-chiller-setpoint-optimization-using-ai-and-physics-based-simulation/) can help engineers interpret large simulation datasets, explore operating strategies more efficiently, and make better-informed decisions. For engineers working with complex thermal management systems, the article provides a practical look at how AI can augment, rather than replace, engineering judgment in simulation-driven design and optimization workflows.
 
-*This article is provided by Lauren Caris, [Modelon](https://modelon.com/)*
+*This article is provided by Lauren Caris ([Modelon](https://modelon.com/))*
 
 <!-- END Education news -->
