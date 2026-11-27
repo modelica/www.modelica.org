@@ -318,7 +318,8 @@ The library supports a range of applications, from cell and stack design and opt
 
 *This article is provided by Claas Heckel ([Dassault Systèmes Deutschland GmbH](https://www.3ds.com/))*
 
-**Xcelerate26: SimulationX User Event Explores AI-Enhanced Engineering Workflows**
+### Xcelerate26: SimulationX User Event Explores AI-Enhanced Engineering Workflows
+
 The SimulationX user community met on 11 November 2026 at Keysight Technologies in Böblingen, Germany, for [Xcelerate26](https://www.xpincorporated.com/xcelerate26), a user event organized with XPI. The event brought together SimulationX users, partners and engineering experts to exchange experiences, explore application developments and discuss the future direction of system simulation.
 
 A key contribution from Keysight Technologies was the session SimulationX 2026 – New Features and Development Roadmap, which presented recent platform enhancements and provided an outlook on the planned developments for SimulationX 2027. Particular attention was given to the integration of Artificial Intelligence into engineering workflows.
@@ -448,6 +449,7 @@ Questions and feedback are welcome at [contact@ode.plus](mailto:contact@ode.plus
 
 <!-- END Vendor news -->
 
+<!-- No news from libraries
 {{<rawhtml>}}
 <div class="masthead-followup-icon d-inline-block mt-5">
     <i class="fa-solid fa-book" style="font-size:50px"></i>
@@ -455,10 +457,7 @@ Questions and feedback are welcome at [contact@ode.plus](mailto:contact@ode.plus
 {{</rawhtml>}}
 
 ## News from libraries
-
-<!-- TODO: News from libraries -->
-
-<!-- END News from libraries -->
+-->
 
 {{<rawhtml>}}
 <div class="masthead-followup-icon d-inline-block mt-5">
@@ -487,5 +486,7 @@ Explore the complete series on the [Simulation Workshop YouTube Channel](https:/
 How can AI help identify more efficient operating points without compromising system performance? In a recent demonstration, Modelon used agentic AI together with physics-based simulation to optimize the chiller setpoint of a 1 MW data center cooling plant equipped with a waterside economizer. Rather than relying solely on simulation outputs, the AI Agent evaluated results from multiple parametric studies, identified energy-saving opportunities, and detected operational tradeoffs that could have been overlooked when reviewing numerical results alone. 
 
 The example highlights how [combining AI with validated, Modelica-based system models](https://www.modelon.com/blog/data-center-chiller-setpoint-optimization-using-ai-and-physics-based-simulation/) can help engineers interpret large simulation datasets, explore operating strategies more efficiently, and make better-informed decisions. For engineers working with complex thermal management systems, the article provides a practical look at how AI can augment, rather than replace, engineering judgment in simulation-driven design and optimization workflows.
+
+*This article is provided by Lauren Caris, [Modelon](https://modelon.com/)*
 
 <!-- END Education news -->
