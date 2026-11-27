@@ -122,7 +122,7 @@ Summary: In addition to the continuous states of FMI 3.0 Model Exchange, this la
 Key features:
 *   A layered standard manifest stored inside the FMU at /extra/org.fmi-standard.fmi-ls-dae/fmi-ls-manifest.xml, defined by the XML schema fmi3LayeredStandardDaeManifest.xsd.
     Declaration of the algebraic variables and of the residual equations of the DAE in the manifest, together with the model structure and the dependencies of outputs, continuous state derivatives, event indicators and residuals. The dependency information preserves the sparsity of the DAE system, which is lost in the corresponding reduced ODE system.
-*     A structural parameter enableDAEModeParameter that switches the FMU between ODE mode and DAE mode. An FMU implementing this layered standard is at the same time a valid FMI 3.0 Model Exchange ODE FMU and defaults to ODE mode, so that importers that do not support this layered standard can use it unchanged.
+*     A structural parameter `enableDAEModeParameter` that switches the FMU between ODE mode and DAE mode. An FMU implementing this layered standard is at the same time a valid FMI 3.0 Model Exchange ODE FMU and defaults to ODE mode, so that importers that do not support this layered standard can use it unchanged.
     No extension of the FMI 3.0 C API is required. Algebraic variables and residuals are exchanged through the existing FMI 3.0 getter and setter functions.
 
 Exporting a model in DAE form addresses a number of long-standing issues:
@@ -134,7 +134,7 @@ Exporting a model in DAE form addresses a number of long-standing issues:
 
 For the full picture please check out the preprint of our paper “Towards an FMI Layered Standard for DAE: Applications for Simulation and Optimization”, presented at the American Modelica and FMI Conference 2026, on arXiv: https://arxiv.org/abs/2606.22544. It also reports successful tests in the following tools: CasADi, Dymola, FMIOPT, fmusim, Simcenter Twin Activate, and MOO (the dynamic optimization tool of OpenModelica).
 
-As an alpha pre-release, the specification is published for review and for prototype implementations, and it is still subject to change before the v1.0.0 release. Known limitations of this version are the restriction to semi-explicit index-1 DAEs, the consistent initialization in DAE mode, and the handling of discontinuities and events, which are not specified yet. Feedback from tool vendors and users is very welcome and is best provided as an issue in the FMI-LS-DAE GitHub repository.
+As an alpha pre-release, the specification is published for review and for prototype implementations, and it is still subject to change before the v1.0.0 release. Known limitations of this version are the restriction to semi-explicit index-1 DAEs, the consistent initialization in DAE mode, and the handling of discontinuities and events, which the working group is actively discussing. Feedback from tool vendors and users is very welcome and is best provided as an issue in the FMI-LS-DAE GitHub repository.
 
 You can inspect the specification of this pre-release here: https://modelica.github.io/fmi-ls-dae/v1.0.0-alpha.1/ and the current development version here: https://modelica.github.io/fmi-ls-dae/main/
 
@@ -267,7 +267,7 @@ Thank you to our hosts, presenters, workshop organizers, reviewers, and sponsors
 ### New Agentic AI Capabilities in Modelon Impact Expand Access to Physics-Based Simulation
 
 Modelon recently introduced new agentic AI capabilities in **Modelon Impact** designed to make physics-based modeling and simulation more accessible, productive, and easier to use. A built-in AI Agent works directly within the simulation environment, helping users create and modify models, troubleshoot issues, set up experiments, run simulations, analyze results, and generate visualizations using natural-language prompts. Rather than simply answering questions, the agent actively participates in engineering workflows, helping users complete simulation tasks faster and with less manual effort.
-To demonstrate these capabilities, Modelon released a video showing the AI Agent in action inside Modelon Impact, where it guides model development, resolves modeling challenges, and assists with simulation and post-processing tasks.
+To demonstrate these capabilities, Modelon released a video showing the AI Agent in action inside Modelon Impact, where it guides model development, resolves modeling challenges, and assists with simulation and post-processing tasks. [Watch the video](https://vimeo.com/1247842510).
 
 Modelon also introduced the **Modelon AI Connector**, which enables external AI agents to interact with Modelon Impact through the Model Context Protocol (MCP). A second video demonstrates how AI agents can access validated Modelica-based models, execute simulations, and incorporate physics-based results into broader engineering workflows and decision-making processes.
  
