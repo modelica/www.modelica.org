@@ -82,7 +82,7 @@ MLQT stays focused on style and static analysis, with no translation or simulati
 
 Installers for Windows and Linux are on the [releases page](https://github.com/mdempse1/MLQT/releases), with documentation alongside. MLQT is MIT-licensed, and feedback and contributions are welcome on [GitHub](https://github.com/mdempse1/MLQT).
 
-*This article is provided by Mike Dempsey ([M Dempsey Ltd](https://dempsey.me.uk/))
+*This article is provided by Mike Dempsey ([M Dempsey Ltd](https://dempsey.me.uk/))*
 
 <!-- END Vendor news -->
 
