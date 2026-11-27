@@ -10,7 +10,7 @@ title: Newsletter 2026-03
 
 # Modelica Association Newsletter 2026-03
 
-issued on <!-- TODO: issue date -->
+issued on November 30, 2026
 
 {{<toc>}}
 
