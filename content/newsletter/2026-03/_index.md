@@ -158,6 +158,8 @@ First prototypes are already in development and used to evaluate and benchmark t
 
 *This article is provided by Christian Bertsch for the [FMI Project](https://fmi-standard.org/)*
 
+---
+
 ### eFMI® Project News
 
 #### eFMI® Standard 1.0.0 Beta 2 released
@@ -382,7 +384,7 @@ You can try this now on the [OpenModelica web playground](https://playground.ope
 
 *This article is provided by Andreas Heuermann for the [OpenModelica](https://openmodelica.org/) project*
 
-### [ODE+](https://www.ode.plus): Buildings Library 14 in the browser, a new look for the MSL and interactive simulation in beta
+### ODE+: Buildings Library 14 in the browser, a new look for the MSL and interactive simulation in beta
 
 In addition to the features described in the [previous issue](https://modelica.org/newsletter/2026-02/), [ODE+](https://www.ode.plus) Component has added the following since August. Details and short videos are in the [ODE+ changelog](https://www.ode.plus/en/changelog).
 
