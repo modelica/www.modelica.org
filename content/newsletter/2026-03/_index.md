@@ -96,6 +96,17 @@ Thank you to our hosts, presenters, workshop organizers, reviewers, and sponsors
 
 ## Education news
 
-<!-- TODO: Education news -->
+### Educational Video Tutorial series on Multi-Domain System Modeling
+
+A new series of video tutorials focused on multi-domain physical system modeling and simulation is now available on YouTube. Created for engineers and students, the channel features standalone ~30-minute tutorials emphasizing thermal-fluid systems and modeling fundamentals.
+
+Each video combines conceptual, slide-based explanations with hands-on code walkthroughs and open-source software demonstrations using OpenModelica. Selected highlights include:
+
+* [**Fluid Properties in Modelica**](https://youtu.be/5SwIYZRZnxo)  : Introduction to Fluid property models, Modelica Media Library and how to perform thermodynamic analysis of steam cycles
+* [**Make a Magnetic Circuit in Modelica**](https://youtu.be/b4B15SDFkzk) : Short demonstration of Modelica Standard Library based simulations to solve standard engineering textbook problems with explanation.
+* [**Modeling Electric Kettle in Modelica**](https://youtu.be/lda62EodEqQ) : Introduction to Multi-domain simulation with interaction between electrical and thermal components.
+
+Explore the complete series on the [Simulation Workshop YouTube Channel](https://www.youtube.com/@simulationworkshop)
+*This article is shared by [Vaisakh T V](https://www.linkedin.com/in/vaisakh-t-v-4a3505112/).*
 
 <!-- END Education news -->
