@@ -66,7 +66,7 @@ issued on <!-- TODO: issue date -->
 Modiator was successfully used as a simulation engine for a responsive web page of Swegon in the [ITEA OpenSCALING](https://openscaling.org/) research project, where it was demonstrated how variants of Air Handling Units could be built up and key performance indicators obtained quickly based on background simulations. The Swegon Web App generates Modelica models on the fly, sends them to Modiator which translates and simulates the models and returns the result. This allows for much greater flexibility, even with regard to causality, than when using pre-defined FMI models. To get a flavor of the possibilities, take a look at the Modiator demos [HVACairHandlingUnit](https://modiator.com/webapps/hvacairhandlingunit/) and
 [CraneCrab3D](https://modiator.com/examples/cranecrab3d/) which were generated with the help of AI, just from the underlying Modelica models.
 
-*This article is provided by [Hilding Elmqvist](mailto:hilding.elmqvist@mogram.net) and [Martin Otter](martin.otter@dlr.de)*
+*This article is provided by [Hilding Elmqvist](mailto:hilding.elmqvist@mogram.net) and [Martin Otter](mailto:martin.otter@dlr.de)*
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
