@@ -209,6 +209,29 @@ Modelon has entered a value-added reseller agreement with [Simetrix Digital Tech
 Through the [partnership](https://www.modelon.com/blog/modelon-and-simetrixdt-expand-access-to-data-center-simulation-in-australia-and-new-zealand/), SimetrixDT will offer Modelon’s simulation portfolio, including Modelon Impact and the [Modelon Data Center Library](https://www.modelon.com/blog/introducing-the-data-center-library-for-modelon-impact/), which provides validated Modelica-based models for data center cooling, thermal management, and infrastructure systems. The library enables engineering teams to evaluate designs, optimize performance, test control strategies, and support digital twin workflows throughout the facility lifecycle.
 
 *This article is provided by Lauren Caris, [Modelon](https://modelon.com/)*
+### Dymola 2027x
+
+![Dymola 2027x](D2027x-small.png)
+
+We are pleased to announce that Dymola 2027x has been released on Friday, 27 November 2026.
+Summary of key features:
+
+**Model development and Simulation**
+- Enhanced simulation summary report
+- FMI enhancements – including support for FMI-LS-DAE
+
+**Model experimentation**
+- Uncertainty Quantification and credibility using SSP layered standard
+
+**Other**
+- Library enhancements - including new Redox Flow Battery Library
+- eFMI support for STM32 / Arm Cortex-M micro-controller eco-system
+- Support for Modelica Language Specification version 3.7
+
+See [latest release](https://www.3ds.com/products/catia/dymola/latest-release) for more details.
+
+*This article is provided by Dan Henriksson ([Dassault Systèmes](https://www.3ds.com/products/catia/dymola))*
+
 <!-- END Vendor news -->
 
 {{<rawhtml>}}
