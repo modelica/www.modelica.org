@@ -78,6 +78,8 @@ All papers from the American Conference are available in the preliminary proceed
 
 The FMI Project is happy to announce the release of the FMI Layered Standard for Structured Data (FMI-LS-STRUCT) v1.0.0.
 
+![FMI-LS-STRCUT v1.0.0 Release](FMI-LS-STRUCT.png)
+
 This is the first release of the FMI Layered Standard for Structured Data (FMI-LS-STRUCT) on top of the FMI 3.0 Standard.
 
 It is focused on the definition of sampled maps:
@@ -107,9 +109,9 @@ Members of the FMI Project will present and demonstrate the latest development o
 
 The FMI Project will present and demonstrate the latest development w.r.t. FMI-LS-BUS in an online event that is open to the public.
 
+![FMI-LS-BUS Online Event](FMI-LS-BUS-event.png)
+
 You can register for free here: https://www.linkedin.com/events/7525648417478361090/
-
-
 
 ##### Pre-Release of FMI Layered Standard for Differential-Algebraic Equations (FMI-LS-DAE) v1.0.0-alpha.1
 
